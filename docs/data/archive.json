@@ -13,21 +13,30 @@
         "category": "international"
       },
       {
-        "title": "SpaceX cleared to fly Starship again after booster failure in May",
-        "translated_title": "SpaceX a obținut aprobarea de a zbura din nou cu Starship după eșecul boosterului în mai",
-        "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
-        "source": "TechCrunch",
-        "published": "2026-07-13T14:19:44+00:00",
-        "summary": "Acesta va fi primul zbor de test al navei spațiale Starship pentru SpaceX ca o companie publică, testând apetitul pieței pentru abordarea companiei \"zbor, eșec, corectare\" în dezvoltarea rachetelor.",
-        "category": "international"
-      },
-      {
         "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
         "translated_title": "LAPD își încheie contractul cu gigantul supravegherii Flock, invocând „îngrijorări serioase” cu privire la libertățile civile și confidențialitate",
         "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
         "source": "TechCrunch",
         "published": "2026-07-13T14:13:38+00:00",
         "summary": "LAPD, unul dintre cei mai mari clienți guvernamentali ai Flock, își încheie contractul cu compania, invocând îngrijorări cu privire la libertățile civile.",
+        "category": "international"
+      },
+      {
+        "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+        "translated_title": "Programul de mașini autonome al Apple a lăsat o moștenire de cipuri AI puternice",
+        "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+        "source": "The Verge",
+        "published": "2026-07-12T16:27:06+00:00",
+        "summary": "Programul de mașini autonome al Apple nu a decolat, dar a putut contribui la crearea de cipuri AI puternice. Apple a realizat că are nevoie de procesare AI puternică pe dispozitiv.",
+        "category": "international"
+      },
+      {
+        "title": "SpaceX cleared to fly Starship again after booster failure in May",
+        "translated_title": "SpaceX a obținut aprobarea de a zbura din nou cu Starship după eșecul boosterului în mai",
+        "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+        "source": "TechCrunch",
+        "published": "2026-07-13T14:19:44+00:00",
+        "summary": "Acesta va fi primul zbor de test al navei spațiale Starship pentru SpaceX ca o companie publică, testând apetitul pieței pentru abordarea companiei \"zbor, eșec, corectare\" în dezvoltarea rachetelor.",
         "category": "international"
       },
       {
@@ -40,30 +49,21 @@
         "category": "international"
       },
       {
-        "title": "This free Mac app reveals the truth about your mystery USB-C cables",
-        "translated_title": "Acest aplicație gratuită pentru Mac revelează adevărul despre cablurile dvs. USB-C misterioase",
-        "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+        "title": "The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100",
+        "translated_title": "Tableta de gaming Asus ROG Flow Z13 cu 64GB RAM, la prețul de 2.100 dolari",
+        "url": "https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale",
         "source": "The Verge",
-        "published": "2026-07-13T10:00:00+00:00",
-        "summary": "Există o aplicație gratuită pentru Mac care poate verifica cablurile USB-C. Aplicația arată dacă cablul este rapid, lent, puternic sau slab.",
+        "published": "2026-07-13T14:52:14+00:00",
+        "summary": "Prețul tabletei de gaming Asus ROG Flow Z13 a scăzut recent, fiind acum disponibilă la 2.100 dolari.",
         "category": "international"
       },
       {
-        "title": "Waze is getting a bunch of new AI-powered features",
-        "translated_title": "Waze primește o serie de funcții noi bazate pe inteligență artificială",
-        "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-        "source": "The Verge",
-        "published": "2026-07-13T09:00:00+00:00",
-        "summary": "Waze va integra asistentul Gemini, permițând utilizatorilor să personalizeze călătoriile și să primească sugestii de navigare mai precise.",
-        "category": "international"
-      },
-      {
-        "title": "Waze adds new AI-powered features and customization updates",
-        "translated_title": "Waze adaugă funcții noi bazate pe inteligență artificială și actualizări de personalizare",
-        "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+        "title": "TechCrunch Mobility: A robotaxi ultimatum",
+        "translated_title": "TechCrunch Mobility: un ultimatum pentru robotaxi",
+        "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
         "source": "TechCrunch",
-        "published": "2026-07-13T14:18:16+00:00",
-        "summary": "Unele dintre noile funcții sunt alimentate de asistentul AI Gemini al Google, reflectând eforturile mai ample ale gigantului tech de a integra Gemini în produsele sale.",
+        "published": "2026-07-12T16:07:00+00:00",
+        "summary": "TechCrunch Mobility este un hub pentru viitorul transportului și impactul inteligenței artificiale asupra acestuia.",
         "category": "international"
       },
       {
@@ -94,48 +94,48 @@
         "category": "international"
       },
       {
-        "title": "The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100",
-        "translated_title": "Tableta de gaming Asus ROG Flow Z13 cu 64GB RAM, la prețul de 2.100 dolari",
-        "url": "https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale",
+        "title": "Waze beneficiază de o actualizare majoră, prin implementarea inteligenței artificiale de la Google",
+        "translated_title": "Waze beneficiază de o actualizare majoră, prin implementarea inteligenței artificiale de la Google",
+        "url": "https://www.go4it.ro/content/aplicatii/waze-beneficiaza-de-o-actualizare-majora-prin-implementarea-inteligentei-artificiale-de-la-google-19279071/",
+        "source": "Go4IT",
+        "published": "2026-07-13T15:03:36.998016+00:00",
+        "summary": "Aplicația de navigație Waze va beneficia de inteligență artificială Gemini de la Google, oferind funcții noi.",
+        "category": "romanian"
+      },
+      {
+        "title": "Utilizatorii Waze pot folosi ajutorul Gemini pentru sugestii de navigare personalizate și analize mai precise ale condițiilor de trafic",
+        "translated_title": "Utilizatorii Waze pot folosi ajutorul Gemini pentru sugestii de navigare personalizate și analize mai precise ale condițiilor de trafic",
+        "url": "https://zonait.ro/waze-gemini/",
+        "source": "Zona IT",
+        "published": "2026-07-13T12:13:27+00:00",
+        "summary": "Waze va integra asistentul Gemini, permițând utilizatorilor să primească sugestii de navigare personalizate și analize mai precise ale condițiilor de trafic.",
+        "category": "romanian"
+      },
+      {
+        "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
+        "translated_title": "Chiar șeful departamentului de automotive de la Nvidia se luptă cu Nvidia pentru computație",
+        "url": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
         "source": "The Verge",
-        "published": "2026-07-13T14:52:14+00:00",
-        "summary": "Prețul tabletei de gaming Asus ROG Flow Z13 a scăzut recent, fiind acum disponibilă la 2.100 dolari.",
+        "published": "2026-07-13T15:00:00+00:00",
+        "summary": "Xinzhou Wu, șeful departamentului de automotive de la Nvidia, discută despre companie și rolul său în industria AI.",
         "category": "international"
       },
       {
-        "title": "Turla, arma secretă a Rusiei în războiul cibernetic. România, vizată de operațiuni de spionaj",
-        "translated_title": "Turla, arma secretă a Rusiei în războiul cibernetic. România, vizată de operațiuni de spionaj",
-        "url": "https://playtech.ro/2026/turla-arma-secreta-a-rusiei-in-razboiul-cibernetic-romania-vizata-de-operatiuni-de-spionaj/",
-        "source": "Playtech",
-        "published": "2026-07-13T13:45:19+00:00",
-        "summary": "",
+        "title": "Comisia Europeană taie accesul minorilor sub 13 ani pe rețele de socializare. Acces controlat până la vârsta majoratului",
+        "translated_title": "Comisia Europeană taie accesul minorilor sub 13 ani pe rețele de socializare. Acces controlat până la vârsta majoratului",
+        "url": "https://zonait.ro/varsta-retele-de-socializare/",
+        "source": "Zona IT",
+        "published": "2026-07-13T15:01:42+00:00",
+        "summary": "Comisia Europeană propune interzicerea accesului pe rețele de socializare pentru copiii sub 13 ani și introducerea unui mecanism de acces treptat pentru adolescenți.",
         "category": "romanian"
       },
       {
-        "title": "UE cere modificări pentru Instagram și Facebook din cauza funcțiilor considerate dependente",
-        "translated_title": "UE cere modificări pentru Instagram și Facebook din cauza funcțiilor considerate dependente",
-        "url": "https://start-up.ro/ue-cere-modificari-pentru-instagram-si-facebook-din-cauza-functiilor-considerate-dependente/",
-        "source": "start-up.ro",
-        "published": "2026-07-13T11:03:06+00:00",
-        "summary": "Comisia Europeană a concluzionat că Meta încalcă prevederile Digital Services Act prin modul în care sunt proiectate Instagram și Facebook.",
-        "category": "romanian"
-      },
-      {
-        "title": "Comisia Europeană vrea să restricționeze accesul copiilor pe rețelele sociale din toamnă",
-        "translated_title": "Comisia Europeană vrea să restricționeze accesul copiilor pe rețelele sociale din toamnă",
-        "url": "https://www.go4it.ro/content/social-media/comisia-europeana-vrea-sa-restrictioneze-accesul-copiilor-pe-retelele-sociale-din-toamna-19279081/",
+        "title": "Motivul pentru care Apple ar renunța la variantele Pro și Max ale cipului M6",
+        "translated_title": "Motivul pentru care Apple ar renunța la variantele Pro și Max ale cipului M6",
+        "url": "https://www.go4it.ro/content/componente-pc/motivul-pentru-care-apple-ar-renunta-la-variantele-pro-si-max-ale-cipului-m6-19279060/",
         "source": "Go4IT",
-        "published": "2026-07-13T14:55:41.948402+00:00",
-        "summary": "Comisia Europeană pregătește o propunere legislativă pentru a limita accesul copiilor la rețelele sociale, începând cu această toamnă.",
-        "category": "romanian"
-      },
-      {
-        "title": "Datele bancare ale clienților Lidl, expuse în urma unei breșe de securitate la un furnizor terț",
-        "translated_title": "Datele bancare ale clienților Lidl, expuse în urma unei breșe de securitate la un furnizor terț",
-        "url": "https://www.go4it.ro/securitate-informatica/datele-bancare-ale-clientilor-lidl-expuse-in-urma-unei-brese-de-securitate-la-un-furnizor-tert-19279077/",
-        "source": "Go4IT",
-        "published": "2026-07-13T14:55:41.949513+00:00",
-        "summary": "Lanțul de supermarketuri Lidl a notificat clienții din Belgia, Germania și Țările de Jos cu privire la o breșă de securitate care a afectat informațiile lor personale.",
+        "published": "2026-07-13T15:03:36.998016+00:00",
+        "summary": "Apple ar putea renunța la variantele Pro și Max ale cipului M6, urmând să lanseze doar un cip M6 standard.",
         "category": "romanian"
       }
     ]

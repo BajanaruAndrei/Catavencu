@@ -2,6 +2,7 @@ import feedparser
 import time
 import html
 import requests
+import string
 from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
 import difflib
@@ -43,19 +44,55 @@ def obtine_data_utc(entry):
     # Fallback pe data curentă dacă nu poate fi determinată
     return datetime.now(timezone.utc)
 
-def are_similaritate(titlu1, titlu2, prag=0.6):
+def normalizeaza_titlu(titlu):
     """
-    Verifică dacă două titluri sunt similare peste un prag folosind SequenceMatcher.
+    Normalizează titlul: trece în lowercase, elimină punctuația
+    și elimină cuvintele de umplutură uzuale (engleză și română).
     """
-    t1 = titlu1.lower().strip()
-    t2 = titlu2.lower().strip()
-    similitudine = difflib.SequenceMatcher(None, t1, t2).ratio()
-    return similitudine >= prag
+    t = titlu.lower()
+    t = t.translate(str.maketrans('', '', string.punctuation))
+    cuvinte_umplutura = {
+        # Engleză
+        "a", "an", "the", "and", "or", "but", "in", "on", "at", "for", "with", "to", "is", "are", 
+        "was", "were", "of", "about", "by", "from", "that", "this", "these", "those", "it", "its", "new",
+        "why", "how", "what", "where", "who", "when", "which", "out", "not", "dont", "best", "will", "more", "arent",
+        # Română
+        "o", "un", "unui", "unei", "si", "sau", "dar", "in", "pe", "la", "pentru", "cu", "de", "din", 
+        "este", "sunt", "era", "erau", "ca", "sa", "acest", "aceasta", "acele", "aceste", "lui", "nou",
+        "cel", "mai", "mare", "care", "cum", "ce", "cine", "cand", "unde", "fost", "prin", "daca", "fara", 
+        "mult", "multi", "multe", "tot", "toti", "toate", "dupa", "cumpara", "pret", "lei", "euro"
+    }
+    cuvinte = t.split()
+    return [w for w in cuvinte if w not in cuvinte_umplutura and len(w) > 2]
+
+def verifica_duplicat(art1, art2, prag=0.6):
+    """
+    Verifică dacă două articole sunt duplicate din punct de vedere algoritmic.
+    Întoarce (True, motiv) dacă sunt duplicate, altfel (False, "").
+    """
+    t1_norm = normalizeaza_titlu(art1["title"])
+    t2_norm = normalizeaza_titlu(art2["title"])
+    
+    # 1. Comparare SequenceMatcher pe titlurile normalizate
+    norm1 = " ".join(t1_norm)
+    norm2 = " ".join(t2_norm)
+    similitudine = difflib.SequenceMatcher(None, norm1, norm2).ratio()
+    if similitudine >= prag:
+        return True, f"similaritate fuzzy ({similitudine:.2f} >= {prag})"
+        
+    # 2. Verificare dacă au în comun 3 sau mai multe cuvinte-cheie semnificative
+    set1 = set(t1_norm)
+    set2 = set(t2_norm)
+    cuvinte_comune = set1.intersection(set2)
+    if len(cuvinte_comune) >= 3:
+        return True, f"au în comun {len(cuvinte_comune)} cuvinte-cheie: {list(cuvinte_comune)}"
+        
+    return False, ""
 
 def descarca_si_filtreaza_stiri(config):
     """
     Descarcă feed-urile RSS configurate și filtrează articolele din ultimele ore configurate.
-    Deduplică titlurile foarte similare, dar nu limitează totalul sau per sursă în acest pas.
+    Deduplică titlurile foarte similare respectând prioritatea surselor.
     """
     prag_similitudine = config.get("settings", {}).get("similarity_threshold", 0.6)
     ore_vechime = config.get("settings", {}).get("ore_vechime", 24)
@@ -132,18 +169,31 @@ def descarca_si_filtreaza_stiri(config):
         except Exception as e:
             logging.warning(f"Eroare sau timeout la descărcarea feed-ului '{nume_sursa}': {e}. Se continuă cu restul surselor.")
 
-    # 3. Deduplicare titluri (comparând similaritatea titlurilor)
-    # Procesăm în ordinea colectării (cronologic sau cum vin)
+    # 3. Deduplicare articole respectând prioritatea surselor din config.yaml
+    prioritate_surse = {}
+    idx = 0
+    for grup in ["international", "romanian"]:
+        for s in surse.get(grup, []):
+            prioritate_surse[s.get("name")] = idx
+            idx += 1
+            
+    # Sortăm articolele în funcție de ordinea sursei în config (index mai mic = prioritate mai mare)
+    stiri_sortate = sorted(stiri_colectate, key=lambda x: prioritate_surse.get(x["source"], 999))
+    
     articole_deduplicate = []
-    for art in stiri_colectate:
+    for art in stiri_sortate:
         este_duplicat = False
         for acc in articole_deduplicate:
-            if are_similaritate(art["title"], acc["title"], prag_similitudine):
+            dub, motiv = verifica_duplicat(art, acc, prag_similitudine)
+            if dub:
                 este_duplicat = True
-                logging.info(f"Articol ignorat ca duplicat: '{art['title']}' (similar cu '{acc['title']}')")
+                logging.info(
+                    f"Articol eliminat ca duplicat: '{art['title']}' ({art['source']}) "
+                    f"-> similar cu '{acc['title']}' ({acc['source']}) din cauza: {motiv}"
+                )
                 break
         if not este_duplicat:
             articole_deduplicate.append(art)
             
-    logging.info(f"Total știri colectate și deduplicate în brut: {len(articole_deduplicate)}")
+    logging.info(f"Total știri colectate și deduplicate: {len(articole_deduplicate)}")
     return articole_deduplicate

@@ -92,8 +92,9 @@ Criterii de importanță:
 Articole de ordonat (în format JSON):
 {json.dumps(stiri_compacte, ensure_ascii=False, indent=2)}
 
-Regulă anti-halucinare strictă:
-Răspunsul tău trebuie să conțină o listă JSON numită 'ordered_ids' cu ID-urile articolelor ordonate descrescător după importanță. Returnează EXCLUSIV lista de ID-uri ordonate (de exemplu: [5, 1, 12, ...]). NU rescrie titluri, NU inventa articole, NU adăuga nimic. Dacă un ID din listă nu este valid sau nu corespunde unei știri, ignoră-l. Răspunsul trebuie să fie strict JSON.
+Regulă anti-halucinare și deduplicare semantică strictă:
+1. Dacă mai multe articole relatează ACELAȘI eveniment (chiar dacă titlurile diferă), păstrează în listă DOAR ID-ul celui mai complet/relevant și omite-le pe celelalte.
+2. Răspunsul tău trebuie să conțină o listă JSON numită 'ordered_ids' cu ID-urile articolelor ordonate descrescător după importanță. Returnează EXCLUSIV lista de ID-uri ordonate (de exemplu: [5, 1, 12, ...]). NU rescrie titluri, NU inventa articole, NU adăuga nimic. Dacă un ID din listă nu este valid sau nu corespunde unei știri, ignoră-l. Răspunsul trebuie să fie strict JSON.
 """
 
     ordered_ids = []
