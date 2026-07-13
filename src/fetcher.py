@@ -1,6 +1,7 @@
 import feedparser
 import time
 import html
+import requests
 from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
 import difflib
@@ -44,7 +45,7 @@ def obtine_data_utc(entry):
 
 def are_similaritate(titlu1, titlu2, prag=0.6):
     """
-    Verifică dacă două titluri sunt similare peste un sau sub un prag folosind SequenceMatcher.
+    Verifică dacă două titluri sunt similare peste un prag folosind SequenceMatcher.
     """
     t1 = titlu1.lower().strip()
     t2 = titlu2.lower().strip()
@@ -53,20 +54,22 @@ def are_similaritate(titlu1, titlu2, prag=0.6):
 
 def descarca_si_filtreaza_stiri(config):
     """
-    Descarcă feed-urile RSS configurate, filtrează articolele din ultimele 24 de ore,
-    limitează articolele la maximum 4 per sursă, le deduplică și le returnează
+    Descarcă feed-urile RSS configurate, filtrează articolele din ultimele ore configurate,
+    limitează articolele la maximum configurat per sursă, le deduplică și le returnează
     organizate în internaționale și românești.
     """
-    max_stiri = config.get("settings", {}).get("max_news", 15)
+    # Parametri configurabili din config.yaml
+    max_stiri = config.get("settings", {}).get("max_stiri_total", 20)
     prag_similitudine = config.get("settings", {}).get("similarity_threshold", 0.6)
-    max_per_sursa = config.get("settings", {}).get("max_news_per_source", 4)
+    max_per_sursa = config.get("settings", {}).get("max_per_sursa", 4)
+    ore_vechime = config.get("settings", {}).get("ore_vechime", 24)
     
     surse = config.get("sources", {})
     stiri_internationale = []
     stiri_romanesti = []
     
     acum = datetime.now(timezone.utc)
-    limita_timp = acum - timedelta(hours=24)
+    limita_timp = acum - timedelta(hours=ore_vechime)
     
     # 1. Descarcă feed-urile internaționale
     for sursa in surse.get("international", []):
@@ -76,15 +79,19 @@ def descarca_si_filtreaza_stiri(config):
         
         numar_articole_sursa = 0
         try:
-            feed = feedparser.parse(url_sursa)
+            # Descarcă feed-ul cu un timeout de 10 secunde folosind requests
+            r = requests.get(url_sursa, timeout=10, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) TechDigestAggregator'})
+            if r.status_code != 200:
+                logging.warning(f"Sursa '{nume_sursa}' a returnat codul HTTP {r.status_code}. Se trece mai departe.")
+                continue
+                
+            feed = feedparser.parse(r.content)
             for entry in feed.entries:
                 if numar_articole_sursa >= max_per_sursa:
-                    logging.info(f"S-a atins limita de {max_per_sursa} știri pentru sursa {nume_sursa}.")
                     break
                     
                 data_pub = obtine_data_utc(entry)
                 if data_pub >= limita_timp:
-                    # Aplicăm html.unescape pe titlu și conținut pentru a rezolva entitățile precum &#8217;
                     titlu_raw = entry.get("title", "")
                     titlu_unescaped = html.unescape(titlu_raw)
                     
@@ -100,8 +107,9 @@ def descarca_si_filtreaza_stiri(config):
                         "category": "international"
                     })
                     numar_articole_sursa += 1
+            logging.info(f"Sursa '{nume_sursa}' a returnat {numar_articole_sursa} articole valide în ultimele {ore_vechime} ore.")
         except Exception as e:
-            logging.error(f"Eroare la descărcarea feed-ului {nume_sursa}: {e}")
+            logging.warning(f"Eroare sau timeout la descărcarea feed-ului '{nume_sursa}': {e}. Se continuă cu restul surselor.")
 
     # 2. Descarcă feed-urile românești
     for sursa in surse.get("romanian", []):
@@ -111,10 +119,15 @@ def descarca_si_filtreaza_stiri(config):
         
         numar_articole_sursa = 0
         try:
-            feed = feedparser.parse(url_sursa)
+            # Descarcă feed-ul cu un timeout de 10 secunde folosind requests
+            r = requests.get(url_sursa, timeout=10, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) TechDigestAggregator'})
+            if r.status_code != 200:
+                logging.warning(f"Sursa '{nume_sursa}' a returnat codul HTTP {r.status_code}. Se trece mai departe.")
+                continue
+                
+            feed = feedparser.parse(r.content)
             for entry in feed.entries:
                 if numar_articole_sursa >= max_per_sursa:
-                    logging.info(f"S-a atins limita de {max_per_sursa} știri pentru sursa {nume_sursa}.")
                     break
                     
                 data_pub = obtine_data_utc(entry)
@@ -134,8 +147,9 @@ def descarca_si_filtreaza_stiri(config):
                         "category": "romanian"
                     })
                     numar_articole_sursa += 1
+            logging.info(f"Sursa '{nume_sursa}' a returnat {numar_articole_sursa} articole valide în ultimele {ore_vechime} ore.")
         except Exception as e:
-            logging.error(f"Eroare la descărcarea feed-ului {nume_sursa}: {e}")
+            logging.warning(f"Eroare sau timeout la descărcarea feed-ului '{nume_sursa}': {e}. Se continuă cu restul surselor.")
 
     # 3. Deduplicare articole
     # Procesăm întâi cele internaționale (prioritate mare), apoi cele românești
@@ -162,13 +176,12 @@ def descarca_si_filtreaza_stiri(config):
     adauga_cu_deduplicare(stiri_romanesti)
     
     # Separăm știrile finale acceptate
-    # Limita totală este max_stiri (de exemplu 15)
-    # Păstrăm ordinea: întâi internaționale, apoi românești, până la limita maximă
+    # Limita totală este max_stiri (de exemplu 20)
     stiri_int_finale = articole_acceptate[:index_int]
     stiri_ro_finale = articole_acceptate[index_int:]
     
     # Reasamblăm limitând la numărul maxim cerut
     stiri_finale = (stiri_int_finale + stiri_ro_finale)[:max_stiri]
     
-    logging.info(f"Total știri colectate și filtrate după deduplicare și limitare pe sursă: {len(stiri_finale)}")
+    logging.info(f"Total știri colectate după deduplicare și limitare pe sursă: {len(stiri_finale)}")
     return stiri_finale

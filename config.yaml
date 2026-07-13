@@ -7,9 +7,10 @@ groq:
   temperature: 0.2
 
 settings:
-  max_news: 15
+  max_stiri_total: 20
   similarity_threshold: 0.6
-  max_news_per_source: 4
+  max_per_sursa: 4
+  ore_vechime: 24
 
 sources:
   international:
@@ -23,6 +24,10 @@ sources:
       url: "https://hnrss.org/frontpage"
     - name: "MIT Technology Review"
       url: "https://www.technologyreview.com/feed/"
+    - name: "Wired"
+      url: "https://www.wired.com/feed/rss"
+    - name: "Engadget"
+      url: "https://www.engadget.com/rss.xml"
   romanian:
     - name: "Zona IT"
       url: "https://zonait.ro/feed/"
@@ -30,3 +35,11 @@ sources:
       url: "https://playtech.ro/feed"
     - name: "start-up.ro"
       url: "https://start-up.ro/feed"
+    - name: "Go4IT"
+      url: "https://www.go4it.ro/rss/"
+    - name: "Gadget.ro"
+      url: "https://www.gadget.ro/feed/"
+    - name: "Arena IT"
+      url: "https://www.arenait.ro/feed"
+    - name: "Nwradu Blog"
+      url: "https://www.nwradu.ro/feed/"
