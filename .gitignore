@@ -1,0 +1,24 @@
+# Mediu local
+.env
+docs/data/cache.json
+
+# Python caching și fișiere compilate
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE-uri și configurări editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Altele
+.DS_Store

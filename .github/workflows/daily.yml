@@ -1,0 +1,51 @@
+name: TechDigest Daily Aggregator
+
+on:
+  schedule:
+    # Ora de vară în România (EEST, UTC+3) -> Ora locală 07:00 este 04:00 UTC (ACTIV)
+    - cron: '0 4 * * *'
+    # Ora de iarnă în România (EET, UTC+2) -> Ora locală 07:00 este 05:00 UTC (INACTIV, decomentează când se trece la ora de iarnă)
+    # - cron: '0 5 * * *'
+  workflow_dispatch: # Permite declanșarea manuală din interfața GitHub Actions pentru teste
+
+permissions:
+  contents: write # Necesar pentru a putea face commit și push în folderul docs/
+
+jobs:
+  run-aggregator:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip' # Utilizează caching automat pentru pip pentru accelerarea rulărilor
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run main aggregator
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python src/main.py
+
+      - name: Commit and push site updates
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/
+          if git diff --staged --quiet; then
+            echo "Nicio modificare de salvat."
+          else
+            git commit -m "Auto: actualizare digest zilnic $(date +'%Y-%m-%d')"
+            git push origin HEAD:${{ github.ref }}
+          fi

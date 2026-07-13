@@ -1,0 +1,143 @@
+[
+  {
+    "date": "2026-07-13",
+    "date_formatted": "13 Iulie 2026",
+    "news": [
+      {
+        "title": "This free Mac app reveals the truth about your mystery USB-C cables",
+        "translated_title": "Acest aplicație gratuită pentru Mac revelează adevărul despre cablurile dvs. USB-C misterioase",
+        "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+        "source": "The Verge",
+        "published": "2026-07-13T10:00:00+00:00",
+        "summary": "Există o aplicație gratuită pentru Mac care poate verifica cablurile USB-C. Aplicația arată dacă cablul este rapid, lent, puternic sau slab.",
+        "category": "international"
+      },
+      {
+        "title": "Social media limits are coming for teens across Europe",
+        "translated_title": "Limite pentru rețelele de socializare vin pentru adolescenții din Europa",
+        "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+        "source": "The Verge",
+        "published": "2026-07-13T09:22:52+00:00",
+        "summary": "Uniunea Europeană intenționează să impună restricții noi și stricte pentru accesul copiilor și adolescenților la rețelele de socializare.",
+        "category": "international"
+      },
+      {
+        "title": "Waze is getting a bunch of new AI-powered features",
+        "translated_title": "Waze primește o serie de funcții noi bazate pe inteligență artificială",
+        "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+        "source": "The Verge",
+        "published": "2026-07-13T09:00:00+00:00",
+        "summary": "Waze va integra asistentul Gemini, permițând utilizatorilor să personalizeze călătoriile și să primească sugestii de navigare mai precise.",
+        "category": "international"
+      },
+      {
+        "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+        "translated_title": "Lorde spune că ochelarii Ray-Ban Meta AI nu sunt „sexy\"",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+        "source": "The Verge",
+        "published": "2026-07-12T20:10:19+00:00",
+        "summary": "Lorde a criticat ochelarii inteligenți AI, sugerând că aceștia nu sunt atractivi.",
+        "category": "international"
+      },
+      {
+        "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+        "translated_title": "Eforturile de lobby ale Uber pentru robotaxi îi pun pe o traiectorie de coliziune cu Waymo",
+        "url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+        "source": "TechCrunch",
+        "published": "2026-07-13T12:30:00+00:00",
+        "summary": "Uber și Waymo au opinii diferite cu privire la robotaxi, ceea ce duce la un conflict între cele două companii.",
+        "category": "international"
+      },
+      {
+        "title": "TechCrunch Mobility: A robotaxi ultimatum",
+        "translated_title": "TechCrunch Mobility: un ultimatum pentru robotaxi",
+        "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+        "source": "TechCrunch",
+        "published": "2026-07-12T16:07:00+00:00",
+        "summary": "TechCrunch Mobility este un hub pentru viitorul transportului și impactul inteligenței artificiale asupra acestuia.",
+        "category": "international"
+      },
+      {
+        "title": "Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance",
+        "translated_title": "Scurgerea de informații a filmărilor de la drona poliției din San Francisco expune realitatea supravegherii urbane",
+        "url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
+        "source": "Hacker News",
+        "published": "2026-07-13T12:09:38+00:00",
+        "summary": "A fost scursă o înregistrare a dronelor poliției din San Francisco, care arată realitatea supravegherii urbane.",
+        "category": "international"
+      },
+      {
+        "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+        "translated_title": "Prezentare HN: DOM-docx – documente Word editabile din HTML (MIT)",
+        "url": "https://github.com/floodtide/dom-docx",
+        "source": "Hacker News",
+        "published": "2026-07-13T11:51:56+00:00",
+        "summary": "DOM-docx este un proiect care permite crearea de documente Word editabile direct din HTML.",
+        "category": "international"
+      },
+      {
+        "title": "The Download: a donor conception cap and world models for AI",
+        "translated_title": "Descărcarea: o capsulă pentru concepția donatorilor și modele de inteligență artificială pentru lume",
+        "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+        "source": "MIT Technology Review",
+        "published": "2026-07-13T12:10:00+00:00",
+        "summary": "Un articol prezintă o capsulă pentru concepția donatorilor și modele de inteligență artificială pentru lume.",
+        "category": "international"
+      },
+      {
+        "title": "Utilizatorii Waze pot folosi ajutorul Gemini pentru sugestii de navigare personalizate și analize mai precise ale condițiilor de trafic",
+        "translated_title": "Utilizatorii Waze pot folosi ajutorul Gemini pentru sugestii de navigare personalizate și analize mai precise ale condițiilor de trafic",
+        "url": "https://zonait.ro/waze-gemini/",
+        "source": "Zona IT",
+        "published": "2026-07-13T12:13:27+00:00",
+        "summary": "Waze va integra asistentul Gemini, permițând utilizatorilor să primească sugestii de navigare personalizate și analize mai precise ale condițiilor de trafic.",
+        "category": "romanian"
+      },
+      {
+        "title": "Samsung ar putea înlocui Galaxy TriFold lansând priumul smartphone cu ecran rulabil",
+        "translated_title": "Samsung ar putea înlocui Galaxy TriFold cu primul smartphone cu ecran rulabil",
+        "url": "https://zonait.ro/samsung-trifold-rulabil/",
+        "source": "Zona IT",
+        "published": "2026-07-13T10:15:23+00:00",
+        "summary": "Samsung ar putea lansa un nou smartphone cu ecran rulabil, care ar înlocui Galaxy TriFold.",
+        "category": "romanian"
+      },
+      {
+        "title": "Grok uploaded my user directory to xAI's servers",
+        "translated_title": "Grok a încărcat directorul meu de utilizator pe serverele xAI",
+        "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+        "source": "Hacker News",
+        "published": "2026-07-13T13:39:59+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Galaxy Z Flip8 apare cu un design mai suplu și ușor decât modelul actual",
+        "translated_title": "Galaxy Z Flip8 apare cu un design mai suplu și ușor decât modelul actual",
+        "url": "https://zonait.ro/galaxy-z-flip8-specificatii-design/",
+        "source": "Zona IT",
+        "published": "2026-07-13T13:25:38+00:00",
+        "summary": "Galaxy Z Flip8 va avea un design mai subțire și ușor decât predecesorul său, folosind inovații similare cu cele de la Z Fold7.",
+        "category": "romanian"
+      },
+      {
+        "title": "Cum poți ieși la ‘pensie’ la 40 de ani. Strategia financiară urmată de tot mai mulți tineri, cum se aplică în România",
+        "translated_title": "Cum poți ieși la ‘pensie’ la 40 de ani. Strategia financiară urmată de tot mai mulți tineri, cum se aplică în România",
+        "url": "https://playtech.ro/2026/cum-poti-iesi-la-pensie-la-40-de-ani-strategia-financiara-urmata-de-tot-mai-multi-tineri-cum-se-aplica-in-romania/",
+        "source": "Playtech",
+        "published": "2026-07-13T13:05:26+00:00",
+        "summary": "",
+        "category": "romanian"
+      },
+      {
+        "title": "BMW-urile „pirat” ale Rusiei: SUV-uri de 150.000 de euro produse fără acordul mărcii germane",
+        "translated_title": "BMW-urile ‘pirat’ ale Rusiei: SUV-uri de 150.000 de euro produse fără acordul mărcii germane",
+        "url": "https://playtech.ro/2026/bmw-urile-pirat-ale-rusiei-suv-uri-de-150-000-de-euro-produse-fara-acordul-marcii-germane/",
+        "source": "Playtech",
+        "published": "2026-07-13T13:04:29+00:00",
+        "summary": "",
+        "category": "romanian"
+      }
+    ]
+  }
+]

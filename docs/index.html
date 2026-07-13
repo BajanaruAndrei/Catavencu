@@ -1,0 +1,884 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechDigest — Agregator de Știri Tech</title>
+    <meta name="description" content="Rezumatul zilnic al celor mai importante știri din tehnologie, traduse și condensate automat în limba română cu inteligență artificială.">
+    <!-- Google Fonts: Plus Jakarta Sans -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-dark: #0b0f19;
+            --bg-card: rgba(22, 28, 45, 0.7);
+            --bg-nav: rgba(17, 24, 39, 0.85);
+            --border-color: rgba(255, 255, 255, 0.08);
+            --text-main: #f3f4f6;
+            --text-muted: #9ca3af;
+            --accent-gradient: linear-gradient(135deg, #a78bfa 0%, #6366f1 100%);
+            --accent-indigo: #6366f1;
+            --accent-purple: #a78bfa;
+            
+            --badge-int-bg: linear-gradient(135deg, rgba(99, 102, 241, 0.15), rgba(168, 85, 247, 0.15));
+            --badge-int-border: rgba(99, 102, 241, 0.35);
+            --badge-int-text: #c084fc;
+            
+            --badge-ro-bg: linear-gradient(135deg, rgba(239, 68, 68, 0.15), rgba(245, 158, 11, 0.15));
+            --badge-ro-border: rgba(239, 68, 68, 0.35);
+            --badge-ro-text: #f87171;
+            
+            --shadow-card: 0 4px 30px rgba(0, 0, 0, 0.25);
+            --shadow-hover: 0 12px 30px rgba(99, 102, 241, 0.15);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow-x: hidden;
+            background-image: 
+                radial-gradient(circle at 10% 20%, rgba(99, 102, 241, 0.05) 0%, transparent 40%),
+                radial-gradient(circle at 90% 80%, rgba(167, 139, 250, 0.05) 0%, transparent 40%);
+        }
+
+        header.main-header {
+            max-width: 1200px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 2.5rem 1.5rem 1.5rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+        }
+
+        .brand-section {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .brand-logo-title {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .brand-logo {
+            background: var(--accent-gradient);
+            padding: 0.5rem;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 0 20px rgba(99, 102, 241, 0.4);
+        }
+
+        .brand-title {
+            font-size: 2rem;
+            font-weight: 800;
+            letter-spacing: -0.025em;
+            background: var(--accent-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .brand-subtitle {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            max-width: 500px;
+            line-height: 1.5;
+        }
+
+        .header-actions {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .telegram-btn {
+            background: #24A1DE;
+            color: white;
+            text-decoration: none;
+            padding: 0.75rem 1.25rem;
+            border-radius: 12px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            box-shadow: 0 4px 15px rgba(36, 161, 222, 0.3);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .telegram-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(36, 161, 222, 0.45);
+        }
+
+        main.main-content {
+            flex: 1;
+            max-width: 1200px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        /* Zona de Navigare / Tab-uri */
+        .archive-nav-wrapper {
+            overflow-x: auto;
+            scrollbar-width: none; /* Firefox */
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 0.5rem;
+        }
+        
+        .archive-nav-wrapper::-webkit-scrollbar {
+            display: none; /* Safari / Chrome */
+        }
+
+        .archive-nav {
+            display: flex;
+            gap: 1rem;
+            min-width: max-content;
+            padding: 0.25rem 0;
+        }
+
+        .tab-btn {
+            background: transparent;
+            border: 1px solid var(--border-color);
+            color: var(--text-muted);
+            padding: 0.75rem 1.5rem;
+            border-radius: 12px;
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 0.25rem;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .tab-btn:hover {
+            border-color: rgba(99, 102, 241, 0.4);
+            color: var(--text-main);
+            background: rgba(255, 255, 255, 0.02);
+        }
+
+        .tab-btn.active {
+            background: var(--bg-card);
+            border-color: var(--accent-indigo);
+            color: var(--text-main);
+            box-shadow: var(--shadow-card), 0 0 15px rgba(99, 102, 241, 0.1);
+        }
+
+        .tab-label {
+            font-size: 1rem;
+            font-weight: 700;
+        }
+
+        .tab-date {
+            font-size: 0.75rem;
+            opacity: 0.7;
+        }
+
+        /* Sectiunea de zi */
+        .day-section {
+            display: none;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 1.5rem;
+            opacity: 0;
+            transform: translateY(15px);
+            transition: opacity 0.4s cubic-bezier(0.16, 1, 0.3, 1), transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .day-section.active {
+            display: grid;
+            opacity: 1;
+            transform: translateY(0);
+        }
+        
+        .day-section.no-grid {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 300px;
+        }
+
+        /* Card-uri Stiri */
+        .news-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.75rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1.25rem;
+            box-shadow: var(--shadow-card);
+            backdrop-filter: blur(12px);
+            transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.3s, border-color 0.3s;
+        }
+
+        .news-card:hover {
+            transform: translateY(-6px);
+            box-shadow: var(--shadow-hover);
+            border-color: rgba(99, 102, 241, 0.35);
+        }
+
+        .news-card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+        }
+
+        .news-badge {
+            font-size: 0.75rem;
+            font-weight: 700;
+            padding: 0.35rem 0.75rem;
+            border-radius: 20px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .badge-int {
+            background: var(--badge-int-bg);
+            border: 1px solid var(--badge-int-border);
+            color: var(--badge-int-text);
+        }
+
+        .badge-ro {
+            background: var(--badge-ro-bg);
+            border: 1px solid var(--badge-ro-border);
+            color: var(--badge-ro-text);
+        }
+
+        .news-meta {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+
+        .news-source {
+            font-weight: 600;
+        }
+
+        .news-time {
+            opacity: 0.8;
+            position: relative;
+        }
+        
+        .news-time::before {
+            content: "•";
+            margin-right: 0.5rem;
+            opacity: 0.5;
+        }
+
+        .news-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            line-height: 1.4;
+        }
+
+        .news-title a {
+            color: var(--text-main);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .news-title a:hover {
+            color: var(--accent-purple);
+        }
+
+        .original-title {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            font-style: italic;
+            cursor: help;
+            border-bottom: 1px dashed rgba(255, 255, 255, 0.2);
+            align-self: flex-start;
+            padding-bottom: 1px;
+            max-width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .news-summary {
+            font-size: 0.95rem;
+            line-height: 1.6;
+            color: #d1d5db;
+        }
+        
+        .news-summary.no-summary {
+            color: var(--text-muted);
+            font-style: italic;
+        }
+
+        .news-card-footer {
+            margin-top: auto;
+            padding-top: 0.5rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.04);
+        }
+
+        .read-more-link {
+            color: var(--accent-indigo);
+            text-decoration: none;
+            font-size: 0.85rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            transition: color 0.2s;
+        }
+
+        .read-more-link:hover {
+            color: var(--accent-purple);
+        }
+
+        .link-arrow {
+            transition: transform 0.2s;
+        }
+
+        .read-more-link:hover .link-arrow {
+            transform: translate(2px, -2px);
+        }
+
+        .no-news-placeholder {
+            text-align: center;
+            color: var(--text-muted);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size: 1.1rem;
+            width: 100%;
+            padding: 3rem;
+        }
+
+        footer.main-footer {
+            border-top: 1px solid var(--border-color);
+            background: rgba(10, 15, 28, 0.9);
+            padding: 2rem 1.5rem;
+            margin-top: 4rem;
+            backdrop-filter: blur(10px);
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            width: 100%;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        .footer-left {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .footer-right a {
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: color 0.2s;
+            font-weight: 500;
+        }
+
+        .footer-right a:hover {
+            color: var(--accent-purple);
+        }
+
+        /* Responsive design */
+        @media (max-width: 768px) {
+            header.main-header {
+                padding: 1.5rem 1rem;
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .header-actions {
+                width: 100%;
+            }
+            .telegram-btn {
+                width: 100%;
+                justify-content: center;
+            }
+            main.main-content {
+                padding: 1rem;
+                gap: 1.5rem;
+            }
+            .day-section {
+                grid-template-columns: 1fr;
+            }
+            .news-card {
+                padding: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header class="main-header">
+        <div class="brand-section">
+            <div class="brand-logo-title">
+                <div class="brand-logo">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="color: white;">
+                        <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                        <polyline points="22,6 12,13 2,6"></polyline>
+                    </svg>
+                </div>
+                <h1 class="brand-title">TechDigest</h1>
+            </div>
+            <p class="brand-subtitle">Rezumatul zilnic al celor mai importante știri din tehnologie, traduse și condensate automat în limba română cu Gemini API.</p>
+        </div>
+        
+        <div class="header-actions">
+            <a href="https://t.me/AiciIntroduciCanalulTau" target="_blank" rel="noopener noreferrer" class="telegram-btn" id="telegram-link">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.2-.08-.06-.19-.04-.27-.02-.12.02-1.96 1.24-5.52 3.64-.52.36-.99.53-1.41.52-.46-.01-1.35-.26-2.01-.48-.81-.27-1.45-.42-1.39-.89.03-.25.38-.51 1.05-.78 4.12-1.79 6.87-2.97 8.24-3.55 3.93-1.66 4.75-1.95 5.28-1.96.12 0 .38.03.55.17.14.12.18.28.2.44z"/>
+                </svg>
+                Canal Telegram
+            </a>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <!-- Selectorul de zi în format tab -->
+        <div class="archive-nav-wrapper">
+            <nav class="archive-nav">
+                
+        <button id="tab-2026-07-13" class="tab-btn active" onclick="showDay('2026-07-13')">
+            <span class="tab-label">Azi</span>
+            <span class="tab-date">13 Iulie 2026</span>
+        </button>
+        
+            </nav>
+        </div>
+
+        <!-- Sectiunile de stiri -->
+        
+        <div id="day-2026-07-13" class="day-section active ">
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-int">Internațional</span>
+                    <div class="news-meta">
+                        <span class="news-source">The Verge</span>
+                        <span class="news-time">10:00</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac" target="_blank" rel="noopener noreferrer">Acest aplicație gratuită pentru Mac revelează adevărul despre cablurile dvs. USB-C misterioase</a>
+                </h3>
+                <span class="original-title" title="Titlu Original">This free Mac app reveals the truth about your mystery USB-C cables</span>
+                <p class="news-summary">Există o aplicație gratuită pentru Mac care poate verifica cablurile USB-C. Aplicația arată dacă cablul este rapid, lent, puternic sau slab.</p>
+                <footer class="news-card-footer">
+                    <a href="https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-int">Internațional</span>
+                    <div class="news-meta">
+                        <span class="news-source">The Verge</span>
+                        <span class="news-time">09:22</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules" target="_blank" rel="noopener noreferrer">Limite pentru rețelele de socializare vin pentru adolescenții din Europa</a>
+                </h3>
+                <span class="original-title" title="Titlu Original">Social media limits are coming for teens across Europe</span>
+                <p class="news-summary">Uniunea Europeană intenționează să impună restricții noi și stricte pentru accesul copiilor și adolescenților la rețelele de socializare.</p>
+                <footer class="news-card-footer">
+                    <a href="https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-int">Internațional</span>
+                    <div class="news-meta">
+                        <span class="news-source">The Verge</span>
+                        <span class="news-time">09:00</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty" target="_blank" rel="noopener noreferrer">Waze primește o serie de funcții noi bazate pe inteligență artificială</a>
+                </h3>
+                <span class="original-title" title="Titlu Original">Waze is getting a bunch of new AI-powered features</span>
+                <p class="news-summary">Waze va integra asistentul Gemini, permițând utilizatorilor să personalizeze călătoriile și să primească sugestii de navigare mai precise.</p>
+                <footer class="news-card-footer">
+                    <a href="https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-int">Internațional</span>
+                    <div class="news-meta">
+                        <span class="news-source">The Verge</span>
+                        <span class="news-time">20:10</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy" target="_blank" rel="noopener noreferrer">Lorde spune că ochelarii Ray-Ban Meta AI nu sunt „sexy"</a>
+                </h3>
+                <span class="original-title" title="Titlu Original">Lorde says Ray-Ban Meta AI glasses are ‘not sexy’</span>
+                <p class="news-summary">Lorde a criticat ochelarii inteligenți AI, sugerând că aceștia nu sunt atractivi.</p>
+                <footer class="news-card-footer">
+                    <a href="https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-int">Internațional</span>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">12:30</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/" target="_blank" rel="noopener noreferrer">Eforturile de lobby ale Uber pentru robotaxi îi pun pe o traiectorie de coliziune cu Waymo</a>
+                </h3>
+                <span class="original-title" title="Titlu Original">Uber’s robotaxi lobbying effort puts it on a collision course with Waymo</span>
+                <p class="news-summary">Uber și Waymo au opinii diferite cu privire la robotaxi, ceea ce duce la un conflict între cele două companii.</p>
+                <footer class="news-card-footer">
+                    <a href="https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-int">Internațional</span>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">16:07</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/" target="_blank" rel="noopener noreferrer">TechCrunch Mobility: un ultimatum pentru robotaxi</a>
+                </h3>
+                <span class="original-title" title="Titlu Original">TechCrunch Mobility: A robotaxi ultimatum</span>
+                <p class="news-summary">TechCrunch Mobility este un hub pentru viitorul transportului și impactul inteligenței artificiale asupra acestuia.</p>
+                <footer class="news-card-footer">
+                    <a href="https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-int">Internațional</span>
+                    <div class="news-meta">
+                        <span class="news-source">Hacker News</span>
+                        <span class="news-time">12:09</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://www.wired.com/story/sfpd-drone-video-leak-surveillance/" target="_blank" rel="noopener noreferrer">Scurgerea de informații a filmărilor de la drona poliției din San Francisco expune realitatea supravegherii urbane</a>
+                </h3>
+                <span class="original-title" title="Titlu Original">Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance</span>
+                <p class="news-summary">A fost scursă o înregistrare a dronelor poliției din San Francisco, care arată realitatea supravegherii urbane.</p>
+                <footer class="news-card-footer">
+                    <a href="https://www.wired.com/story/sfpd-drone-video-leak-surveillance/" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-int">Internațional</span>
+                    <div class="news-meta">
+                        <span class="news-source">Hacker News</span>
+                        <span class="news-time">11:51</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://github.com/floodtide/dom-docx" target="_blank" rel="noopener noreferrer">Prezentare HN: DOM-docx – documente Word editabile din HTML (MIT)</a>
+                </h3>
+                <span class="original-title" title="Titlu Original">Show HN: DOM-docx – HTML to native, editable Word docs (MIT)</span>
+                <p class="news-summary">DOM-docx este un proiect care permite crearea de documente Word editabile direct din HTML.</p>
+                <footer class="news-card-footer">
+                    <a href="https://github.com/floodtide/dom-docx" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-int">Internațional</span>
+                    <div class="news-meta">
+                        <span class="news-source">MIT Technology Review</span>
+                        <span class="news-time">12:10</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/" target="_blank" rel="noopener noreferrer">Descărcarea: o capsulă pentru concepția donatorilor și modele de inteligență artificială pentru lume</a>
+                </h3>
+                <span class="original-title" title="Titlu Original">The Download: a donor conception cap and world models for AI</span>
+                <p class="news-summary">Un articol prezintă o capsulă pentru concepția donatorilor și modele de inteligență artificială pentru lume.</p>
+                <footer class="news-card-footer">
+                    <a href="https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-ro">România</span>
+                    <div class="news-meta">
+                        <span class="news-source">Zona IT</span>
+                        <span class="news-time">12:13</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://zonait.ro/waze-gemini/" target="_blank" rel="noopener noreferrer">Utilizatorii Waze pot folosi ajutorul Gemini pentru sugestii de navigare personalizate și analize mai precise ale condițiilor de trafic</a>
+                </h3>
+                
+                <p class="news-summary">Waze va integra asistentul Gemini, permițând utilizatorilor să primească sugestii de navigare personalizate și analize mai precise ale condițiilor de trafic.</p>
+                <footer class="news-card-footer">
+                    <a href="https://zonait.ro/waze-gemini/" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-ro">România</span>
+                    <div class="news-meta">
+                        <span class="news-source">Zona IT</span>
+                        <span class="news-time">10:15</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://zonait.ro/samsung-trifold-rulabil/" target="_blank" rel="noopener noreferrer">Samsung ar putea înlocui Galaxy TriFold cu primul smartphone cu ecran rulabil</a>
+                </h3>
+                <span class="original-title" title="Titlu Original">Samsung ar putea înlocui Galaxy TriFold lansând priumul smartphone cu ecran rulabil</span>
+                <p class="news-summary">Samsung ar putea lansa un nou smartphone cu ecran rulabil, care ar înlocui Galaxy TriFold.</p>
+                <footer class="news-card-footer">
+                    <a href="https://zonait.ro/samsung-trifold-rulabil/" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-int">Internațional</span>
+                    <div class="news-meta">
+                        <span class="news-source">Hacker News</span>
+                        <span class="news-time">13:39</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://twitter.com/a_green_being/status/2076598897779020159" target="_blank" rel="noopener noreferrer">Grok a încărcat directorul meu de utilizator pe serverele xAI</a>
+                </h3>
+                <span class="original-title" title="Titlu Original">Grok uploaded my user directory to xAI's servers</span>
+                
+                <footer class="news-card-footer">
+                    <a href="https://twitter.com/a_green_being/status/2076598897779020159" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-ro">România</span>
+                    <div class="news-meta">
+                        <span class="news-source">Zona IT</span>
+                        <span class="news-time">13:25</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://zonait.ro/galaxy-z-flip8-specificatii-design/" target="_blank" rel="noopener noreferrer">Galaxy Z Flip8 apare cu un design mai suplu și ușor decât modelul actual</a>
+                </h3>
+                
+                <p class="news-summary">Galaxy Z Flip8 va avea un design mai subțire și ușor decât predecesorul său, folosind inovații similare cu cele de la Z Fold7.</p>
+                <footer class="news-card-footer">
+                    <a href="https://zonait.ro/galaxy-z-flip8-specificatii-design/" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-ro">România</span>
+                    <div class="news-meta">
+                        <span class="news-source">Playtech</span>
+                        <span class="news-time">13:05</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://playtech.ro/2026/cum-poti-iesi-la-pensie-la-40-de-ani-strategia-financiara-urmata-de-tot-mai-multi-tineri-cum-se-aplica-in-romania/" target="_blank" rel="noopener noreferrer">Cum poți ieși la ‘pensie’ la 40 de ani. Strategia financiară urmată de tot mai mulți tineri, cum se aplică în România</a>
+                </h3>
+                
+                
+                <footer class="news-card-footer">
+                    <a href="https://playtech.ro/2026/cum-poti-iesi-la-pensie-la-40-de-ani-strategia-financiara-urmata-de-tot-mai-multi-tineri-cum-se-aplica-in-romania/" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+            <article class="news-card">
+                <header class="news-card-header">
+                    <span class="news-badge badge-ro">România</span>
+                    <div class="news-meta">
+                        <span class="news-source">Playtech</span>
+                        <span class="news-time">13:04</span>
+                    </div>
+                </header>
+                <h3 class="news-title">
+                    <a href="https://playtech.ro/2026/bmw-urile-pirat-ale-rusiei-suv-uri-de-150-000-de-euro-produse-fara-acordul-marcii-germane/" target="_blank" rel="noopener noreferrer">BMW-urile ‘pirat’ ale Rusiei: SUV-uri de 150.000 de euro produse fără acordul mărcii germane</a>
+                </h3>
+                <span class="original-title" title="Titlu Original">BMW-urile „pirat” ale Rusiei: SUV-uri de 150.000 de euro produse fără acordul mărcii germane</span>
+                
+                <footer class="news-card-footer">
+                    <a href="https://playtech.ro/2026/bmw-urile-pirat-ale-rusiei-suv-uri-de-150-000-de-euro-produse-fara-acordul-marcii-germane/" target="_blank" rel="noopener noreferrer" class="read-more-link">
+                        Citește articolul original
+                        <svg class="link-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="7" y1="17" x2="17" y2="7"></line>
+                            <polyline points="7 7 17 7 17 17"></polyline>
+                        </svg>
+                    </a>
+                </footer>
+            </article>
+            
+        </div>
+        
+    </main>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="footer-left">
+                <span>&copy; 2026 TechDigest. Generat automat cu 🤖 Gemini &amp; GitHub Actions.</span>
+            </div>
+            <div class="footer-right">
+                <a href="https://github.com" target="_blank" rel="noopener noreferrer">Vezi codul pe GitHub</a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        function showDay(dateId) {
+            // Ascunde toate secțiunile de știri
+            document.querySelectorAll('.day-section').forEach(section => {
+                section.classList.remove('active');
+            });
+            
+            // Afișează secțiunea corespunzătoare
+            const selectedSection = document.getElementById('day-' + dateId);
+            if (selectedSection) {
+                selectedSection.classList.add('active');
+            }
+            
+            // Actualizează clasa activă pe butoane
+            document.querySelectorAll('.tab-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            
+            const selectedTab = document.getElementById('tab-' + dateId);
+            if (selectedTab) {
+                selectedTab.classList.add('active');
+            }
+        }
+    </script>
+</body>
+</html>
