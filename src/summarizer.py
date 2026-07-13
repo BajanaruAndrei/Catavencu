@@ -19,9 +19,15 @@ class NewsSummaryItem(BaseModel):
 class BatchNewsResponse(BaseModel):
     results: List[NewsSummaryItem]
 
+class DuplicateGroup(BaseModel):
+    eveniment: str
+    ids: List[int]
+    id_pastrat: int
+
 # Schema Pydantic pentru ordonare/relevanță (Gemini)
 class RankedArticlesResponse(BaseModel):
-    ordered_ids: List[int]
+    grupuri_duplicate: List[DuplicateGroup]
+    ordine_finala: List[int]
 
 def incarca_cache(docs_dir):
     """
@@ -65,7 +71,7 @@ def curata_si_parseaza_json(text_raspuns):
 def ordoneaza_stiri_dupa_relevanta(stiri, config):
     """
     Ordonează o listă completă de articole folosind LLM (Gemini sau Groq ca fallback)
-    pe baza importanței jurnalistice. Sortează prin aplicarea cotelor stabilite în config.
+    pe baza importanței jurnalistice și grupează semantic duplicatele.
     """
     if not stiri:
         return []
@@ -79,25 +85,34 @@ def ordoneaza_stiri_dupa_relevanta(stiri, config):
             "id": idx + 1,
             "titlu": art["title"],
             "sursa": art["source"],
-            "descriere": art["content"][:250]  # Suficient pentru determinarea relevanței
+            "regiune": "romaneasca" if art["category"] == "romanian" else "internationala",
+            "descriere": art["content"][:250]  # Suficient pentru relevanță
         })
         
     prompt = f"""
-Ești un expert jurnalist în tehnologie și redactor-șef. Sarcina ta este să ordonezi o listă de articole după importanța, impactul și relevanța lor pentru publicul pasionat de tehnologie.
+Ești un expert jurnalist în tehnologie și redactor-șef. Sarcina ta este să ordonezi o listă de articole după importanța, impactul și relevanța lor pentru publicul pasionat de tehnologie, și să identifici duplicatele semantice.
 
-Criterii de importanță:
+Instrucțiuni de deduplicare semantică:
+- Grupează articolele care relatează ACELAȘI EVENIMENT, indiferent de limbă, traducere sau de formularea titlului.
+- De exemplu, un articol de pe o sursă românească și unul de pe o sursă internațională care vorbesc despre același anunț (cum ar fi Gemini integrat în Waze) sunt DUPLICATE și trebuie grupate împreună.
+- Pentru fiecare grup de duplicate, specifică un nume scurt pentru "eveniment", lista completă de "ids" ale duplicatelor și alege un singur "id_pastrat" (cel mai complet, detaliat și informativ articol dintre ele).
+
+Criterii de importanță (pentru restul articolelor):
 - Prioritate MARE: Lansări majore de produse/tehnologii, anunțuri AI importante, decizii de reglementare cu impact larg (ex. decizii UE sau FTC), breșe de securitate sau scurgeri de date majore, achiziții sau mișcări importante ale marilor companii din industrie (Apple, Google, Microsoft, Meta, Nvidia, Tesla etc.).
 - Prioritate MICĂ: Recenzii minore sau de accesorii, oferte comerciale/reduceri locale, clickbait, opinii personale ale autorilor, ghiduri practice sau liste de genul "cel mai bun X din 2026".
 
 Articole de ordonat (în format JSON):
 {json.dumps(stiri_compacte, ensure_ascii=False, indent=2)}
 
-Regulă anti-halucinare și deduplicare semantică strictă:
-1. Dacă mai multe articole relatează ACELAȘI eveniment (chiar dacă titlurile diferă), păstrează în listă DOAR ID-ul celui mai complet/relevant și omite-le pe celelalte.
-2. Răspunsul tău trebuie să conțină o listă JSON numită 'ordered_ids' cu ID-urile articolelor ordonate descrescător după importanță. Returnează EXCLUSIV lista de ID-uri ordonate (de exemplu: [5, 1, 12, ...]). NU rescrie titluri, NU inventa articole, NU adăuga nimic. Dacă un ID din listă nu este valid sau nu corespunde unei știri, ignoră-l. Răspunsul trebuie să fie strict JSON.
+Regulă strictă anti-halucinare:
+Răspunsul tău trebuie să fie STRICT un obiect JSON cu structura cerută.
+1. "grupuri_duplicate": O listă de obiecte reprezentând grupurile de duplicate, fiecare cu "eveniment", "ids" și "id_pastrat".
+2. "ordine_finala": O listă ordonată descrescător după importanță ce conține ID-urile articolelor.
+3. Returnează EXCLUSIV ID-uri numerice din lista primită. NU inventa articole și nu returna ID-uri inexistente.
 """
 
-    ordered_ids = []
+    grupuri_duplicate = []
+    ordine_finala = []
     erou_gemini = False
     
     # 1.1 Încercăm Gemini
@@ -123,8 +138,9 @@ Regulă anti-halucinare și deduplicare semantică strictă:
                     )
                 )
                 rezultat = curata_si_parseaza_json(response.text)
-                ordered_ids = rezultat.get("ordered_ids", [])
-                logging.info(f"Ordonarea s-a efectuat prin Gemini. ID-uri primite: {ordered_ids}")
+                grupuri_duplicate = rezultat.get("grupuri_duplicate", [])
+                ordine_finala = rezultat.get("ordine_finala", [])
+                logging.info("Ordonarea și deduplicarea semantică s-au efectuat prin Gemini.")
                 break
             except Exception as e:
                 err_str = str(e).lower()
@@ -140,7 +156,7 @@ Regulă anti-halucinare și deduplicare semantică strictă:
         erou_gemini = True
 
     # 1.2 Încercăm Groq ca fallback
-    if erou_gemini or not ordered_ids:
+    if erou_gemini or (not ordine_finala and not grupuri_duplicate):
         api_key_groq = os.environ.get("GROQ_API_KEY")
         if api_key_groq:
             from groq import Groq
@@ -157,7 +173,7 @@ Regulă anti-halucinare și deduplicare semantică strictă:
                         messages=[
                             {
                                 "role": "system",
-                                "content": "You are a redactor-in-chief assistant. You must respond ONLY with a JSON object containing an 'ordered_ids' array of integers: {\"ordered_ids\": [5, 1, 12, ...]}."
+                                "content": "You are a redactor-in-chief assistant. You must respond ONLY with a JSON object matching the RankedArticlesResponse schema: {\"grupuri_duplicate\": [{\"eveniment\": \"...\", \"ids\": [...], \"id_pastrat\": ...}], \"ordine_finala\": [...]}. Do not write explanations outside of JSON."
                             },
                             {
                                 "role": "user",
@@ -168,8 +184,9 @@ Regulă anti-halucinare și deduplicare semantică strictă:
                         response_format={"type": "json_object"}
                     )
                     rezultat = curata_si_parseaza_json(chat_completion.choices[0].message.content)
-                    ordered_ids = rezultat.get("ordered_ids", [])
-                    logging.info(f"Ordonarea s-a efectuat prin Groq. ID-uri primite: {ordered_ids}")
+                    grupuri_duplicate = rezultat.get("grupuri_duplicate", [])
+                    ordine_finala = rezultat.get("ordine_finala", [])
+                    logging.info("Ordonarea și deduplicarea semantică s-au efectuat prin Groq.")
                     break
                 except Exception as e:
                     err_str = str(e).lower()
@@ -181,33 +198,71 @@ Regulă anti-halucinare și deduplicare semantică strictă:
                     logging.error(f"Apelul de ordonare Groq a eșuat: {e}")
                     break
 
-    # 2. Maparea înapoi pe articole și sortare
     id_to_art = {idx + 1: art for idx, art in enumerate(stiri)}
-    reordered_stiri = []
-    seen_ids = set()
+
+    # 2. PROCESARE ȘI VALIDARE DETECTARE DUPLICATE SEMANTICE
+    articole_de_eliminat = set()
     
-    # 2.1 Preluăm în ordinea prioritizată de LLM
-    if ordered_ids:
-        # Validăm ID-urile primite pentru a preveni erori
-        valid_ordered_ids = []
-        for i in ordered_ids:
+    if grupuri_duplicate:
+        logging.info("=== GRUPURI DE DUPLICATE SEMANTICE DETECTATE ===")
+        for grup in grupuri_duplicate:
+            nume_eveniment = grup.get("eveniment", "Nespecificat")
+            ids = grup.get("ids", [])
+            id_pastrat = grup.get("id_pastrat")
+            
+            # Validări ID
+            if not ids or id_pastrat is None:
+                continue
+                
             try:
-                val = int(i)
-                if val in id_to_art:
-                    valid_ordered_ids.append(val)
+                id_pastrat = int(id_pastrat)
+                ids = [int(x) for x in ids]
             except (ValueError, TypeError):
                 continue
                 
-        for o_id in valid_ordered_ids:
-            if o_id not in seen_ids:
-                reordered_stiri.append(id_to_art[o_id])
-                seen_ids.add(o_id)
+            if id_pastrat not in id_to_art:
+                logging.warning(f"  [AVERTISMENT] ID-ul păstrat {id_pastrat} pentru evenimentul '{nume_eveniment}' nu este valid.")
+                continue
                 
-    # 2.2 Adăugăm restul articolelor care nu au fost selectate de LLM (sau în caz de fallback total)
-    # Dacă ambele apeluri LLM au eșuat, reordered_stiri va fi populată în ordinea cronologică (descrescător după data publicării)
+            art_pastrat = id_to_art[id_pastrat]
+            detalii_eliminate = []
+            
+            for o_id in ids:
+                if o_id in id_to_art and o_id != id_pastrat:
+                    articole_de_eliminat.add(o_id)
+                    detalii_eliminate.append(f"ID {o_id} '{id_to_art[o_id]['title']}' ({id_to_art[o_id]['source']})")
+                    
+            if detalii_eliminate:
+                logging.info(f"📍 Eveniment: '{nume_eveniment}'")
+                logging.info(f"   ✅ Păstrat: ID {id_pastrat} '{art_pastrat['title']}' ({art_pastrat['source']})")
+                for det in detalii_eliminate:
+                    logging.info(f"   ❌ Eliminat: {det}")
+        logging.info("================================================")
+
+    # 3. CONSTRUIRE ORDINE FINALĂ CU VALIDARE STRICTĂ
+    reordered_stiri = []
+    seen_ids = set()
+    
+    # 3.1 Preluăm în ordinea prioritizată de LLM, validând ID-urile și excluzând duplicatele
+    if ordine_finala:
+        for o_id in ordine_finala:
+            try:
+                val_id = int(o_id)
+                if val_id not in id_to_art:
+                    logging.warning(f"  [AVERTISMENT] LLM-ul a returnat un ID invalid în ordine_finala: {o_id}")
+                    continue
+                if val_id in articole_de_eliminat:
+                    continue  # Excludem duplicatele marcate semantice
+                if val_id not in seen_ids:
+                    reordered_stiri.append(id_to_art[val_id])
+                    seen_ids.add(val_id)
+            except (ValueError, TypeError):
+                continue
+                
+    # 3.2 Adăugăm restul articolelor care nu au fost selectate de LLM, nu sunt duplicate și nu au fost încă adăugate
     rest_stiri = []
     for idx in range(1, len(stiri) + 1):
-        if idx not in seen_ids:
+        if idx not in seen_ids and idx not in articole_de_eliminat:
             rest_stiri.append(id_to_art[idx])
             
     if not reordered_stiri:
@@ -218,7 +273,7 @@ Regulă anti-halucinare și deduplicare semantică strictă:
         # Alipim restul articolelor la finalul listei ordonate
         reordered_stiri.extend(rest_stiri)
 
-    # 3. Aplicarea cotelor de selecție finală (Quota check)
+    # 4. Aplicarea cotelor de selecție finală (Quota check)
     max_per_sursa = config.get("settings", {}).get("max_per_sursa", 4)
     max_int = config.get("settings", {}).get("max_internationale", 11)
     max_ro = config.get("settings", {}).get("max_romanesti", 4)

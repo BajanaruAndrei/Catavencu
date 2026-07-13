@@ -4,12 +4,12 @@
     "date_formatted": "13 Iulie 2026",
     "news": [
       {
-        "title": "Social media limits are coming for teens across Europe",
-        "translated_title": "Limite pentru rețelele de socializare vin pentru adolescenții din Europa",
-        "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
-        "source": "The Verge",
-        "published": "2026-07-13T09:22:52+00:00",
-        "summary": "Uniunea Europeană intenționează să impună restricții noi și stricte pentru accesul copiilor și adolescenților la rețelele de socializare.",
+        "title": "SpaceX cleared to fly Starship again after booster failure in May",
+        "translated_title": "SpaceX a obținut aprobarea de a zbura din nou cu Starship după eșecul boosterului în mai",
+        "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+        "source": "TechCrunch",
+        "published": "2026-07-13T14:19:44+00:00",
+        "summary": "Acesta va fi primul zbor de test al navei spațiale Starship pentru SpaceX ca o companie publică, testând apetitul pieței pentru abordarea companiei \"zbor, eșec, corectare\" în dezvoltarea rachetelor.",
         "category": "international"
       },
       {
@@ -31,87 +31,6 @@
         "category": "international"
       },
       {
-        "title": "SpaceX cleared to fly Starship again after booster failure in May",
-        "translated_title": "SpaceX a obținut aprobarea de a zbura din nou cu Starship după eșecul boosterului în mai",
-        "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
-        "source": "TechCrunch",
-        "published": "2026-07-13T14:19:44+00:00",
-        "summary": "Acesta va fi primul zbor de test al navei spațiale Starship pentru SpaceX ca o companie publică, testând apetitul pieței pentru abordarea companiei \"zbor, eșec, corectare\" în dezvoltarea rachetelor.",
-        "category": "international"
-      },
-      {
-        "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
-        "translated_title": "Eforturile de lobby ale Uber pentru robotaxi îi pun pe o traiectorie de coliziune cu Waymo",
-        "url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
-        "source": "TechCrunch",
-        "published": "2026-07-13T12:30:00+00:00",
-        "summary": "Uber și Waymo au opinii diferite cu privire la robotaxi, ceea ce duce la un conflict între cele două companii.",
-        "category": "international"
-      },
-      {
-        "title": "The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100",
-        "translated_title": "Tableta de gaming Asus ROG Flow Z13 cu 64GB RAM, la prețul de 2.100 dolari",
-        "url": "https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale",
-        "source": "The Verge",
-        "published": "2026-07-13T14:52:14+00:00",
-        "summary": "Prețul tabletei de gaming Asus ROG Flow Z13 a scăzut recent, fiind acum disponibilă la 2.100 dolari.",
-        "category": "international"
-      },
-      {
-        "title": "TechCrunch Mobility: A robotaxi ultimatum",
-        "translated_title": "TechCrunch Mobility: un ultimatum pentru robotaxi",
-        "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
-        "source": "TechCrunch",
-        "published": "2026-07-12T16:07:00+00:00",
-        "summary": "TechCrunch Mobility este un hub pentru viitorul transportului și impactul inteligenței artificiale asupra acestuia.",
-        "category": "international"
-      },
-      {
-        "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
-        "translated_title": "Arată HN: Clawk – Ofereți agenților de codare o mașină virtuală Linux dedicată, nu laptopul dvs.",
-        "url": "https://github.com/clawkwork/clawk",
-        "source": "Hacker News",
-        "published": "2026-07-13T14:02:03+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Grok uploaded my user directory to xAI's servers",
-        "translated_title": "Grok a încărcat directorul meu de utilizator pe serverele xAI",
-        "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-        "source": "Hacker News",
-        "published": "2026-07-13T13:39:59+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
-        "translated_title": "Prezentare HN: DOM-docx – documente Word editabile din HTML (MIT)",
-        "url": "https://github.com/floodtide/dom-docx",
-        "source": "Hacker News",
-        "published": "2026-07-13T11:51:56+00:00",
-        "summary": "DOM-docx este un proiect care permite crearea de documente Word editabile direct din HTML.",
-        "category": "international"
-      },
-      {
-        "title": "Waze beneficiază de o actualizare majoră, prin implementarea inteligenței artificiale de la Google",
-        "translated_title": "Waze beneficiază de o actualizare majoră, prin implementarea inteligenței artificiale de la Google",
-        "url": "https://www.go4it.ro/content/aplicatii/waze-beneficiaza-de-o-actualizare-majora-prin-implementarea-inteligentei-artificiale-de-la-google-19279071/",
-        "source": "Go4IT",
-        "published": "2026-07-13T15:03:36.998016+00:00",
-        "summary": "Aplicația de navigație Waze va beneficia de inteligență artificială Gemini de la Google, oferind funcții noi.",
-        "category": "romanian"
-      },
-      {
-        "title": "Utilizatorii Waze pot folosi ajutorul Gemini pentru sugestii de navigare personalizate și analize mai precise ale condițiilor de trafic",
-        "translated_title": "Utilizatorii Waze pot folosi ajutorul Gemini pentru sugestii de navigare personalizate și analize mai precise ale condițiilor de trafic",
-        "url": "https://zonait.ro/waze-gemini/",
-        "source": "Zona IT",
-        "published": "2026-07-13T12:13:27+00:00",
-        "summary": "Waze va integra asistentul Gemini, permițând utilizatorilor să primească sugestii de navigare personalizate și analize mai precise ale condițiilor de trafic.",
-        "category": "romanian"
-      },
-      {
         "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
         "translated_title": "Chiar șeful departamentului de automotive de la Nvidia se luptă cu Nvidia pentru computație",
         "url": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
@@ -121,21 +40,102 @@
         "category": "international"
       },
       {
-        "title": "Comisia Europeană taie accesul minorilor sub 13 ani pe rețele de socializare. Acces controlat până la vârsta majoratului",
-        "translated_title": "Comisia Europeană taie accesul minorilor sub 13 ani pe rețele de socializare. Acces controlat până la vârsta majoratului",
-        "url": "https://zonait.ro/varsta-retele-de-socializare/",
-        "source": "Zona IT",
-        "published": "2026-07-13T15:01:42+00:00",
-        "summary": "Comisia Europeană propune interzicerea accesului pe rețele de socializare pentru copiii sub 13 ani și introducerea unui mecanism de acces treptat pentru adolescenți.",
+        "title": "Waze is getting a bunch of new AI-powered features",
+        "translated_title": "Waze primește o serie de funcții noi bazate pe inteligență artificială",
+        "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+        "source": "The Verge",
+        "published": "2026-07-13T09:00:00+00:00",
+        "summary": "Waze va integra asistentul Gemini, permițând utilizatorilor să personalizeze călătoriile și să primească sugestii de navigare mai precise.",
+        "category": "international"
+      },
+      {
+        "title": "Social media limits are coming for teens across Europe",
+        "translated_title": "Limite pentru rețelele de socializare vin pentru adolescenții din Europa",
+        "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+        "source": "The Verge",
+        "published": "2026-07-13T09:22:52+00:00",
+        "summary": "Uniunea Europeană intenționează să impună restricții noi și stricte pentru accesul copiilor și adolescenților la rețelele de socializare.",
+        "category": "international"
+      },
+      {
+        "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+        "translated_title": "Migrarea unui agent AI de producție la GPT-5.6: 2.2 ori mai rapid, 27% mai ieftin",
+        "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+        "source": "Hacker News",
+        "published": "2026-07-12T17:13:07+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "The Download: a donor conception cap and world models for AI",
+        "translated_title": "Descărcarea: o capsulă pentru concepția donatorilor și modele de inteligență artificială pentru lume",
+        "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+        "source": "MIT Technology Review",
+        "published": "2026-07-13T12:10:00+00:00",
+        "summary": "Un articol prezintă o capsulă pentru concepția donatorilor și modele de inteligență artificială pentru lume.",
+        "category": "international"
+      },
+      {
+        "title": "Python Is So Slow. Can Julia Solve the Two-Language Problem?",
+        "translated_title": "Python este atât de lent. Poate Julia rezolva problema celor două limbi?",
+        "url": "https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/",
+        "source": "Wired",
+        "published": "2026-07-13T11:00:00+00:00",
+        "summary": "Conform unor teste, codul Julia poate rula de 10 la 1.000 de ori mai rapid decât Python, dar există un motiv pentru care nu este o limbă de programare foarte populară.",
+        "category": "international"
+      },
+      {
+        "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance",
+        "translated_title": "Scurgerea de informații a filmărilor de la drona poliției din San Francisco expune realitatea supravegherii urbane",
+        "url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
+        "source": "Wired",
+        "published": "2026-07-13T10:00:00+00:00",
+        "summary": "A fost scursă o înregistrare a dronelor poliției din San Francisco, care arată realitatea supravegherii urbane.",
+        "category": "international"
+      },
+      {
+        "title": "Not 300 miles, not 250 miles: These EVs have the worst range in 2026",
+        "translated_title": "Nu 300 de mile, nici 250 de mile: Aceste vehicule electrice au cel mai slab interval de deplasare în 2026",
+        "url": "https://www.engadget.com/2210476/ev-worst-range-in-2026/",
+        "source": "Engadget",
+        "published": "2026-07-13T13:30:00+00:00",
+        "summary": "Dacă vă place să faceți drumuri lungi cu mașina, ar fi bine să evitați aceste vehicule.",
+        "category": "international"
+      },
+      {
+        "title": "UE cere modificări pentru Instagram și Facebook din cauza funcțiilor considerate dependente",
+        "translated_title": "UE cere modificări pentru Instagram și Facebook din cauza funcțiilor considerate dependente",
+        "url": "https://start-up.ro/ue-cere-modificari-pentru-instagram-si-facebook-din-cauza-functiilor-considerate-dependente/",
+        "source": "start-up.ro",
+        "published": "2026-07-13T11:03:06+00:00",
+        "summary": "Comisia Europeană a concluzionat că Meta încalcă prevederile Digital Services Act prin modul în care sunt proiectate Instagram și Facebook.",
         "category": "romanian"
       },
       {
-        "title": "Motivul pentru care Apple ar renunța la variantele Pro și Max ale cipului M6",
-        "translated_title": "Motivul pentru care Apple ar renunța la variantele Pro și Max ale cipului M6",
-        "url": "https://www.go4it.ro/content/componente-pc/motivul-pentru-care-apple-ar-renunta-la-variantele-pro-si-max-ale-cipului-m6-19279060/",
+        "title": "Datele bancare ale clienților Lidl, expuse în urma unei breșe de securitate la un furnizor terț",
+        "translated_title": "Datele bancare ale clienților Lidl, expuse în urma unei breșe de securitate la un furnizor terț",
+        "url": "https://www.go4it.ro/securitate-informatica/datele-bancare-ale-clientilor-lidl-expuse-in-urma-unei-brese-de-securitate-la-un-furnizor-tert-19279077/",
         "source": "Go4IT",
-        "published": "2026-07-13T15:03:36.998016+00:00",
-        "summary": "Apple ar putea renunța la variantele Pro și Max ale cipului M6, urmând să lanseze doar un cip M6 standard.",
+        "published": "2026-07-13T15:08:12.810832+00:00",
+        "summary": "Lanțul de supermarketuri Lidl a notificat clienții din Belgia, Germania și Țările de Jos cu privire la o breșă de securitate care a afectat informațiile lor personale.",
+        "category": "romanian"
+      },
+      {
+        "title": "GTA 6 pe PC: fost producător Rockstar Games explică când s-ar putea lansa",
+        "translated_title": "GTA 6 pe PC: fost producător Rockstar Games explică când s-ar putea lansa",
+        "url": "https://start-up.ro/gta-6-pe-pc-fost-producator-rockstar-games-explica-cand-s-ar-putea-lansa/",
+        "source": "start-up.ro",
+        "published": "2026-07-13T10:58:29+00:00",
+        "summary": "Lansarea versiunii PC pentru Grand Theft Auto VI ar putea avea loc mai târziu decât se așteaptă jucătorii, din cauza resurselor limitate disponibile în proces.",
+        "category": "romanian"
+      },
+      {
+        "title": "Video – Ucraina anunță prima utilizare a unui robot de luptă transportat de o dronă navală",
+        "translated_title": "Video – Ucraina anunță prima utilizare a unui robot de luptă transportat de o dronă navală",
+        "url": "https://www.go4it.ro/tehnologie-militara/video-ucraina-anunta-prima-utilizare-a-unui-robot-de-lupta-transportat-de-o-drona-navala-19279086/",
+        "source": "Go4IT",
+        "published": "2026-07-13T15:08:12.809817+00:00",
+        "summary": "Armata ucraineană a realizat prima misiune de luptă din lume în care un robot terestru înarmat a fost transportat către țintă cu ajutorul unei drone navale autonome.",
         "category": "romanian"
       }
     ]
