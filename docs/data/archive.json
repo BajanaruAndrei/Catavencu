@@ -4,21 +4,48 @@
     "date_formatted": "13 Iulie 2026",
     "news": [
       {
-        "title": "This free Mac app reveals the truth about your mystery USB-C cables",
-        "translated_title": "Acest aplicație gratuită pentru Mac revelează adevărul despre cablurile dvs. USB-C misterioase",
-        "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
-        "source": "The Verge",
-        "published": "2026-07-13T10:00:00+00:00",
-        "summary": "Există o aplicație gratuită pentru Mac care poate verifica cablurile USB-C. Aplicația arată dacă cablul este rapid, lent, puternic sau slab.",
-        "category": "international"
-      },
-      {
         "title": "Social media limits are coming for teens across Europe",
         "translated_title": "Limite pentru rețelele de socializare vin pentru adolescenții din Europa",
         "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
         "source": "The Verge",
         "published": "2026-07-13T09:22:52+00:00",
         "summary": "Uniunea Europeană intenționează să impună restricții noi și stricte pentru accesul copiilor și adolescenților la rețelele de socializare.",
+        "category": "international"
+      },
+      {
+        "title": "SpaceX cleared to fly Starship again after booster failure in May",
+        "translated_title": "SpaceX a obținut aprobarea de a zbura din nou cu Starship după eșecul boosterului în mai",
+        "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+        "source": "TechCrunch",
+        "published": "2026-07-13T14:19:44+00:00",
+        "summary": "Acesta va fi primul zbor de test al navei spațiale Starship pentru SpaceX ca o companie publică, testând apetitul pieței pentru abordarea companiei \"zbor, eșec, corectare\" în dezvoltarea rachetelor.",
+        "category": "international"
+      },
+      {
+        "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
+        "translated_title": "LAPD își încheie contractul cu gigantul supravegherii Flock, invocând „îngrijorări serioase” cu privire la libertățile civile și confidențialitate",
+        "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+        "source": "TechCrunch",
+        "published": "2026-07-13T14:13:38+00:00",
+        "summary": "LAPD, unul dintre cei mai mari clienți guvernamentali ai Flock, își încheie contractul cu compania, invocând îngrijorări cu privire la libertățile civile.",
+        "category": "international"
+      },
+      {
+        "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+        "translated_title": "Eforturile de lobby ale Uber pentru robotaxi îi pun pe o traiectorie de coliziune cu Waymo",
+        "url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+        "source": "TechCrunch",
+        "published": "2026-07-13T12:30:00+00:00",
+        "summary": "Uber și Waymo au opinii diferite cu privire la robotaxi, ceea ce duce la un conflict între cele două companii.",
+        "category": "international"
+      },
+      {
+        "title": "This free Mac app reveals the truth about your mystery USB-C cables",
+        "translated_title": "Acest aplicație gratuită pentru Mac revelează adevărul despre cablurile dvs. USB-C misterioase",
+        "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+        "source": "The Verge",
+        "published": "2026-07-13T10:00:00+00:00",
+        "summary": "Există o aplicație gratuită pentru Mac care poate verifica cablurile USB-C. Aplicația arată dacă cablul este rapid, lent, puternic sau slab.",
         "category": "international"
       },
       {
@@ -31,21 +58,21 @@
         "category": "international"
       },
       {
-        "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-        "translated_title": "Lorde spune că ochelarii Ray-Ban Meta AI nu sunt „sexy\"",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-        "source": "The Verge",
-        "published": "2026-07-12T20:10:19+00:00",
-        "summary": "Lorde a criticat ochelarii inteligenți AI, sugerând că aceștia nu sunt atractivi.",
+        "title": "Waze adds new AI-powered features and customization updates",
+        "translated_title": "Waze adaugă funcții noi bazate pe inteligență artificială și actualizări de personalizare",
+        "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+        "source": "TechCrunch",
+        "published": "2026-07-13T14:18:16+00:00",
+        "summary": "Unele dintre noile funcții sunt alimentate de asistentul AI Gemini al Google, reflectând eforturile mai ample ale gigantului tech de a integra Gemini în produsele sale.",
         "category": "international"
       },
       {
-        "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
-        "translated_title": "Eforturile de lobby ale Uber pentru robotaxi îi pun pe o traiectorie de coliziune cu Waymo",
-        "url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
-        "source": "TechCrunch",
-        "published": "2026-07-13T12:30:00+00:00",
-        "summary": "Uber și Waymo au opinii diferite cu privire la robotaxi, ceea ce duce la un conflict între cele două companii.",
+        "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+        "translated_title": "Arată HN: Clawk – Ofereți agenților de codare o mașină virtuală Linux dedicată, nu laptopul dvs.",
+        "url": "https://github.com/clawkwork/clawk",
+        "source": "Hacker News",
+        "published": "2026-07-13T14:02:03+00:00",
+        "summary": "",
         "category": "international"
       },
       {
@@ -67,121 +94,49 @@
         "category": "international"
       },
       {
-        "title": "The Download: a donor conception cap and world models for AI",
-        "translated_title": "Descărcarea: o capsulă pentru concepția donatorilor și modele de inteligență artificială pentru lume",
-        "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-        "source": "MIT Technology Review",
-        "published": "2026-07-13T12:10:00+00:00",
-        "summary": "Un articol prezintă o capsulă pentru concepția donatorilor și modele de inteligență artificială pentru lume.",
+        "title": "The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100",
+        "translated_title": "Tableta de gaming Asus ROG Flow Z13 cu 64GB RAM, la prețul de 2.100 dolari",
+        "url": "https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale",
+        "source": "The Verge",
+        "published": "2026-07-13T14:52:14+00:00",
+        "summary": "Prețul tabletei de gaming Asus ROG Flow Z13 a scăzut recent, fiind acum disponibilă la 2.100 dolari.",
         "category": "international"
       },
       {
-        "title": "SpaceX cleared to fly Starship again after booster failure in May",
-        "translated_title": "SpaceX a obținut aprobarea de a zbura din nou cu Starship după eșecul boosterului în mai",
-        "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
-        "source": "TechCrunch",
-        "published": "2026-07-13T14:19:44+00:00",
-        "summary": "Acesta va fi primul zbor de test al navei spațiale Starship pentru SpaceX ca o companie publică, testând apetitul pieței pentru abordarea companiei \"zbor, eșec, corectare\" în dezvoltarea rachetelor.",
-        "category": "international"
-      },
-      {
-        "title": "Waze adds new AI-powered features and customization updates",
-        "translated_title": "Waze adaugă funcții noi bazate pe inteligență artificială și actualizări de personalizare",
-        "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-        "source": "TechCrunch",
-        "published": "2026-07-13T14:18:16+00:00",
-        "summary": "Unele dintre noile funcții sunt alimentate de asistentul AI Gemini al Google, reflectând eforturile mai ample ale gigantului tech de a integra Gemini în produsele sale.",
-        "category": "international"
-      },
-      {
-        "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
-        "translated_title": "LAPD își încheie contractul cu gigantul supravegherii Flock, invocând „îngrijorări serioase” cu privire la libertățile civile și confidențialitate",
-        "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-        "source": "TechCrunch",
-        "published": "2026-07-13T14:13:38+00:00",
-        "summary": "LAPD, unul dintre cei mai mari clienți guvernamentali ai Flock, își încheie contractul cu compania, invocând îngrijorări cu privire la libertățile civile.",
-        "category": "international"
-      },
-      {
-        "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
-        "translated_title": "Arată HN: Clawk – Ofereți agenților de codare o mașină virtuală Linux dedicată, nu laptopul dvs.",
-        "url": "https://github.com/clawkwork/clawk",
-        "source": "Hacker News",
-        "published": "2026-07-13T14:02:03+00:00",
+        "title": "Turla, arma secretă a Rusiei în războiul cibernetic. România, vizată de operațiuni de spionaj",
+        "translated_title": "Turla, arma secretă a Rusiei în războiul cibernetic. România, vizată de operațiuni de spionaj",
+        "url": "https://playtech.ro/2026/turla-arma-secreta-a-rusiei-in-razboiul-cibernetic-romania-vizata-de-operatiuni-de-spionaj/",
+        "source": "Playtech",
+        "published": "2026-07-13T13:45:19+00:00",
         "summary": "",
-        "category": "international"
+        "category": "romanian"
       },
       {
-        "title": "6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom",
-        "translated_title": "Cele 6 bidete-uri de top din 2026: Toto, Brondell și altele, testate în baia mea",
-        "url": "https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/",
-        "source": "Wired",
-        "published": "2026-07-13T11:35:00+00:00",
-        "summary": "Aceste mașini de curățat fundul oferă și funcții de lux precum încălzirea scaunului personalizată și debitul de apă ajustabil.",
-        "category": "international"
+        "title": "UE cere modificări pentru Instagram și Facebook din cauza funcțiilor considerate dependente",
+        "translated_title": "UE cere modificări pentru Instagram și Facebook din cauza funcțiilor considerate dependente",
+        "url": "https://start-up.ro/ue-cere-modificari-pentru-instagram-si-facebook-din-cauza-functiilor-considerate-dependente/",
+        "source": "start-up.ro",
+        "published": "2026-07-13T11:03:06+00:00",
+        "summary": "Comisia Europeană a concluzionat că Meta încalcă prevederile Digital Services Act prin modul în care sunt proiectate Instagram și Facebook.",
+        "category": "romanian"
       },
       {
-        "title": "iGarden Swim Jet X Pro 10 Review: Endless Pool",
-        "translated_title": "Recenzie iGarden Swim Jet X Pro 10: Piscină fără sfârșit",
-        "url": "https://www.wired.com/review/igarden-swim-jet-x-pro-10/",
-        "source": "Wired",
-        "published": "2026-07-13T11:08:00+00:00",
-        "summary": "Înotul împotriva curentului artificial al iGarden Swim Jet X Pro 10 este o adevărată provocare fizică, chiar dacă nu înlocuiește complet o piscină de dimensiuni complete.",
-        "category": "international"
+        "title": "Comisia Europeană vrea să restricționeze accesul copiilor pe rețelele sociale din toamnă",
+        "translated_title": "Comisia Europeană vrea să restricționeze accesul copiilor pe rețelele sociale din toamnă",
+        "url": "https://www.go4it.ro/content/social-media/comisia-europeana-vrea-sa-restrictioneze-accesul-copiilor-pe-retelele-sociale-din-toamna-19279081/",
+        "source": "Go4IT",
+        "published": "2026-07-13T14:55:41.948402+00:00",
+        "summary": "Comisia Europeană pregătește o propunere legislativă pentru a limita accesul copiilor la rețelele sociale, începând cu această toamnă.",
+        "category": "romanian"
       },
       {
-        "title": "Python Is So Slow. Can Julia Solve the Two-Language Problem?",
-        "translated_title": "Python este atât de lent. Poate Julia rezolva problema celor două limbi?",
-        "url": "https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/",
-        "source": "Wired",
-        "published": "2026-07-13T11:00:00+00:00",
-        "summary": "Conform unor teste, codul Julia poate rula de 10 la 1.000 de ori mai rapid decât Python, dar există un motiv pentru care nu este o limbă de programare foarte populară.",
-        "category": "international"
-      },
-      {
-        "title": "White Supremacists Love Armie Hammer’s New Movie",
-        "translated_title": "Suprematiștii albi își iubesc noul film al lui Armie Hammer",
-        "url": "https://www.wired.com/story/a-bunch-of-white-supremacists-love-armie-hammers-new-movie/",
-        "source": "Wired",
-        "published": "2026-07-13T10:30:00+00:00",
-        "summary": "Descries ca „filmul cu sentimente bune al verii băieților albi” de către un extremist, filmul Citizen Vigilante a fost lăudat de extrema dreaptă ca o modalitate de a-i convinge pe moderati să se alăture cauzei lor.",
-        "category": "international"
-      },
-      {
-        "title": "Not 300 miles, not 250 miles: These EVs have the worst range in 2026",
-        "translated_title": "Nu 300 de mile, nici 250 de mile: Aceste vehicule electrice au cel mai slab interval de deplasare în 2026",
-        "url": "https://www.engadget.com/2210476/ev-worst-range-in-2026/",
-        "source": "Engadget",
-        "published": "2026-07-13T13:30:00+00:00",
-        "summary": "Dacă vă place să faceți drumuri lungi cu mașina, ar fi bine să evitați aceste vehicule.",
-        "category": "international"
-      },
-      {
-        "title": "Oppo Watch X3 review: Come for the battery, stay for the versatility",
-        "translated_title": "Recenzie Oppo Watch X3: Veniți pentru baterie, rămâneți pentru versatilitate",
-        "url": "https://www.engadget.com/2211331/oppo-watch-x3-review/",
-        "source": "Engadget",
-        "published": "2026-07-13T12:00:00+00:00",
-        "summary": "Ceasul Oppo Watch X3 este un ceas Wear OS care va dura mai mult decât toți rivalii săi.",
-        "category": "international"
-      },
-      {
-        "title": "Europe takes step toward social media ban for kids",
-        "translated_title": "Europa face un pas către interzicerea rețelelor sociale pentru copii",
-        "url": "https://www.engadget.com/2213336/europe-takes-step-toward-social-media-ban-for-kids/",
-        "source": "Engadget",
-        "published": "2026-07-13T11:05:07+00:00",
-        "summary": "În urma unui raport îngrijorător, Europa face pași către interzicerea copiilor de a utiliza rețelele sociale.",
-        "category": "international"
-      },
-      {
-        "title": "Waze rolls out new AI features including Motorcycle and 'Less Chatty' modes",
-        "translated_title": "Waze lansează funcții noi bazate pe inteligență artificială, inclusiv modul de motocicletă și „Less Chatty”",
-        "url": "https://www.engadget.com/2211810/waze-rolls-out-ai-features-motorcycle-less-chatty-modes/",
-        "source": "Engadget",
-        "published": "2026-07-13T09:00:00+00:00",
-        "summary": "La fel ca Google Maps, Waze se axează pe Gemini.",
-        "category": "international"
+        "title": "Datele bancare ale clienților Lidl, expuse în urma unei breșe de securitate la un furnizor terț",
+        "translated_title": "Datele bancare ale clienților Lidl, expuse în urma unei breșe de securitate la un furnizor terț",
+        "url": "https://www.go4it.ro/securitate-informatica/datele-bancare-ale-clientilor-lidl-expuse-in-urma-unei-brese-de-securitate-la-un-furnizor-tert-19279077/",
+        "source": "Go4IT",
+        "published": "2026-07-13T14:55:41.949513+00:00",
+        "summary": "Lanțul de supermarketuri Lidl a notificat clienții din Belgia, Germania și Țările de Jos cu privire la o breșă de securitate care a afectat informațiile lor personale.",
+        "category": "romanian"
       }
     ]
   }

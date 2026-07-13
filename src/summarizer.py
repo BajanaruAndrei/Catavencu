@@ -10,7 +10,7 @@ from typing import List
 # Configurare logging cu UTF-8
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s", encoding="utf-8")
 
-# Schema Pydantic pentru ieșirea structurată (Gemini)
+# Schema Pydantic pentru ieșirea structurată (Gemini) - Traducere & Rezumat
 class NewsSummaryItem(BaseModel):
     id: int
     titlu_ro: str
@@ -18,6 +18,10 @@ class NewsSummaryItem(BaseModel):
 
 class BatchNewsResponse(BaseModel):
     results: List[NewsSummaryItem]
+
+# Schema Pydantic pentru ordonare/relevanță (Gemini)
+class RankedArticlesResponse(BaseModel):
+    ordered_ids: List[int]
 
 def incarca_cache(docs_dir):
     """
@@ -56,6 +60,205 @@ def curata_si_parseaza_json(text_raspuns):
         cleaned = re.sub(r"\n```$", "", cleaned)
     return json.loads(cleaned.strip())
 
+# === ORDONARE ȘTIȚI DUPĂ RELEVANȚĂ / IMPORTANȚĂ ===
+
+def ordoneaza_stiri_dupa_relevanta(stiri, config):
+    """
+    Ordonează o listă completă de articole folosind LLM (Gemini sau Groq ca fallback)
+    pe baza importanței jurnalistice. Sortează prin aplicarea cotelor stabilite în config.
+    """
+    if not stiri:
+        return []
+        
+    logging.info(f"Se începe ordonarea după relevanță pentru {len(stiri)} știri...")
+    
+    # 1. Pregătirea listei compacte pentru LLM
+    stiri_compacte = []
+    for idx, art in enumerate(stiri):
+        stiri_compacte.append({
+            "id": idx + 1,
+            "titlu": art["title"],
+            "sursa": art["source"],
+            "descriere": art["content"][:250]  # Suficient pentru determinarea relevanței
+        })
+        
+    prompt = f"""
+Ești un expert jurnalist în tehnologie și redactor-șef. Sarcina ta este să ordonezi o listă de articole după importanța, impactul și relevanța lor pentru publicul pasionat de tehnologie.
+
+Criterii de importanță:
+- Prioritate MARE: Lansări majore de produse/tehnologii, anunțuri AI importante, decizii de reglementare cu impact larg (ex. decizii UE sau FTC), breșe de securitate sau scurgeri de date majore, achiziții sau mișcări importante ale marilor companii din industrie (Apple, Google, Microsoft, Meta, Nvidia, Tesla etc.).
+- Prioritate MICĂ: Recenzii minore sau de accesorii, oferte comerciale/reduceri locale, clickbait, opinii personale ale autorilor, ghiduri practice sau liste de genul "cel mai bun X din 2026".
+
+Articole de ordonat (în format JSON):
+{json.dumps(stiri_compacte, ensure_ascii=False, indent=2)}
+
+Regulă anti-halucinare strictă:
+Răspunsul tău trebuie să conțină o listă JSON numită 'ordered_ids' cu ID-urile articolelor ordonate descrescător după importanță. Returnează EXCLUSIV lista de ID-uri ordonate (de exemplu: [5, 1, 12, ...]). NU rescrie titluri, NU inventa articole, NU adăuga nimic. Dacă un ID din listă nu este valid sau nu corespunde unei știri, ignoră-l. Răspunsul trebuie să fie strict JSON.
+"""
+
+    ordered_ids = []
+    erou_gemini = False
+    
+    # 1.1 Încercăm Gemini
+    api_key_gemini = os.environ.get("GEMINI_API_KEY")
+    if api_key_gemini:
+        from google import genai
+        from google.genai import types
+        model_name = config.get("gemini", {}).get("model", "gemini-3.5-flash")
+        temperature = config.get("gemini", {}).get("temperature", 0.2)
+        
+        client = genai.Client(api_key=api_key_gemini, http_options={'timeout': 60.0})
+        max_retries = 2
+        for attempt in range(max_retries + 1):
+            try:
+                logging.info(f"Se trimite cererea de ordonare către Gemini ({model_name})...")
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        temperature=temperature,
+                        response_mime_type="application/json",
+                        response_schema=RankedArticlesResponse,
+                    )
+                )
+                rezultat = curata_si_parseaza_json(response.text)
+                ordered_ids = rezultat.get("ordered_ids", [])
+                logging.info(f"Ordonarea s-a efectuat prin Gemini. ID-uri primite: {ordered_ids}")
+                break
+            except Exception as e:
+                err_str = str(e).lower()
+                if "429" in err_str or "rate limit" in err_str or "exhausted" in err_str:
+                    if attempt < max_retries:
+                        logging.warning(f"Rate limit Gemini (429) la ordonare. Reîncercare {attempt + 1}/{max_retries} în 5 secunde...")
+                        time.sleep(5)
+                        continue
+                logging.error(f"Apelul de ordonare Gemini a eșuat: {e}")
+                erou_gemini = True
+                break
+    else:
+        erou_gemini = True
+
+    # 1.2 Încercăm Groq ca fallback
+    if erou_gemini or not ordered_ids:
+        api_key_groq = os.environ.get("GROQ_API_KEY")
+        if api_key_groq:
+            from groq import Groq
+            model_name = config.get("groq", {}).get("model", "llama-3.3-70b-versatile")
+            temperature = config.get("groq", {}).get("temperature", 0.2)
+            
+            client = Groq(api_key=api_key_groq, timeout=60.0)
+            max_retries = 2
+            for attempt in range(max_retries + 1):
+                try:
+                    logging.info(f"Se trimite cererea de ordonare către Groq ({model_name})...")
+                    chat_completion = client.chat.completions.create(
+                        model=model_name,
+                        messages=[
+                            {
+                                "role": "system",
+                                "content": "You are a redactor-in-chief assistant. You must respond ONLY with a JSON object containing an 'ordered_ids' array of integers: {\"ordered_ids\": [5, 1, 12, ...]}."
+                            },
+                            {
+                                "role": "user",
+                                "content": prompt
+                            }
+                        ],
+                        temperature=temperature,
+                        response_format={"type": "json_object"}
+                    )
+                    rezultat = curata_si_parseaza_json(chat_completion.choices[0].message.content)
+                    ordered_ids = rezultat.get("ordered_ids", [])
+                    logging.info(f"Ordonarea s-a efectuat prin Groq. ID-uri primite: {ordered_ids}")
+                    break
+                except Exception as e:
+                    err_str = str(e).lower()
+                    if "429" in err_str or "rate limit" in err_str or "exhausted" in err_str:
+                        if attempt < max_retries:
+                            logging.warning(f"Rate limit Groq (429) la ordonare. Reîncercare {attempt + 1}/{max_retries} în 5 secunde...")
+                            time.sleep(5)
+                            continue
+                    logging.error(f"Apelul de ordonare Groq a eșuat: {e}")
+                    break
+
+    # 2. Maparea înapoi pe articole și sortare
+    id_to_art = {idx + 1: art for idx, art in enumerate(stiri)}
+    reordered_stiri = []
+    seen_ids = set()
+    
+    # 2.1 Preluăm în ordinea prioritizată de LLM
+    if ordered_ids:
+        # Validăm ID-urile primite pentru a preveni erori
+        valid_ordered_ids = []
+        for i in ordered_ids:
+            try:
+                val = int(i)
+                if val in id_to_art:
+                    valid_ordered_ids.append(val)
+            except (ValueError, TypeError):
+                continue
+                
+        for o_id in valid_ordered_ids:
+            if o_id not in seen_ids:
+                reordered_stiri.append(id_to_art[o_id])
+                seen_ids.add(o_id)
+                
+    # 2.2 Adăugăm restul articolelor care nu au fost selectate de LLM (sau în caz de fallback total)
+    # Dacă ambele apeluri LLM au eșuat, reordered_stiri va fi populată în ordinea cronologică (descrescător după data publicării)
+    rest_stiri = []
+    for idx in range(1, len(stiri) + 1):
+        if idx not in seen_ids:
+            rest_stiri.append(id_to_art[idx])
+            
+    if not reordered_stiri:
+        # Fallback cronologic complet: cele mai noi primele
+        logging.warning("S-a apelat fallback-ul cronologic pentru ordonare.")
+        reordered_stiri = sorted(stiri, key=lambda x: x["published"], reverse=True)
+    else:
+        # Alipim restul articolelor la finalul listei ordonate
+        reordered_stiri.extend(rest_stiri)
+
+    # 3. Aplicarea cotelor de selecție finală (Quota check)
+    max_per_sursa = config.get("settings", {}).get("max_per_sursa", 4)
+    max_int = config.get("settings", {}).get("max_internationale", 11)
+    max_ro = config.get("settings", {}).get("max_romanesti", 4)
+    
+    international_selected = []
+    romanian_selected = []
+    source_counts = {}
+    
+    for art in reordered_stiri:
+        sursa = art["source"]
+        category = art["category"]
+        
+        # Verificăm limita pe sursă
+        if source_counts.get(sursa, 0) >= max_per_sursa:
+            continue
+            
+        if category == "international":
+            if len(international_selected) < max_int:
+                international_selected.append(art)
+                source_counts[sursa] = source_counts.get(sursa, 0) + 1
+        elif category == "romanian":
+            if len(romanian_selected) < max_ro:
+                romanian_selected.append(art)
+                source_counts[sursa] = source_counts.get(sursa, 0) + 1
+                
+        # Oprim loop-ul devreme dacă cotele sunt pline
+        if len(international_selected) >= max_int and len(romanian_selected) >= max_ro:
+            break
+            
+    # Afișăm distribuția pe surse
+    selected_stiri = international_selected + romanian_selected
+    logging.info("--- Distribuție surse selectate ---")
+    for src, count in source_counts.items():
+        logging.info(f"- {src}: {count} articole")
+        
+    logging.info(f"Selecție finalizată: {len(international_selected)} internaționale, {len(romanian_selected)} românești. Total: {len(selected_stiri)}")
+    return selected_stiri
+
+
+# === REZUMATE ȘI TRADUCERE ===
+
 def ruleaza_batch_gemini(articole, config):
     """
     Apelează Gemini API cu un prompt batch pentru a procesa toate știrile dintr-un singur call.
@@ -70,13 +273,12 @@ def ruleaza_batch_gemini(articole, config):
     model_name = config.get("gemini", {}).get("model", "gemini-3.5-flash")
     temperature = config.get("gemini", {}).get("temperature", 0.2)
     
-    # Pregătim formatul compact de trimitere
     stiri_trimise = []
     for idx, art in enumerate(articole):
         stiri_trimise.append({
             "id": idx + 1,
             "titlu": art["title"],
-            "continut": art["content"][:800]  # Limităm dimensiunea conținutului
+            "continut": art["content"][:800]
         })
         
     prompt = f"""
@@ -95,7 +297,6 @@ Reguli Anti-Halucinare stricte:
 3. Răspunsul tău trebuie să fie STRICT un obiect sau o listă JSON în formatul specificat, fără text explicativ suplimentar în afara JSON-ului.
 """
 
-    # Configurăm clientul cu timeout de 60 de secunde
     client = genai.Client(api_key=api_key, http_options={'timeout': 60.0})
     
     max_retries = 2
@@ -111,8 +312,6 @@ Reguli Anti-Halucinare stricte:
                     response_schema=BatchNewsResponse,
                 )
             )
-            
-            # Parsare răspuns
             rezultat = curata_si_parseaza_json(response.text)
             return rezultat.get("results", [])
         except Exception as e:
@@ -124,7 +323,7 @@ Reguli Anti-Halucinare stricte:
                     continue
             raise e
             
-    raise Exception("Numărul maxim de reîncercări a fost epuizat în Gemini API din cauza rate-limiting-ului.")
+    raise Exception("Numărul maxim de reîncercări a fost epuizat în Gemini API.")
 
 def ruleaza_batch_groq(articole, config):
     """
@@ -163,7 +362,6 @@ Reguli Anti-Halucinare stricte:
 3. Răspunsul tău trebuie să fie STRICT un obiect sau o listă JSON în formatul specificat, fără text explicativ suplimentar în afara JSON-ului.
 """
 
-    # Configurăm clientul cu timeout de 60 de secunde
     client = Groq(api_key=api_key, timeout=60.0)
 
     max_retries = 2
@@ -199,16 +397,15 @@ Reguli Anti-Halucinare stricte:
                     continue
             raise e
 
-    raise Exception("Numărul maxim de reîncercări a fost epuizat în Groq API din cauza rate-limiting-ului.")
+    raise Exception("Numărul maxim de reîncercări a fost epuizat în Groq API.")
 
 def proceseaza_si_rezuma_stiri(stiri_colectate, config, docs_dir):
     """
-    Procesează lista completă de știri colectate:
+    Procesează lista selectată de știri:
     1. Verifică cache-ul local pentru a evita apelurile API repetate.
     2. Grupează știrile uncached și le trimite în batch către providerul primar (Gemini).
     3. Dacă eșuează, trece la providerul secundar (Groq).
-    4. Dacă ambele eșuează, folosește fallback-ul pe titlu original + lipsă rezumat.
-    5. Actualizează cache-ul pe disc.
+    4. Actualizează cache-ul pe disc.
     """
     cache = incarca_cache(docs_dir)
     stiri_procesate = []
@@ -224,12 +421,10 @@ def proceseaza_si_rezuma_stiri(stiri_colectate, config, docs_dir):
             stire_copie["summary"] = cache[url]["summary"]
             stiri_procesate.append(stire_copie)
         else:
-            # Va fi procesat în batch
             articole_de_apelat.append(stire)
             
-    # Dacă nu avem știri noi de procesat prin LLM, terminăm rapid
     if not articole_de_apelat:
-        logging.info("Toate știrile au fost preluate direct din cache. Nu a fost necesar niciun apel LLM.")
+        logging.info("Toate știrile au fost preluate direct din cache. Nu a fost necesar niciun apel LLM de traducere.")
         return stiri_procesate
 
     # Pas 2: Pregătirea rezultatelor fallback (în caz de erori API)
@@ -247,7 +442,6 @@ def proceseaza_si_rezuma_stiri(stiri_colectate, config, docs_dir):
     # 3.1 Apel Gemini
     try:
         results = ruleaza_batch_gemini(articole_de_apelat, config)
-        # Convertim lista returnată într-un map pe baza id-ului
         rezultate_llm = {}
         for r in results:
             rezultate_llm[int(r.get("id"))] = {
@@ -259,7 +453,7 @@ def proceseaza_si_rezuma_stiri(stiri_colectate, config, docs_dir):
         logging.error(f"Eroare completă la apelul batch Gemini: {e}. Se trece la Groq...")
         incercare_groq = True
 
-    # 3.2 Apel Groq (dacă Gemini a eșuat)
+    # 3.2 Apel Groq
     if incercare_groq:
         try:
             results = ruleaza_batch_groq(articole_de_apelat, config)
@@ -272,7 +466,6 @@ def proceseaza_si_rezuma_stiri(stiri_colectate, config, docs_dir):
             logging.info("Batch-ul de știri a fost procesat cu succes prin Groq (Llama).")
         except Exception as e_groq:
             logging.error(f"Eroare completă la apelul batch Groq: {e_groq}. Se va folosi fallback-ul local.")
-            # rezultate_llm rămâne None, se va aplica fallback_map
 
     # Pas 4: Combinare rezultate finalizate și actualizare cache
     harta_finala = rezultate_llm if rezultate_llm else fallback_map
@@ -284,7 +477,6 @@ def proceseaza_si_rezuma_stiri(stiri_colectate, config, docs_dir):
         stire_noua["translated_title"] = date_traducere["translated_title"]
         stire_noua["summary"] = date_traducere["summary"]
         
-        # Salvăm în cache doar dacă traducerea a reușit (nu a intrat pe fallback-ul lipsă rezumat)
         if stire_noua["summary"] is not None:
             cache[stire_noua["url"]] = {
                 "translated_title": stire_noua["translated_title"],
@@ -293,7 +485,5 @@ def proceseaza_si_rezuma_stiri(stiri_colectate, config, docs_dir):
             
         stiri_procesate.append(stire_noua)
         
-    # Salvăm noul cache pe disc
     salveaza_cache(cache, docs_dir)
-    
     return stiri_procesate

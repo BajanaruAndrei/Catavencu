@@ -54,19 +54,14 @@ def are_similaritate(titlu1, titlu2, prag=0.6):
 
 def descarca_si_filtreaza_stiri(config):
     """
-    Descarcă feed-urile RSS configurate, filtrează articolele din ultimele ore configurate,
-    limitează articolele la maximum configurat per sursă, le deduplică și le returnează
-    organizate în internaționale și românești.
+    Descarcă feed-urile RSS configurate și filtrează articolele din ultimele ore configurate.
+    Deduplică titlurile foarte similare, dar nu limitează totalul sau per sursă în acest pas.
     """
-    # Parametri configurabili din config.yaml
-    max_stiri = config.get("settings", {}).get("max_stiri_total", 20)
     prag_similitudine = config.get("settings", {}).get("similarity_threshold", 0.6)
-    max_per_sursa = config.get("settings", {}).get("max_per_sursa", 4)
     ore_vechime = config.get("settings", {}).get("ore_vechime", 24)
     
     surse = config.get("sources", {})
-    stiri_internationale = []
-    stiri_romanesti = []
+    stiri_colectate = []
     
     acum = datetime.now(timezone.utc)
     limita_timp = acum - timedelta(hours=ore_vechime)
@@ -79,7 +74,6 @@ def descarca_si_filtreaza_stiri(config):
         
         numar_articole_sursa = 0
         try:
-            # Descarcă feed-ul cu un timeout de 10 secunde folosind requests
             r = requests.get(url_sursa, timeout=10, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) TechDigestAggregator'})
             if r.status_code != 200:
                 logging.warning(f"Sursa '{nume_sursa}' a returnat codul HTTP {r.status_code}. Se trece mai departe.")
@@ -87,18 +81,12 @@ def descarca_si_filtreaza_stiri(config):
                 
             feed = feedparser.parse(r.content)
             for entry in feed.entries:
-                if numar_articole_sursa >= max_per_sursa:
-                    break
-                    
                 data_pub = obtine_data_utc(entry)
                 if data_pub >= limita_timp:
-                    titlu_raw = entry.get("title", "")
-                    titlu_unescaped = html.unescape(titlu_raw)
+                    titlu_unescaped = html.unescape(entry.get("title", ""))
+                    continut_unescaped = html.unescape(curata_html(entry.get("summary") or entry.get("description") or ""))
                     
-                    continut_raw = entry.get("summary") or entry.get("description") or ""
-                    continut_unescaped = html.unescape(curata_html(continut_raw))
-                    
-                    stiri_internationale.append({
+                    stiri_colectate.append({
                         "title": titlu_unescaped,
                         "url": entry.get("link", ""),
                         "source": nume_sursa,
@@ -119,7 +107,6 @@ def descarca_si_filtreaza_stiri(config):
         
         numar_articole_sursa = 0
         try:
-            # Descarcă feed-ul cu un timeout de 10 secunde folosind requests
             r = requests.get(url_sursa, timeout=10, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) TechDigestAggregator'})
             if r.status_code != 200:
                 logging.warning(f"Sursa '{nume_sursa}' a returnat codul HTTP {r.status_code}. Se trece mai departe.")
@@ -127,18 +114,12 @@ def descarca_si_filtreaza_stiri(config):
                 
             feed = feedparser.parse(r.content)
             for entry in feed.entries:
-                if numar_articole_sursa >= max_per_sursa:
-                    break
-                    
                 data_pub = obtine_data_utc(entry)
                 if data_pub >= limita_timp:
-                    titlu_raw = entry.get("title", "")
-                    titlu_unescaped = html.unescape(titlu_raw)
+                    titlu_unescaped = html.unescape(entry.get("title", ""))
+                    continut_unescaped = html.unescape(curata_html(entry.get("summary") or entry.get("description") or ""))
                     
-                    continut_raw = entry.get("summary") or entry.get("description") or ""
-                    continut_unescaped = html.unescape(curata_html(continut_raw))
-                    
-                    stiri_romanesti.append({
+                    stiri_colectate.append({
                         "title": titlu_unescaped,
                         "url": entry.get("link", ""),
                         "source": nume_sursa,
@@ -151,37 +132,18 @@ def descarca_si_filtreaza_stiri(config):
         except Exception as e:
             logging.warning(f"Eroare sau timeout la descărcarea feed-ului '{nume_sursa}': {e}. Se continuă cu restul surselor.")
 
-    # 3. Deduplicare articole
-    # Procesăm întâi cele internaționale (prioritate mare), apoi cele românești
-    articole_acceptate = []
-    
-    def adauga_cu_deduplicare(articole):
-        for art in articole:
-            este_duplicat = False
-            for acc in articole_acceptate:
-                if are_similaritate(art["title"], acc["title"], prag_similitudine):
-                    este_duplicat = True
-                    logging.info(f"Articol ignorat ca duplicat: '{art['title']}' (similar cu '{acc['title']}')")
-                    break
-            if not este_duplicat:
-                articole_acceptate.append(art)
-
-    # Adăugăm întâi internaționale, apoi românești
-    adauga_cu_deduplicare(stiri_internationale)
-    
-    # Reținem indexul unde se termină știrile internaționale acceptate
-    index_int = len(articole_acceptate)
-    
-    # Adăugăm știrile românești
-    adauga_cu_deduplicare(stiri_romanesti)
-    
-    # Separăm știrile finale acceptate
-    # Limita totală este max_stiri (de exemplu 20)
-    stiri_int_finale = articole_acceptate[:index_int]
-    stiri_ro_finale = articole_acceptate[index_int:]
-    
-    # Reasamblăm limitând la numărul maxim cerut
-    stiri_finale = (stiri_int_finale + stiri_ro_finale)[:max_stiri]
-    
-    logging.info(f"Total știri colectate după deduplicare și limitare pe sursă: {len(stiri_finale)}")
-    return stiri_finale
+    # 3. Deduplicare titluri (comparând similaritatea titlurilor)
+    # Procesăm în ordinea colectării (cronologic sau cum vin)
+    articole_deduplicate = []
+    for art in stiri_colectate:
+        este_duplicat = False
+        for acc in articole_deduplicate:
+            if are_similaritate(art["title"], acc["title"], prag_similitudine):
+                este_duplicat = True
+                logging.info(f"Articol ignorat ca duplicat: '{art['title']}' (similar cu '{acc['title']}')")
+                break
+        if not este_duplicat:
+            articole_deduplicate.append(art)
+            
+    logging.info(f"Total știri colectate și deduplicate în brut: {len(articole_deduplicate)}")
+    return articole_deduplicate

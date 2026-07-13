@@ -23,7 +23,7 @@ if director_curent not in sys.path:
     sys.path.append(director_curent)
 
 from fetcher import descarca_si_filtreaza_stiri
-from summarizer import proceseaza_si_rezuma_stiri
+from summarizer import proceseaza_si_rezuma_stiri, ordoneaza_stiri_dupa_relevanta
 from telegram_sender import trimite_digest_telegram
 from site_builder import actualizeaza_arhiva, construieste_site
 
@@ -66,27 +66,37 @@ def main():
     logging.info("Pasul 1: Colectare și filtrare știri RSS...")
     stiri_colectate = descarca_si_filtreaza_stiri(config)
     
-    # 3. Generare rezumate și traduceri (cu Caching, Batching și Fallbacks)
+    # 3. Ordonare după importanță și selecție cotă (11 int + 4 ro, max 4 per sursă)
+    stiri_selectate = []
+    if stiri_colectate:
+        logging.info(f"Pasul 1.5: Ordonare și selecție pe cote pentru {len(stiri_colectate)} articole...")
+        try:
+            stiri_selectate = ordoneaza_stiri_dupa_relevanta(stiri_colectate, config)
+        except Exception as e:
+            logging.error(f"Eroare critică la ordonarea articolelor: {e}. Se folosește fallback-ul cronologic brute-force.")
+            stiri_selectate = stiri_colectate[:15]
+    
+    # 4. Generare rezumate și traduceri (cu Caching, Batching și Fallbacks) - DOAR PENTRU CELE SELECTATE
     stiri_rezumate = []
     docs_dir = os.path.join(director_proiect, "docs")
     
-    if stiri_colectate:
-        logging.info("Pasul 2: Generare rezumate (cu cache, batch și fallbacks)...")
+    if stiri_selectate:
+        logging.info("Pasul 2: Generare rezumate pentru știrile selectate (cu cache, batch și fallbacks)...")
         try:
-            stiri_rezumate = proceseaza_si_rezuma_stiri(stiri_colectate, config, docs_dir)
+            stiri_rezumate = proceseaza_si_rezuma_stiri(stiri_selectate, config, docs_dir)
         except Exception as e:
             logging.error(f"Eroare neașteptată în procesul de rezumare: {e}")
-            # În caz de eroare critică, facem fallback manual pe tot setul
+            # În caz de eroare critică, facem fallback local direct pe cele selectate
             stiri_rezumate = []
-            for art in stiri_colectate:
+            for art in stiri_selectate:
                 s_copy = art.copy()
                 s_copy["translated_title"] = art["title"]
                 s_copy["summary"] = None
                 stiri_rezumate.append(s_copy)
     else:
-        logging.info("Pasul 2: Nu s-au găsit știri noi în ultimele 24 de ore.")
+        logging.info("Pasul 2: Nu s-au găsit știri noi selectate pentru procesare.")
 
-    # 4. Trimitere mesaje pe Telegram
+    # 5. Trimitere mesaje pe Telegram
     # Trimitem pe Telegram doar dacă avem știri de trimis
     if stiri_rezumate:
         logging.info("Pasul 3: Trimitere digest pe Telegram...")
@@ -97,7 +107,7 @@ def main():
     else:
         logging.info("Pasul 3: Se sare peste trimiterea pe Telegram (lipsă știri).")
 
-    # 5. Actualizare site web static în docs/
+    # 6. Actualizare site web static în docs/
     logging.info("Pasul 4: Actualizare istoric JSON și site static (GitHub Pages)...")
     try:
         # Actualizăm fișierul de arhivă docs/data/archive.json

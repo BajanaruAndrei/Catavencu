@@ -7,10 +7,12 @@ groq:
   temperature: 0.2
 
 settings:
-  max_stiri_total: 20
-  similarity_threshold: 0.6
+  max_stiri_total: 15
+  max_internationale: 11
+  max_romanesti: 4
   max_per_sursa: 4
   ore_vechime: 24
+  similarity_threshold: 0.6
 
 sources:
   international:
