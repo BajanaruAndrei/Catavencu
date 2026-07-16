@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-07-16",
+    "date_formatted": "16 Iulie 2026",
+    "news": [
+      {
+        "title": "DJB Netstrings (1997)",
+        "translated_title": "Șiruri de caractere DJB (1997)",
+        "url": "https://cr.yp.to/proto/netstrings.txt",
+        "source": "Hacker News",
+        "published": "2026-07-16T05:33:50+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Lenovo Coupon Codes and Deals in July 2026",
+        "translated_title": "Coduri de reducere și oferte Lenovo în iulie 2026",
+        "url": "https://www.wired.com/story/lenovo-coupon-code/",
+        "source": "Wired",
+        "published": "2026-07-16T05:00:00+00:00",
+        "summary": "Codurile de reducere Lenovo pot ajuta la economisirea banilor la următoarea actualizare a tehnologiei.",
+        "category": "international"
+      },
+      {
+        "title": "Priceline Promo Codes & Coupons: 10% Off July",
+        "translated_title": "Coduri promo și cupoane Priceline: 10% reducere în iulie",
+        "url": "https://www.wired.com/story/priceline-promo-code/",
+        "source": "Wired",
+        "published": "2026-07-16T05:00:00+00:00",
+        "summary": "Priceline oferă coduri promo și cupoane pentru reduceri masive la hoteluri, zboruri și mașini de închiriat.",
+        "category": "international"
+      },
+      {
+        "title": "The lost joy of music piracy",
+        "translated_title": "Bucuria pierdută a pirateriei muzicale",
+        "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+        "source": "Hacker News",
+        "published": "2026-07-16T04:46:21+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Stop saying that AI is just a tool and it only matters how it is used",
+        "translated_title": "Opriți-vă să spuneți că IA este doar un instrument și că contează doar modul în care este utilizat",
+        "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
+        "source": "Hacker News",
+        "published": "2026-07-16T04:31:01+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+        "translated_title": "Lululemon sprijină startup-ul de reciclare a nylonului Syntetica într-o investiție de 30 de milioane de dolari",
+        "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+        "source": "TechCrunch",
+        "published": "2026-07-16T04:00:00+00:00",
+        "summary": "Syntetica, un startup care a dezvoltat o abordare inovatoare pentru reciclarea nylonului, a obținut parteneri și investitori de renume.",
+        "category": "international"
+      },
+      {
+        "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+        "translated_title": "Applied Computing dorește să ofere operatorilor de petrol și gaze un model de inteligență artificială pentru întreaga instalație",
+        "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+        "source": "TechCrunch",
+        "published": "2026-07-16T04:00:00+00:00",
+        "summary": "Applied Computing a strâns 20 de milioane de dolari pentru a construi un model de inteligență artificială pentru industria petrolieră și chimică.",
+        "category": "international"
+      },
+      {
+        "title": "My Throw Decides My Aim",
+        "translated_title": "Aruncarea mea decide ținta mea",
+        "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
+        "source": "Hacker News",
+        "published": "2026-07-16T03:51:25+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+        "translated_title": "De ce Greylock a limitat noul său fond la 1,5 miliarde de dolari, deși ar fi putut strânge mai mult",
+        "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+        "source": "TechCrunch",
+        "published": "2026-07-16T00:20:42+00:00",
+        "summary": "Greylock își propune să rămână cel mai important partener pentru fondatorii săi, limitând numărul de investiții la aproximativ 25 pe fond.",
+        "category": "international"
+      },
+      {
+        "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+        "translated_title": "Căștile Skullcandy Crusher, cu bass îmbunătățit, sunt acum echipate cu tehnologia de anulare a zgomotului Bose",
+        "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+        "source": "The Verge",
+        "published": "2026-07-16T00:00:00+00:00",
+        "summary": "Skullcandy a lansat o nouă versiune a căștilor sale Crusher, care include tehnologia de anulare a zgomotului și audio spațială Bose.",
+        "category": "international"
+      },
+      {
+        "title": "Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?",
+        "translated_title": "Poate Bose ajuta Skullcandy să își schimbe reputația de produse ieftine?",
+        "url": "https://www.wired.com/story/can-bose-help-skullcandy-shake-its-bargain-bin-reputation/",
+        "source": "Wired",
+        "published": "2026-07-16T00:00:00+00:00",
+        "summary": "Skullcandy își propune să îmbunătățească calitatea audio a produselor sale, cu ajutorul tehnologiei Bose.",
+        "category": "international"
+      },
+      {
+        "title": "Armata Elveției renunță la Microsoft Office din cauza temerilor privind spionajul american",
+        "translated_title": "Armata Elveției renunță la Microsoft Office din cauza temerilor privind spionajul american",
+        "url": "https://www.go4it.ro/content/aplicatii/armata-elvetiei-renunta-la-microsoft-office-din-cauza-temerilor-privind-spionajul-american-19279310/",
+        "source": "Go4IT",
+        "published": "2026-07-16T06:17:12.918550+00:00",
+        "summary": "Armata Elveției a decis să renunțe la produsele Microsoft și să migreze către soluții open-source, din cauza riscurilor de securitate și a posibilității de a ajunge la informații sensibile.",
+        "category": "romanian"
+      },
+      {
+        "title": "Un film realizat de Cristopher Nolan au ajutorul AI stârnește revoltă în industria cinematografică. Cinefilii spun că este „AI slop”",
+        "translated_title": "Un film realizat de Christopher Nolan cu ajutorul inteligenței artificiale stârnește revoltă în industria cinematografică",
+        "url": "https://www.go4it.ro/content/muzica-si-filme/un-film-realizat-de-cristopher-nolan-au-ajutorul-ai-starneste-revolta-in-industria-cinematografica-cinefilii-spun-ca-este-ai-slop-19279313/",
+        "source": "Go4IT",
+        "published": "2026-07-16T06:17:12.918329+00:00",
+        "summary": "Un film realizat cu inteligență artificială a stârnit controverse în industria cinematografică, fiind criticat de cinefili ca fiind un exemplu de conținut de slabă calitate.",
+        "category": "romanian"
+      },
+      {
+        "title": "Ford lansează propriul chatbot pentru clienții de flotă în Europa. Ford Pro AI, un produs „de succes” în SUA",
+        "translated_title": "Ford lansează propriul chatbot pentru clienții de flotă în Europa",
+        "url": "https://www.go4it.ro/content/auto/ford-lanseaza-propriul-chatbot-pentru-clientii-de-flota-in-europa-ford-pro-ai-un-produs-de-succes-in-sua-19279317/",
+        "source": "Go4IT",
+        "published": "2026-07-16T06:17:12.918140+00:00",
+        "summary": "Ford a lansat un chatbot pentru managerii de flotă, denumit Ford Pro AI, care a avut succes în SUA.",
+        "category": "romanian"
+      },
+      {
+        "title": "România, penultima din UE la competențe digitale în rândul tinerilor: Ce arată datele Eurostat",
+        "translated_title": "România, pe ultimul loc în UE la competențe digitale în rândul tinerilor",
+        "url": "https://www.go4it.ro/content/business/romania-penultima-din-ue-la-competente-digitale-in-randul-tinerilor-ce-arata-datele-eurostat-19279324/",
+        "source": "Go4IT",
+        "published": "2026-07-16T06:17:12.917951+00:00",
+        "summary": "România ocupă penultimul loc în Uniunea Europeană în ceea ce privește ponderea tinerilor care dețin competențe digitale de bază, conform datelor Eurostat.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-07-15",
     "date_formatted": "15 Iulie 2026",
     "news": [
