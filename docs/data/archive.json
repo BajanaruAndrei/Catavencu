@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-07-17",
+    "date_formatted": "17 Iulie 2026",
+    "news": [
+      {
+        "title": "Home Depot Promo Codes: 50% Off in July 2026",
+        "translated_title": "Coduri promoționale Home Depot: 50% reducere în iulie 2026",
+        "url": "https://www.wired.com/story/home-depot-promo-code/",
+        "source": "Wired",
+        "published": "2026-07-17T05:00:00+00:00",
+        "summary": "Economisiți până la 50% astăzi cu cele mai recente coduri promoționale Home Depot pentru electrocasnice, instrumente electrice și multe altele în luna iulie.",
+        "category": "international"
+      },
+      {
+        "title": "Pebble Mega Update – July 2026",
+        "translated_title": "Actualizarea Pebble Mega – iulie 2026",
+        "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+        "source": "Hacker News",
+        "published": "2026-07-17T03:53:38+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+        "translated_title": "Cum a rezistat betonul roman timp de milenii? O latrină veche de 1.900 de ani oferă indicii",
+        "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+        "source": "Hacker News",
+        "published": "2026-07-17T03:48:26+00:00",
+        "summary": "Un articol de pe site-ul smithsonianmag.com prezintă descoperirile legate de durabilitatea betonului roman, folosind ca exemplu o latrină veche de 1.900 de ani.",
+        "category": "international"
+      },
+      {
+        "title": "UIUC AI Teaching Assistant",
+        "translated_title": "Asistent de predare AI UIUC",
+        "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+        "source": "Hacker News",
+        "published": "2026-07-17T02:23:18+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "GrapheneOS recommended for domestic abuse victims",
+        "translated_title": "GrapheneOS recomandat pentru victimele abuzului domestic",
+        "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+        "source": "Hacker News",
+        "published": "2026-07-17T01:36:52+00:00",
+        "summary": "Un articol de pe site-ul privacypros.com.au recomandă GrapheneOS pentru victimele abuzului domestic din Australia.",
+        "category": "international"
+      },
+      {
+        "title": "Pete Hegseth’s Plan for ‘High T’ Troops Is a Junk-Science Fever Dream",
+        "translated_title": "Planul lui Pete Hegseth pentru trupele cu „testosteron ridicat” este un coșmar științific",
+        "url": "https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/",
+        "source": "Wired",
+        "published": "2026-07-17T00:28:49+00:00",
+        "summary": "Secretarul apărării are un plan de a administra terapie de testosteron trupelor din Forțele Armate ale SUA, ceea ce arată o lipsă de înțelegere a complexității hormonilor.",
+        "category": "international"
+      },
+      {
+        "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+        "translated_title": "Primarul din San Francisco solicită reguli mai stricte după fiasco-ul traficului Waymo",
+        "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+        "source": "TechCrunch",
+        "published": "2026-07-16T23:25:22+00:00",
+        "summary": "Primarul din San Francisco cere reguli mai stricte pentru operatorii de robotaxi, cum ar fi Waymo, după un eveniment de blocaj masiv și de lungă durată.",
+        "category": "international"
+      },
+      {
+        "title": "A White House teleprompter operator reportedly won big betting on presidential speeches",
+        "translated_title": "Un operator de teleprompter de la Casa Albă a câștigat bani pariind pe discursurile prezidențiale",
+        "url": "https://www.engadget.com/2217170/a-white-house-teleprompter-operator-reportedly-won-big-betting-on-presidential-speeches/",
+        "source": "Engadget",
+        "published": "2026-07-16T23:10:32+00:00",
+        "summary": "Un membru al personalului Casei Albe a câștigat peste 100.000 de dolari pariind pe discursurile prezidențiale pe platforma Kalshi.",
+        "category": "international"
+      },
+      {
+        "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+        "translated_title": "SpaceX a oprit brusc a doua lansare a navei spațiale Starship V3 după aprindere",
+        "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+        "source": "TechCrunch",
+        "published": "2026-07-16T23:01:27+00:00",
+        "summary": "Compania SpaceX a oprit lansarea navei spațiale Starship V3 după aprindere, fără a oferi detalii despre ceea ce a mers prost.",
+        "category": "international"
+      },
+      {
+        "title": "Activist group takes over London bus stops with fake Meta Glasses ads",
+        "translated_title": "Un grup de activiști a preluat stațiile de autobuz din Londra cu reclame false pentru ochelarii Meta",
+        "url": "https://www.engadget.com/2217151/activist-group-takes-over-london-bus-stops-with-fake-meta-glasses-ads/",
+        "source": "Engadget",
+        "published": "2026-07-16T22:41:27+00:00",
+        "summary": "Un grup de activiști a creat reclame false pentru ochelarii Meta și le-a afișat în stațiile de autobuz din Londra, inclusiv una care prezintă o iluzie optică inspirată de filmul „Ei trăiesc”.",
+        "category": "international"
+      },
+      {
+        "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+        "translated_title": "De ce Apple a dat în judecată OpenAI, de ce New York se confruntă cu centrele de date și ce trebuie să știți despre ciclosporioză",
+        "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+        "source": "Wired",
+        "published": "2026-07-16T22:17:27+00:00",
+        "summary": "Un articol de pe site-ul Uncanny Valley discută despre drama în jurul OpenAI, atât pe plan legal, cât și reputațional, și despre impactul potențial asupra luptei companiei împotriva Anthropic.",
+        "category": "international"
+      },
+      {
+        "title": "Înalta Curte confirmă definitiv amenda Consiliului Concurenței pentru fosta HP România: Compania a abuzat de poziția dominantă",
+        "translated_title": "Înalta Curte confirmă definitiv amenda Consiliului Concurenței pentru fosta HP România: Compania a abuzat de poziția dominantă",
+        "url": "https://www.go4it.ro/content/business/inalta-curte-confirma-definitiv-amenda-consiliului-concurentei-pentru-fosta-hp-romania-compania-a-abuzat-de-pozitia-dominanta-19279399/",
+        "source": "Go4IT",
+        "published": "2026-07-17T06:14:34.484752+00:00",
+        "summary": "Înalta Curte de Casație și Justiție a confirmat că fosta HP România a încălcat Legea concurenței prin abuz de poziție dominantă pe piața imprimantelor inkjet.",
+        "category": "romanian"
+      },
+      {
+        "title": "Huawei Mate XT 2 ar putea renunța la designul octogonal al camerelor și adopta un modul pătrat",
+        "translated_title": "Huawei Mate XT 2 ar putea renunța la designul octogonal al camerelor și adopta un modul pătrat",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/huawei-mate-xt-2-ar-putea-renunta-la-designul-octogonal-al-camerelor-si-adopta-un-modul-patrat-19279402/",
+        "source": "Go4IT",
+        "published": "2026-07-17T06:14:34.484618+00:00",
+        "summary": "Huawei pregătește schimbări importante pentru viitorul telefon pliabil în trei segmente Mate XT 2, inclusiv modificări la sistemul de pliere și designul modulului foto.",
+        "category": "romanian"
+      },
+      {
+        "title": "Samsung ar putea transforma seria Galaxy Z Flip într-un telefon pliabil în ambele direcții",
+        "translated_title": "Samsung ar putea transforma seria Galaxy Z Flip într-un telefon pliabil în ambele direcții",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/samsung-ar-putea-transforma-seria-galaxy-z-flip-intr-un-telefon-pliabil-in-ambele-directii-19279416/",
+        "source": "Go4IT",
+        "published": "2026-07-17T06:14:34.484212+00:00",
+        "summary": "Samsung analizează o nouă direcție pentru gama Galaxy Z Flip, cu un telefon pliabil cu balama de 360 de grade, capabil să se plieze atât spre interior, cât și spre exterior.",
+        "category": "romanian"
+      },
+      {
+        "title": "Apple mizează pe modelele iPhone Pro în 2026, în ciuda scumpirilor anticipate",
+        "translated_title": "Apple mizează pe modelele iPhone Pro în 2026, în ciuda scumpirilor anticipate",
+        "url": "https://www.go4it.ro/content/business/apple-mizeaza-pe-modelele-iphone-pro-in-2026-in-ciuda-scumpirilor-anticipate-19279422/",
+        "source": "Go4IT",
+        "published": "2026-07-17T06:14:34.484060+00:00",
+        "summary": "Apple va acorda prioritate modelelor premium în 2026, în timp ce versiunea standard iPhone 18 va fi lansată mai târziu, alături de iPhone Air 2.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-07-16",
     "date_formatted": "16 Iulie 2026",
     "news": [
