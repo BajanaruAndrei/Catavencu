@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-07-18",
+    "date_formatted": "18 Iulie 2026",
+    "news": [
+      {
+        "title": "SteelSeries Coupon Codes: 15% Off in July 2026",
+        "translated_title": "Coduri de reducere SteelSeries: 15% reducere în iulie 2026",
+        "url": "https://www.wired.com/story/steelseries-coupon-code/",
+        "source": "Wired",
+        "published": "2026-07-18T05:00:00+00:00",
+        "summary": "Găsiți cele mai bune coduri de reducere SteelSeries, coduri promo și coduri de discount pentru mai 2026.",
+        "category": "international"
+      },
+      {
+        "title": "Neil Rimer thinks the AI money is coming back out",
+        "translated_title": "Neil Rimer crede că banii pentru inteligența artificială se întorc",
+        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+        "source": "TechCrunch",
+        "published": "2026-07-18T04:47:25+00:00",
+        "summary": "Neil Rimer, venture capitalist și co-fondator al Index Ventures, prezice că avuția istorică generată de inteligența artificială în Silicon Valley va trebui redistribuită, voluntar sau involuntar.",
+        "category": "international"
+      },
+      {
+        "title": "Mac gaming is finally getting the overpowered upgrade it deserves",
+        "translated_title": "Jocurile pe Mac primesc în sfârșit upgrade-ul puternic pe care îl merită",
+        "url": "https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html",
+        "source": "Hacker News",
+        "published": "2026-07-18T04:13:00+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Regressive JPEGs",
+        "translated_title": "JPEG regresive",
+        "url": "https://maurycyz.com/projects/bad_jpeg/",
+        "source": "Hacker News",
+        "published": "2026-07-18T03:14:20+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+        "translated_title": "Moonstone: Mediu de execuție Lua modern și manager de pachete, scris în Zig",
+        "url": "https://moonstone.sh/",
+        "source": "Hacker News",
+        "published": "2026-07-18T01:18:15+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "I Started a \"Dirt Notebook\"",
+        "translated_title": "Am început un „Caiet de notițe despre pământ\"",
+        "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+        "source": "Hacker News",
+        "published": "2026-07-18T01:12:13+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+        "translated_title": "Închiderea cererilor în 48 de ore — tot ce fondatorii australieni trebuie să știe despre Stripe x Startup Battlefield",
+        "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+        "source": "TechCrunch",
+        "published": "2026-07-17T23:08:00+00:00",
+        "summary": "La Stripe Tour Sydney, opt startup-uri vor concura în fața investitorilor, presei globale și comunității tehnice australiene.",
+        "category": "international"
+      },
+      {
+        "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+        "translated_title": "Vertu vrea ca executivii să plătească 6.880 de dolari pentru un agent AI — aici este cum funcționează de fapt",
+        "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+        "source": "TechCrunch",
+        "published": "2026-07-17T22:55:09+00:00",
+        "summary": "De la fluxuri de lucru AI la durata de viață a bateriei și securitate, iată ce înseamnă să trăiești cu foldabilul de lux Vertu în fiecare zi.",
+        "category": "international"
+      },
+      {
+        "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+        "translated_title": "Databricks atinge o valoare de 188 de miliarde de dolari, prelungindu-și poziția de a doua întreprindere favorită a inteligenței artificiale",
+        "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+        "source": "TechCrunch",
+        "published": "2026-07-17T22:12:56+00:00",
+        "summary": "Databricks și-a schimbat imaginea într-o companie de inteligență artificială și a publicat cercetări despre economiile de costuri ale modelelor de codare deschisă pentru inteligența artificială.",
+        "category": "international"
+      },
+      {
+        "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
+        "translated_title": "Taylor Farms retrage salata iceberg de pe piața americană după o izbucnire de cyclosporiasis",
+        "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+        "source": "The Verge",
+        "published": "2026-07-17T22:09:47+00:00",
+        "summary": "Producătorul de alimente Taylor Farms a retras voluntar toată salata iceberg provenită din Mexic de pe piața americană.",
+        "category": "international"
+      },
+      {
+        "title": "There's now an API for mainlining Trump's Truth Social posts",
+        "translated_title": "Acum există un API pentru postările lui Trump de pe Truth Social",
+        "url": "https://www.engadget.com/2217943/there-s-now-an-api-for-mainlining-trump-s-truth-social-posts/",
+        "source": "Engadget",
+        "published": "2026-07-17T22:05:37+00:00",
+        "summary": "API-ul este destinat să livreze postări de la conturile Truth Social cu cel mai înalt rang.",
+        "category": "international"
+      },
+      {
+        "title": "Qualcomm actualizează Snapdragon Control Panel și adaugă noi funcții pentru gaming pe PC-urile Snapdragon X",
+        "translated_title": "Qualcomm actualizează panoul de control Snapdragon și adaugă funcții noi pentru jocuri pe PC-urile cu procesoare Snapdragon X",
+        "url": "https://www.go4it.ro/content/software/qualcomm-actualizeaza-snapdragon-control-panel-si-adauga-noi-functii-pentru-gaming-pe-pc-urile-snapdragon-x-19279451/",
+        "source": "Go4IT",
+        "published": "2026-07-18T06:04:31.715278+00:00",
+        "summary": "Actualizarea aduce îmbunătățiri pentru administrarea jocurilor, gestionarea driverelor și optimizarea sistemului.",
+        "category": "romanian"
+      },
+      {
+        "title": "Samsung MX, divizia de telefoane Samsung, ar putea înregistra prima pierdere trimestrială din istorie",
+        "translated_title": "Samsung MX, divizia de telefoane Samsung, ar putea înregistra prima pierdere trimestrială din istorie",
+        "url": "https://www.go4it.ro/content/business/samsung-mx-divizia-de-telefoane-samsung-ar-putea-inregistra-prima-pierdere-trimestriala-din-istorie-19279480/",
+        "source": "Go4IT",
+        "published": "2026-07-18T06:04:31.715144+00:00",
+        "summary": "Vânzările solide ale seriei Galaxy S26 ar putea să nu fie suficiente pentru a menține profitabilitatea diviziei mobile Samsung MX.",
+        "category": "romanian"
+      },
+      {
+        "title": "Ministrul interimar al Apărării, Radu Miruță: Există planuri pentru ca inclusiv rezerviștii din Armată să învețe să utilizeze drone",
+        "translated_title": "Ministrul interimar al Apărării, Radu Miruță: Există planuri pentru ca inclusiv rezerviștii din Armată să învețe să utilizeze drone",
+        "url": "https://www.go4it.ro/tehnologie-militara/ministrul-interimar-al-apararii-radu-miruta-exista-planuri-pentru-ca-inclusiv-rezervistii-din-armata-sa-invete-sa-utilizeze-drone-19279482/",
+        "source": "Go4IT",
+        "published": "2026-07-18T06:04:31.715003+00:00",
+        "summary": "Ministrul interimar al Apărării, Radu Miruță, a declarat că există planuri pentru a antrena mai mulți piloți și operatori de drone.",
+        "category": "romanian"
+      },
+      {
+        "title": "Sistemul digital de frontieră al UE confundă gemenii identici: Incident bizar pe un aeroport din România",
+        "translated_title": "Sistemul digital de frontieră al UE confundă gemenii identici: Incident bizar pe un aeroport din România",
+        "url": "https://www.go4it.ro/content/business/sistemul-digital-de-frontiera-al-ue-confunda-gemenii-identici-incident-bizar-pe-un-aeroport-din-romania-19279488/",
+        "source": "Go4IT",
+        "published": "2026-07-18T06:04:31.714850+00:00",
+        "summary": "Noul sistem digital de control la frontieră al Uniunii Europene se confruntă cu probleme tehnice majore și nu poate distinge între gemenii identici.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-07-17",
     "date_formatted": "17 Iulie 2026",
     "news": [
