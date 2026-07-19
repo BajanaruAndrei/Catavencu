@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-07-19",
+    "date_formatted": "19 Iulie 2026",
+    "news": [
+      {
+        "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+        "translated_title": "Dave Eggers le-a spus personalului OpenAI că ChatGPT este 'silind o întreagă generație'",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+        "source": "The Verge",
+        "published": "2026-07-18T20:54:42+00:00",
+        "summary": "Dave Eggers a ținut o prelegere pentru aproximativ 200 de angajați ai OpenAI, unde a discutat despre impactul ChatGPT asupra generației actuale.",
+        "category": "international"
+      },
+      {
+        "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "translated_title": "GPT-5.6 a folosit un prompt pentru a închide o lacună de 30 de ani în optimizarea convexă",
+        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+        "source": "Hacker News",
+        "published": "2026-07-18T13:00:52+00:00",
+        "summary": "GPT-5.6 a rezolvat o problemă de optimizare convexă care a durat 30 de ani, folosind un prompt specific.",
+        "category": "international"
+      },
+      {
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "translated_title": "Mania AI distruge procesul de luare a deciziilor la nivel global",
+        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+        "source": "Hacker News",
+        "published": "2026-07-19T01:29:19+00:00",
+        "summary": "Mania pentru tehnologia AI afectează negativ procesul de luare a deciziilor la nivel global.",
+        "category": "international"
+      },
+      {
+        "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "translated_title": "Fable 5 vs. GPT-5.6 Sol la o problemă NP-Hard: Funcționează /goal?",
+        "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+        "source": "Hacker News",
+        "published": "2026-07-18T11:00:29+00:00",
+        "summary": "A fost comparată performanța Fable 5 și GPT-5.6 Sol la o problemă NP-Hard, pentru a vedea dacă funcția /goal ajută.",
+        "category": "international"
+      },
+      {
+        "title": "OpenAI will start notifying parents if their teen has been kicked off of ChatGPT",
+        "translated_title": "OpenAI va notifica părinții dacă adolescentul lor a fost dat afară de pe ChatGPT",
+        "url": "https://www.engadget.com/2218076/openai-notify-parents-teen-banned-chatgpt-violence/",
+        "source": "Engadget",
+        "published": "2026-07-18T11:00:20+00:00",
+        "summary": "OpenAI va trimite notificări părinților ai căror copii au încălcat regulile platformei și au fost excluși de pe ChatGPT.",
+        "category": "international"
+      },
+      {
+        "title": "TikTok is no longer banned on US government devices",
+        "translated_title": "TikTok nu mai este interzis pe dispozitivele guvernului american",
+        "url": "https://www.engadget.com/2218069/us-government-lifts-tiktok-ban-federal-devices/",
+        "source": "Engadget",
+        "published": "2026-07-18T09:29:15+00:00",
+        "summary": "Guvernul american a ridicat interdicția de utilizare a TikTok pe dispozitivele oficiale.",
+        "category": "international"
+      },
+      {
+        "title": "Your Period Tracker Is (Probably) Spying on You",
+        "translated_title": "Aplicația ta de urmărire a ciclului menstrual te spionează probabil",
+        "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+        "source": "Wired",
+        "published": "2026-07-18T10:30:00+00:00",
+        "summary": "Aplicațiile de urmărire a ciclului menstrual pot colecta și transmite date personale fără permisiunea utilizatorilor.",
+        "category": "international"
+      },
+      {
+        "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+        "translated_title": "Atacurile de injectare a prompturilor împiedică agenții de hacking AI",
+        "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+        "source": "Wired",
+        "published": "2026-07-18T09:00:00+00:00",
+        "summary": "Atacurile de injectare a prompturilor pot opri agenții de hacking AI înainte de a putea cauza daune.",
+        "category": "international"
+      },
+      {
+        "title": "X and music publishers quietly settle opposing lawsuits",
+        "translated_title": "X și editorii de muzică au încheiat procesele opuse",
+        "url": "https://www.engadget.com/2218101/x-music-publishers-quietly-settle-opposing-lawsuits/",
+        "source": "Engadget",
+        "published": "2026-07-18T16:56:17+00:00",
+        "summary": "X și editorii de muzică au ajuns la un acord și au încheiat procesele opuse.",
+        "category": "international"
+      },
+      {
+        "title": "Chinese solar company says its new cell has an efficiency of 35.5 percent",
+        "translated_title": "O companie solară chineză afirmă că noua sa celulă are o eficiență de 35,5 procente",
+        "url": "https://www.engadget.com/2218081/chinese-solar-cell-efficiency-35-5-percent/",
+        "source": "Engadget",
+        "published": "2026-07-18T13:00:01+00:00",
+        "summary": "Compania chineză LONGi a dezvoltat o celulă solară cu o eficiență de 35,5 procente.",
+        "category": "international"
+      },
+      {
+        "title": "Waymo says San Francisco service has resumed after one-hour pause",
+        "translated_title": "Waymo afirmă că serviciul din San Francisco a fost reluat după o pauză de o oră",
+        "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+        "source": "TechCrunch",
+        "published": "2026-07-18T19:30:23+00:00",
+        "summary": "Waymo a reluat serviciul din San Francisco după o pauză de o oră.",
+        "category": "international"
+      },
+      {
+        "title": "Samsung crește tarifele pentru reparații telefoane, scumpirea componentelor afectând inclusiv reparațiile efectuate acasă",
+        "translated_title": "Samsung crește tarifele pentru reparații de telefoane, scumpirea componentelor afectând inclusiv reparațiile efectuate acasă",
+        "url": "https://zonait.ro/reparatii-telefoane-samsung/",
+        "source": "Zona IT",
+        "published": "2026-07-18T07:00:00+00:00",
+        "summary": "Samsung a majorat tarifele pentru reparații de telefoane, din cauza scumpirii componentelor.",
+        "category": "romanian"
+      },
+      {
+        "title": "Un truc simplu face Google Maps mult mai plăcut de folosit",
+        "translated_title": "Un truc simplu face Google Maps mult mai plăcut de folosit",
+        "url": "https://playtech.ro/2026/un-truc-simplu-face-google-maps-mult-mai-placut-de-folosit/",
+        "source": "Playtech",
+        "published": "2026-07-19T05:54:09+00:00",
+        "summary": "",
+        "category": "romanian"
+      },
+      {
+        "title": "Noul drum spectaculos din România care traversează cinci județe. Lucrările avansează într-una dintre cele mai pitorești zone din țară",
+        "translated_title": "Noul drum spectaculos din România care traversează cinci județe. Lucrările avansează într-una dintre cele mai pitorești zone din țară",
+        "url": "https://playtech.ro/2026/noul-drum-spectaculos-din-romania-care-traverseaza-cinci-judete-lucrarile-avanseaza-intr-una-dintre-cele-mai-pitoresti-zone-din-tara/",
+        "source": "Playtech",
+        "published": "2026-07-19T05:30:13+00:00",
+        "summary": "",
+        "category": "romanian"
+      },
+      {
+        "title": "Instalezi Windows? Cele 3 aplicații gratuite care îți fac PC-ul mult mai ușor de folosit",
+        "translated_title": "Instalezi Windows? Cele 3 aplicații gratuite care îți fac PC-ul mult mai ușor de folosit",
+        "url": "https://playtech.ro/2026/instalezi-windows-cele-3-aplicatii-gratuite-care-iti-fac-pc-ul-mult-mai-usor-de-folosit/",
+        "source": "Playtech",
+        "published": "2026-07-19T04:48:39+00:00",
+        "summary": "",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-07-18",
     "date_formatted": "18 Iulie 2026",
     "news": [
