@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-07-20",
+    "date_formatted": "20 Iulie 2026",
+    "news": [
+      {
+        "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+        "translated_title": "Netflix a plătit 587 de milioane de dolari pentru startup-ul de filmmaking AI al lui Ben Affleck",
+        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+        "source": "TechCrunch",
+        "published": "2026-07-19T21:45:00+00:00",
+        "summary": "Netflix a plătit 587 de milioane de dolari în numerar pentru InterPositive, o companie fondată de Ben Affleck.",
+        "category": "international"
+      },
+      {
+        "title": "The FBI reportedly won’t investigate ICE anymore",
+        "translated_title": "FBI-ul nu va mai investiga ICE, conform unor rapoarte",
+        "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
+        "source": "The Verge",
+        "published": "2026-07-19T16:42:10+00:00",
+        "summary": "Conform New York Times, agenții federali au fost informați că FBI-ul nu va mai investiga confruntările care implică agenți ICE.",
+        "category": "international"
+      },
+      {
+        "title": "Power companies are using eminent domain to seize land for data centers",
+        "translated_title": "Companiile de energie folosesc dreptul de expropriere pentru a confisca terenuri pentru centre de date",
+        "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
+        "source": "Hacker News",
+        "published": "2026-07-20T04:19:22+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "The Search for Another Earth-Like Planet Just Took a Big Step Forward",
+        "translated_title": "Căutarea unei planete similare Pământului a făcut un pas mare înainte",
+        "url": "https://www.wired.com/story/search-for-earth-like-planet-step-forward/",
+        "source": "Wired",
+        "published": "2026-07-19T10:00:00+00:00",
+        "summary": "Astronomii au descoperit o planetă stâncoasă cu atmosferă, situată în zona locuibilă a unui sistem solar.",
+        "category": "international"
+      },
+      {
+        "title": "NASA shares beautiful timelapse of the Psyche spacecraft's view over Mars",
+        "translated_title": "NASA a publicat o secvență de timp a navei spațiale Psyche deasupra lui Marte",
+        "url": "https://www.engadget.com/2218251/nasa-mars-timelapse-psyche-spacecraft-close-approach/",
+        "source": "Engadget",
+        "published": "2026-07-19T19:08:51+00:00",
+        "summary": "Nava spațială a zburat pe lângă planeta roșie în mai, pe drumul său către asteroidul cu același nume.",
+        "category": "international"
+      },
+      {
+        "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+        "translated_title": "Un proiect incredibil al lui Kieran Hebden (cunoscut și ca Four Tet)",
+        "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+        "source": "The Verge",
+        "published": "2026-07-19T21:02:45+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+        "translated_title": "Kodak EC35, o cameră foto point-and-shoot ieftină",
+        "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+        "source": "The Verge",
+        "published": "2026-07-19T19:26:06+00:00",
+        "summary": "Reto Project lansează Kodak EC35, o cameră foto cu film de 35 mm, la prețul de 34,99 dolari.",
+        "category": "international"
+      },
+      {
+        "title": "I hate that I don’t hate this song made with Suno",
+        "translated_title": "Cântecul creat cu Suno este plăcut, în ciuda așteptărilor",
+        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+        "source": "The Verge",
+        "published": "2026-07-19T17:35:54+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "What to watch for after Jensen Huang’s Japan visit",
+        "translated_title": "Ce urmează după vizita lui Jensen Huang în Japonia",
+        "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+        "source": "TechCrunch",
+        "published": "2026-07-19T21:16:07+00:00",
+        "summary": "Jensen Huang a plecat din Tokyo cu acorduri care acoperă întregul ecosistem tehnologic japonez.",
+        "category": "international"
+      },
+      {
+        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+        "translated_title": "Poate o procesă a Apple să împiedice planurile OpenAI de a intra pe piața hardware-ului?",
+        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+        "source": "TechCrunch",
+        "published": "2026-07-19T19:24:45+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "TechCrunch Mobility: The battle over robotaxi rules",
+        "translated_title": "Bătălia pentru regulile robotaxi-urilor",
+        "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+        "source": "TechCrunch",
+        "published": "2026-07-19T16:05:00+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Valve avertizează că prețurile memoriei RAM și ale SSD-urilor vor continua să crească",
+        "translated_title": "Valve avertizează că prețurile memoriei RAM și ale SSD-urilor vor continua să crească",
+        "url": "https://start-up.ro/valve-avertizeaza-ca-preturile-memoriei-ram-si-ale-ssd-urilor-vor-continua-sa-creasca/",
+        "source": "start-up.ro",
+        "published": "2026-07-20T06:08:35+00:00",
+        "summary": "Valve avertizează că prețurile componentelor de stocare și ale memoriei RAM nu au atins încă nivelul maxim.",
+        "category": "romanian"
+      },
+      {
+        "title": "Christopher Nolan: AI este un „cal troian” care ascunde mai mult decât promite",
+        "translated_title": "Christopher Nolan: Inteligența artificială este un „cal troian”",
+        "url": "https://start-up.ro/christopher-nolan-ai-este-un-cal-troian-care-ascunde-mai-mult-decat-promite/",
+        "source": "start-up.ro",
+        "published": "2026-07-20T06:01:44+00:00",
+        "summary": "Christopher Nolan consideră că inteligența artificială este un „cal troian” care promite beneficii, dar poate ascunde consecințe importante pentru societate.",
+        "category": "romanian"
+      },
+      {
+        "title": "Noi excepții în UE pentru bateriile detașabile: ce dispozitive nu vor permite înlocuirea de către utilizatori",
+        "translated_title": "Noi excepții în UE pentru bateriile detașabile",
+        "url": "https://start-up.ro/noi-exceptii-in-ue-pentru-bateriile-detasabile-ce-dispozitive-nu-vor-permite-inlocuirea-de-catre-utilizatori/",
+        "source": "start-up.ro",
+        "published": "2026-07-20T05:55:06+00:00",
+        "summary": "Comisia Europeană a adoptat noi excepții de la regulile UE privind bateriile portabile, astfel încât șase categorii suplimentare de produse nu vor mai trebui să permită utilizatorilor înlocuirea bateriilor.",
+        "category": "romanian"
+      },
+      {
+        "title": "La cinci zile după atacul cibernetic, ANCPI își reinstalează infrastructura IT. CEO-ul Bit Sentinel cere un program național de securitate ofensivă",
+        "translated_title": "ANCPI și-a reinstalat infrastructura IT după atacul cibernetic",
+        "url": "https://start-up.ro/la-cinci-zile-dupa-atacul-cibernetic-ancpi-spune-ca-isi-reinstaleaza-infrastructura-it-ceo-ul-bit-sentinel-cere-un-program-national-de-securitate-ofensiva/",
+        "source": "start-up.ro",
+        "published": "2026-07-19T13:44:11+00:00",
+        "summary": "La aproape o săptămână după atacul cibernetic, ANCPI și-a reinstalat infrastructura IT, iar CEO-ul Bit Sentinel cere un program național de securitate ofensivă.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-07-19",
     "date_formatted": "19 Iulie 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-07-14T06:10:40.639525+00:00",
         "summary": "Microsoft a identificat un nou malware, denumit GigaWiper, care poate șterge definitiv datele de pe un calculator și poate oferi atacatorilor acces de la distanță la sistem.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-13",
-    "date_formatted": "13 Iulie 2026",
-    "news": [
-      {
-        "title": "SpaceX cleared to fly Starship again after booster failure in May",
-        "translated_title": "SpaceX a obținut aprobarea de a zbura din nou cu Starship după eșecul boosterului în mai",
-        "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
-        "source": "TechCrunch",
-        "published": "2026-07-13T14:19:44+00:00",
-        "summary": "Acesta va fi primul zbor de test al navei spațiale Starship pentru SpaceX ca o companie publică, testând apetitul pieței pentru abordarea companiei \"zbor, eșec, corectare\" în dezvoltarea rachetelor.",
-        "category": "international"
-      },
-      {
-        "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
-        "translated_title": "LAPD își încheie contractul cu gigantul supravegherii Flock, invocând „îngrijorări serioase” cu privire la libertățile civile și confidențialitate",
-        "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-        "source": "TechCrunch",
-        "published": "2026-07-13T14:13:38+00:00",
-        "summary": "LAPD, unul dintre cei mai mari clienți guvernamentali ai Flock, își încheie contractul cu compania, invocând îngrijorări cu privire la libertățile civile.",
-        "category": "international"
-      },
-      {
-        "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-        "translated_title": "Programul de mașini autonome al Apple a lăsat o moștenire de cipuri AI puternice",
-        "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-        "source": "The Verge",
-        "published": "2026-07-12T16:27:06+00:00",
-        "summary": "Programul de mașini autonome al Apple nu a decolat, dar a putut contribui la crearea de cipuri AI puternice. Apple a realizat că are nevoie de procesare AI puternică pe dispozitiv.",
-        "category": "international"
-      },
-      {
-        "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
-        "translated_title": "Chiar șeful departamentului de automotive de la Nvidia se luptă cu Nvidia pentru computație",
-        "url": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
-        "source": "The Verge",
-        "published": "2026-07-13T15:00:00+00:00",
-        "summary": "Xinzhou Wu, șeful departamentului de automotive de la Nvidia, discută despre companie și rolul său în industria AI.",
-        "category": "international"
-      },
-      {
-        "title": "Waze is getting a bunch of new AI-powered features",
-        "translated_title": "Waze primește o serie de funcții noi bazate pe inteligență artificială",
-        "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-        "source": "The Verge",
-        "published": "2026-07-13T09:00:00+00:00",
-        "summary": "Waze va integra asistentul Gemini, permițând utilizatorilor să personalizeze călătoriile și să primească sugestii de navigare mai precise.",
-        "category": "international"
-      },
-      {
-        "title": "Social media limits are coming for teens across Europe",
-        "translated_title": "Limite pentru rețelele de socializare vin pentru adolescenții din Europa",
-        "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
-        "source": "The Verge",
-        "published": "2026-07-13T09:22:52+00:00",
-        "summary": "Uniunea Europeană intenționează să impună restricții noi și stricte pentru accesul copiilor și adolescenților la rețelele de socializare.",
-        "category": "international"
-      },
-      {
-        "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-        "translated_title": "Migrarea unui agent AI de producție la GPT-5.6: 2.2 ori mai rapid, 27% mai ieftin",
-        "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-        "source": "Hacker News",
-        "published": "2026-07-12T17:13:07+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "The Download: a donor conception cap and world models for AI",
-        "translated_title": "Descărcarea: o capsulă pentru concepția donatorilor și modele de inteligență artificială pentru lume",
-        "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-        "source": "MIT Technology Review",
-        "published": "2026-07-13T12:10:00+00:00",
-        "summary": "Un articol prezintă o capsulă pentru concepția donatorilor și modele de inteligență artificială pentru lume.",
-        "category": "international"
-      },
-      {
-        "title": "Python Is So Slow. Can Julia Solve the Two-Language Problem?",
-        "translated_title": "Python este atât de lent. Poate Julia rezolva problema celor două limbi?",
-        "url": "https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/",
-        "source": "Wired",
-        "published": "2026-07-13T11:00:00+00:00",
-        "summary": "Conform unor teste, codul Julia poate rula de 10 la 1.000 de ori mai rapid decât Python, dar există un motiv pentru care nu este o limbă de programare foarte populară.",
-        "category": "international"
-      },
-      {
-        "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance",
-        "translated_title": "Scurgerea de informații a filmărilor de la drona poliției din San Francisco expune realitatea supravegherii urbane",
-        "url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
-        "source": "Wired",
-        "published": "2026-07-13T10:00:00+00:00",
-        "summary": "A fost scursă o înregistrare a dronelor poliției din San Francisco, care arată realitatea supravegherii urbane.",
-        "category": "international"
-      },
-      {
-        "title": "Not 300 miles, not 250 miles: These EVs have the worst range in 2026",
-        "translated_title": "Nu 300 de mile, nici 250 de mile: Aceste vehicule electrice au cel mai slab interval de deplasare în 2026",
-        "url": "https://www.engadget.com/2210476/ev-worst-range-in-2026/",
-        "source": "Engadget",
-        "published": "2026-07-13T13:30:00+00:00",
-        "summary": "Dacă vă place să faceți drumuri lungi cu mașina, ar fi bine să evitați aceste vehicule.",
-        "category": "international"
-      },
-      {
-        "title": "UE cere modificări pentru Instagram și Facebook din cauza funcțiilor considerate dependente",
-        "translated_title": "UE cere modificări pentru Instagram și Facebook din cauza funcțiilor considerate dependente",
-        "url": "https://start-up.ro/ue-cere-modificari-pentru-instagram-si-facebook-din-cauza-functiilor-considerate-dependente/",
-        "source": "start-up.ro",
-        "published": "2026-07-13T11:03:06+00:00",
-        "summary": "Comisia Europeană a concluzionat că Meta încalcă prevederile Digital Services Act prin modul în care sunt proiectate Instagram și Facebook.",
-        "category": "romanian"
-      },
-      {
-        "title": "Datele bancare ale clienților Lidl, expuse în urma unei breșe de securitate la un furnizor terț",
-        "translated_title": "Datele bancare ale clienților Lidl, expuse în urma unei breșe de securitate la un furnizor terț",
-        "url": "https://www.go4it.ro/securitate-informatica/datele-bancare-ale-clientilor-lidl-expuse-in-urma-unei-brese-de-securitate-la-un-furnizor-tert-19279077/",
-        "source": "Go4IT",
-        "published": "2026-07-13T15:08:12.810832+00:00",
-        "summary": "Lanțul de supermarketuri Lidl a notificat clienții din Belgia, Germania și Țările de Jos cu privire la o breșă de securitate care a afectat informațiile lor personale.",
-        "category": "romanian"
-      },
-      {
-        "title": "GTA 6 pe PC: fost producător Rockstar Games explică când s-ar putea lansa",
-        "translated_title": "GTA 6 pe PC: fost producător Rockstar Games explică când s-ar putea lansa",
-        "url": "https://start-up.ro/gta-6-pe-pc-fost-producator-rockstar-games-explica-cand-s-ar-putea-lansa/",
-        "source": "start-up.ro",
-        "published": "2026-07-13T10:58:29+00:00",
-        "summary": "Lansarea versiunii PC pentru Grand Theft Auto VI ar putea avea loc mai târziu decât se așteaptă jucătorii, din cauza resurselor limitate disponibile în proces.",
-        "category": "romanian"
-      },
-      {
-        "title": "Video – Ucraina anunță prima utilizare a unui robot de luptă transportat de o dronă navală",
-        "translated_title": "Video – Ucraina anunță prima utilizare a unui robot de luptă transportat de o dronă navală",
-        "url": "https://www.go4it.ro/tehnologie-militara/video-ucraina-anunta-prima-utilizare-a-unui-robot-de-lupta-transportat-de-o-drona-navala-19279086/",
-        "source": "Go4IT",
-        "published": "2026-07-13T15:08:12.809817+00:00",
-        "summary": "Armata ucraineană a realizat prima misiune de luptă din lume în care un robot terestru înarmat a fost transportat către țintă cu ajutorul unei drone navale autonome.",
         "category": "romanian"
       }
     ]
