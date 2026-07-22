@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-07-22",
+    "date_formatted": "22 Iulie 2026",
+    "news": [
+      {
+        "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+        "translated_title": "Arată HN: ReadKinetic – un cititor de viteză local, gratuit, pentru cărțile dvs.",
+        "url": "https://www.readkinetic.com/app/",
+        "source": "Hacker News",
+        "published": "2026-07-22T05:49:51+00:00",
+        "summary": "ReadKinetic este o aplicație de citit cu viteză, care poate fi utilizată pentru a citi cărți locale.",
+        "category": "international"
+      },
+      {
+        "title": "Show HN: A new kind of FPS aim trainer",
+        "translated_title": "Arată HN: Un nou tip de antrenor de țintă pentru jocuri FPS",
+        "url": "https://openaim.pramit.gg/",
+        "source": "Hacker News",
+        "published": "2026-07-22T05:39:31+00:00",
+        "summary": "Un antrenor de țintă care analizează mișcarea cursorului pentru a explora slăbiciunile motorii și perceptive.",
+        "category": "international"
+      },
+      {
+        "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+        "translated_title": "Codul sursă original al computerului de ghidare Apollo 11 pentru modulele de comandă și lunare",
+        "url": "https://github.com/chrislgarry/Apollo-11",
+        "source": "Hacker News",
+        "published": "2026-07-22T05:18:08+00:00",
+        "summary": "Codul sursă al computerului de ghidare Apollo 11 a fost publicat pe GitHub.",
+        "category": "international"
+      },
+      {
+        "title": "Kimi K3: second only to Fable 5 on AA-Briefcase",
+        "translated_title": "Kimi K3: pe locul doi, după Fable 5, în clasamentul AA-Briefcase",
+        "url": "https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark",
+        "source": "Hacker News",
+        "published": "2026-07-22T04:33:44+00:00",
+        "summary": "Kimi K3 a obținut locul doi în clasamentul AA-Briefcase, după Fable 5.",
+        "category": "international"
+      },
+      {
+        "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+        "translated_title": "Zvonul despre Inteligența Fizică Antropică care agit Twitter-ul AI",
+        "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+        "source": "TechCrunch",
+        "published": "2026-07-22T03:20:57+00:00",
+        "summary": "Un zvon legat de Inteligența Fizică Antropică a apărut pe Twitter.",
+        "category": "international"
+      },
+      {
+        "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+        "translated_title": "Fondul de 800 de milioane de dolari al Dimension Capital arată că intersecția dintre știință și calcul este în plină expansiune",
+        "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+        "source": "TechCrunch",
+        "published": "2026-07-22T01:27:58+00:00",
+        "summary": "Fondul de 800 de milioane de dolari al Dimension Capital este cu 60% mai mare decât al doilea fond.",
+        "category": "international"
+      },
+      {
+        "title": "Samsung Galaxy Unpacked July 2026: How to watch",
+        "translated_title": "Samsung Galaxy Unpacked iulie 2026: Cum puteți urmări evenimentul",
+        "url": "https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch",
+        "source": "The Verge",
+        "published": "2026-07-22T01:00:00+00:00",
+        "summary": "Samsung va prezenta noi dispozitive la evenimentul Galaxy Unpacked din iulie 2026.",
+        "category": "international"
+      },
+      {
+        "title": "Meta is testing an AI bedtime story app for people with no imagination",
+        "translated_title": "Meta testează o aplicație de povești de dormit cu inteligență artificială pentru oamenii fără imaginație",
+        "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+        "source": "TechCrunch",
+        "published": "2026-07-21T23:55:10+00:00",
+        "summary": "Meta a creat o aplicație care generează povești de dormit cu ajutorul inteligenței artificiale.",
+        "category": "international"
+      },
+      {
+        "title": "Is the All-New Range Rover GT Stepping on Jaguar’s Tail?",
+        "translated_title": "Noua Range Rover GT calcă pe coada Jaguar-ului?",
+        "url": "https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt/",
+        "source": "Wired",
+        "published": "2026-07-21T23:01:00+00:00",
+        "summary": "Noua Range Rover GT ar putea afecta vânzările Jaguar-ului.",
+        "category": "international"
+      },
+      {
+        "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+        "translated_title": "Noul „film” al lui Neill Blomkamp cu zombie și inteligență artificială este doar o reîncălzire a vechilor idei",
+        "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+        "source": "The Verge",
+        "published": "2026-07-21T22:06:43+00:00",
+        "summary": "Neill Blomkamp a lansat un scurtmetraj științifico-fantastic cu zombie și inteligență artificială.",
+        "category": "international"
+      },
+      {
+        "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+        "translated_title": "OpenAI spune că a spart accidental platforma Hugging Face cu un nou sistem de inteligență artificială",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+        "source": "The Verge",
+        "published": "2026-07-21T21:48:54+00:00",
+        "summary": "OpenAI a spart accidental platforma Hugging Face în timpul testării interne a unui nou model de inteligență artificială.",
+        "category": "international"
+      },
+      {
+        "title": "Atacatorii cibernetici schimbă strategia: Un nou val de SMS-uri false invocă taxe și amenzi restante",
+        "translated_title": "Atacatorii cibernetici schimbă strategia: Un nou val de SMS-uri false invocă taxe și amenzi restante",
+        "url": "https://www.go4it.ro/securitate-informatica/atacatorii-cibernetici-schimba-strategia-un-nou-val-de-sms-uri-false-invoca-taxe-si-amenzi-restante-19279776/",
+        "source": "Go4IT",
+        "published": "2026-07-22T06:27:29.665224+00:00",
+        "summary": "Atacatorii cibernetici trimit SMS-uri false care invocă taxe și amenzi restante.",
+        "category": "romanian"
+      },
+      {
+        "title": "Galaxy Z Fold 8 apare, din nou, înainte de lansare. T-Mobile a publicat, din greșeală, o reclamă",
+        "translated_title": "Galaxy Z Fold 8 apare din nou înainte de lansare, T-Mobile a publicat o reclamă din greșeală",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/galaxy-z-fold-8-apare-din-nou-inainte-de-lansare-t-mobile-a-publicat-din-greseala-o-reclama-19279815/",
+        "source": "Go4IT",
+        "published": "2026-07-22T06:27:29.665090+00:00",
+        "summary": "T-Mobile a publicat din greșeală o reclamă pentru Galaxy Z Fold 8 înainte de lansare.",
+        "category": "romanian"
+      },
+      {
+        "title": "Piața telefoanelor pliabile va crește cu 21% în 2026, iar Samsung își va păstra poziția de lider",
+        "translated_title": "Piața telefoanelor pliabile va crește cu 21% în 2026, iar Samsung își va păstra poziția de lider",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/piata-telefoanelor-pliabile-va-creste-cu-21-in-2026-iar-samsung-isi-va-pastra-pozitia-de-lider-19279778/",
+        "source": "Go4IT",
+        "published": "2026-07-22T06:27:29.664951+00:00",
+        "summary": "Piața telefoanelor pliabile va crește cu 21% în 2026, iar Samsung va rămâne lider.",
+        "category": "romanian"
+      },
+      {
+        "title": "Apple pregătește un program de leasing pentru dispozitive, iar codul iOS 27 indică posibile restricții în cazul ratelor neplătite",
+        "translated_title": "Apple pregătește un program de leasing pentru dispozitive, iar codul iOS 27 indică posibile restricții în cazul ratelor neplătite",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/apple-pregateste-un-program-de-leasing-pentru-dispozitive-iar-codul-ios-27-indica-restrictii-in-cazul-ratelor-neplatite-19279819/",
+        "source": "Go4IT",
+        "published": "2026-07-22T06:27:29.664810+00:00",
+        "summary": "Apple va lansa un program de leasing pentru dispozitive, iar codul iOS 27 arată posibile restricții pentru ratele neplătite.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-07-21",
     "date_formatted": "21 Iulie 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-07-16T06:17:12.917951+00:00",
         "summary": "România ocupă penultimul loc în Uniunea Europeană în ceea ce privește ponderea tinerilor care dețin competențe digitale de bază, conform datelor Eurostat.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-15",
-    "date_formatted": "15 Iulie 2026",
-    "news": [
-      {
-        "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for July 2026",
-        "translated_title": "Coduri promoționale Noom: 50% reducere la cele mai bune oferte și perioade de probă gratuite pentru iulie 2026",
-        "url": "https://www.wired.com/story/noom-promo-code/",
-        "source": "Wired",
-        "published": "2026-07-15T05:00:00+00:00",
-        "summary": "Descoperiți cele mai bune modalități de a economisi la abonamentele Noom, inclusiv perioade de probă gratuite și oferte limitate pentru GLP-1Rx Plus.",
-        "category": "international"
-      },
-      {
-        "title": "Hydrow Discount Code: Save Up to $150 | July 2026",
-        "translated_title": "Cod de reducere Hydrow: Economisiți până la 150 de dolari în iulie 2026",
-        "url": "https://www.wired.com/story/hydrow-discount-code/",
-        "source": "Wired",
-        "published": "2026-07-15T05:00:00+00:00",
-        "summary": "Economisiți bani la rame și accesorii cu cupoane Hydrow, inclusiv o reducere exclusivă de 50 de dolari.",
-        "category": "international"
-      },
-      {
-        "title": "Womanizer Coupons: Save 15% in July",
-        "translated_title": "Cupoane Womanizer: Economisiți 15% în iulie",
-        "url": "https://www.wired.com/story/womanizer-coupon/",
-        "source": "Wired",
-        "published": "2026-07-15T05:00:00+00:00",
-        "summary": "Economisiți bani la Womanizer Duo Premium și mai mult cu codurile noastre de reducere Womanizer.",
-        "category": "international"
-      },
-      {
-        "title": "Western Digital Promo Code: 15% Off",
-        "translated_title": "Cod promoțional Western Digital: 15% reducere",
-        "url": "https://www.wired.com/story/western-digital-promo-code/",
-        "source": "Wired",
-        "published": "2026-07-15T05:00:00+00:00",
-        "summary": "Obțineți 15% reducere la prima dvs. comandă la Western Digital când vă înregistrați adresa de e-mail.",
-        "category": "international"
-      },
-      {
-        "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
-        "translated_title": "Google și Epic renunță la luptă - magazinele de aplicații pentru Android ale terților vor fi lansate săptămâna viitoare",
-        "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
-        "source": "The Verge",
-        "published": "2026-07-15T03:28:53+00:00",
-        "summary": "Epic Games și Google au renunțat la încercarea de a reglementa retroactiv procesul care schimbă modul în care funcționează magazinele de aplicații Android în Statele Unite.",
-        "category": "international"
-      },
-      {
-        "title": "Jurassic Park computers in excruciating detail",
-        "translated_title": "Calculatoarele din Parcul Jurasic în detaliu",
-        "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-        "source": "Hacker News",
-        "published": "2026-07-15T02:57:47+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-        "translated_title": "TS-2026-009: Manipularea nesigură a argumentelor în Tailscale SSH a permis accesul root",
-        "url": "https://tailscale.com/security-bulletins",
-        "source": "Hacker News",
-        "published": "2026-07-15T01:08:26+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-        "translated_title": "Cercetătorul OpenAI Miles Wang negociază lansarea unei companii de descoperire a medicamentelor bazate pe IA, evaluată la 2 miliarde de dolari",
-        "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-        "source": "TechCrunch",
-        "published": "2026-07-15T00:27:04+00:00",
-        "summary": "Discuțiile de finanțare arată interesul investitorilor în aplicarea inteligenței artificiale pentru a face descoperiri în științele vieții.",
-        "category": "international"
-      },
-      {
-        "title": "Data centers have hiked electricity prices on the public by $23B",
-        "translated_title": "Centrele de date au majorat prețurile la energia electrică pentru public cu 23 de miliarde de dolari",
-        "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
-        "source": "Hacker News",
-        "published": "2026-07-15T00:20:31+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
-        "translated_title": "Rezolvarea a 20 de probleme Erdős cu 20 de conturi Codex care rulează în paralel",
-        "url": "https://www.starfleetmath.com/",
-        "source": "Hacker News",
-        "published": "2026-07-15T00:15:56+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Lorde says AI glasses are ‘not sexy’",
-        "translated_title": "Lorde spune că ochelarii cu inteligență artificială nu sunt „sexy\"",
-        "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-        "source": "TechCrunch",
-        "published": "2026-07-14T23:10:02+00:00",
-        "summary": "Lorde a spus că „în lumea noastră, devine din ce în ce mai greu să știi ce este real\".",
-        "category": "international"
-      },
-      {
-        "title": "Digitalizarea administrației publice: Un nou jalon PNRR de 17 milioane de euro a fost îndeplinit pentru reducerea birocrației",
-        "translated_title": "Digitalizarea administrației publice: Un nou jalon PNRR de 17 milioane de euro a fost îndeplinit pentru reducerea birocrației",
-        "url": "https://www.go4it.ro/content/business/digitalizarea-administratiei-publice-un-nou-jalon-pnrr-de-17-milioane-de-euro-a-fost-indeplinit-pentru-reducerea-birocratiei-19279199/",
-        "source": "Go4IT",
-        "published": "2026-07-15T06:13:17.264829+00:00",
-        "summary": "Un nou jalon din Planul Național de Redresare și Reziliență privind transformarea digitală a instituțiilor publice a fost îndeplinit prin introducerea tehnologiilor de automatizare.",
-        "category": "romanian"
-      },
-      {
-        "title": "Livrările globale de smartphone-uri vor continua să scadă în 2026",
-        "translated_title": "Livrările globale de smartphone-uri vor continua să scadă în 2026",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/livrarile-globale-de-smartphone-uri-vor-continua-sa-scada-in-2026-19279204/",
-        "source": "Go4IT",
-        "published": "2026-07-15T06:13:17.264730+00:00",
-        "summary": "Livrările globale de smartphone-uri vor înregistra un declin de două cifre pe parcursul întregului an 2026, dar piața va fi susținută de prețurile telefoanelor flagship.",
-        "category": "romanian"
-      },
-      {
-        "title": "Google Images primește funcții noi bazate pe AI cu ocazia a 25 de ani de la lansare",
-        "translated_title": "Google Images primește funcții noi bazate pe IA cu ocazia a 25 de ani de la lansare",
-        "url": "https://www.go4it.ro/content/aplicatii/google-images-primeste-functii-noi-bazate-pe-ai-cu-ocazia-a-25-de-ani-de-la-lansare-19279213/",
-        "source": "Go4IT",
-        "published": "2026-07-15T06:13:17.264624+00:00",
-        "summary": "Google marchează 25 de ani de la lansarea serviciului Google Images prin introducerea unor funcții noi dedicate căutării și organizării imaginilor.",
-        "category": "romanian"
-      },
-      {
-        "title": "Galaxy S27 Ultra ar putea păstra designul actual al camerelor, contrar zvonurilor",
-        "translated_title": "Galaxy S27 Ultra ar putea păstra designul actual al camerelor, contrar zvonurilor",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/galaxy-s27-ultra-ar-putea-pastra-designul-actual-al-camerelor-contrar-zvonurilor-19279227/",
-        "source": "Go4IT",
-        "published": "2026-07-15T06:13:17.264521+00:00",
-        "summary": "Samsung nu pare pregătită să schimbe radical aspectul viitorului Galaxy S27 Ultra, menținând designul cu modul foto dispus orizontal.",
         "category": "romanian"
       }
     ]
