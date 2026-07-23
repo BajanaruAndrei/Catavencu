@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-07-23",
+    "date_formatted": "23 Iulie 2026",
+    "news": [
+      {
+        "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+        "translated_title": "ServiceNow pariază 40 de milioane de dolari pe specialistul indian în software bancar pentru a-și extinde serviciile financiare",
+        "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+        "source": "TechCrunch",
+        "published": "2026-07-23T06:09:13+00:00",
+        "summary": "ServiceNow a investit în BusinessNext, oferindu-i acestuia un partener strategic pentru a-și extinde software-ul bancar bazat pe inteligență artificială la nivel global.",
+        "category": "international"
+      },
+      {
+        "title": "Local AI that finds sensitive files on your Mac before attackers do",
+        "translated_title": "Local AI care găsește fișiere sensibile pe Mac-ul dvs. înainte ca atacatorii să o facă",
+        "url": "https://www.vaultsort.com/guardian",
+        "source": "Hacker News",
+        "published": "2026-07-23T05:06:12+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Restructuring GitHub's bug bounty program",
+        "translated_title": "Reorganizarea programului de vânătoare de bug-uri GitHub",
+        "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+        "source": "Hacker News",
+        "published": "2026-07-23T02:28:23+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
+        "translated_title": "Monitorizarea coloniilor de albine prin senzori audio IoT, tensori și RNN",
+        "url": "https://arxiv.org/abs/2607.20386",
+        "source": "Hacker News",
+        "published": "2026-07-23T01:58:18+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Petals: Run LLMs at home, BitTorrent-style",
+        "translated_title": "Petals: Rulează LLM la domiciliu, în stil BitTorrent",
+        "url": "https://petals.dev/",
+        "source": "Hacker News",
+        "published": "2026-07-23T01:33:12+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
+        "translated_title": "Mașina de arcade Donkey Kong a lui Lego permite lui Mario să sară peste butoaie infinite — Miyamoto este raportat a fi fericit",
+        "url": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
+        "source": "The Verge",
+        "published": "2026-07-23T00:30:00+00:00",
+        "summary": "Carl Merriam a proiectat setul de mașini de arcade Donkey Kong, care a câștigat chiar și aprobarea creatorului lui Mario.",
+        "category": "international"
+      },
+      {
+        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+        "translated_title": "După un trimestru șocant, IBM insistă că inteligența artificială nu ucide mainframe-urile",
+        "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+        "source": "TechCrunch",
+        "published": "2026-07-22T23:47:54+00:00",
+        "summary": "CEO-ul IBM a explicat că inteligența artificială a afectat temporar bugetul de hardware al companiilor.",
+        "category": "international"
+      },
+      {
+        "title": "Check out this nifty 3D Playdate game demo",
+        "translated_title": "Verificați acest demo de joc 3D Playdate",
+        "url": "https://www.engadget.com/2221371/check-out-this-nifty-3d-playdate-game-demo/",
+        "source": "Engadget",
+        "published": "2026-07-22T22:07:33+00:00",
+        "summary": "Adăugarea de noi dimensiuni dispozitivului.",
+        "category": "international"
+      },
+      {
+        "title": "Meta won’t have to face the next planned social media addiction trial",
+        "translated_title": "Meta nu va trebui să facă față următorului proces planificat pentru dependența de rețelele sociale",
+        "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
+        "source": "The Verge",
+        "published": "2026-07-22T22:03:53+00:00",
+        "summary": "Plângerea care acuza platforma de a cauza daune a fost abandonată de reclamant înainte de proces.",
+        "category": "international"
+      },
+      {
+        "title": "Steam adds handy gifting and wishlist updates",
+        "translated_title": "Steam adaugă actualizări utile pentru cadouri și liste de dorințe",
+        "url": "https://www.engadget.com/2221369/steam-adds-handy-gifting-and-wishlist-updates/",
+        "source": "Engadget",
+        "published": "2026-07-22T22:03:52+00:00",
+        "summary": "Acum puteți oferi jocuri fără a avea un cont Steam și puteți sorta lista dvs. de dorințe în categorii.",
+        "category": "international"
+      },
+      {
+        "title": "Google justifies its massive AI spending with a booming cloud business",
+        "translated_title": "Google justifică cheltuielile sale masive pentru inteligența artificială cu o afacere de cloud în plină expansiune",
+        "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+        "source": "TechCrunch",
+        "published": "2026-07-22T22:01:52+00:00",
+        "summary": "Afacerile de cloud ale Google sunt în plină expansiune, datorită adoptării serviciilor sale de inteligență artificială și infrastructură de către companii.",
+        "category": "international"
+      },
+      {
+        "title": "Honor va prezenta pe 28 iulie funcțiile foto și video ale ROBOT PHONE, dezvoltate împreună cu ARRI",
+        "translated_title": "Honor va prezenta pe 28 iulie funcțiile foto și video ale ROBOT PHONE, dezvoltate împreună cu ARRI",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/honor-va-prezenta-pe-28-iulie-functiile-foto-si-video-ale-robot-phone-dezvoltate-impreuna-cu-arri-19279921/",
+        "source": "Go4IT",
+        "published": "2026-07-23T06:29:45.995718+00:00",
+        "summary": "Honor va dezvălui primele funcții foto și video ale viitorului ROBOT PHONE la evenimentul HONOR Imaging Technology Launch Event.",
+        "category": "romanian"
+      },
+      {
+        "title": "WhatsApp: funcții noi pentru extinderea funcționalității aplicației",
+        "translated_title": "WhatsApp: funcții noi pentru extinderea funcționalității aplicației",
+        "url": "https://www.go4it.ro/content/software/whatsapp-functii-noi-pentru-extinderea-functionalitatii-aplicatiei-19279924/",
+        "source": "Go4IT",
+        "published": "2026-07-23T06:29:45.995537+00:00",
+        "summary": "WhatsApp a anunțat un nou pachet de actualizări care extinde funcționalitatea aplicației pe mai multe platforme, incluzând iPad și sisteme multimedia din automobile.",
+        "category": "romanian"
+      },
+      {
+        "title": "China preia conducerea în domeniul modelelor AI open-source de ultimă generație",
+        "translated_title": "China preia conducerea în domeniul modelelor AI open-source de ultimă generație",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/china-k3-preia-conducerea-in-domeniul-modelelor-ai-open-source-de-ultima-generatie-19279930/",
+        "source": "Go4IT",
+        "published": "2026-07-23T06:29:45.995356+00:00",
+        "summary": "China își consolidează poziția în cursa globală pentru inteligența artificială cu modele open-source, inclusiv lansarea modelului K3 de către Moonshot AI.",
+        "category": "romanian"
+      },
+      {
+        "title": "iPhone 18 Pro a intrat în producție. Foxconn accelerează angajările",
+        "translated_title": "iPhone 18 Pro a intrat în producție. Foxconn accelerează angajările",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/iphone-18-pro-a-intrat-in-productie-foxconn-accelereaza-angajarile-19279935/",
+        "source": "Go4IT",
+        "published": "2026-07-23T06:29:45.995171+00:00",
+        "summary": "Apple a început producția în masă a modelelor iPhone 18 Pro, iar Foxconn și-a intensificat recrutările pentru a susține ritmul producției.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-07-22",
     "date_formatted": "22 Iulie 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-07-17T06:14:34.484060+00:00",
         "summary": "Apple va acorda prioritate modelelor premium în 2026, în timp ce versiunea standard iPhone 18 va fi lansată mai târziu, alături de iPhone Air 2.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-16",
-    "date_formatted": "16 Iulie 2026",
-    "news": [
-      {
-        "title": "DJB Netstrings (1997)",
-        "translated_title": "Șiruri de caractere DJB (1997)",
-        "url": "https://cr.yp.to/proto/netstrings.txt",
-        "source": "Hacker News",
-        "published": "2026-07-16T05:33:50+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Lenovo Coupon Codes and Deals in July 2026",
-        "translated_title": "Coduri de reducere și oferte Lenovo în iulie 2026",
-        "url": "https://www.wired.com/story/lenovo-coupon-code/",
-        "source": "Wired",
-        "published": "2026-07-16T05:00:00+00:00",
-        "summary": "Codurile de reducere Lenovo pot ajuta la economisirea banilor la următoarea actualizare a tehnologiei.",
-        "category": "international"
-      },
-      {
-        "title": "Priceline Promo Codes & Coupons: 10% Off July",
-        "translated_title": "Coduri promo și cupoane Priceline: 10% reducere în iulie",
-        "url": "https://www.wired.com/story/priceline-promo-code/",
-        "source": "Wired",
-        "published": "2026-07-16T05:00:00+00:00",
-        "summary": "Priceline oferă coduri promo și cupoane pentru reduceri masive la hoteluri, zboruri și mașini de închiriat.",
-        "category": "international"
-      },
-      {
-        "title": "The lost joy of music piracy",
-        "translated_title": "Bucuria pierdută a pirateriei muzicale",
-        "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-        "source": "Hacker News",
-        "published": "2026-07-16T04:46:21+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Stop saying that AI is just a tool and it only matters how it is used",
-        "translated_title": "Opriți-vă să spuneți că IA este doar un instrument și că contează doar modul în care este utilizat",
-        "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
-        "source": "Hacker News",
-        "published": "2026-07-16T04:31:01+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
-        "translated_title": "Lululemon sprijină startup-ul de reciclare a nylonului Syntetica într-o investiție de 30 de milioane de dolari",
-        "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
-        "source": "TechCrunch",
-        "published": "2026-07-16T04:00:00+00:00",
-        "summary": "Syntetica, un startup care a dezvoltat o abordare inovatoare pentru reciclarea nylonului, a obținut parteneri și investitori de renume.",
-        "category": "international"
-      },
-      {
-        "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-        "translated_title": "Applied Computing dorește să ofere operatorilor de petrol și gaze un model de inteligență artificială pentru întreaga instalație",
-        "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-        "source": "TechCrunch",
-        "published": "2026-07-16T04:00:00+00:00",
-        "summary": "Applied Computing a strâns 20 de milioane de dolari pentru a construi un model de inteligență artificială pentru industria petrolieră și chimică.",
-        "category": "international"
-      },
-      {
-        "title": "My Throw Decides My Aim",
-        "translated_title": "Aruncarea mea decide ținta mea",
-        "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
-        "source": "Hacker News",
-        "published": "2026-07-16T03:51:25+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
-        "translated_title": "De ce Greylock a limitat noul său fond la 1,5 miliarde de dolari, deși ar fi putut strânge mai mult",
-        "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
-        "source": "TechCrunch",
-        "published": "2026-07-16T00:20:42+00:00",
-        "summary": "Greylock își propune să rămână cel mai important partener pentru fondatorii săi, limitând numărul de investiții la aproximativ 25 pe fond.",
-        "category": "international"
-      },
-      {
-        "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
-        "translated_title": "Căștile Skullcandy Crusher, cu bass îmbunătățit, sunt acum echipate cu tehnologia de anulare a zgomotului Bose",
-        "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
-        "source": "The Verge",
-        "published": "2026-07-16T00:00:00+00:00",
-        "summary": "Skullcandy a lansat o nouă versiune a căștilor sale Crusher, care include tehnologia de anulare a zgomotului și audio spațială Bose.",
-        "category": "international"
-      },
-      {
-        "title": "Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?",
-        "translated_title": "Poate Bose ajuta Skullcandy să își schimbe reputația de produse ieftine?",
-        "url": "https://www.wired.com/story/can-bose-help-skullcandy-shake-its-bargain-bin-reputation/",
-        "source": "Wired",
-        "published": "2026-07-16T00:00:00+00:00",
-        "summary": "Skullcandy își propune să îmbunătățească calitatea audio a produselor sale, cu ajutorul tehnologiei Bose.",
-        "category": "international"
-      },
-      {
-        "title": "Armata Elveției renunță la Microsoft Office din cauza temerilor privind spionajul american",
-        "translated_title": "Armata Elveției renunță la Microsoft Office din cauza temerilor privind spionajul american",
-        "url": "https://www.go4it.ro/content/aplicatii/armata-elvetiei-renunta-la-microsoft-office-din-cauza-temerilor-privind-spionajul-american-19279310/",
-        "source": "Go4IT",
-        "published": "2026-07-16T06:17:12.918550+00:00",
-        "summary": "Armata Elveției a decis să renunțe la produsele Microsoft și să migreze către soluții open-source, din cauza riscurilor de securitate și a posibilității de a ajunge la informații sensibile.",
-        "category": "romanian"
-      },
-      {
-        "title": "Un film realizat de Cristopher Nolan au ajutorul AI stârnește revoltă în industria cinematografică. Cinefilii spun că este „AI slop”",
-        "translated_title": "Un film realizat de Christopher Nolan cu ajutorul inteligenței artificiale stârnește revoltă în industria cinematografică",
-        "url": "https://www.go4it.ro/content/muzica-si-filme/un-film-realizat-de-cristopher-nolan-au-ajutorul-ai-starneste-revolta-in-industria-cinematografica-cinefilii-spun-ca-este-ai-slop-19279313/",
-        "source": "Go4IT",
-        "published": "2026-07-16T06:17:12.918329+00:00",
-        "summary": "Un film realizat cu inteligență artificială a stârnit controverse în industria cinematografică, fiind criticat de cinefili ca fiind un exemplu de conținut de slabă calitate.",
-        "category": "romanian"
-      },
-      {
-        "title": "Ford lansează propriul chatbot pentru clienții de flotă în Europa. Ford Pro AI, un produs „de succes” în SUA",
-        "translated_title": "Ford lansează propriul chatbot pentru clienții de flotă în Europa",
-        "url": "https://www.go4it.ro/content/auto/ford-lanseaza-propriul-chatbot-pentru-clientii-de-flota-in-europa-ford-pro-ai-un-produs-de-succes-in-sua-19279317/",
-        "source": "Go4IT",
-        "published": "2026-07-16T06:17:12.918140+00:00",
-        "summary": "Ford a lansat un chatbot pentru managerii de flotă, denumit Ford Pro AI, care a avut succes în SUA.",
-        "category": "romanian"
-      },
-      {
-        "title": "România, penultima din UE la competențe digitale în rândul tinerilor: Ce arată datele Eurostat",
-        "translated_title": "România, pe ultimul loc în UE la competențe digitale în rândul tinerilor",
-        "url": "https://www.go4it.ro/content/business/romania-penultima-din-ue-la-competente-digitale-in-randul-tinerilor-ce-arata-datele-eurostat-19279324/",
-        "source": "Go4IT",
-        "published": "2026-07-16T06:17:12.917951+00:00",
-        "summary": "România ocupă penultimul loc în Uniunea Europeană în ceea ce privește ponderea tinerilor care dețin competențe digitale de bază, conform datelor Eurostat.",
         "category": "romanian"
       }
     ]
