@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-07-24",
+    "date_formatted": "24 Iulie 2026",
+    "news": [
+      {
+        "title": "Google is expanding access to its Gemini Spark agentic AI assistant",
+        "translated_title": "Google extinde accesul la asistentul său AI Gemini Spark",
+        "url": "https://www.engadget.com/2222303/google-expanding-access-gemini-spark/",
+        "source": "Engadget",
+        "published": "2026-07-24T06:00:44+00:00",
+        "summary": "Gemini Spark este acum disponibil pentru mai mulți utilizatori.",
+        "category": "international"
+      },
+      {
+        "title": "For most US drivers, EVs offer emissions benefits and cost savings",
+        "translated_title": "Pentru majoritatea șoferilor din SUA, vehiculele electrice oferă beneficii de emisii și economii de costuri",
+        "url": "https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512",
+        "source": "Hacker News",
+        "published": "2026-07-24T05:35:30+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "translated_title": "Cum gardurile de siguranță AI împiedică munca cercetătorilor ofensivi de securitate cibernetică",
+        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+        "source": "TechCrunch",
+        "published": "2026-07-24T01:00:00+00:00",
+        "summary": "Cercetătorii de securitate cibernetică spun că gardurile de siguranță ale OpenAI și Anthropic afectează munca lor.",
+        "category": "international"
+      },
+      {
+        "title": "Show HN: A factory simulator game built on Spreadsheets",
+        "translated_title": "Arată HN: Un simulator de fabrică construit pe foi de calcul",
+        "url": "https://www.logisheets.com/?craft=factory-simulator",
+        "source": "Hacker News",
+        "published": "2026-07-24T00:59:34+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Meet the judges who will crown Australia’s next breakout startup",
+        "translated_title": "Cunoaște judecătorii care vor corona următorul startup de breakthrough din Australia",
+        "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+        "source": "TechCrunch",
+        "published": "2026-07-24T00:05:00+00:00",
+        "summary": "TechCrunch Startup Battlefield vine în Australia pentru a găsi cele mai interesante startup-uri de stadiu incipient.",
+        "category": "international"
+      },
+      {
+        "title": "An FDA Panel Just Endorsed These Unproven Peptides",
+        "translated_title": "Un panou FDA a aprobat peptide nevalidate",
+        "url": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
+        "source": "Wired",
+        "published": "2026-07-23T23:45:12+00:00",
+        "summary": "Experți externi au recomandat adăugarea unor peptide la lista FDA, inclusiv \"Wolverine stack\".",
+        "category": "international"
+      },
+      {
+        "title": "The Visual 6502",
+        "translated_title": "Visual 6502",
+        "url": "http://visual6502.org/JSSim/index.html",
+        "source": "Hacker News",
+        "published": "2026-07-23T23:36:42+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+        "translated_title": "CEO-ul Mobileye, Amnon Shashua, va părăsi funcția pe măsură ce compania se extinde în robotaxi și robotică",
+        "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+        "source": "TechCrunch",
+        "published": "2026-07-23T22:40:08+00:00",
+        "summary": "Shashua a fost invitat să preia funcția de președinte al consiliului de administrație.",
+        "category": "international"
+      },
+      {
+        "title": "Scientists develop handheld device for measuring when your body is burning fat",
+        "translated_title": "Oamenii de știință dezvoltă un dispozitiv portabil pentru măsurarea arderii grăsimilor în organism",
+        "url": "https://www.engadget.com/2222231/scientists-develop-handheld-device-for-measuring-when-your-body-is-burning-fat/",
+        "source": "Engadget",
+        "published": "2026-07-23T22:39:08+00:00",
+        "summary": "Aparatul măsoară cantitatea de acetona din respirație pentru a determina dacă organismul este în ketoză.",
+        "category": "international"
+      },
+      {
+        "title": "98.css",
+        "translated_title": "98.css",
+        "url": "https://jdan.github.io/98.css/#status-bar",
+        "source": "Hacker News",
+        "published": "2026-07-23T22:30:29+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+        "translated_title": "Alexa Plus primește o actualizare AI pentru a gestiona instrucțiuni mai complexe",
+        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+        "source": "The Verge",
+        "published": "2026-07-23T21:15:06+00:00",
+        "summary": "Alexa Plus poate conecta dispozitive inteligente de acasă în moduri noi și poate redirecționa cererile automat.",
+        "category": "international"
+      },
+      {
+        "title": "Ce modele de iPhone aleg utilizatorii care renunță la Android",
+        "translated_title": "Ce modele de iPhone aleg utilizatorii care renunță la Android",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/ce-modele-de-iphone-aleg-utilizatorii-care-renunta-la-android-19280030/",
+        "source": "Go4IT",
+        "published": "2026-07-24T06:25:40.876564+00:00",
+        "summary": "Utilizatorii care trec de la Android la iPhone preferă mai des modelele mai vechi.",
+        "category": "romanian"
+      },
+      {
+        "title": "Piața PC-urilor revine pe scădere după cinci trimestre de creștere. Memoria scumpă afectează cererea",
+        "translated_title": "Piața PC-urilor revine pe scădere după cinci trimestre de creștere. Memoria scumpă afectează cererea",
+        "url": "https://www.go4it.ro/content/business/piata-pc-urilor-revine-pe-scadere-dupa-cinci-trimestre-de-crestere-memoria-scumpa-afecteaza-cererea-19280034/",
+        "source": "Go4IT",
+        "published": "2026-07-24T06:25:40.876359+00:00",
+        "summary": "Livrările de PC-uri au scăzut cu 4% în al doilea trimestru din 2026, până la 65 de milioane de unități.",
+        "category": "romanian"
+      },
+      {
+        "title": "Valkyrie conduce CXMT către Valhalla RAM-ului: 8.800 MT/s",
+        "translated_title": "Valkyrie conduce CXMT către Valhalla RAM-ului: 8.800 MT/s",
+        "url": "https://www.go4it.ro/content/componente-pc/valkyrie-conduce-cxmt-catre-valhalla-ram-ului-8-800-mt-s-19280045/",
+        "source": "Go4IT",
+        "published": "2026-07-24T06:25:40.876180+00:00",
+        "summary": "Un kit de memorie Asgard Valkyrie II a atins o viteză de 8.800 MT/s pe o platformă Intel Z890.",
+        "category": "romanian"
+      },
+      {
+        "title": "Galaxy S27 ar putea avea schimbări la camera principală",
+        "translated_title": "Galaxy S27 ar putea avea schimbări la camera principală",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/galaxy-s27-ar-putea-avea-schimbari-la-camera-principala-19280063/",
+        "source": "Go4IT",
+        "published": "2026-07-24T06:25:40.876000+00:00",
+        "summary": "Samsung analizează utilizarea unui senzor Sony pentru camera principală a modelelor Galaxy S27 și S27 Plus.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-07-23",
     "date_formatted": "23 Iulie 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-07-18T06:04:31.714850+00:00",
         "summary": "Noul sistem digital de control la frontieră al Uniunii Europene se confruntă cu probleme tehnice majore și nu poate distinge între gemenii identici.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-17",
-    "date_formatted": "17 Iulie 2026",
-    "news": [
-      {
-        "title": "Home Depot Promo Codes: 50% Off in July 2026",
-        "translated_title": "Coduri promoționale Home Depot: 50% reducere în iulie 2026",
-        "url": "https://www.wired.com/story/home-depot-promo-code/",
-        "source": "Wired",
-        "published": "2026-07-17T05:00:00+00:00",
-        "summary": "Economisiți până la 50% astăzi cu cele mai recente coduri promoționale Home Depot pentru electrocasnice, instrumente electrice și multe altele în luna iulie.",
-        "category": "international"
-      },
-      {
-        "title": "Pebble Mega Update – July 2026",
-        "translated_title": "Actualizarea Pebble Mega – iulie 2026",
-        "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-        "source": "Hacker News",
-        "published": "2026-07-17T03:53:38+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-        "translated_title": "Cum a rezistat betonul roman timp de milenii? O latrină veche de 1.900 de ani oferă indicii",
-        "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-        "source": "Hacker News",
-        "published": "2026-07-17T03:48:26+00:00",
-        "summary": "Un articol de pe site-ul smithsonianmag.com prezintă descoperirile legate de durabilitatea betonului roman, folosind ca exemplu o latrină veche de 1.900 de ani.",
-        "category": "international"
-      },
-      {
-        "title": "UIUC AI Teaching Assistant",
-        "translated_title": "Asistent de predare AI UIUC",
-        "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
-        "source": "Hacker News",
-        "published": "2026-07-17T02:23:18+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "GrapheneOS recommended for domestic abuse victims",
-        "translated_title": "GrapheneOS recomandat pentru victimele abuzului domestic",
-        "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
-        "source": "Hacker News",
-        "published": "2026-07-17T01:36:52+00:00",
-        "summary": "Un articol de pe site-ul privacypros.com.au recomandă GrapheneOS pentru victimele abuzului domestic din Australia.",
-        "category": "international"
-      },
-      {
-        "title": "Pete Hegseth’s Plan for ‘High T’ Troops Is a Junk-Science Fever Dream",
-        "translated_title": "Planul lui Pete Hegseth pentru trupele cu „testosteron ridicat” este un coșmar științific",
-        "url": "https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/",
-        "source": "Wired",
-        "published": "2026-07-17T00:28:49+00:00",
-        "summary": "Secretarul apărării are un plan de a administra terapie de testosteron trupelor din Forțele Armate ale SUA, ceea ce arată o lipsă de înțelegere a complexității hormonilor.",
-        "category": "international"
-      },
-      {
-        "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-        "translated_title": "Primarul din San Francisco solicită reguli mai stricte după fiasco-ul traficului Waymo",
-        "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
-        "source": "TechCrunch",
-        "published": "2026-07-16T23:25:22+00:00",
-        "summary": "Primarul din San Francisco cere reguli mai stricte pentru operatorii de robotaxi, cum ar fi Waymo, după un eveniment de blocaj masiv și de lungă durată.",
-        "category": "international"
-      },
-      {
-        "title": "A White House teleprompter operator reportedly won big betting on presidential speeches",
-        "translated_title": "Un operator de teleprompter de la Casa Albă a câștigat bani pariind pe discursurile prezidențiale",
-        "url": "https://www.engadget.com/2217170/a-white-house-teleprompter-operator-reportedly-won-big-betting-on-presidential-speeches/",
-        "source": "Engadget",
-        "published": "2026-07-16T23:10:32+00:00",
-        "summary": "Un membru al personalului Casei Albe a câștigat peste 100.000 de dolari pariind pe discursurile prezidențiale pe platforma Kalshi.",
-        "category": "international"
-      },
-      {
-        "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-        "translated_title": "SpaceX a oprit brusc a doua lansare a navei spațiale Starship V3 după aprindere",
-        "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
-        "source": "TechCrunch",
-        "published": "2026-07-16T23:01:27+00:00",
-        "summary": "Compania SpaceX a oprit lansarea navei spațiale Starship V3 după aprindere, fără a oferi detalii despre ceea ce a mers prost.",
-        "category": "international"
-      },
-      {
-        "title": "Activist group takes over London bus stops with fake Meta Glasses ads",
-        "translated_title": "Un grup de activiști a preluat stațiile de autobuz din Londra cu reclame false pentru ochelarii Meta",
-        "url": "https://www.engadget.com/2217151/activist-group-takes-over-london-bus-stops-with-fake-meta-glasses-ads/",
-        "source": "Engadget",
-        "published": "2026-07-16T22:41:27+00:00",
-        "summary": "Un grup de activiști a creat reclame false pentru ochelarii Meta și le-a afișat în stațiile de autobuz din Londra, inclusiv una care prezintă o iluzie optică inspirată de filmul „Ei trăiesc”.",
-        "category": "international"
-      },
-      {
-        "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-        "translated_title": "De ce Apple a dat în judecată OpenAI, de ce New York se confruntă cu centrele de date și ce trebuie să știți despre ciclosporioză",
-        "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-        "source": "Wired",
-        "published": "2026-07-16T22:17:27+00:00",
-        "summary": "Un articol de pe site-ul Uncanny Valley discută despre drama în jurul OpenAI, atât pe plan legal, cât și reputațional, și despre impactul potențial asupra luptei companiei împotriva Anthropic.",
-        "category": "international"
-      },
-      {
-        "title": "Înalta Curte confirmă definitiv amenda Consiliului Concurenței pentru fosta HP România: Compania a abuzat de poziția dominantă",
-        "translated_title": "Înalta Curte confirmă definitiv amenda Consiliului Concurenței pentru fosta HP România: Compania a abuzat de poziția dominantă",
-        "url": "https://www.go4it.ro/content/business/inalta-curte-confirma-definitiv-amenda-consiliului-concurentei-pentru-fosta-hp-romania-compania-a-abuzat-de-pozitia-dominanta-19279399/",
-        "source": "Go4IT",
-        "published": "2026-07-17T06:14:34.484752+00:00",
-        "summary": "Înalta Curte de Casație și Justiție a confirmat că fosta HP România a încălcat Legea concurenței prin abuz de poziție dominantă pe piața imprimantelor inkjet.",
-        "category": "romanian"
-      },
-      {
-        "title": "Huawei Mate XT 2 ar putea renunța la designul octogonal al camerelor și adopta un modul pătrat",
-        "translated_title": "Huawei Mate XT 2 ar putea renunța la designul octogonal al camerelor și adopta un modul pătrat",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/huawei-mate-xt-2-ar-putea-renunta-la-designul-octogonal-al-camerelor-si-adopta-un-modul-patrat-19279402/",
-        "source": "Go4IT",
-        "published": "2026-07-17T06:14:34.484618+00:00",
-        "summary": "Huawei pregătește schimbări importante pentru viitorul telefon pliabil în trei segmente Mate XT 2, inclusiv modificări la sistemul de pliere și designul modulului foto.",
-        "category": "romanian"
-      },
-      {
-        "title": "Samsung ar putea transforma seria Galaxy Z Flip într-un telefon pliabil în ambele direcții",
-        "translated_title": "Samsung ar putea transforma seria Galaxy Z Flip într-un telefon pliabil în ambele direcții",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/samsung-ar-putea-transforma-seria-galaxy-z-flip-intr-un-telefon-pliabil-in-ambele-directii-19279416/",
-        "source": "Go4IT",
-        "published": "2026-07-17T06:14:34.484212+00:00",
-        "summary": "Samsung analizează o nouă direcție pentru gama Galaxy Z Flip, cu un telefon pliabil cu balama de 360 de grade, capabil să se plieze atât spre interior, cât și spre exterior.",
-        "category": "romanian"
-      },
-      {
-        "title": "Apple mizează pe modelele iPhone Pro în 2026, în ciuda scumpirilor anticipate",
-        "translated_title": "Apple mizează pe modelele iPhone Pro în 2026, în ciuda scumpirilor anticipate",
-        "url": "https://www.go4it.ro/content/business/apple-mizeaza-pe-modelele-iphone-pro-in-2026-in-ciuda-scumpirilor-anticipate-19279422/",
-        "source": "Go4IT",
-        "published": "2026-07-17T06:14:34.484060+00:00",
-        "summary": "Apple va acorda prioritate modelelor premium în 2026, în timp ce versiunea standard iPhone 18 va fi lansată mai târziu, alături de iPhone Air 2.",
         "category": "romanian"
       }
     ]
