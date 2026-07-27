@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-07-27",
+    "date_formatted": "27 Iulie 2026",
+    "news": [
+      {
+        "title": "EU Fines Google $1.02B for Favoring Its Own Services",
+        "translated_title": "UE amendă Google cu 1,02 miliarde de dolari pentru favorizarea propriilor servicii",
+        "url": "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb",
+        "source": "Hacker News",
+        "published": "2026-07-27T05:31:33+00:00",
+        "summary": "Google a fost amendat de Uniunea Europeană cu 1,02 miliarde de dolari pentru încălcarea regulilor antitrust din domeniul tehnologiei.",
+        "category": "international"
+      },
+      {
+        "title": "Apple is banking on privacy to set its smart glasses apart",
+        "translated_title": "Apple se bazează pe confidențialitate pentru a-și diferenția ochelarii inteligenți",
+        "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+        "source": "The Verge",
+        "published": "2026-07-26T19:36:38+00:00",
+        "summary": "Apple plănuiește să lanseze primii săi ochelari inteligenți la WWDC în iunie 2027, cu accent pe confidențialitate.",
+        "category": "international"
+      },
+      {
+        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+        "translated_title": "CEO-ul Hugging Face solicită „transparență radicală” după atacul cibernetic „fără precedent” asupra OpenAI",
+        "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+        "source": "TechCrunch",
+        "published": "2026-07-26T16:33:13+00:00",
+        "summary": "CEO-ul Hugging Face consideră atacul cibernetic asupra OpenAI ca fiind un eveniment fără precedent și solicită o reacție similară.",
+        "category": "international"
+      },
+      {
+        "title": "Making sense of the panic over Chinese AI",
+        "translated_title": "Înțelegerea panicii legate de inteligența artificială chineză",
+        "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+        "source": "TechCrunch",
+        "published": "2026-07-26T19:40:57+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Are brain waves the next unlock for physical AI?",
+        "translated_title": "Undele cerebrale, următorul pas pentru inteligența artificială fizică?",
+        "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+        "source": "TechCrunch",
+        "published": "2026-07-27T00:19:14+00:00",
+        "summary": "Modelele de inteligență artificială fizică avansate necesită multiple unghiuri de cameră, annotări dense și citiri ale undelor cerebrale.",
+        "category": "international"
+      },
+      {
+        "title": "The US is charging an American citizen for wiping his phone at the border",
+        "translated_title": "SUA acuză un cetățean american pentru ștergerea telefonului la frontieră",
+        "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
+        "source": "The Verge",
+        "published": "2026-07-26T18:45:50+00:00",
+        "summary": "Un cetățean american a fost acuzat pentru furnizarea unei parole de urgență care a șters telefonul său când a fost oprit la aeroport.",
+        "category": "international"
+      },
+      {
+        "title": "Here's our first look at Apple TV's Neuromancer adaptation",
+        "translated_title": "Prima noastră privire asupra adaptării Apple TV a romanului Neuromancer",
+        "url": "https://www.engadget.com/2223559/first-look-apple-tv-neuromancer-adaptation-teaser-trailer/",
+        "source": "Engadget",
+        "published": "2026-07-26T18:25:03+00:00",
+        "summary": "Adaptarea Apple TV a romanului Neuromancer va fi lansată pe 22 ianuarie 2027.",
+        "category": "international"
+      },
+      {
+        "title": "A new look for the Apple Watch may still be at least a year away",
+        "translated_title": "Un nou design pentru Apple Watch ar putea fi încă la un an distanță",
+        "url": "https://www.engadget.com/2223488/apple-watch-redesign-a-year-away-series-12-ultra-4-updates/",
+        "source": "Engadget",
+        "published": "2026-07-26T16:45:27+00:00",
+        "summary": "Apple va actualiza ceasurile sale Series 12 și Ultra 4 cu specificații îmbunătățite, dar fără o schimbare majoră de design.",
+        "category": "international"
+      },
+      {
+        "title": "Why do phones still use battery when powered off?",
+        "translated_title": "De ce telefoanele încă consumă baterie când sunt oprite?",
+        "url": "https://www.engadget.com/2219830/phone-battery-powered-off-explained/",
+        "source": "Engadget",
+        "published": "2026-07-26T16:30:00+00:00",
+        "summary": "Bateria unui telefon continuă să piardă încărcarea chiar și atunci când este oprit.",
+        "category": "international"
+      },
+      {
+        "title": "Android Auto has a developer menu you can access in seconds",
+        "translated_title": "Android Auto are un meniu pentru dezvoltatori pe care îl poți accesa în secunde",
+        "url": "https://www.engadget.com/2218723/android-auto-hidden-menu/",
+        "source": "Engadget",
+        "published": "2026-07-26T15:30:00+00:00",
+        "summary": "Software-ul Android Auto are un meniu pentru dezvoltatori care poate fi accesat rapid.",
+        "category": "international"
+      },
+      {
+        "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
+        "translated_title": "Champagne și gloanțe aparține pe Muntele Rushmore al filmelor proaste",
+        "url": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
+        "source": "The Verge",
+        "published": "2026-07-26T21:24:07+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "România pregătește cadrul legal pentru Legea Europeană a Inteligenței Artificiale. Arbitrul telecomunicațiilor, ANCOM, va supraveghea piața",
+        "translated_title": "România pregătește cadrul legal pentru Legea Europeană a Inteligenței Artificiale",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/romania-pregateste-cadrul-legal-pentru-legea-europeana-a-inteligentei-artificiale-arbitrul-telecomunicatiilor-ancom-va-supraveghea-piata-19280278/",
+        "source": "Go4IT",
+        "published": "2026-07-27T07:30:11.724770+00:00",
+        "summary": "ANCOM va supraveghea piața în cadrul pregătirii legislative pentru Legea Europeană a Inteligenței Artificiale în România.",
+        "category": "romanian"
+      },
+      {
+        "title": "AMD: Cele mai importante anunțuri de la Advancing AI 2026",
+        "translated_title": "AMD: Cele mai importante anunțuri de la Advancing AI 2026",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/amd-cele-mai-importante-anunturi-de-la-advancing-ai-2026-19280251/",
+        "source": "Go4IT",
+        "published": "2026-07-27T07:30:11.726023+00:00",
+        "summary": "AMD a prezentat noua sa generație de soluții de calcul pentru inteligență artificială la evenimentul Advancing AI.",
+        "category": "romanian"
+      },
+      {
+        "title": "AMD și Anthropic anunță un nou parteneriat strategic",
+        "translated_title": "AMD și Anthropic anunță un nou parteneriat strategic",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/amd-si-anthropic-anunta-un-nou-parteneriat-strategic-19280268/",
+        "source": "Go4IT",
+        "published": "2026-07-27T07:30:11.725476+00:00",
+        "summary": "AMD și Anthropic vor implementa până la 2 gigawați de putere de calcul bazată pe unitățile de procesare grafică AMD Instinct.",
+        "category": "romanian"
+      },
+      {
+        "title": "Honor își prezintă noua identitate de brand: se transformă într-o “companie de ecosistem AI”",
+        "translated_title": "Honor își prezintă noua identitate de brand: se transformă într-o „companie de ecosistem AI”",
+        "url": "https://www.go4it.ro/content/anunturi/honor-isi-prezinta-noua-identitate-de-brand-se-transforma-intr-o-companie-de-ecosistem-ai-19280257/",
+        "source": "Go4IT",
+        "published": "2026-07-27T07:30:11.725841+00:00",
+        "summary": "Honor se transformă într-o companie de ecosistem AI, marcând o schimbare strategică în evoluția sa internațională.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-07-26",
     "date_formatted": "26 Iulie 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-07-21T06:27:36.380968+00:00",
         "summary": "Ingineri de la Northwestern University au dezvoltat o dronă numită Phantom Twist, care poate deveni mult mai greu de observat în timpul zborului.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-20",
-    "date_formatted": "20 Iulie 2026",
-    "news": [
-      {
-        "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-        "translated_title": "Netflix a plătit 587 de milioane de dolari pentru startup-ul de filmmaking AI al lui Ben Affleck",
-        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-        "source": "TechCrunch",
-        "published": "2026-07-19T21:45:00+00:00",
-        "summary": "Netflix a plătit 587 de milioane de dolari în numerar pentru InterPositive, o companie fondată de Ben Affleck.",
-        "category": "international"
-      },
-      {
-        "title": "The FBI reportedly won’t investigate ICE anymore",
-        "translated_title": "FBI-ul nu va mai investiga ICE, conform unor rapoarte",
-        "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
-        "source": "The Verge",
-        "published": "2026-07-19T16:42:10+00:00",
-        "summary": "Conform New York Times, agenții federali au fost informați că FBI-ul nu va mai investiga confruntările care implică agenți ICE.",
-        "category": "international"
-      },
-      {
-        "title": "Power companies are using eminent domain to seize land for data centers",
-        "translated_title": "Companiile de energie folosesc dreptul de expropriere pentru a confisca terenuri pentru centre de date",
-        "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
-        "source": "Hacker News",
-        "published": "2026-07-20T04:19:22+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "The Search for Another Earth-Like Planet Just Took a Big Step Forward",
-        "translated_title": "Căutarea unei planete similare Pământului a făcut un pas mare înainte",
-        "url": "https://www.wired.com/story/search-for-earth-like-planet-step-forward/",
-        "source": "Wired",
-        "published": "2026-07-19T10:00:00+00:00",
-        "summary": "Astronomii au descoperit o planetă stâncoasă cu atmosferă, situată în zona locuibilă a unui sistem solar.",
-        "category": "international"
-      },
-      {
-        "title": "NASA shares beautiful timelapse of the Psyche spacecraft's view over Mars",
-        "translated_title": "NASA a publicat o secvență de timp a navei spațiale Psyche deasupra lui Marte",
-        "url": "https://www.engadget.com/2218251/nasa-mars-timelapse-psyche-spacecraft-close-approach/",
-        "source": "Engadget",
-        "published": "2026-07-19T19:08:51+00:00",
-        "summary": "Nava spațială a zburat pe lângă planeta roșie în mai, pe drumul său către asteroidul cu același nume.",
-        "category": "international"
-      },
-      {
-        "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
-        "translated_title": "Un proiect incredibil al lui Kieran Hebden (cunoscut și ca Four Tet)",
-        "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
-        "source": "The Verge",
-        "published": "2026-07-19T21:02:45+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
-        "translated_title": "Kodak EC35, o cameră foto point-and-shoot ieftină",
-        "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
-        "source": "The Verge",
-        "published": "2026-07-19T19:26:06+00:00",
-        "summary": "Reto Project lansează Kodak EC35, o cameră foto cu film de 35 mm, la prețul de 34,99 dolari.",
-        "category": "international"
-      },
-      {
-        "title": "I hate that I don’t hate this song made with Suno",
-        "translated_title": "Cântecul creat cu Suno este plăcut, în ciuda așteptărilor",
-        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-        "source": "The Verge",
-        "published": "2026-07-19T17:35:54+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "What to watch for after Jensen Huang’s Japan visit",
-        "translated_title": "Ce urmează după vizita lui Jensen Huang în Japonia",
-        "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-        "source": "TechCrunch",
-        "published": "2026-07-19T21:16:07+00:00",
-        "summary": "Jensen Huang a plecat din Tokyo cu acorduri care acoperă întregul ecosistem tehnologic japonez.",
-        "category": "international"
-      },
-      {
-        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-        "translated_title": "Poate o procesă a Apple să împiedice planurile OpenAI de a intra pe piața hardware-ului?",
-        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-        "source": "TechCrunch",
-        "published": "2026-07-19T19:24:45+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "TechCrunch Mobility: The battle over robotaxi rules",
-        "translated_title": "Bătălia pentru regulile robotaxi-urilor",
-        "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
-        "source": "TechCrunch",
-        "published": "2026-07-19T16:05:00+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Valve avertizează că prețurile memoriei RAM și ale SSD-urilor vor continua să crească",
-        "translated_title": "Valve avertizează că prețurile memoriei RAM și ale SSD-urilor vor continua să crească",
-        "url": "https://start-up.ro/valve-avertizeaza-ca-preturile-memoriei-ram-si-ale-ssd-urilor-vor-continua-sa-creasca/",
-        "source": "start-up.ro",
-        "published": "2026-07-20T06:08:35+00:00",
-        "summary": "Valve avertizează că prețurile componentelor de stocare și ale memoriei RAM nu au atins încă nivelul maxim.",
-        "category": "romanian"
-      },
-      {
-        "title": "Christopher Nolan: AI este un „cal troian” care ascunde mai mult decât promite",
-        "translated_title": "Christopher Nolan: Inteligența artificială este un „cal troian”",
-        "url": "https://start-up.ro/christopher-nolan-ai-este-un-cal-troian-care-ascunde-mai-mult-decat-promite/",
-        "source": "start-up.ro",
-        "published": "2026-07-20T06:01:44+00:00",
-        "summary": "Christopher Nolan consideră că inteligența artificială este un „cal troian” care promite beneficii, dar poate ascunde consecințe importante pentru societate.",
-        "category": "romanian"
-      },
-      {
-        "title": "Noi excepții în UE pentru bateriile detașabile: ce dispozitive nu vor permite înlocuirea de către utilizatori",
-        "translated_title": "Noi excepții în UE pentru bateriile detașabile",
-        "url": "https://start-up.ro/noi-exceptii-in-ue-pentru-bateriile-detasabile-ce-dispozitive-nu-vor-permite-inlocuirea-de-catre-utilizatori/",
-        "source": "start-up.ro",
-        "published": "2026-07-20T05:55:06+00:00",
-        "summary": "Comisia Europeană a adoptat noi excepții de la regulile UE privind bateriile portabile, astfel încât șase categorii suplimentare de produse nu vor mai trebui să permită utilizatorilor înlocuirea bateriilor.",
-        "category": "romanian"
-      },
-      {
-        "title": "La cinci zile după atacul cibernetic, ANCPI își reinstalează infrastructura IT. CEO-ul Bit Sentinel cere un program național de securitate ofensivă",
-        "translated_title": "ANCPI și-a reinstalat infrastructura IT după atacul cibernetic",
-        "url": "https://start-up.ro/la-cinci-zile-dupa-atacul-cibernetic-ancpi-spune-ca-isi-reinstaleaza-infrastructura-it-ceo-ul-bit-sentinel-cere-un-program-national-de-securitate-ofensiva/",
-        "source": "start-up.ro",
-        "published": "2026-07-19T13:44:11+00:00",
-        "summary": "La aproape o săptămână după atacul cibernetic, ANCPI și-a reinstalat infrastructura IT, iar CEO-ul Bit Sentinel cere un program național de securitate ofensivă.",
         "category": "romanian"
       }
     ]
