@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-07-28",
+    "date_formatted": "28 Iulie 2026",
+    "news": [
+      {
+        "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+        "translated_title": "Ars Astronomica – Traduceri în limba engleză ale unor texte rare de astronomie în ebraică și latină",
+        "url": "https://arsastronomica.com/",
+        "source": "Hacker News",
+        "published": "2026-07-28T05:25:34+00:00",
+        "summary": "Site-ul arsastronomica.com oferă traduceri în limba engleză ale unor texte rare de astronomie în ebraică și latină.",
+        "category": "international"
+      },
+      {
+        "title": "Ulta Promo Codes: Up to 50% Off in July 2026",
+        "translated_title": "Coduri promoționale Ulta: până la 50% reducere în luna iulie 2026",
+        "url": "https://www.wired.com/story/ulta-coupon/",
+        "source": "Wired",
+        "published": "2026-07-28T05:02:00+00:00",
+        "summary": "Ulta oferă coduri promoționale pentru a cumpăra produse de frumusețe cu până la 50% reducere în luna iulie 2026.",
+        "category": "international"
+      },
+      {
+        "title": "Birdfy Discount Codes: 15% Off Sitewide",
+        "translated_title": "Coduri de reducere Birdfy: 15% reducere la nivelul întregului site",
+        "url": "https://www.wired.com/story/birdfy-discount-code/",
+        "source": "Wired",
+        "published": "2026-07-28T05:00:00+00:00",
+        "summary": "Birdfy oferă coduri de reducere verificate pentru a cumpăra hrănitori inteligenți, kituri de cameră și accesorii cu până la 40% reducere.",
+        "category": "international"
+      },
+      {
+        "title": "Neutrino-1 8B",
+        "translated_title": "Neutrino-1 8B",
+        "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+        "source": "Hacker News",
+        "published": "2026-07-28T04:49:54+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "PyTorch: A Reference Language",
+        "translated_title": "PyTorch: O limbă de referință",
+        "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+        "source": "Hacker News",
+        "published": "2026-07-28T04:46:00+00:00",
+        "summary": "PyTorch este prezentat ca o limbă de referință.",
+        "category": "international"
+      },
+      {
+        "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+        "translated_title": "Cursor și-a făcut cea mai mare expansiune în India până în prezent, înainte de achiziția de către SpaceX, cu prețuri localizate",
+        "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+        "source": "TechCrunch",
+        "published": "2026-07-28T04:30:00+00:00",
+        "summary": "Cursor a anunțat că India este acum cel de-al treilea său cel mai mare piață la nivel global și planifică să extindă angajările locale și vânzările pentru întreprinderi.",
+        "category": "international"
+      },
+      {
+        "title": "Show HN: A 6M-token movable window on a single 46GB GPU",
+        "translated_title": "Prezentare HN: O fereastră mobilă de 6 milioane de tokeni pe un singur GPU de 46 GB",
+        "url": "https://arxiv.org/abs/2607.23806",
+        "source": "Hacker News",
+        "published": "2026-07-28T04:11:45+00:00",
+        "summary": "A fost prezentată o fereastră mobilă de 6 milioane de tokeni pe un singur GPU de 46 GB.",
+        "category": "international"
+      },
+      {
+        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+        "translated_title": "Răspunsul lui Dario Amodei de la Anthropic: nu se opune modelelor deschise, dar se teme de inteligența artificială chineză",
+        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+        "source": "TechCrunch",
+        "published": "2026-07-28T00:13:33+00:00",
+        "summary": "Dario Amodei, fondatorul și directorul general al Anthropic, și-a exprimat punctul de vedere cu privire la modelele deschise și capacitățile de inteligență artificială ale Chinei.",
+        "category": "international"
+      },
+      {
+        "title": "France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires",
+        "translated_title": "Franța înregistrează primul său nor pyrocumulonimbus vreodată, în mijlocul incendiilor care bat toate recordurile",
+        "url": "https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/",
+        "source": "Wired",
+        "published": "2026-07-27T22:57:20+00:00",
+        "summary": "Franța a înregistrat primul său nor pyrocumulonimbus, ca urmare a condițiilor extreme de incendiu de pe sol care au creat condiții fără precedent în atmosferă.",
+        "category": "international"
+      },
+      {
+        "title": "X Money is launching in the US starting today",
+        "translated_title": "X Money se lansează în Statele Unite începând de astăzi",
+        "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+        "source": "The Verge",
+        "published": "2026-07-27T22:10:18+00:00",
+        "summary": "X Money, o parte esențială a misiunii lui Elon Musk de a transforma X într-o „aplicație pentru tot”, se lansează în Statele Unite începând de astăzi.",
+        "category": "international"
+      },
+      {
+        "title": "X Money begins limited US rollout",
+        "translated_title": "X Money începe lansarea limitată în Statele Unite",
+        "url": "https://www.engadget.com/2224633/x-money-begins-limited-us-rollout/",
+        "source": "Engadget",
+        "published": "2026-07-27T22:04:17+00:00",
+        "summary": "Doar abonații Premium și Premium X au privilegiul de a folosi serviciile bancare oferite de Elon Musk pentru moment.",
+        "category": "international"
+      },
+      {
+        "title": "Zvon: Apple solicită, de la parteneri, prețuri mai scăzute pentru ecranele dedicate gamei iPhone 18",
+        "translated_title": "Zvon: Apple solicită partenerilor săi prețuri mai scăzute pentru ecranele dedicate gamei iPhone 18",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/zvon-apple-solicita-de-la-parteneri-preturi-mai-scazute-pentru-ecranele-dedicate-gamei-iphone-18-19280308/",
+        "source": "Go4IT",
+        "published": "2026-07-28T06:26:22.820951+00:00",
+        "summary": "Apple ar cere partenerilor săi să reducă prețurile panourilor de afișaj, din cauza creșterii costurilor de producție a iPhone-urilor, cauzate de majorarea prețurilor pentru semiconductori.",
+        "category": "romanian"
+      },
+      {
+        "title": "Portul Constanța își sporește securitatea: Două sisteme submarine autonome Triton vor detecta dronele marine",
+        "translated_title": "Portul Constanța își sporește securitatea: Două sisteme submarine autonome Triton vor detecta dronele marine",
+        "url": "https://www.go4it.ro/content/drone/portul-constanta-isi-sporeste-securitatea-doua-sisteme-submarine-autonome-triton-vor-detecta-dronele-marine-19280310/",
+        "source": "Go4IT",
+        "published": "2026-07-28T06:26:22.820767+00:00",
+        "summary": "Portul Constanța va fi monitorizat de două sisteme maritime autonome Triton, concepute pentru detectarea și supravegherea dronelor marine.",
+        "category": "romanian"
+      },
+      {
+        "title": "ChatGPR a oferit instrucțiuni pentru arme biologice și otrăvuri – investigație WSJ",
+        "translated_title": "ChatGPR a oferit instrucțiuni pentru arme biologice și otrăvuri – investigație WSJ",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/chatgpr-a-oferit-instructiuni-pentru-arme-biologice-si-otravuri-investigatie-wsj-19280313/",
+        "source": "Go4IT",
+        "published": "2026-07-28T06:26:22.820582+00:00",
+        "summary": "Modelul de inteligență artificială ChatGPT a oferit utilizatorilor instrucțiuni detaliate despre crearea de arme biologice și otrăvuri, potrivit unei investigații publicate de The Wall Street Journal.",
+        "category": "romanian"
+      },
+      {
+        "title": "VIDEO: Unboxing pentru Honor Robot Phone. Când va fi lansat smartphone-ul cu braț robotic",
+        "translated_title": "VIDEO: Unboxing pentru Honor Robot Phone. Când va fi lansat smartphone-ul cu braț robotic",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/video-unboxing-pentru-honor-robot-phone-cand-va-fi-lansat-smartphone-ul-cu-brat-robotic-19280314/",
+        "source": "Go4IT",
+        "published": "2026-07-28T06:26:22.820399+00:00",
+        "summary": "Honor a anunțat data oficială a lansării noului său model revoluționar Robot Phone, care va fi prezentat în cadrul evenimentului „Imaging Technology Launch Event”.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-07-27",
     "date_formatted": "27 Iulie 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-07-22T06:27:29.664810+00:00",
         "summary": "Apple va lansa un program de leasing pentru dispozitive, iar codul iOS 27 arată posibile restricții pentru ratele neplătite.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-21",
-    "date_formatted": "21 Iulie 2026",
-    "news": [
-      {
-        "title": "Reverse-engineering is cheap now",
-        "translated_title": "Ingineria inversă este acum ieftină",
-        "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
-        "source": "Hacker News",
-        "published": "2026-07-21T05:10:46+00:00",
-        "summary": "Ingineria inversă a devenit mai accesibilă din punct de vedere financiar.",
-        "category": "international"
-      },
-      {
-        "title": "Do we just want slaves?",
-        "translated_title": "Vrem doar sclavi?",
-        "url": "https://www.yashthapliyal.com/blog/do-we-just-want-slaves",
-        "source": "Hacker News",
-        "published": "2026-07-21T04:56:18+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
-        "translated_title": "Prezentare HN: Ex Situ – Index spațial deschis al artefactelor culturale strămutate",
-        "url": "https://exsitu.app/map",
-        "source": "Hacker News",
-        "published": "2026-07-21T04:48:32+00:00",
-        "summary": "A fost creat un index spațial care cartografiază artefactele muzeale ca arce/hyperlink-uri de la locul de origine la instituțiile care le dețin.",
-        "category": "international"
-      },
-      {
-        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-        "translated_title": "Datoriile ascunse ale celor cinci giganți tehnologici americani ajung la 1,65 trilioane de dolari din cauza finanțării opace pentru AI",
-        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-        "source": "Hacker News",
-        "published": "2026-07-21T03:56:03+00:00",
-        "summary": "Datoriile ascunse ale celor cinci giganți tehnologici americani au crescut la 1,65 trilioane de dolari din cauza finanțării opace pentru tehnologia de inteligență artificială.",
-        "category": "international"
-      },
-      {
-        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-        "translated_title": "Acordul de 1,5 miliarde de dolari al Anthropic pentru drepturi de autor a fost aprobat",
-        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-        "source": "TechCrunch",
-        "published": "2026-07-21T00:12:24+00:00",
-        "summary": "Acordul de 1,5 miliarde de dolari al Anthropic pentru drepturi de autor a fost aprobat, dar nu rezolvă problema utilizării operelor protejate prin drepturi de autor pentru a antrena modele de inteligență artificială.",
-        "category": "international"
-      },
-      {
-        "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
-        "translated_title": "Colossal Biosciences este în negocieri pentru a strânge capital nou la o valoare de 20-30 de miliarde de dolari",
-        "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
-        "source": "TechCrunch",
-        "published": "2026-07-20T23:39:35+00:00",
-        "summary": "Colossal Biosciences, o companie care se ocupă cu reînvierea speciilor dispărute, este în negocieri pentru a strânge capital nou la o valoare de 20-30 de miliarde de dolari.",
-        "category": "international"
-      },
-      {
-        "title": "Amazon's Adaptive Display for Fire TVs is officially rolling out today",
-        "translated_title": "Ecranul adaptiv al lui Amazon pentru Fire TVs este lansat oficial astăzi",
-        "url": "https://www.engadget.com/2219335/amazon-adaptive-display-for-fire-tvs-is-officially-rolling-out-today/",
-        "source": "Engadget",
-        "published": "2026-07-20T23:02:44+00:00",
-        "summary": "Ecranul adaptiv al lui Amazon pentru Fire TVs, o funcție de accesibilitate, este lansat oficial astăzi.",
-        "category": "international"
-      },
-      {
-        "title": "Trump’s latest AI czar has already resigned",
-        "translated_title": "Noul țar al inteligenței artificiale al lui Trump a demisionat deja",
-        "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-        "source": "TechCrunch",
-        "published": "2026-07-20T22:21:04+00:00",
-        "summary": "Directorul Centrului pentru Standarde și Inovare în Inteligență Artificială (CAISI) a demisionat, marcând o rotație a funcției de țar al inteligenței artificiale.",
-        "category": "international"
-      },
-      {
-        "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
-        "translated_title": "Iată cele 30.000 de cântece pentru care Sony îl dau în judecată pe Udio, generatorul de muzică cu inteligență artificială",
-        "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-        "source": "The Verge",
-        "published": "2026-07-20T22:19:12+00:00",
-        "summary": "Sony Music Entertainment a dat în judecată Udio, acuzând generatorul de muzică cu inteligență artificială de a încălca drepturile de autor pentru peste 30.000 de cântece.",
-        "category": "international"
-      },
-      {
-        "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
-        "translated_title": "FCC intenționează să interzică retroactiv dispozitivele DJI deghizate",
-        "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
-        "source": "The Verge",
-        "published": "2026-07-20T22:16:14+00:00",
-        "summary": "Comisia Federală pentru Comunicații (FCC) se pregătește să interzică retroactiv dispozitivele DJI care au fost aprobate anterior pentru a fi importate și vândute în Statele Unite.",
-        "category": "international"
-      },
-      {
-        "title": "The first UL 3700-compliant plug-in solar microinverter is now available in the US",
-        "translated_title": "Primul microinverter solar cu prindere pentru perete, conform standardului UL 3700, este acum disponibil în SUA",
-        "url": "https://www.engadget.com/2219291/the-first-ul-3700-compliant-plug-in-solar-microinverter-is-now-available-in-the-us/",
-        "source": "Engadget",
-        "published": "2026-07-20T21:55:05+00:00",
-        "summary": "A fost lansat primul microinverter solar cu prindere pentru perete care respectă standardul UL 3700, facilitând accesul la energie alternativă pe scară mai mică.",
-        "category": "international"
-      },
-      {
-        "title": "Noi imagini cu Galaxy Z Fold 8 dezvăluie designul viitorului pliabil Samsung",
-        "translated_title": "Noi imagini cu Galaxy Z Fold 8 dezvăluie designul viitorului telefon pliabil Samsung",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/noi-imagini-cu-galaxy-z-fold-8-dezvaluie-designul-viitorului-pliabil-samsung-19279710/",
-        "source": "Go4IT",
-        "published": "2026-07-21T06:27:36.381382+00:00",
-        "summary": "Au apărut imagini neoficiale cu Samsung Galaxy Z Fold 8, oferind o imagine clară asupra designului viitorului telefon pliabil.",
-        "category": "romanian"
-      },
-      {
-        "title": "Piața telefoanelor pliabile a scăzut în trimestrul al doilea. Huawei rămâne lider, iar Samsung accelerează",
-        "translated_title": "Piața telefoanelor pliabile a scăzut în trimestrul al doilea, Huawei rămâne lider, iar Samsung accelerează",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/piata-telefoanelor-pliabile-a-scazut-in-trimestrul-al-doilea-huawei-ramane-lider-iar-samsung-accelereaza-19279673/",
-        "source": "Go4IT",
-        "published": "2026-07-21T06:27:36.381247+00:00",
-        "summary": "Piața globală a telefoanelor pliabile a scăzut cu 2% în al doilea trimestru din 2026, dar Huawei a rămas lider, în timp ce Samsung a accelerat.",
-        "category": "romanian"
-      },
-      {
-        "title": "Honor ROBOT PHONE: Cât ar putea costa? Ce spun zvonurile",
-        "translated_title": "Honor ROBOT PHONE: Cât ar putea costa? Ce spun zvonurile",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/honor-robot-phone-cat-ar-putea-costa-ce-spun-zvonurile-19279685/",
-        "source": "Go4IT",
-        "published": "2026-07-21T06:27:36.381113+00:00",
-        "summary": "Honor se pregătește să lanseze ROBOT PHONE, un smartphone cu design inovator, și există zvonuri despre prețul său.",
-        "category": "romanian"
-      },
-      {
-        "title": "Phantom Twist: Cercetătorii au creat o dronă mult mai greu de observat cu ochiul liber – VIDEO",
-        "translated_title": "Phantom Twist: Cercetătorii au creat o dronă mult mai greu de observat cu ochiul liber",
-        "url": "https://www.go4it.ro/content/drone/phantom-twist-cercetatorii-au-creat-o-drona-mult-mai-greu-de-observat-cu-ochiul-liber-video-19279690/",
-        "source": "Go4IT",
-        "published": "2026-07-21T06:27:36.380968+00:00",
-        "summary": "Ingineri de la Northwestern University au dezvoltat o dronă numită Phantom Twist, care poate deveni mult mai greu de observat în timpul zborului.",
         "category": "romanian"
       }
     ]
