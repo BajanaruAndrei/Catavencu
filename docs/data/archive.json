@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-07-30",
+    "date_formatted": "30 Iulie 2026",
+    "news": [
+      {
+        "title": "1,741 \"informed\" consents with one click? GDPR complaint filed",
+        "translated_title": "1.741 „consimțăminte informate” cu un singur click? Plângere GDPR depusă",
+        "url": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
+        "source": "Hacker News",
+        "published": "2026-07-30T05:33:30+00:00",
+        "summary": "A fost depusă o plângere GDPR împotriva Dictcc.",
+        "category": "international"
+      },
+      {
+        "title": "Nike Promo Codes and Discounts: 30% for August 2026",
+        "translated_title": "Coduri promoționale Nike și reduceri: 30% pentru august 2026",
+        "url": "https://www.wired.com/story/nike-promo-code/",
+        "source": "Wired",
+        "published": "2026-07-30T05:00:00+00:00",
+        "summary": "Nike oferă reduceri de până la 15% pentru anumite cumpărături în august 2026.",
+        "category": "international"
+      },
+      {
+        "title": "NSF pilots 4-year PhDs with industry research placements",
+        "translated_title": "NSF testează programe de doctorat de 4 ani cu plasamente de cercetare în industrie",
+        "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+        "source": "Hacker News",
+        "published": "2026-07-30T02:55:21+00:00",
+        "summary": "NSF a lansat un program pilot pentru programe de doctorat de 4 ani cu plasamente de cercetare în industrie.",
+        "category": "international"
+      },
+      {
+        "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+        "translated_title": "Kuna: Dezvoltarea deconcompilatorilor în era agenților de codare",
+        "url": "https://noelo.org/blog/kuna-release/",
+        "source": "Hacker News",
+        "published": "2026-07-30T02:41:16+00:00",
+        "summary": "A fost lansat Kuna, un deconcompilator.",
+        "category": "international"
+      },
+      {
+        "title": "Logic for Programmers",
+        "translated_title": "Logică pentru programatori",
+        "url": "https://logicforprogrammers.com/",
+        "source": "Hacker News",
+        "published": "2026-07-30T00:51:39+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "translated_title": "Microsoft concurează deschis cu OpenAI și Anthropic",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "source": "TechCrunch",
+        "published": "2026-07-30T00:21:06+00:00",
+        "summary": "Microsoft și-a prezentat propriile modele de inteligență artificială și planurile de creștere.",
+        "category": "international"
+      },
+      {
+        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+        "translated_title": "Zuckerberg spune că oportunitatea de inteligență artificială a Meta depășește agenții",
+        "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+        "source": "TechCrunch",
+        "published": "2026-07-29T22:23:12+00:00",
+        "summary": "Mark Zuckerberg a declarat că Meta vede o oportunitate mare de inteligență artificială în afara agenților.",
+        "category": "international"
+      },
+      {
+        "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+        "translated_title": "Microsoft confirmă lansarea aplicației „super app” Copilot în acest an",
+        "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+        "source": "The Verge",
+        "published": "2026-07-29T22:17:38+00:00",
+        "summary": "Microsoft va lansa o aplicație „super app” care combină funcțiile Copilot.",
+        "category": "international"
+      },
+      {
+        "title": "Xbox says game discs should have worked during its outage",
+        "translated_title": "Xbox spune că discurile de joc ar fi trebuit să funcționeze în timpul întreruperii",
+        "url": "https://www.engadget.com/2226687/xbox-says-game-discs-should-have-worked-during-its-outage/",
+        "source": "Engadget",
+        "published": "2026-07-29T22:10:17+00:00",
+        "summary": "Xbox a declarat că o soluție pentru problema cu discurile de joc va fi disponibilă curând.",
+        "category": "international"
+      },
+      {
+        "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+        "translated_title": "Atacul Mythos asupra unui algoritm de criptare candidat pentru rundă a treia îl scoate din cursă",
+        "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+        "source": "Ars Technica",
+        "published": "2026-07-29T22:07:06+00:00",
+        "summary": "Un atac Mythos a găsit o slăbiciune fatală într-un algoritm de criptare.",
+        "category": "international"
+      },
+      {
+        "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+        "translated_title": "Mark Zuckerberg plănuiește o ofensivă majoră în domeniul agenților de inteligență artificială personală",
+        "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+        "source": "The Verge",
+        "published": "2026-07-29T21:48:07+00:00",
+        "summary": "Mark Zuckerberg a prezentat o viziune pentru agenții de inteligență artificială personală.",
+        "category": "international"
+      },
+      {
+        "title": "Cum poți depista rapid conținutul deepfake: Ghidul DNSC pentru identificarea manipulărilor AI",
+        "translated_title": "Cum poți depista rapid conținutul deepfake: Ghidul DNSC pentru identificarea manipulărilor AI",
+        "url": "https://www.go4it.ro/securitate-informatica/cum-poti-depista-rapid-continutul-deepfake-ghidul-dnsc-pentru-identificarea-manipularilor-ai-19280407/",
+        "source": "Go4IT",
+        "published": "2026-07-30T06:27:03.227612+00:00",
+        "summary": "DNSC a avertizat cu privire la conținutul deepfake și a oferit un ghid pentru identificarea lui.",
+        "category": "romanian"
+      },
+      {
+        "title": "Dispozitivul pe care 9 din 10 români îl consideră indispensabil când pleacă în vacanță",
+        "translated_title": "Dispozitivul pe care 9 din 10 români îl consideră indispensabil când pleacă în vacanță",
+        "url": "https://www.go4it.ro/content/accesorii/dispozitivul-pe-care-9-din-10-romani-il-considera-indispensabil-cand-pleaca-in-vacanta-19280410/",
+        "source": "Go4IT",
+        "published": "2026-07-30T06:27:03.227481+00:00",
+        "summary": "Majoritatea românilor consideră camerele de supraveghere esențiale pentru protejarea locuinței în timpul vacanței.",
+        "category": "romanian"
+      },
+      {
+        "title": "Televiziune din România, amendată cu peste 20 de milioane de lei de Consiliul Concurenței pentru încălcarea angajamentelor",
+        "translated_title": "Televiziune din România, amendată cu peste 20 de milioane de lei de Consiliul Concurenței pentru încălcarea angajamentelor",
+        "url": "https://www.go4it.ro/content/business/televiziune-din-romania-amendata-cu-peste-20-de-milioane-de-lei-de-consiliul-concurentei-pentru-incalcarea-angajamentelor-19280413/",
+        "source": "Go4IT",
+        "published": "2026-07-30T06:27:03.227331+00:00",
+        "summary": "Consiliul Concurenței a amendat o companie de televiziune cu 20,7 milioane de lei pentru încălcarea angajamentelor.",
+        "category": "romanian"
+      },
+      {
+        "title": "Atac cibernetic la ANP: Vizite programate doar telefonic și ieșiri din penitenciar amânate",
+        "translated_title": "Atac cibernetic la ANP: Vizite programate doar telefonic și ieșiri din penitenciar amânate",
+        "url": "https://www.go4it.ro/securitate-informatica/atac-cibernetic-la-anp-vizite-programate-doar-telefonic-si-iesiri-din-penitenciar-amanate-19280416/",
+        "source": "Go4IT",
+        "published": "2026-07-30T06:27:03.227201+00:00",
+        "summary": "Un atac cibernetic a afectat sistemele informatice ale Administrației Naționale a Penitenciarelor.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-07-29",
     "date_formatted": "29 Iulie 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-07-24T06:25:40.876000+00:00",
         "summary": "Samsung analizează utilizarea unui senzor Sony pentru camera principală a modelelor Galaxy S27 și S27 Plus.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-23",
-    "date_formatted": "23 Iulie 2026",
-    "news": [
-      {
-        "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-        "translated_title": "ServiceNow pariază 40 de milioane de dolari pe specialistul indian în software bancar pentru a-și extinde serviciile financiare",
-        "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-        "source": "TechCrunch",
-        "published": "2026-07-23T06:09:13+00:00",
-        "summary": "ServiceNow a investit în BusinessNext, oferindu-i acestuia un partener strategic pentru a-și extinde software-ul bancar bazat pe inteligență artificială la nivel global.",
-        "category": "international"
-      },
-      {
-        "title": "Local AI that finds sensitive files on your Mac before attackers do",
-        "translated_title": "Local AI care găsește fișiere sensibile pe Mac-ul dvs. înainte ca atacatorii să o facă",
-        "url": "https://www.vaultsort.com/guardian",
-        "source": "Hacker News",
-        "published": "2026-07-23T05:06:12+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Restructuring GitHub's bug bounty program",
-        "translated_title": "Reorganizarea programului de vânătoare de bug-uri GitHub",
-        "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-        "source": "Hacker News",
-        "published": "2026-07-23T02:28:23+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
-        "translated_title": "Monitorizarea coloniilor de albine prin senzori audio IoT, tensori și RNN",
-        "url": "https://arxiv.org/abs/2607.20386",
-        "source": "Hacker News",
-        "published": "2026-07-23T01:58:18+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Petals: Run LLMs at home, BitTorrent-style",
-        "translated_title": "Petals: Rulează LLM la domiciliu, în stil BitTorrent",
-        "url": "https://petals.dev/",
-        "source": "Hacker News",
-        "published": "2026-07-23T01:33:12+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
-        "translated_title": "Mașina de arcade Donkey Kong a lui Lego permite lui Mario să sară peste butoaie infinite — Miyamoto este raportat a fi fericit",
-        "url": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
-        "source": "The Verge",
-        "published": "2026-07-23T00:30:00+00:00",
-        "summary": "Carl Merriam a proiectat setul de mașini de arcade Donkey Kong, care a câștigat chiar și aprobarea creatorului lui Mario.",
-        "category": "international"
-      },
-      {
-        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-        "translated_title": "După un trimestru șocant, IBM insistă că inteligența artificială nu ucide mainframe-urile",
-        "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-        "source": "TechCrunch",
-        "published": "2026-07-22T23:47:54+00:00",
-        "summary": "CEO-ul IBM a explicat că inteligența artificială a afectat temporar bugetul de hardware al companiilor.",
-        "category": "international"
-      },
-      {
-        "title": "Check out this nifty 3D Playdate game demo",
-        "translated_title": "Verificați acest demo de joc 3D Playdate",
-        "url": "https://www.engadget.com/2221371/check-out-this-nifty-3d-playdate-game-demo/",
-        "source": "Engadget",
-        "published": "2026-07-22T22:07:33+00:00",
-        "summary": "Adăugarea de noi dimensiuni dispozitivului.",
-        "category": "international"
-      },
-      {
-        "title": "Meta won’t have to face the next planned social media addiction trial",
-        "translated_title": "Meta nu va trebui să facă față următorului proces planificat pentru dependența de rețelele sociale",
-        "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
-        "source": "The Verge",
-        "published": "2026-07-22T22:03:53+00:00",
-        "summary": "Plângerea care acuza platforma de a cauza daune a fost abandonată de reclamant înainte de proces.",
-        "category": "international"
-      },
-      {
-        "title": "Steam adds handy gifting and wishlist updates",
-        "translated_title": "Steam adaugă actualizări utile pentru cadouri și liste de dorințe",
-        "url": "https://www.engadget.com/2221369/steam-adds-handy-gifting-and-wishlist-updates/",
-        "source": "Engadget",
-        "published": "2026-07-22T22:03:52+00:00",
-        "summary": "Acum puteți oferi jocuri fără a avea un cont Steam și puteți sorta lista dvs. de dorințe în categorii.",
-        "category": "international"
-      },
-      {
-        "title": "Google justifies its massive AI spending with a booming cloud business",
-        "translated_title": "Google justifică cheltuielile sale masive pentru inteligența artificială cu o afacere de cloud în plină expansiune",
-        "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-        "source": "TechCrunch",
-        "published": "2026-07-22T22:01:52+00:00",
-        "summary": "Afacerile de cloud ale Google sunt în plină expansiune, datorită adoptării serviciilor sale de inteligență artificială și infrastructură de către companii.",
-        "category": "international"
-      },
-      {
-        "title": "Honor va prezenta pe 28 iulie funcțiile foto și video ale ROBOT PHONE, dezvoltate împreună cu ARRI",
-        "translated_title": "Honor va prezenta pe 28 iulie funcțiile foto și video ale ROBOT PHONE, dezvoltate împreună cu ARRI",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/honor-va-prezenta-pe-28-iulie-functiile-foto-si-video-ale-robot-phone-dezvoltate-impreuna-cu-arri-19279921/",
-        "source": "Go4IT",
-        "published": "2026-07-23T06:29:45.995718+00:00",
-        "summary": "Honor va dezvălui primele funcții foto și video ale viitorului ROBOT PHONE la evenimentul HONOR Imaging Technology Launch Event.",
-        "category": "romanian"
-      },
-      {
-        "title": "WhatsApp: funcții noi pentru extinderea funcționalității aplicației",
-        "translated_title": "WhatsApp: funcții noi pentru extinderea funcționalității aplicației",
-        "url": "https://www.go4it.ro/content/software/whatsapp-functii-noi-pentru-extinderea-functionalitatii-aplicatiei-19279924/",
-        "source": "Go4IT",
-        "published": "2026-07-23T06:29:45.995537+00:00",
-        "summary": "WhatsApp a anunțat un nou pachet de actualizări care extinde funcționalitatea aplicației pe mai multe platforme, incluzând iPad și sisteme multimedia din automobile.",
-        "category": "romanian"
-      },
-      {
-        "title": "China preia conducerea în domeniul modelelor AI open-source de ultimă generație",
-        "translated_title": "China preia conducerea în domeniul modelelor AI open-source de ultimă generație",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/china-k3-preia-conducerea-in-domeniul-modelelor-ai-open-source-de-ultima-generatie-19279930/",
-        "source": "Go4IT",
-        "published": "2026-07-23T06:29:45.995356+00:00",
-        "summary": "China își consolidează poziția în cursa globală pentru inteligența artificială cu modele open-source, inclusiv lansarea modelului K3 de către Moonshot AI.",
-        "category": "romanian"
-      },
-      {
-        "title": "iPhone 18 Pro a intrat în producție. Foxconn accelerează angajările",
-        "translated_title": "iPhone 18 Pro a intrat în producție. Foxconn accelerează angajările",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/iphone-18-pro-a-intrat-in-productie-foxconn-accelereaza-angajarile-19279935/",
-        "source": "Go4IT",
-        "published": "2026-07-23T06:29:45.995171+00:00",
-        "summary": "Apple a început producția în masă a modelelor iPhone 18 Pro, iar Foxconn și-a intensificat recrutările pentru a susține ritmul producției.",
         "category": "romanian"
       }
     ]
