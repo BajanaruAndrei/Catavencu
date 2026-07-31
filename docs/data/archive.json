@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-07-31",
+    "date_formatted": "31 Iulie 2026",
+    "news": [
+      {
+        "title": "Human Honeypot",
+        "translated_title": "Capcană pentru oameni",
+        "url": "https://human2llm.pages.dev/",
+        "source": "Hacker News",
+        "published": "2026-07-31T05:26:13+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Show HN: What should the GUI for AI agents look like?",
+        "translated_title": "Arată HN: Cum ar trebui să arate interfața grafică pentru agenții AI?",
+        "url": "https://marbleos.com/demo",
+        "source": "Hacker News",
+        "published": "2026-07-31T05:17:29+00:00",
+        "summary": "Creații de interfețe grafice inspirate de munca de la Xerox PARC și NeXTSTEP.",
+        "category": "international"
+      },
+      {
+        "title": "Mattress Firm Coupons: Save up to $700 |",
+        "translated_title": "Cupoane Mattress Firm: Economisiți până la 700$",
+        "url": "https://www.wired.com/story/mattress-firm-coupon/",
+        "source": "Wired",
+        "published": "2026-07-31T05:00:00+00:00",
+        "summary": "Utilizați un cod promoțional Mattress Firm pentru a economisi bani la cumpărarea de saltele.",
+        "category": "international"
+      },
+      {
+        "title": "SelectBlinds Promo Codes & Coupons: Save on Custom Window Treatments",
+        "translated_title": "Coduri promoționale SelectBlinds & Cupoane: Economisiți la tratamente de ferestre personalizate",
+        "url": "https://www.wired.com/story/select-blinds-promo-code/",
+        "source": "Wired",
+        "published": "2026-07-31T05:00:00+00:00",
+        "summary": "Reamenajați-vă casa cu mai puțin bani, folosind coduri promoționale și sfaturi pentru aplicarea lor.",
+        "category": "international"
+      },
+      {
+        "title": "Alo Discount Code: Save on Activewear August 2026",
+        "translated_title": "Cod de reducere Alo: Economisiți la îmbrăcăminte de sport august 2026",
+        "url": "https://www.wired.com/story/alo-yoga-discount-code/",
+        "source": "Wired",
+        "published": "2026-07-31T05:00:00+00:00",
+        "summary": "Renovați-vă garderoba de sport cu coduri de reducere verificate și avantaje de fidelitate.",
+        "category": "international"
+      },
+      {
+        "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+        "translated_title": "JEP 401: Obiecte de valoare (Previzualizare) fuzionat în OpenJDK master",
+        "url": "https://github.com/openjdk/jdk/pull/31120",
+        "source": "Hacker News",
+        "published": "2026-07-31T04:38:19+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "The session you cannot take with you",
+        "translated_title": "Sesiunea pe care nu o puteți lua cu voi",
+        "url": "https://earendil.com/posts/session-portability/",
+        "source": "Hacker News",
+        "published": "2026-07-31T03:47:59+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "translated_title": "Anthropic spune că modelele sale de IA au compromis trei companii în timpul testelor de securitate",
+        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "source": "TechCrunch",
+        "published": "2026-07-31T01:06:54+00:00",
+        "summary": "Anthropic a descoperit că modelele sale de IA au reușit să compromită trei companii în timpul testelor de securitate.",
+        "category": "international"
+      },
+      {
+        "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+        "translated_title": "Apple stochează stocuri în pregătirea pentru „restricții semnificative de aprovizionare”",
+        "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+        "source": "TechCrunch",
+        "published": "2026-07-30T23:28:05+00:00",
+        "summary": "Apple se pregătește pentru posibile lipsuri de stocuri și a raportat aproximativ 11,1 miliarde de dolari în stocuri.",
+        "category": "international"
+      },
+      {
+        "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+        "translated_title": "Fondul de investiții AI Situational Awareness ar fi putut vinde portofoliul său public, dar încă deține acțiuni Anthropic",
+        "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+        "source": "TechCrunch",
+        "published": "2026-07-30T23:25:58+00:00",
+        "summary": "Fondul de investiții a fost forțat să-și lichideze acțiunile publice, dar încă are acțiuni Anthropic.",
+        "category": "international"
+      },
+      {
+        "title": "How the FCC’s New Rule Will Affect Robot Vacuums",
+        "translated_title": "Cum va afecta noua regulă a FCC aspiratoarele robot",
+        "url": "https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/",
+        "source": "Wired",
+        "published": "2026-07-30T23:17:46+00:00",
+        "summary": "O nouă restricție asupra roboților mobili străini afectează aspiratoarele robot, curățătoarele de piscine și cositoarele.",
+        "category": "international"
+      },
+      {
+        "title": "Elementul fictiv care apare în filme istorice precum „Odiseea” sau „Gladiatorul” și care îi înfurie pe experți: „Oare când designerii de costume vor renunța la asta?”",
+        "translated_title": "Elementul fictiv care apare în filme istorice precum „Odiseea” sau „Gladiatorul” și care îi înfurie pe experți",
+        "url": "https://www.go4it.ro/content/muzica-si-filme/elementul-care-apare-in-filme-istorice-precum-odiseea-sau-gladiatorul-si-care-ii-infurie-pe-experti-oare-cand-designerii-de-costume-vor-renunta-la-asta-19280488/",
+        "source": "Go4IT",
+        "published": "2026-07-31T06:43:14.376965+00:00",
+        "summary": "Experții sunt nemulțumiți de reprezentarea incorectă a apărătorilor de mână în filmele istorice.",
+        "category": "romanian"
+      },
+      {
+        "title": "Europa mizează pe „Gigafabrici de IA”: Licitație de miliarde de euro pentru suveranitatea tehnologică a blocului comunitar",
+        "translated_title": "Europa mizează pe „Gigafabrici de IA”: Licitație de miliarde de euro pentru suveranitatea tehnologică a blocului comunitar",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/europa-mizeaza-pe-gigafabrici-de-ia-licitatie-de-miliarde-de-euro-pentru-suveranitatea-tehnologica-a-blocului-comunitar-19280495/",
+        "source": "Go4IT",
+        "published": "2026-07-31T06:43:14.376757+00:00",
+        "summary": "Uniunea Europeană a lansat o licitație pentru construirea a până la șapte „Gigafabrici de IA”.",
+        "category": "romanian"
+      },
+      {
+        "title": "Alertă de securitate Broadcom: Vulnerabilități critice în produsele VMware le permit atacatorilor să preia controlul sistemelor",
+        "translated_title": "Alertă de securitate Broadcom: Vulnerabilități critice în produsele VMware permit atacatorilor să preia controlul sistemelor",
+        "url": "https://www.go4it.ro/securitate-informatica/alerta-de-securitate-broadcom-vulnerabilitati-critice-in-produsele-vmware-le-permit-atacatorilor-sa-preia-controlul-sistemelor-19280498/",
+        "source": "Go4IT",
+        "published": "2026-07-31T06:43:14.376578+00:00",
+        "summary": "Broadcom a lansat actualizări de securitate pentru a remedia vulnerabilități grave în platformele VMware.",
+        "category": "romanian"
+      },
+      {
+        "title": "SUA semnează un acord mamut de 58,6 miliarde de dolari cu Lockheed Martin pentru rachete Patriot",
+        "translated_title": "SUA semnează un acord de 58,6 miliarde de dolari cu Lockheed Martin pentru rachete Patriot",
+        "url": "https://www.go4it.ro/tehnologie-militara/sua-semneaza-un-acord-mamut-de-586-miliarde-de-dolari-cu-lockheed-martin-pentru-rachete-patriot-19280501/",
+        "source": "Go4IT",
+        "published": "2026-07-31T06:43:14.376395+00:00",
+        "summary": "Armata americană a acordat companiei Lockheed Martin un contract pentru producția de rachete interceptoare Patriot.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-07-30",
     "date_formatted": "30 Iulie 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-07-25T06:17:08.576013+00:00",
         "summary": "Un pilot român a doborât o dronă deasupra județului Buzău.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-24",
-    "date_formatted": "24 Iulie 2026",
-    "news": [
-      {
-        "title": "Google is expanding access to its Gemini Spark agentic AI assistant",
-        "translated_title": "Google extinde accesul la asistentul său AI Gemini Spark",
-        "url": "https://www.engadget.com/2222303/google-expanding-access-gemini-spark/",
-        "source": "Engadget",
-        "published": "2026-07-24T06:00:44+00:00",
-        "summary": "Gemini Spark este acum disponibil pentru mai mulți utilizatori.",
-        "category": "international"
-      },
-      {
-        "title": "For most US drivers, EVs offer emissions benefits and cost savings",
-        "translated_title": "Pentru majoritatea șoferilor din SUA, vehiculele electrice oferă beneficii de emisii și economii de costuri",
-        "url": "https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512",
-        "source": "Hacker News",
-        "published": "2026-07-24T05:35:30+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-        "translated_title": "Cum gardurile de siguranță AI împiedică munca cercetătorilor ofensivi de securitate cibernetică",
-        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-        "source": "TechCrunch",
-        "published": "2026-07-24T01:00:00+00:00",
-        "summary": "Cercetătorii de securitate cibernetică spun că gardurile de siguranță ale OpenAI și Anthropic afectează munca lor.",
-        "category": "international"
-      },
-      {
-        "title": "Show HN: A factory simulator game built on Spreadsheets",
-        "translated_title": "Arată HN: Un simulator de fabrică construit pe foi de calcul",
-        "url": "https://www.logisheets.com/?craft=factory-simulator",
-        "source": "Hacker News",
-        "published": "2026-07-24T00:59:34+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Meet the judges who will crown Australia’s next breakout startup",
-        "translated_title": "Cunoaște judecătorii care vor corona următorul startup de breakthrough din Australia",
-        "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
-        "source": "TechCrunch",
-        "published": "2026-07-24T00:05:00+00:00",
-        "summary": "TechCrunch Startup Battlefield vine în Australia pentru a găsi cele mai interesante startup-uri de stadiu incipient.",
-        "category": "international"
-      },
-      {
-        "title": "An FDA Panel Just Endorsed These Unproven Peptides",
-        "translated_title": "Un panou FDA a aprobat peptide nevalidate",
-        "url": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
-        "source": "Wired",
-        "published": "2026-07-23T23:45:12+00:00",
-        "summary": "Experți externi au recomandat adăugarea unor peptide la lista FDA, inclusiv \"Wolverine stack\".",
-        "category": "international"
-      },
-      {
-        "title": "The Visual 6502",
-        "translated_title": "Visual 6502",
-        "url": "http://visual6502.org/JSSim/index.html",
-        "source": "Hacker News",
-        "published": "2026-07-23T23:36:42+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-        "translated_title": "CEO-ul Mobileye, Amnon Shashua, va părăsi funcția pe măsură ce compania se extinde în robotaxi și robotică",
-        "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
-        "source": "TechCrunch",
-        "published": "2026-07-23T22:40:08+00:00",
-        "summary": "Shashua a fost invitat să preia funcția de președinte al consiliului de administrație.",
-        "category": "international"
-      },
-      {
-        "title": "Scientists develop handheld device for measuring when your body is burning fat",
-        "translated_title": "Oamenii de știință dezvoltă un dispozitiv portabil pentru măsurarea arderii grăsimilor în organism",
-        "url": "https://www.engadget.com/2222231/scientists-develop-handheld-device-for-measuring-when-your-body-is-burning-fat/",
-        "source": "Engadget",
-        "published": "2026-07-23T22:39:08+00:00",
-        "summary": "Aparatul măsoară cantitatea de acetona din respirație pentru a determina dacă organismul este în ketoză.",
-        "category": "international"
-      },
-      {
-        "title": "98.css",
-        "translated_title": "98.css",
-        "url": "https://jdan.github.io/98.css/#status-bar",
-        "source": "Hacker News",
-        "published": "2026-07-23T22:30:29+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-        "translated_title": "Alexa Plus primește o actualizare AI pentru a gestiona instrucțiuni mai complexe",
-        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "source": "The Verge",
-        "published": "2026-07-23T21:15:06+00:00",
-        "summary": "Alexa Plus poate conecta dispozitive inteligente de acasă în moduri noi și poate redirecționa cererile automat.",
-        "category": "international"
-      },
-      {
-        "title": "Ce modele de iPhone aleg utilizatorii care renunță la Android",
-        "translated_title": "Ce modele de iPhone aleg utilizatorii care renunță la Android",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/ce-modele-de-iphone-aleg-utilizatorii-care-renunta-la-android-19280030/",
-        "source": "Go4IT",
-        "published": "2026-07-24T06:25:40.876564+00:00",
-        "summary": "Utilizatorii care trec de la Android la iPhone preferă mai des modelele mai vechi.",
-        "category": "romanian"
-      },
-      {
-        "title": "Piața PC-urilor revine pe scădere după cinci trimestre de creștere. Memoria scumpă afectează cererea",
-        "translated_title": "Piața PC-urilor revine pe scădere după cinci trimestre de creștere. Memoria scumpă afectează cererea",
-        "url": "https://www.go4it.ro/content/business/piata-pc-urilor-revine-pe-scadere-dupa-cinci-trimestre-de-crestere-memoria-scumpa-afecteaza-cererea-19280034/",
-        "source": "Go4IT",
-        "published": "2026-07-24T06:25:40.876359+00:00",
-        "summary": "Livrările de PC-uri au scăzut cu 4% în al doilea trimestru din 2026, până la 65 de milioane de unități.",
-        "category": "romanian"
-      },
-      {
-        "title": "Valkyrie conduce CXMT către Valhalla RAM-ului: 8.800 MT/s",
-        "translated_title": "Valkyrie conduce CXMT către Valhalla RAM-ului: 8.800 MT/s",
-        "url": "https://www.go4it.ro/content/componente-pc/valkyrie-conduce-cxmt-catre-valhalla-ram-ului-8-800-mt-s-19280045/",
-        "source": "Go4IT",
-        "published": "2026-07-24T06:25:40.876180+00:00",
-        "summary": "Un kit de memorie Asgard Valkyrie II a atins o viteză de 8.800 MT/s pe o platformă Intel Z890.",
-        "category": "romanian"
-      },
-      {
-        "title": "Galaxy S27 ar putea avea schimbări la camera principală",
-        "translated_title": "Galaxy S27 ar putea avea schimbări la camera principală",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/galaxy-s27-ar-putea-avea-schimbari-la-camera-principala-19280063/",
-        "source": "Go4IT",
-        "published": "2026-07-24T06:25:40.876000+00:00",
-        "summary": "Samsung analizează utilizarea unui senzor Sony pentru camera principală a modelelor Galaxy S27 și S27 Plus.",
         "category": "romanian"
       }
     ]
