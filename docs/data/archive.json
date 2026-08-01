@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-01",
+    "date_formatted": "1 August 2026",
+    "news": [
+      {
+        "title": "Ten Ways NAS Is Getting Enshitified",
+        "translated_title": "Zece moduri în care NAS se degradează",
+        "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+        "source": "Hacker News",
+        "published": "2026-08-01T05:38:16+00:00",
+        "summary": "Un articol discută despre modurile în care NAS se degradează.",
+        "category": "international"
+      },
+      {
+        "title": "Paramount+ Coupon Codes and Deals for August 2026",
+        "translated_title": "Coduri promoționale și oferte pentru Paramount+ în august 2026",
+        "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+        "source": "Wired",
+        "published": "2026-08-01T05:00:00+00:00",
+        "summary": "Se oferă coduri promoționale și oferte pentru Paramount+, inclusiv 50% reducere la abonamente și încercări gratuite.",
+        "category": "international"
+      },
+      {
+        "title": "TurboTax Full Service Coupons This August",
+        "translated_title": "Cupoane pentru serviciul complet TurboTax în august",
+        "url": "https://www.wired.com/story/turbotax-coupon/",
+        "source": "Wired",
+        "published": "2026-08-01T05:00:00+00:00",
+        "summary": "Se oferă o reducere de 10% pentru serviciul complet de expertiză a taxelor federale și alte coduri de reducere exclusive pentru TurboTax.",
+        "category": "international"
+      },
+      {
+        "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+        "translated_title": "Cupon H&R Block: 25% reducere pentru DIY + Asistență taxe profesionale",
+        "url": "https://www.wired.com/story/hr-block-coupon/",
+        "source": "Wired",
+        "published": "2026-08-01T05:00:00+00:00",
+        "summary": "Se oferă o reducere de peste 25% pentru serviciul DIY al H&R Block, împreună cu o revizuire profesională a taxelor.",
+        "category": "international"
+      },
+      {
+        "title": "What Liberal Arts Education Is for (2024)",
+        "translated_title": "Ce este educația în arte liberale pentru (2024)",
+        "url": "https://innig.net/teaching/liberal-arts-manifesto",
+        "source": "Hacker News",
+        "published": "2026-08-01T04:28:13+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "BMW Spider-Man in-car advertising",
+        "translated_title": "Reclama BMW Spider-Man în mașină",
+        "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+        "source": "Hacker News",
+        "published": "2026-08-01T03:25:12+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "The development pipeline is a production system",
+        "translated_title": "Pipeline-ul de dezvoltare este un sistem de producție",
+        "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+        "source": "Hacker News",
+        "published": "2026-08-01T03:16:09+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth",
+        "translated_title": "Racheta Falcon 9 a SpaceX va lovi curând Luna și ar putea fi vizibilă de pe Pământ",
+        "url": "https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/",
+        "source": "Wired",
+        "published": "2026-07-31T23:38:56+00:00",
+        "summary": "Impactul va provoca o explozie de resturi care va fi probabil vizibilă prin anumite telescoape, iar astronomii vor urmări evenimentul.",
+        "category": "international"
+      },
+      {
+        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+        "translated_title": "OpenAI a găsit dovezi că mai mulți agenți au funcționat defectuos",
+        "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+        "source": "TechCrunch",
+        "published": "2026-07-31T22:47:26+00:00",
+        "summary": "OpenAI a descoperit dovezi ale unui comportament defectuos suplimentar al agenților, pe măsură ce investighează incidentul care a avut loc cu Hugging Face.",
+        "category": "international"
+      },
+      {
+        "title": "Lenovo's first Googlebooks have leaked",
+        "translated_title": "Primele laptopuri Googlebooks ale Lenovo au apărut",
+        "url": "https://www.engadget.com/2228337/lenovo-first-googlebooks-have-leaked/",
+        "source": "Engadget",
+        "published": "2026-07-31T22:09:27+00:00",
+        "summary": "Lenovo pare să fi construit noi laptopuri și un dispozitiv 2 în 1 pentru inițiativa Googlebook.",
+        "category": "international"
+      },
+      {
+        "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
+        "translated_title": "Cu Switch 2, iPhone și trucuri de laptop, Sharge Disk Pro 2 este în sfârșit un EDC demn",
+        "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
+        "source": "The Verge",
+        "published": "2026-07-31T22:09:11+00:00",
+        "summary": "Sharge Disk Pro 2 Ultra este un dispozitiv de stocare portabil care include și un doc HDMI 4K.",
+        "category": "international"
+      },
+      {
+        "title": "Mașina germană cere mâini specializate (P)",
+        "translated_title": "Mașina germană cere mâini specializate (P)",
+        "url": "https://www.go4it.ro/content/advertorial/masina-germana-cere-maini-specializate-p-19280574/",
+        "source": "Go4IT",
+        "published": "2026-08-01T06:28:27.358252+00:00",
+        "summary": "Există o diferență fundamentală între a deține un BMW și a deține o mașină obișnuită de familie.",
+        "category": "romanian"
+      },
+      {
+        "title": "Regulile europene privind inteligența artificială intră în vigoare din 2 august: Ce se schimbă pentru utilizatori și companii",
+        "translated_title": "Regulile europene privind inteligența artificială intră în vigoare din 2 august: Ce se schimbă pentru utilizatori și companii",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/regulile-europene-privind-inteligenta-artificiala-intra-in-vigoare-din-2-august-ce-se-schimba-pentru-utilizatori-si-companii-19280583/",
+        "source": "Go4IT",
+        "published": "2026-08-01T06:28:27.357889+00:00",
+        "summary": "Un nou set de reglementări europene privind inteligența artificială va deveni aplicabil din 2 august 2026, aducând obligații de transparență și interdicții stricte pentru aplicațiile periculoase.",
+        "category": "romanian"
+      },
+      {
+        "title": "WhatsApp Web introduce în sfârșit apelurile vocale și video criptate integral",
+        "translated_title": "WhatsApp Web introduce în sfârșit apelurile vocale și video criptate integral",
+        "url": "https://www.go4it.ro/content/aplicatii/whatsapp-web-introduce-in-sfarsit-apelurile-vocale-si-video-criptate-integral-19280588/",
+        "source": "Go4IT",
+        "published": "2026-08-01T06:28:27.357685+00:00",
+        "summary": "Meta a anunțat funcționalități noi de apelare pentru WhatsApp, inclusiv posibilitatea de a efectua și primi apeluri vocale și video direct din WhatsApp Web.",
+        "category": "romanian"
+      },
+      {
+        "title": "Un robot echipat cu tehnologie Qualcomm se prăbușește pe scenă în timpul unei prezentări la Computex 2026",
+        "translated_title": "Un robot echipat cu tehnologie Qualcomm s-a prăbușit pe scenă în timpul unei prezentări la Computex 2026",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/un-robot-echipat-cu-tehnologie-qualcomm-se-prabuseste-pe-scena-in-timpul-unei-prezentari-la-computex-2026-19280571/",
+        "source": "Go4IT",
+        "published": "2026-08-01T06:28:27.357500+00:00",
+        "summary": "Un robot umanoid din Taiwan s-a prăbușit pe scenă în timpul unei prezentări, iar incidentul a devenit viral pe rețelele sociale.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-07-31",
     "date_formatted": "31 Iulie 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-07-26T06:35:55.867431+00:00",
         "summary": "NASA intenționează să construiască o bază permanentă pe Lună, dar data de începere a construcției nu a fost anunțată.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "date_formatted": "25 Iulie 2026",
-    "news": [
-      {
-        "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-        "translated_title": "Evaluarea preliminară a capacităților cibernetice ale lui Kimi K3 de către UK AISI / Caisi",
-        "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-        "source": "Hacker News",
-        "published": "2026-07-25T04:20:21+00:00",
-        "summary": "Nu sunt disponibile informații suplimentare.",
-        "category": "international"
-      },
-      {
-        "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-        "translated_title": "Fermele Taylor au sunat la Casa Albă pentru a încerca să întârzie rechemarea produselor contaminate cu Cyclospora",
-        "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-        "source": "Hacker News",
-        "published": "2026-07-25T02:54:36+00:00",
-        "summary": "Fermele Taylor au sunat la Casa Albă pentru a încerca să întârzie rechemarea produselor contaminate cu Cyclospora.",
-        "category": "international"
-      },
-      {
-        "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-        "translated_title": "Hannah Fry a câștigat Premiul Leelavati în 2026 pentru promovarea matematicii",
-        "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-        "source": "Hacker News",
-        "published": "2026-07-25T01:44:12+00:00",
-        "summary": "Hannah Fry a câștigat Premiul Leelavati în 2026 pentru promovarea matematicii.",
-        "category": "international"
-      },
-      {
-        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-        "translated_title": "Am testat noua tastatură AI de la OpenAI — care va fi distractivă pentru unii programatori și puțin misterioasă pentru toți ceilalți",
-        "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-        "source": "TechCrunch",
-        "published": "2026-07-25T00:23:11+00:00",
-        "summary": "Noua tastatură AI de la OpenAI va fi distractivă pentru unii, dar probabil nu va fi atinsă de alții.",
-        "category": "international"
-      },
-      {
-        "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-        "translated_title": "SpaceX a lansat noi sateliți Starlink V3, dar a suferit o nouă eșuare a boosterului",
-        "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
-        "source": "TechCrunch",
-        "published": "2026-07-24T23:25:47+00:00",
-        "summary": "SpaceX a lansat noi sateliți Starlink V3, dar a suferit o nouă eșuare a boosterului.",
-        "category": "international"
-      },
-      {
-        "title": "Meta has pulled out of a renewable energy initiative as it relies more on natural gas for data centers",
-        "translated_title": "Meta s-a retras dintr-o inițiativă de energie regenerabilă, deoarece se bazează mai mult pe gazele naturale pentru centrele de date",
-        "url": "https://www.engadget.com/2222988/meta-has-pulled-out-of-a-renewable-energy-initiative-as-it-relies-more-on-natural-gas-for-data-centers/",
-        "source": "Engadget",
-        "published": "2026-07-24T23:13:24+00:00",
-        "summary": "Meta s-a retras dintr-o inițiativă de energie regenerabilă, deoarece se bazează mai mult pe gazele naturale pentru centrele de date.",
-        "category": "international"
-      },
-      {
-        "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-        "translated_title": "Balenele cu spermă suflă bule pentru a ajunge la un somn liniștit și vertical",
-        "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-        "source": "Hacker News",
-        "published": "2026-07-24T23:13:18+00:00",
-        "summary": "Balenele cu spermă suflă bule pentru a ajunge la un somn liniștit și vertical.",
-        "category": "international"
-      },
-      {
-        "title": "SpaceX's 13th Starship flight test launches with Starlink's next-gen satellites",
-        "translated_title": "Al 13-lea test de zbor al navei spațiale Starship a decolat cu sateliții Starlink de nouă generație",
-        "url": "https://www.engadget.com/2222979/spacex-13th-starship-flight-test-launches-with-starlink-s-next-gen-satellites/",
-        "source": "Engadget",
-        "published": "2026-07-24T22:54:01+00:00",
-        "summary": "Nava spațială Starship a decolat cu 20 de sateliți Starlink V3 la bord.",
-        "category": "international"
-      },
-      {
-        "title": "Trump threatens EU with new tariffs in response to Google fine",
-        "translated_title": "Trump amenință UE cu noi taxe vamale ca răspuns la amendă pentru Google",
-        "url": "https://www.engadget.com/2222963/trump-threatens-eu-with-new-tariffs-in-response-to-google-fine/",
-        "source": "Engadget",
-        "published": "2026-07-24T22:35:37+00:00",
-        "summary": "Trump amenință UE cu noi taxe vamale ca răspuns la amendă pentru Google.",
-        "category": "international"
-      },
-      {
-        "title": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
-        "translated_title": "Unul dintre cele mai importante observatoare spațiale ale NASA a fost afectat de incendiile din Spania",
-        "url": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
-        "source": "Wired",
-        "published": "2026-07-24T22:30:26+00:00",
-        "summary": "Flăcările au ars prin Complexul de Comunicații Spațiale Profunde de lângă Madrid, dar NASA nu a putut evalua încă daunele.",
-        "category": "international"
-      },
-      {
-        "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
-        "translated_title": "După criticile primite, Meta a oprit planul de a limita viteza de transfer a datelor pentru ochelarii inteligenți",
-        "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
-        "source": "The Verge",
-        "published": "2026-07-24T22:27:46+00:00",
-        "summary": "Meta a oprit planul de a limita viteza de transfer a datelor pentru ochelarii inteligenți după criticile primite.",
-        "category": "international"
-      },
-      {
-        "title": "Program semnificativ de achiziții al STS: Servere în valoare de până la 32 mil. de euro, necesare pentru infrastructuri critice",
-        "translated_title": "Program semnificativ de achiziții al STS: Servere în valoare de până la 32 mil. de euro, necesare pentru infrastructuri critice",
-        "url": "https://www.go4it.ro/content/business/program-semnificativ-de-achizitii-al-sts-servere-in-valoare-de-pana-la-32-mil-de-euro-necesare-pentru-infrastructuri-critice-19280119/",
-        "source": "Go4IT",
-        "published": "2026-07-25T06:17:08.576327+00:00",
-        "summary": "STS a lansat o licitație publică pentru achiziționarea de servere pentru infrastructuri critice, fiind dispus să plătească până la 32 milioane de euro.",
-        "category": "romanian"
-      },
-      {
-        "title": "FOTO | Primele 12 vehicule blindate Cobra II fabricate în România, livrate Armatei: 10 variante, producție de la zero, nu doar asamblare",
-        "translated_title": "FOTO | Primele 12 vehicule blindate Cobra II fabricate în România, livrate Armatei: 10 variante, producție de la zero, nu doar asamblare",
-        "url": "https://www.go4it.ro/tehnologie-militara/foto-primele-12-vehicule-blindate-cobra-ii-fabricate-in-romania-livrate-armatei-10-variante-productie-de-la-zero-nu-doar-asamblare-19280122/",
-        "source": "Go4IT",
-        "published": "2026-07-25T06:17:08.576222+00:00",
-        "summary": "Primele 12 vehicule blindate Cobra II fabricate integral în România au fost livrate Armatei Române.",
-        "category": "romanian"
-      },
-      {
-        "title": "SpaceX amână încă o dată lansarea de test a navei Starship. Care a fost motivul",
-        "translated_title": "SpaceX amână încă o dată lansarea de test a navei Starship. Care a fost motivul",
-        "url": "https://www.go4it.ro/content/internet/tech-news/spacex-amana-inca-o-data-lansarea-de-test-a-navei-starship-care-a-fost-motivul-19280131/",
-        "source": "Go4IT",
-        "published": "2026-07-25T06:17:08.576118+00:00",
-        "summary": "Lansarea a fost amânată din cauza unor condiții meteorologice nefavorabile.",
-        "category": "romanian"
-      },
-      {
-        "title": "BREAKING | Dronă doborâtă în premieră de un F-16 românesc deasupra județului Buzău",
-        "translated_title": "BREAKING | Dronă doborâtă în premieră de un F-16 românesc deasupra județului Buzău",
-        "url": "https://www.go4it.ro/tehnologie-militara/breaking-drona-doborata-in-premiera-de-un-f-16-romanesc-deasupra-judetului-buzau-19280137/",
-        "source": "Go4IT",
-        "published": "2026-07-25T06:17:08.576013+00:00",
-        "summary": "Un pilot român a doborât o dronă deasupra județului Buzău.",
         "category": "romanian"
       }
     ]
