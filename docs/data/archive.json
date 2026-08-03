@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-03",
+    "date_formatted": "3 August 2026",
+    "news": [
+      {
+        "title": "Sam Altman and AI’s decel debate",
+        "translated_title": "Dezbaterea lui Sam Altman și AI despre decelerație",
+        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+        "source": "TechCrunch",
+        "published": "2026-08-02T20:54:22+00:00",
+        "summary": "Sam Altman a cerut industriei să „temporizeze ritmul dezvoltării inteligenței artificiale.”",
+        "category": "international"
+      },
+      {
+        "title": "The global memory shortage hits the MacBook Air",
+        "translated_title": "Lipsa globală de memorie afectează MacBook Air",
+        "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+        "source": "TechCrunch",
+        "published": "2026-08-02T21:33:59+00:00",
+        "summary": "Lipsa globală de cipuri de memorie pare să afecteze disponibilitatea celui mai popular Mac al Apple.",
+        "category": "international"
+      },
+      {
+        "title": "Xbox prices are increasing by up to €200 or £170",
+        "translated_title": "Prețurile Xbox cresc cu până la 200 de euro sau 170 de lire sterline",
+        "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+        "source": "The Verge",
+        "published": "2026-08-02T16:14:20+00:00",
+        "summary": "Prețurile Xbox vor crește cu până la 200 de euro sau 170 de lire sterline, în funcție de model.",
+        "category": "international"
+      },
+      {
+        "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+        "translated_title": "Europenii vor afla cât de mult este integrată inteligența artificială în viețile lor",
+        "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+        "source": "Wired",
+        "published": "2026-08-02T10:00:00+00:00",
+        "summary": "Noile reguli ale UE cer ca oamenii să fie informați atunci când interacționează cu inteligență artificială sau văd conținut generat sau editat de inteligență artificială.",
+        "category": "international"
+      },
+      {
+        "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
+        "translated_title": "Este posibil să se creeze ochelari inteligenți care nu sunt deranjante?",
+        "url": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
+        "source": "Wired",
+        "published": "2026-08-02T10:00:00+00:00",
+        "summary": "Companiile mari investesc în ochelari care înregistrează audio și video și au inteligență artificială încorporată, ceea ce ridică îngrijorări cu privire la confidențialitate.",
+        "category": "international"
+      },
+      {
+        "title": "YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline",
+        "translated_title": "Starul YouTube AboFlah și-a făcut viața o transmisiune live",
+        "url": "https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/",
+        "source": "Wired",
+        "published": "2026-08-02T09:00:00+00:00",
+        "summary": "AboFlah vorbește despre noile sale obiective, transmisiuni pentru caritate și despre când este momentul să se deconecteze.",
+        "category": "international"
+      },
+      {
+        "title": "The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos",
+        "translated_title": "Telescopul James Webb schimbă înțelegerea astronomilor despre cosmosul antic",
+        "url": "https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/",
+        "source": "Wired",
+        "published": "2026-08-02T11:00:00+00:00",
+        "summary": "Imaginile de la telescopul spațial oferă cosmologilor noi date pentru a explora și a dezvolta teorii.",
+        "category": "international"
+      },
+      {
+        "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+        "translated_title": "Great Question (YC W21) angajează manager senior de generare a cererii",
+        "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+        "source": "Hacker News",
+        "published": "2026-08-02T12:01:00+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "How the words we teach English language learners changed",
+        "translated_title": "Cum s-au schimbat cuvintele pe care le învățăm elevilor de limba engleză",
+        "url": "https://pudding.cool/2026/07/essential-words/",
+        "source": "Hacker News",
+        "published": "2026-08-02T15:41:08+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+        "translated_title": "Arată HN: Kakehashi – spațiu experimental pentru a rula binare macOS pe Linux ARM",
+        "url": "https://github.com/wie-project/kakehashi",
+        "source": "Hacker News",
+        "published": "2026-08-02T16:26:40+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+        "translated_title": "Arată HN: NixOS-DGX-Spark – Nix și NixOS pe DGX Spark",
+        "url": "https://github.com/graham33/nixos-dgx-spark",
+        "source": "Hacker News",
+        "published": "2026-08-02T17:05:54+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Știrile zilei despre tehnologie – 3 august 2026",
+        "translated_title": "Știrile zilei despre tehnologie – 3 august 2026",
+        "url": "https://www.nwradu.ro/2026/08/stirile-zilei-despre-tehnologie-3-august-2026/",
+        "source": "Nwradu Blog",
+        "published": "2026-08-03T03:44:42+00:00",
+        "summary": "Iași raționalizează energia electrică, Anyscale se vinde cu 1,6 miliarde de euro, TollRO intră în vigoare de la 31 august.",
+        "category": "romanian"
+      },
+      {
+        "title": "TOP 25: Oferte eMAG din 2.08.26 (cel mai bun smartphone premium cu stylus, laptop de gaming cu Intel Core i9-13900H și grafică NVIDIA GeForce RTX 5060, televizor OLED Samsung pe diagonala de 195 cm și cu evaluare 4.86 / 5 din 90 de review-uri etc)",
+        "translated_title": "TOP 25: Oferte eMAG din 2.08.26",
+        "url": "https://gadget.ro/top-25-oferte-emag-din-2-08-26-cel-mai-bun-smartphone-premium-cu-stylus-laptop-de-gaming-cu-intel-core-i9-13900h-si-grafica-nvidia-geforce-rtx-5060-televizor-oled-samsung-pe-diagonala-de-195-cm-si/",
+        "source": "Gadget.ro",
+        "published": "2026-08-02T14:47:28+00:00",
+        "summary": "Se prezintă o listă cu produse cu preț bun și feedback relevant din partea utilizatorilor.",
+        "category": "romanian"
+      },
+      {
+        "title": "10 gadgets de la LIDL (3.08 – 9.08.26)",
+        "translated_title": "10 gadgeturi de la LIDL (3.08 – 9.08.26)",
+        "url": "https://gadget.ro/10-gadgets-de-la-lidl-3-08-9-08-26/",
+        "source": "Gadget.ro",
+        "published": "2026-08-02T19:44:35+00:00",
+        "summary": "Se prezintă o listă cu produse interesante din catalogul LIDL.",
+        "category": "romanian"
+      },
+      {
+        "title": "Honor X7e Plus (4G) a fost lansat cu baterie de 8.100 mAh și ecran de 120 Hz",
+        "translated_title": "Honor X7e Plus (4G) a fost lansat cu baterie de 8.100 mAh și ecran de 120 Hz",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/honor-x7e-plus-4g-a-fost-lansat-cu-baterie-de-8-100-mah-si-ecran-de-120-hz-19280770/",
+        "source": "Go4IT",
+        "published": "2026-08-03T07:24:06.491543+00:00",
+        "summary": "Noul dispozitiv are o baterie de 8.100 mAh și un ecran cu rată de reîmprospătare de 120 Hz.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-02",
     "date_formatted": "2 August 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-07-28T06:26:22.820399+00:00",
         "summary": "Honor a anunțat data oficială a lansării noului său model revoluționar Robot Phone, care va fi prezentat în cadrul evenimentului „Imaging Technology Launch Event”.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "date_formatted": "27 Iulie 2026",
-    "news": [
-      {
-        "title": "EU Fines Google $1.02B for Favoring Its Own Services",
-        "translated_title": "UE amendă Google cu 1,02 miliarde de dolari pentru favorizarea propriilor servicii",
-        "url": "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb",
-        "source": "Hacker News",
-        "published": "2026-07-27T05:31:33+00:00",
-        "summary": "Google a fost amendat de Uniunea Europeană cu 1,02 miliarde de dolari pentru încălcarea regulilor antitrust din domeniul tehnologiei.",
-        "category": "international"
-      },
-      {
-        "title": "Apple is banking on privacy to set its smart glasses apart",
-        "translated_title": "Apple se bazează pe confidențialitate pentru a-și diferenția ochelarii inteligenți",
-        "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-        "source": "The Verge",
-        "published": "2026-07-26T19:36:38+00:00",
-        "summary": "Apple plănuiește să lanseze primii săi ochelari inteligenți la WWDC în iunie 2027, cu accent pe confidențialitate.",
-        "category": "international"
-      },
-      {
-        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-        "translated_title": "CEO-ul Hugging Face solicită „transparență radicală” după atacul cibernetic „fără precedent” asupra OpenAI",
-        "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-        "source": "TechCrunch",
-        "published": "2026-07-26T16:33:13+00:00",
-        "summary": "CEO-ul Hugging Face consideră atacul cibernetic asupra OpenAI ca fiind un eveniment fără precedent și solicită o reacție similară.",
-        "category": "international"
-      },
-      {
-        "title": "Making sense of the panic over Chinese AI",
-        "translated_title": "Înțelegerea panicii legate de inteligența artificială chineză",
-        "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-        "source": "TechCrunch",
-        "published": "2026-07-26T19:40:57+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Are brain waves the next unlock for physical AI?",
-        "translated_title": "Undele cerebrale, următorul pas pentru inteligența artificială fizică?",
-        "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-        "source": "TechCrunch",
-        "published": "2026-07-27T00:19:14+00:00",
-        "summary": "Modelele de inteligență artificială fizică avansate necesită multiple unghiuri de cameră, annotări dense și citiri ale undelor cerebrale.",
-        "category": "international"
-      },
-      {
-        "title": "The US is charging an American citizen for wiping his phone at the border",
-        "translated_title": "SUA acuză un cetățean american pentru ștergerea telefonului la frontieră",
-        "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
-        "source": "The Verge",
-        "published": "2026-07-26T18:45:50+00:00",
-        "summary": "Un cetățean american a fost acuzat pentru furnizarea unei parole de urgență care a șters telefonul său când a fost oprit la aeroport.",
-        "category": "international"
-      },
-      {
-        "title": "Here's our first look at Apple TV's Neuromancer adaptation",
-        "translated_title": "Prima noastră privire asupra adaptării Apple TV a romanului Neuromancer",
-        "url": "https://www.engadget.com/2223559/first-look-apple-tv-neuromancer-adaptation-teaser-trailer/",
-        "source": "Engadget",
-        "published": "2026-07-26T18:25:03+00:00",
-        "summary": "Adaptarea Apple TV a romanului Neuromancer va fi lansată pe 22 ianuarie 2027.",
-        "category": "international"
-      },
-      {
-        "title": "A new look for the Apple Watch may still be at least a year away",
-        "translated_title": "Un nou design pentru Apple Watch ar putea fi încă la un an distanță",
-        "url": "https://www.engadget.com/2223488/apple-watch-redesign-a-year-away-series-12-ultra-4-updates/",
-        "source": "Engadget",
-        "published": "2026-07-26T16:45:27+00:00",
-        "summary": "Apple va actualiza ceasurile sale Series 12 și Ultra 4 cu specificații îmbunătățite, dar fără o schimbare majoră de design.",
-        "category": "international"
-      },
-      {
-        "title": "Why do phones still use battery when powered off?",
-        "translated_title": "De ce telefoanele încă consumă baterie când sunt oprite?",
-        "url": "https://www.engadget.com/2219830/phone-battery-powered-off-explained/",
-        "source": "Engadget",
-        "published": "2026-07-26T16:30:00+00:00",
-        "summary": "Bateria unui telefon continuă să piardă încărcarea chiar și atunci când este oprit.",
-        "category": "international"
-      },
-      {
-        "title": "Android Auto has a developer menu you can access in seconds",
-        "translated_title": "Android Auto are un meniu pentru dezvoltatori pe care îl poți accesa în secunde",
-        "url": "https://www.engadget.com/2218723/android-auto-hidden-menu/",
-        "source": "Engadget",
-        "published": "2026-07-26T15:30:00+00:00",
-        "summary": "Software-ul Android Auto are un meniu pentru dezvoltatori care poate fi accesat rapid.",
-        "category": "international"
-      },
-      {
-        "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
-        "translated_title": "Champagne și gloanțe aparține pe Muntele Rushmore al filmelor proaste",
-        "url": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
-        "source": "The Verge",
-        "published": "2026-07-26T21:24:07+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "România pregătește cadrul legal pentru Legea Europeană a Inteligenței Artificiale. Arbitrul telecomunicațiilor, ANCOM, va supraveghea piața",
-        "translated_title": "România pregătește cadrul legal pentru Legea Europeană a Inteligenței Artificiale",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/romania-pregateste-cadrul-legal-pentru-legea-europeana-a-inteligentei-artificiale-arbitrul-telecomunicatiilor-ancom-va-supraveghea-piata-19280278/",
-        "source": "Go4IT",
-        "published": "2026-07-27T07:30:11.724770+00:00",
-        "summary": "ANCOM va supraveghea piața în cadrul pregătirii legislative pentru Legea Europeană a Inteligenței Artificiale în România.",
-        "category": "romanian"
-      },
-      {
-        "title": "AMD: Cele mai importante anunțuri de la Advancing AI 2026",
-        "translated_title": "AMD: Cele mai importante anunțuri de la Advancing AI 2026",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/amd-cele-mai-importante-anunturi-de-la-advancing-ai-2026-19280251/",
-        "source": "Go4IT",
-        "published": "2026-07-27T07:30:11.726023+00:00",
-        "summary": "AMD a prezentat noua sa generație de soluții de calcul pentru inteligență artificială la evenimentul Advancing AI.",
-        "category": "romanian"
-      },
-      {
-        "title": "AMD și Anthropic anunță un nou parteneriat strategic",
-        "translated_title": "AMD și Anthropic anunță un nou parteneriat strategic",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/amd-si-anthropic-anunta-un-nou-parteneriat-strategic-19280268/",
-        "source": "Go4IT",
-        "published": "2026-07-27T07:30:11.725476+00:00",
-        "summary": "AMD și Anthropic vor implementa până la 2 gigawați de putere de calcul bazată pe unitățile de procesare grafică AMD Instinct.",
-        "category": "romanian"
-      },
-      {
-        "title": "Honor își prezintă noua identitate de brand: se transformă într-o “companie de ecosistem AI”",
-        "translated_title": "Honor își prezintă noua identitate de brand: se transformă într-o „companie de ecosistem AI”",
-        "url": "https://www.go4it.ro/content/anunturi/honor-isi-prezinta-noua-identitate-de-brand-se-transforma-intr-o-companie-de-ecosistem-ai-19280257/",
-        "source": "Go4IT",
-        "published": "2026-07-27T07:30:11.725841+00:00",
-        "summary": "Honor se transformă într-o companie de ecosistem AI, marcând o schimbare strategică în evoluția sa internațională.",
         "category": "romanian"
       }
     ]
