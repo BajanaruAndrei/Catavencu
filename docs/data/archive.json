@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-04",
+    "date_formatted": "4 August 2026",
+    "news": [
+      {
+        "title": "Apple is getting this wrong",
+        "translated_title": "Apple greșește",
+        "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+        "source": "Hacker News",
+        "published": "2026-08-04T05:32:13+00:00",
+        "summary": "Articolul discută despre o problemă legată de Apple, dar nu oferă detalii suplimentare.",
+        "category": "international"
+      },
+      {
+        "title": "Lenovo Coupon Codes and Deals in August 2026",
+        "translated_title": "Coduri de reducere Lenovo și oferte în august 2026",
+        "url": "https://www.wired.com/story/lenovo-coupon-code/",
+        "source": "Wired",
+        "published": "2026-08-04T05:00:00+00:00",
+        "summary": "Lenovo oferă coduri de reducere și promoții pentru produsele sale, inclusiv laptopuri și computere gaming.",
+        "category": "international"
+      },
+      {
+        "title": "20% Off Sephora Promo Code | August 2026",
+        "translated_title": "20% reducere la Sephora cu cod de promoție | august 2026",
+        "url": "https://www.wired.com/story/sephora-promo-code/",
+        "source": "Wired",
+        "published": "2026-08-04T05:00:00+00:00",
+        "summary": "Sephora oferă un cod de promoție care oferă 20% reducere la cumpărături de produse de îngrijire a pielii.",
+        "category": "international"
+      },
+      {
+        "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+        "translated_title": "Coduri de reducere We-Vibe și oferte: până la 60% reducere",
+        "url": "https://www.wired.com/story/we-vibe-discount-code/",
+        "source": "Wired",
+        "published": "2026-08-04T05:00:00+00:00",
+        "summary": "We-Vibe oferă coduri de reducere și promoții pentru produsele sale, inclusiv jucării și seturi de cadou.",
+        "category": "international"
+      },
+      {
+        "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
+        "translated_title": "Oferte de reducere Lovehoney: jucării, lenjerie și seturi de cadou",
+        "url": "https://www.wired.com/story/lovehoney-discount-code/",
+        "source": "Wired",
+        "published": "2026-08-04T05:00:00+00:00",
+        "summary": "Lovehoney oferă reduceri la jucării, lenjerie și seturi de cadou pentru cupluri și persoane singure.",
+        "category": "international"
+      },
+      {
+        "title": "The Myth, the Mythos, and the Man",
+        "translated_title": "Mitul, mitologia și omul",
+        "url": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/",
+        "source": "Hacker News",
+        "published": "2026-08-04T01:22:35+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
+        "translated_title": "Studio-ul din spatele Pokémon luptă să-și găsească vocea în Beast of Reincarnation",
+        "url": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
+        "source": "The Verge",
+        "published": "2026-08-04T00:00:00+00:00",
+        "summary": "Studio-ul Game Freak are dificultăți în a-și găsi vocea în jocul Beast of Reincarnation, după succesul seriei Pokémon.",
+        "category": "international"
+      },
+      {
+        "title": "Why did we wait so long for the bicycle? (2019)",
+        "translated_title": "De ce am așteptat atât de mult pentru bicicletă? (2019)",
+        "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+        "source": "Hacker News",
+        "published": "2026-08-03T23:44:19+00:00",
+        "summary": "Articolul discută despre istoria bicicletei și de ce a apărut atât de târziu.",
+        "category": "international"
+      },
+      {
+        "title": "There Will Come Soft Rains (1950) [pdf]",
+        "translated_title": "Vor veni ploile moi (1950) [pdf]",
+        "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+        "source": "Hacker News",
+        "published": "2026-08-03T23:24:53+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "translated_title": "După un trimestru record, CEO-ul Palantir, Alex Karp, numește industria IA „marxistă\"",
+        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+        "source": "TechCrunch",
+        "published": "2026-08-03T23:19:50+00:00",
+        "summary": "CEO-ul Palantir, Alex Karp, a numit industria inteligenței artificiale „marxistă” după un trimestru financiar record.",
+        "category": "international"
+      },
+      {
+        "title": "Amazon is developing a Warhammer 40,000 animated show",
+        "translated_title": "Amazon dezvoltă un serial animat Warhammer 40,000",
+        "url": "https://www.engadget.com/2229589/amazon-is-developing-a-warhammer-40-000-animated-show/",
+        "source": "Engadget",
+        "published": "2026-08-03T22:40:30+00:00",
+        "summary": "Amazon lucrează la un serial animat bazat pe universul Warhammer 40,000, cu implicarea lui Henry Cavill.",
+        "category": "international"
+      },
+      {
+        "title": "Kioxia accelerează dezvoltarea memoriei NAND și vizează rivalii Samsung și SK Hynix",
+        "translated_title": "Kioxia accelerează dezvoltarea memoriei NAND și vizează rivalii Samsung și SK Hynix",
+        "url": "https://www.go4it.ro/content/componente-pc/kioxia-accelereaza-dezvoltarea-memoriei-nand-si-vizeaza-rivalii-samsung-si-sk-hynix-19280929/",
+        "source": "Go4IT",
+        "published": "2026-08-04T06:27:09.577455+00:00",
+        "summary": "Kioxia investește în dezvoltarea memoriei NAND și își propune să concureze cu Samsung și SK Hynix.",
+        "category": "romanian"
+      },
+      {
+        "title": "Plăcile video rămân scumpe în 2026. Costul memoriei VRAM și lipsa reducerilor mențin prețurile la niveluri ridicate",
+        "translated_title": "Plăcile video rămân scumpe în 2026",
+        "url": "https://www.go4it.ro/content/componente-pc/placile-video-raman-scumpe-in-2026-costul-memoriei-vram-si-lipsa-reducerilor-mentin-preturile-la-niveluri-ridicate-19280934/",
+        "source": "Go4IT",
+        "published": "2026-08-04T06:27:09.577271+00:00",
+        "summary": "Prețurile plăcilor video continuă să crească în 2026, din cauza costului ridicat al memoriei VRAM și lipsei reducerilor.",
+        "category": "romanian"
+      },
+      {
+        "title": "MSI lansează Crosshair A16 HX MLG Edition, un laptop de gaming cu RTX 5070 și ecran de 240 Hz",
+        "translated_title": "MSI lansează Crosshair A16 HX MLG Edition, un laptop de gaming cu RTX 5070 și ecran de 240 Hz",
+        "url": "https://www.go4it.ro/content/laptopuri/msi-lanseaza-crosshair-a16-hx-mlg-edition-un-laptop-de-gaming-cu-rtx-5070-si-ecran-de-240-hz-19280918/",
+        "source": "Go4IT",
+        "published": "2026-08-04T06:27:09.577084+00:00",
+        "summary": "MSI a lansat o ediție specială a laptopului de gaming Crosshair A16 HX, cu hardware de ultimă generație și design exclusiv.",
+        "category": "romanian"
+      },
+      {
+        "title": "Turiștii au fost vizați de aproape 270.000 de atacuri cibernetice în ultimul an",
+        "translated_title": "Turiștii au fost vizați de aproape 270.000 de atacuri cibernetice în ultimul an",
+        "url": "https://www.go4it.ro/securitate-informatica/turistii-au-fost-vizati-de-aproape-270-000-de-atacuri-cibernetice-in-ultimul-an-19280902/",
+        "source": "Go4IT",
+        "published": "2026-08-04T06:27:09.576869+00:00",
+        "summary": "Turiștii au fost ținta a aproape 270.000 de atacuri cibernetice în ultimul an, din cauza dependenței crescute de platformele digitale.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-03",
     "date_formatted": "3 August 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-07-29T06:30:17.100058+00:00",
         "summary": "Camerele video purtate pe corp încep să fie utilizate tot mai des și în România, pe măsură ce companiile și instituțiile caută soluții pentru documentarea incidentelor și creșterea nivelului de siguranță al angajaților.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "date_formatted": "28 Iulie 2026",
-    "news": [
-      {
-        "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
-        "translated_title": "Ars Astronomica – Traduceri în limba engleză ale unor texte rare de astronomie în ebraică și latină",
-        "url": "https://arsastronomica.com/",
-        "source": "Hacker News",
-        "published": "2026-07-28T05:25:34+00:00",
-        "summary": "Site-ul arsastronomica.com oferă traduceri în limba engleză ale unor texte rare de astronomie în ebraică și latină.",
-        "category": "international"
-      },
-      {
-        "title": "Ulta Promo Codes: Up to 50% Off in July 2026",
-        "translated_title": "Coduri promoționale Ulta: până la 50% reducere în luna iulie 2026",
-        "url": "https://www.wired.com/story/ulta-coupon/",
-        "source": "Wired",
-        "published": "2026-07-28T05:02:00+00:00",
-        "summary": "Ulta oferă coduri promoționale pentru a cumpăra produse de frumusețe cu până la 50% reducere în luna iulie 2026.",
-        "category": "international"
-      },
-      {
-        "title": "Birdfy Discount Codes: 15% Off Sitewide",
-        "translated_title": "Coduri de reducere Birdfy: 15% reducere la nivelul întregului site",
-        "url": "https://www.wired.com/story/birdfy-discount-code/",
-        "source": "Wired",
-        "published": "2026-07-28T05:00:00+00:00",
-        "summary": "Birdfy oferă coduri de reducere verificate pentru a cumpăra hrănitori inteligenți, kituri de cameră și accesorii cu până la 40% reducere.",
-        "category": "international"
-      },
-      {
-        "title": "Neutrino-1 8B",
-        "translated_title": "Neutrino-1 8B",
-        "url": "https://www.fermionresearch.com/models/neutrino-8b/",
-        "source": "Hacker News",
-        "published": "2026-07-28T04:49:54+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "PyTorch: A Reference Language",
-        "translated_title": "PyTorch: O limbă de referință",
-        "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
-        "source": "Hacker News",
-        "published": "2026-07-28T04:46:00+00:00",
-        "summary": "PyTorch este prezentat ca o limbă de referință.",
-        "category": "international"
-      },
-      {
-        "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-        "translated_title": "Cursor și-a făcut cea mai mare expansiune în India până în prezent, înainte de achiziția de către SpaceX, cu prețuri localizate",
-        "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-        "source": "TechCrunch",
-        "published": "2026-07-28T04:30:00+00:00",
-        "summary": "Cursor a anunțat că India este acum cel de-al treilea său cel mai mare piață la nivel global și planifică să extindă angajările locale și vânzările pentru întreprinderi.",
-        "category": "international"
-      },
-      {
-        "title": "Show HN: A 6M-token movable window on a single 46GB GPU",
-        "translated_title": "Prezentare HN: O fereastră mobilă de 6 milioane de tokeni pe un singur GPU de 46 GB",
-        "url": "https://arxiv.org/abs/2607.23806",
-        "source": "Hacker News",
-        "published": "2026-07-28T04:11:45+00:00",
-        "summary": "A fost prezentată o fereastră mobilă de 6 milioane de tokeni pe un singur GPU de 46 GB.",
-        "category": "international"
-      },
-      {
-        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-        "translated_title": "Răspunsul lui Dario Amodei de la Anthropic: nu se opune modelelor deschise, dar se teme de inteligența artificială chineză",
-        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-        "source": "TechCrunch",
-        "published": "2026-07-28T00:13:33+00:00",
-        "summary": "Dario Amodei, fondatorul și directorul general al Anthropic, și-a exprimat punctul de vedere cu privire la modelele deschise și capacitățile de inteligență artificială ale Chinei.",
-        "category": "international"
-      },
-      {
-        "title": "France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires",
-        "translated_title": "Franța înregistrează primul său nor pyrocumulonimbus vreodată, în mijlocul incendiilor care bat toate recordurile",
-        "url": "https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/",
-        "source": "Wired",
-        "published": "2026-07-27T22:57:20+00:00",
-        "summary": "Franța a înregistrat primul său nor pyrocumulonimbus, ca urmare a condițiilor extreme de incendiu de pe sol care au creat condiții fără precedent în atmosferă.",
-        "category": "international"
-      },
-      {
-        "title": "X Money is launching in the US starting today",
-        "translated_title": "X Money se lansează în Statele Unite începând de astăzi",
-        "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
-        "source": "The Verge",
-        "published": "2026-07-27T22:10:18+00:00",
-        "summary": "X Money, o parte esențială a misiunii lui Elon Musk de a transforma X într-o „aplicație pentru tot”, se lansează în Statele Unite începând de astăzi.",
-        "category": "international"
-      },
-      {
-        "title": "X Money begins limited US rollout",
-        "translated_title": "X Money începe lansarea limitată în Statele Unite",
-        "url": "https://www.engadget.com/2224633/x-money-begins-limited-us-rollout/",
-        "source": "Engadget",
-        "published": "2026-07-27T22:04:17+00:00",
-        "summary": "Doar abonații Premium și Premium X au privilegiul de a folosi serviciile bancare oferite de Elon Musk pentru moment.",
-        "category": "international"
-      },
-      {
-        "title": "Zvon: Apple solicită, de la parteneri, prețuri mai scăzute pentru ecranele dedicate gamei iPhone 18",
-        "translated_title": "Zvon: Apple solicită partenerilor săi prețuri mai scăzute pentru ecranele dedicate gamei iPhone 18",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/zvon-apple-solicita-de-la-parteneri-preturi-mai-scazute-pentru-ecranele-dedicate-gamei-iphone-18-19280308/",
-        "source": "Go4IT",
-        "published": "2026-07-28T06:26:22.820951+00:00",
-        "summary": "Apple ar cere partenerilor săi să reducă prețurile panourilor de afișaj, din cauza creșterii costurilor de producție a iPhone-urilor, cauzate de majorarea prețurilor pentru semiconductori.",
-        "category": "romanian"
-      },
-      {
-        "title": "Portul Constanța își sporește securitatea: Două sisteme submarine autonome Triton vor detecta dronele marine",
-        "translated_title": "Portul Constanța își sporește securitatea: Două sisteme submarine autonome Triton vor detecta dronele marine",
-        "url": "https://www.go4it.ro/content/drone/portul-constanta-isi-sporeste-securitatea-doua-sisteme-submarine-autonome-triton-vor-detecta-dronele-marine-19280310/",
-        "source": "Go4IT",
-        "published": "2026-07-28T06:26:22.820767+00:00",
-        "summary": "Portul Constanța va fi monitorizat de două sisteme maritime autonome Triton, concepute pentru detectarea și supravegherea dronelor marine.",
-        "category": "romanian"
-      },
-      {
-        "title": "ChatGPR a oferit instrucțiuni pentru arme biologice și otrăvuri – investigație WSJ",
-        "translated_title": "ChatGPR a oferit instrucțiuni pentru arme biologice și otrăvuri – investigație WSJ",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/chatgpr-a-oferit-instructiuni-pentru-arme-biologice-si-otravuri-investigatie-wsj-19280313/",
-        "source": "Go4IT",
-        "published": "2026-07-28T06:26:22.820582+00:00",
-        "summary": "Modelul de inteligență artificială ChatGPT a oferit utilizatorilor instrucțiuni detaliate despre crearea de arme biologice și otrăvuri, potrivit unei investigații publicate de The Wall Street Journal.",
-        "category": "romanian"
-      },
-      {
-        "title": "VIDEO: Unboxing pentru Honor Robot Phone. Când va fi lansat smartphone-ul cu braț robotic",
-        "translated_title": "VIDEO: Unboxing pentru Honor Robot Phone. Când va fi lansat smartphone-ul cu braț robotic",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/video-unboxing-pentru-honor-robot-phone-cand-va-fi-lansat-smartphone-ul-cu-brat-robotic-19280314/",
-        "source": "Go4IT",
-        "published": "2026-07-28T06:26:22.820399+00:00",
-        "summary": "Honor a anunțat data oficială a lansării noului său model revoluționar Robot Phone, care va fi prezentat în cadrul evenimentului „Imaging Technology Launch Event”.",
         "category": "romanian"
       }
     ]
