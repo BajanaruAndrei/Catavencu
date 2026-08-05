@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-05",
+    "date_formatted": "5 August 2026",
+    "news": [
+      {
+        "title": "Foreo Discount Codes and Deals: Up to 50% Off",
+        "translated_title": "Coduri de reducere Foreo și oferte: până la 50% reducere",
+        "url": "https://www.wired.com/story/foreo-promo-code/",
+        "source": "Wired",
+        "published": "2026-08-05T05:00:00+00:00",
+        "summary": "Economisiți la produsele favorite Foreo, inclusiv perii de curățare LUNA, dispozitive microcurrent BEAR și măști și accesorii pentru a îmbunătăți rutina zilnică de îngrijire a pielii acasă.",
+        "category": "international"
+      },
+      {
+        "title": "Sportsman's Warehouse Promo Code: Save in August 2026",
+        "translated_title": "Cod promoțional Sportsman's Warehouse: economisiți în august 2026",
+        "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
+        "source": "Wired",
+        "published": "2026-08-05T05:00:00+00:00",
+        "summary": "Indiferent dacă vânătați arme de foc, echipamente de camping sau accesorii pentru bărci, utilizați aceste cupoane Sportsman’s Warehouse pentru a maximiza economiile în august 2026.",
+        "category": "international"
+      },
+      {
+        "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026",
+        "translated_title": "Cupoane NordVPN: 75% reducere, plus 3 luni gratuite în august 2026",
+        "url": "https://www.wired.com/story/nordvpn-coupon/",
+        "source": "Wired",
+        "published": "2026-08-05T05:00:00+00:00",
+        "summary": "Economisiți până la 77% la planurile de 2 ani și obțineți 3 luni gratuite cu codurile noastre de reducere NordVPN.",
+        "category": "international"
+      },
+      {
+        "title": "KitchenAid Promo Codes: Save Up to 20%",
+        "translated_title": "Coduri promoționale KitchenAid: economisiți până la 20%",
+        "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+        "source": "Wired",
+        "published": "2026-08-05T05:00:00+00:00",
+        "summary": "Economisiți la fiecare achiziție cu codurile promoționale KitchenAid de top de la WIRED, inclusiv până la 20% reducere la aparatele de bucătărie.",
+        "category": "international"
+      },
+      {
+        "title": "The sale of Electronic Arts has been finalized",
+        "translated_title": "Vânzarea Electronic Arts a fost finalizată",
+        "url": "https://www.bbc.com/news/articles/cjejyl34345o",
+        "source": "Hacker News",
+        "published": "2026-08-05T04:51:43+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+        "translated_title": "Zero-Mem: operațiuni de memorie zero-token pentru agenți LLM",
+        "url": "https://arxiv.org/abs/2607.29377",
+        "source": "Hacker News",
+        "published": "2026-08-05T04:36:44+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "An SLM trained on $8 ESP32-S3",
+        "translated_title": "Un SLM antrenat pe $8 ESP32-S3",
+        "url": "https://github.com/Carloscodix/qapla",
+        "source": "Hacker News",
+        "published": "2026-08-05T04:07:27+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+        "translated_title": "Zigbee vs. Matter over Thread: înțelegerea performanței protocolului IoT în practică",
+        "url": "https://arxiv.org/abs/2603.04221",
+        "source": "Hacker News",
+        "published": "2026-08-05T00:10:37+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Don’t screw this up, Marvel",
+        "translated_title": "Nu stricați asta, Marvel",
+        "url": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
+        "source": "The Verge",
+        "published": "2026-08-04T23:20:56+00:00",
+        "summary": "Filmul Spider-Man: Brand New Day a adus peste 1 miliard de dolari la nivel global și a avut cel mai mare weekend de deschidere la box office din istoria Hollywood-ului.",
+        "category": "international"
+      },
+      {
+        "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+        "translated_title": "Elon Musk i-a întrecut pe executivii săi de la SpaceX în primul apel de câștig",
+        "url": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+        "source": "TechCrunch",
+        "published": "2026-08-04T22:30:58+00:00",
+        "summary": "Musk a mărit promisiunile deja mari făcute de directorul financiar al SpaceX, Bret Johnsen, și de Gwynne Shotwell, în primul apel al companiei.",
+        "category": "international"
+      },
+      {
+        "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+        "translated_title": "Planul de redresare al lui Lucid se bazează pe 1,4 miliarde de dolari în economii și robotaxi",
+        "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+        "source": "TechCrunch",
+        "published": "2026-08-04T22:24:00+00:00",
+        "summary": "Noul CEO al Lucid, Silvio Napoli, a enumerat patru priorități care trebuie câștigate, inclusiv lansarea cu succes a noului său vehicul electric de dimensiuni medii, finalizarea unei fabrici în Arabia Saudită, reducerea cheltuielilor și robotaxi.",
+        "category": "international"
+      },
+      {
+        "title": "Samsung revine pe primul loc în piața DRAM. Micron reduce diferența, iar CXMT înregistrează cea mai rapidă creștere",
+        "translated_title": "Samsung revine pe primul loc în piața DRAM. Micron reduce diferența, iar CXMT înregistrează cea mai rapidă creștere",
+        "url": "https://www.go4it.ro/content/componente-pc/samsung-revine-pe-primul-loc-in-piata-dram-micron-reduce-diferenta-iar-cxmt-inregistreaza-cea-mai-rapida-crestere-19281040/",
+        "source": "Go4IT",
+        "published": "2026-08-05T06:27:13.200541+00:00",
+        "summary": "Samsung a redevenit liderul pieței globale de memorii DRAM în al doilea trimestru din 2026, potrivit raportului Counterpoint Research.",
+        "category": "romanian"
+      },
+      {
+        "title": "Oppo A7 Pro Max debutează cu o baterie de 10.000 mAh și procesor Snapdragon 4 Gen 5",
+        "translated_title": "Oppo A7 Pro Max debutează cu o baterie de 10.000 mAh și procesor Snapdragon 4 Gen 5",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/oppo-a7-pro-max-debuteaza-cu-o-baterie-de-10-000-mah-si-procesor-snapdragon-4-gen-5-19281045/",
+        "source": "Go4IT",
+        "published": "2026-08-05T06:27:13.200366+00:00",
+        "summary": "Oppo a lansat oficial modelul A7 Pro Max 5G, primul smartphone al companiei echipat cu o baterie de 10.000 mAh și procesorul Snapdragon 4 Gen 5.",
+        "category": "romanian"
+      },
+      {
+        "title": "Windows 11 consumă semnificativ mai multă memorie RAM decât Linux, arată un test comparativ – VIDEO",
+        "translated_title": "Windows 11 consumă semnificativ mai multă memorie RAM decât Linux, arată un test comparativ",
+        "url": "https://www.go4it.ro/content/software/windows-11-consuma-semnificativ-mai-multa-memorie-ram-decat-linux-arata-un-test-comparativ-video-19281055/",
+        "source": "Go4IT",
+        "published": "2026-08-05T06:27:13.200174+00:00",
+        "summary": "Un test comparativ a arătat diferența dintre Windows 11 și Linux în ceea ce privește cantitatea de RAM utilizată.",
+        "category": "romanian"
+      },
+      {
+        "title": "Malware deghizat într-un instrument pentru Roblox poate prelua complet controlul asupra PC-ului",
+        "translated_title": "Malware deghizat într-un instrument pentru Roblox poate prelua controlul complet asupra PC-ului",
+        "url": "https://www.go4it.ro/securitate-informatica/malware-deghizat-intr-un-instrument-pentru-roblox-poate-prelua-complet-controlul-asupra-pc-ului-19281058/",
+        "source": "Go4IT",
+        "published": "2026-08-05T06:27:13.199947+00:00",
+        "summary": "Un nou tip de malware, ascuns sub forma unui instrument popular pentru Roblox, poate oferi atacatorilor control complet asupra computerelor infectate.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-04",
     "date_formatted": "4 August 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-07-30T06:27:03.227201+00:00",
         "summary": "Un atac cibernetic a afectat sistemele informatice ale Administrației Naționale a Penitenciarelor.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "date_formatted": "29 Iulie 2026",
-    "news": [
-      {
-        "title": "Surfshark Promo Codes: 87% Off | July 2026",
-        "translated_title": "Coduri promoționale Surfshark: 87% reducere | Iulie 2026",
-        "url": "https://www.wired.com/story/surfshark-coupon/",
-        "source": "Wired",
-        "published": "2026-07-29T05:00:00+00:00",
-        "summary": "Puteți economisi până la 87% cu un cod de reducere Surfshark, 3 luni de VPN gratuit și mai mult de la WIRED.",
-        "category": "international"
-      },
-      {
-        "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
-        "translated_title": "Cod promoțional LegalZoom: 10% reducere exclusivă la înregistrarea LLC",
-        "url": "https://www.wired.com/story/legalzoom-promo-code/",
-        "source": "Wired",
-        "published": "2026-07-29T05:00:00+00:00",
-        "summary": "Economisiți la servicii de top de la LegalZoom, cum ar fi înregistrarea LLC, constituirea de societăți, planuri de moștenire și multe altele, cu cupoane și oferte de la WIRED.",
-        "category": "international"
-      },
-      {
-        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-        "translated_title": "Cyera a convenit să achiziționeze Oasis Security pentru 1 miliard de dolari pentru a proteja agenții AI care se înmulțesc",
-        "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-        "source": "TechCrunch",
-        "published": "2026-07-29T00:09:05+00:00",
-        "summary": "Această tranzacție reprezintă a treia achiziție a Cyera din acest an.",
-        "category": "international"
-      },
-      {
-        "title": "A Typo Landed an Innocent Gamer in Prison for 18 Months",
-        "translated_title": "O greșeală de tastare a trimis un jucător nevinovat în închisoare pentru 18 luni",
-        "url": "https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/",
-        "source": "Wired",
-        "published": "2026-07-28T23:30:00+00:00",
-        "summary": "Un singur caracter în numele de utilizator a fost suficient pentru a duce la arestarea, acuzarea și condamnarea unui om nevinovat.",
-        "category": "international"
-      },
-      {
-        "title": "The US is banning foreign robots",
-        "translated_title": "SUA interzice roboții străini",
-        "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
-        "source": "The Verge",
-        "published": "2026-07-28T22:37:53+00:00",
-        "summary": "Guvernul american vizează China cu o nouă interdicție de import a „dispozitivelor robotice avansate” și a invertorilor de putere fabricați în țări străine.",
-        "category": "international"
-      },
-      {
-        "title": "eBay and its former execs settle cyberstalking case brought by journalist couple",
-        "translated_title": "eBay și foștii săi directori executivi au încheiat un proces de hărțuire cibernetică intentat de un cuplu de jurnaliști",
-        "url": "https://www.engadget.com/2225652/ebay-and-its-former-execs-settle-cyberstalking-case-brought-by-journalist-couple/",
-        "source": "Engadget",
-        "published": "2026-07-28T22:31:41+00:00",
-        "summary": "Ina și David Steiner vor primi despăgubiri după o campanie din 2019 menită să-i reducă la tăcere criticile la adresa companiei.",
-        "category": "international"
-      },
-      {
-        "title": "Fired Tesla manager says Full Self-Driving cars were 'rolling hazards'",
-        "translated_title": "Un manager Tesla demis spune că mașinile cu conducere autonomă completă erau „pericole în mișcare\"",
-        "url": "https://www.engadget.com/2225645/tesla-full-self-driving-cars-were-rolling-hazards-fired-manager/",
-        "source": "Engadget",
-        "published": "2026-07-28T22:14:23+00:00",
-        "summary": "Un nou proces acuză Tesla că a extins prea mult operațiunile de siguranță ale supraveghetorilor care supraveghează robotaxi-urile sale.",
-        "category": "international"
-      },
-      {
-        "title": "Ariana Grande is suing the hackers who’ve been leaking her songs and videos for years",
-        "translated_title": "Ariana Grande îi dă în judecată pe hackerii care au scurs melodii și videoclipuri ale ei de ani de zile",
-        "url": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
-        "source": "The Verge",
-        "published": "2026-07-28T21:48:50+00:00",
-        "summary": "Ariana Grande a depus o acțiune în justiție pentru a descoperi identitatea acestor persoane necunoscute care au furat și scurs conținut privat.",
-        "category": "international"
-      },
-      {
-        "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-        "translated_title": "Acum avem o înțelegere mai bună a modului în care OpenAI a spart Hugging Face",
-        "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-        "source": "Ars Technica",
-        "published": "2026-07-28T21:36:39+00:00",
-        "summary": "Au trecut 10 zile de la momentul în care modelele OpenAI au exploatat o vulnerabilitate zero-day JFrog Artifactory până la lansarea unui patch.",
-        "category": "international"
-      },
-      {
-        "title": "Bot-detection startup Spur nabs $200M from Insight",
-        "translated_title": "Startup-ul de detectare a bot-urilor Spur obține 200 de milioane de dolari de la Insight",
-        "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-        "source": "TechCrunch",
-        "published": "2026-07-28T21:29:34+00:00",
-        "summary": "Spur Intelligence a strâns 200 de milioane de dolari de la Insight Partners pentru tehnologia care poate identifica traficul uman legitim de la bot-uri.",
-        "category": "international"
-      },
-      {
-        "title": "AI company employees petition US government for regulation",
-        "translated_title": "Angajații companiilor de inteligență artificială cer guvernului american să reglementeze",
-        "url": "https://www.engadget.com/2225612/ai-company-employees-petition-us-government-for-regulation/",
-        "source": "Engadget",
-        "published": "2026-07-28T21:20:39+00:00",
-        "summary": "Un thousand de angajați de la OpenAI, Anthropic, Google, Meta și altele au semnat scrisoarea.",
-        "category": "international"
-      },
-      {
-        "title": "O vulnerabilitate a aplicației de rugăciune „Click to Pray” a Vaticanului a expus numele și adresele de e-mail ale peste 700.000 de utilizatori",
-        "translated_title": "O vulnerabilitate a aplicației de rugăciune „Click to Pray” a Vaticanului a expus numele și adresele de e-mail ale peste 700.000 de utilizatori",
-        "url": "https://www.go4it.ro/securitate-informatica/o-vulnerabilitate-a-aplicatiei-de-rugaciune-click-to-pray-a-vaticanului-a-expus-numele-si-adresele-de-e-mail-ale-peste-700-000-de-utilizatori-19280335/",
-        "source": "Go4IT",
-        "published": "2026-07-29T06:30:17.100631+00:00",
-        "summary": "Platforma digitală de rugăciune a Vaticanului a lăsat expuse numele și adresele de e-mail ale sute de mii de utilizatori timp de câteva luni.",
-        "category": "romanian"
-      },
-      {
-        "title": "Rețeaua socială X lansează conturi plătite. Ce beneficii vor primi utilizatorii?",
-        "translated_title": "Rețeaua socială X lansează conturi plătite. Ce beneficii vor primi utilizatorii?",
-        "url": "https://www.go4it.ro/content/social-media/reteaua-sociala-x-lanseaza-conturi-platite-ce-beneficii-vor-primi-utilizatorii-19280338/",
-        "source": "Go4IT",
-        "published": "2026-07-29T06:30:17.100450+00:00",
-        "summary": "Rețeaua de socializare X a lansat o ofertă de conturi plătite și un serviciu de plăți over the counter, un nou pas strategic pentru a o transforma într-o platformă universală.",
-        "category": "romanian"
-      },
-      {
-        "title": "DNA își modernizează echipamentele de criminalistică digitală cu bani europeni: Licitație de peste 2,7 milioane de lei pentru percheziții informatice",
-        "translated_title": "DNA își modernizează echipamentele de criminalistică digitală cu bani europeni: Licitație de peste 2,7 milioane de lei pentru percheziții informatice",
-        "url": "https://www.go4it.ro/content/business/dna-isi-modernizeaza-echipamentele-de-criminalistica-digitala-cu-bani-europeni-licitatie-de-peste-27-milioane-de-lei-pentru-perchezitii-informatice-19280342/",
-        "source": "Go4IT",
-        "published": "2026-07-29T06:30:17.100241+00:00",
-        "summary": "Direcția Națională Anticorupție a lansat o licitație publică de 2,73 milioane de lei pentru achiziționarea de echipamente hardware și software de ultimă generație destinate perchezițiilor informatice.",
-        "category": "romanian"
-      },
-      {
-        "title": "Nu doar polițiștii le folosesc. Camerele body worn ajung din securitate în retail și tot mai multe domenii din România",
-        "translated_title": "Nu doar polițiștii le folosesc. Camerele body worn ajung din securitate în retail și tot mai multe domenii din România",
-        "url": "https://www.go4it.ro/content/internet/tech-news/nu-doar-politistii-le-folosesc-camerele-body-worn-ajung-din-securitate-in-retail-si-tot-mai-multe-domenii-din-romania-19280339/",
-        "source": "Go4IT",
-        "published": "2026-07-29T06:30:17.100058+00:00",
-        "summary": "Camerele video purtate pe corp încep să fie utilizate tot mai des și în România, pe măsură ce companiile și instituțiile caută soluții pentru documentarea incidentelor și creșterea nivelului de siguranță al angajaților.",
         "category": "romanian"
       }
     ]
