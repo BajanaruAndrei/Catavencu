@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-09",
+    "date_formatted": "9 August 2026",
+    "news": [
+      {
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "translated_title": "OpenAI achiziționează startup-ul de prezentări NextSlide",
+        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "source": "TechCrunch",
+        "published": "2026-08-08T19:41:13+00:00",
+        "summary": "Echipa NextSlide lucrează acum la ChatGPT.",
+        "category": "international"
+      },
+      {
+        "title": "How to Disable Gemini in Gmail and Google Docs",
+        "translated_title": "Cum să dezactivați Gemini în Gmail și Google Docs",
+        "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+        "source": "Wired",
+        "published": "2026-08-08T10:00:00+00:00",
+        "summary": "Uneltele și prompturile noi AI din Google Docs și Gmail pot fi oprite dacă nu sunt dorite.",
+        "category": "international"
+      },
+      {
+        "title": "An Amazon data center could have the worst polluting power plant in the country",
+        "translated_title": "Un centru de date Amazon ar putea avea cea mai poluantă centrală electrică din țară",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+        "source": "The Verge",
+        "published": "2026-08-08T17:53:34+00:00",
+        "summary": "Amazon investește într-o nouă centrală electrică pentru a alimenta noul său centru de date din Texas, care ar putea deveni unul dintre cei mai mari poluatori din SUA.",
+        "category": "international"
+      },
+      {
+        "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+        "translated_title": "X înlocuiește programul de împărțire a veniturilor cu 'Recompense pentru conținut original'",
+        "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+        "source": "The Verge",
+        "published": "2026-08-08T21:15:12+00:00",
+        "summary": "X lansează un nou program de recompensare pentru creatorii de conținut, care necesită cel puțin 500 de urmăritori verificați și 500.000 de impresii în linia de timp a utilizatorilor verificați.",
+        "category": "international"
+      },
+      {
+        "title": "“Code was never the hard part” is an insult to all programmers",
+        "translated_title": "'Codul nu a fost niciodată partea grea' este o insultă pentru toți programatorii",
+        "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+        "source": "Hacker News",
+        "published": "2026-08-08T14:32:33+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+        "translated_title": "Shopify a înlocuit Redis cu MySQL pentru rezervările de stoc și a scalat",
+        "url": "https://shopify.engineering/scaling-inventory-reservations",
+        "source": "Hacker News",
+        "published": "2026-08-08T22:32:50+00:00",
+        "summary": "Shopify a înlocuit Redis cu MySQL pentru a gestiona rezervările de stoc și a reușit să scaleze.",
+        "category": "international"
+      },
+      {
+        "title": "Can Intel finally beat ARM on performance per Watt?",
+        "translated_title": "Intel poate învinge în sfârșit ARM în ceea ce privește performanța pe watt?",
+        "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+        "source": "Hacker News",
+        "published": "2026-08-08T16:04:36+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+        "translated_title": "Vânătorul de hackeri de top de la Google explică de ce grupurile de hacking primesc nume de cod",
+        "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+        "source": "TechCrunch",
+        "published": "2026-08-08T15:00:00+00:00",
+        "summary": "Google a schimbat modul în care se referă la grupurile de hacking și le atribuie nume de cod.",
+        "category": "international"
+      },
+      {
+        "title": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
+        "translated_title": "Propunerea de recensământ ar opri numărătoarea imigranților fără acte și ar ignora rasa și orientarea sexuală",
+        "url": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
+        "source": "Wired",
+        "published": "2026-08-08T14:03:58+00:00",
+        "summary": "O propunere de regulament ar putea opri numărătoarea imigranților fără acte și ar exclude întrebări despre rasă și orientare sexuală.",
+        "category": "international"
+      },
+      {
+        "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
+        "translated_title": "Imaginea cea mai clară a Soarelui vreodată făcută revelează un fenomen ascuns",
+        "url": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
+        "source": "Wired",
+        "published": "2026-08-08T13:00:00+00:00",
+        "summary": "O fotografie a Soarelui a permis observarea pentru prima dată a unor vortici de plasmă mici care fuseseră prezise de peste un secol.",
+        "category": "international"
+      },
+      {
+        "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
+        "translated_title": "Aici sunt primele imagini ale craterului lăsat pe Lună de racheta SpaceX",
+        "url": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
+        "source": "Wired",
+        "published": "2026-08-08T12:00:00+00:00",
+        "summary": "Institutul de Cercetare Aerospațială din Coreea a publicat imagini care arată gaura de pe suprafața Lunii.",
+        "category": "international"
+      },
+      {
+        "title": "SUA ar putea interzice rertoactiv vânzarea dronelor cu tehnologie LiDAR: Ce modele și sectoare sunt vizate de noile reguli FCC",
+        "translated_title": "SUA ar putea interzice retroactiv vânzarea de drone cu tehnologie LiDAR",
+        "url": "https://www.go4it.ro/content/drone/sua-ar-putea-interzice-rertoactiv-vanzarea-dronelor-cu-tehnologie-lidar-ce-modele-si-sectoare-sunt-vizate-de-noile-reguli-fcc-19281503/",
+        "source": "Go4IT",
+        "published": "2026-08-09T05:03:40.529807+00:00",
+        "summary": "Comisia Federală pentru Comunicații din SUA propune măsuri pentru a revoca autorizațiile pentru drone străine echipate cu tehnologie LiDAR.",
+        "category": "romanian"
+      },
+      {
+        "title": "Poliția Română investește peste 15 milioane de lei într-o platformă de investigații pentru combaterea infracțiunilor din Darknet",
+        "translated_title": "Poliția Română investește peste 15 milioane de lei într-o platformă de investigații pentru combaterea infracțiunilor din Darknet",
+        "url": "https://www.go4it.ro/content/internet/politia-romana-investeste-peste-15-milioane-de-lei-intr-o-platforma-de-investigatii-pentru-combaterea-infractiunilor-din-darknet-19281485/",
+        "source": "Go4IT",
+        "published": "2026-08-09T05:03:40.531008+00:00",
+        "summary": "Poliția Română a lansat o licitație pentru o platformă avansată de investigații în Darknet, cu o valoare estimată de 15,66 milioane de lei.",
+        "category": "romanian"
+      },
+      {
+        "title": "Datele personale ale tuturor clienților producătorului de PC-uri Framework, furate în urma unui atac cibernetic masiv",
+        "translated_title": "Datele personale ale tuturor clienților producătorului de PC-uri Framework au fost furate în urma unui atac cibernetic",
+        "url": "https://www.go4it.ro/securitate-informatica/datele-personale-ale-tuturor-clientilor-producatorului-de-pc-uri-framework-furate-in-urma-unui-atac-cibernetic-masiv-19281478/",
+        "source": "Go4IT",
+        "published": "2026-08-09T05:03:40.531169+00:00",
+        "summary": "Producătorul de calculatoare Framework a anunțat că datele personale ale clienților, inclusiv nume, adrese de e-mail și numere de telefon, au fost compromise.",
+        "category": "romanian"
+      },
+      {
+        "title": "România, singura țară din Uniunea Europeană care a tăiat bugetul pentru cercetare în ultimul deceniu",
+        "translated_title": "România, singura țară din Uniunea Europeană care a tăiat bugetul pentru cercetare în ultimul deceniu",
+        "url": "https://www.go4it.ro/content/business/romania-singura-tara-din-uniunea-europeana-care-a-taiat-bugetul-pentru-cercetare-in-ultimul-deceniu-19281475/",
+        "source": "Go4IT",
+        "published": "2026-08-09T05:03:40.531325+00:00",
+        "summary": "România este singura țară din UE care a redus fondurile pentru cercetare și dezvoltare în ultimii zece ani, potrivit datelor Eurostat.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-08",
     "date_formatted": "8 August 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-08-03T07:24:06.491543+00:00",
         "summary": "Noul dispozitiv are o baterie de 8.100 mAh și un ecran cu rată de reîmprospătare de 120 Hz.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "date_formatted": "2 August 2026",
-    "news": [
-      {
-        "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
-        "translated_title": "Sistemele de apă din 7 state au fost afectate de atacuri cibernetice, probabil legate de Iran",
-        "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-        "source": "Wired",
-        "published": "2026-08-01T10:30:00+00:00",
-        "summary": "FBI, Agenția de Protecție a Mediului și Agenția de Securitate Cibernetică și Infrastructură au oprit scurgerile de informații oficiale, dar consensul este că Iran este probabil în spatele atacurilor.",
-        "category": "international"
-      },
-      {
-        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-        "translated_title": "Un judecător a respins cererea xAI de a bloca interzicerea aplicațiilor 'nudify' în Minnesota",
-        "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-        "source": "TechCrunch",
-        "published": "2026-08-01T20:26:04+00:00",
-        "summary": "În ciuda procesului intentat de xAI, interzicerea aplicațiilor care permit utilizatorilor să 'nudifice' imagini poate continua în Minnesota.",
-        "category": "international"
-      },
-      {
-        "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
-        "translated_title": "Trump acuză pe Tim Walz pentru hacking-ul apei, deși este probabil că Iran este vinovat",
-        "url": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
-        "source": "The Verge",
-        "published": "2026-08-01T15:23:35+00:00",
-        "summary": "FBI, Agenția de Protecție a Mediului și Agenția de Securitate Cibernetică și Infrastructură nu au acuzat oficial Iran, dar consensul este că Iran este probabil în spatele atacurilor.",
-        "category": "international"
-      },
-      {
-        "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
-        "translated_title": "Uber construiește un imperiu de vehicule autonome și iată toate companiile pe care le folosește",
-        "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
-        "source": "TechCrunch",
-        "published": "2026-08-01T15:05:00+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-        "translated_title": "Sfaturile financiare oferite de inteligența artificială sunt surprinzător de bune, mai ales dacă se pun întrebări corecte",
-        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-        "source": "Hacker News",
-        "published": "2026-08-01T22:25:12+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-        "translated_title": "Incursiunile de hacking ale OpenAI și Anthropic AI reprezintă un nou front legal haotic",
-        "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-        "source": "Wired",
-        "published": "2026-08-01T09:30:00+00:00",
-        "summary": "Modelele celor două laboratoare de inteligență artificială au scăpat de sub control, au ajuns pe internet și au hack-atacat alte companii.",
-        "category": "international"
-      },
-      {
-        "title": "Astronomers Have Detected an Exomoon for the First Time",
-        "translated_title": "Astronomii au detectat pentru prima dată o exolună",
-        "url": "https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/",
-        "source": "Wired",
-        "published": "2026-08-01T09:00:00+00:00",
-        "summary": "Descoperirea a fost făcută într-un sistem solar aflat la 73 de ani-lumină de Pământ și pune la încercare definițiile și 'estompează granițele dintre stele, planete și luni'.",
-        "category": "international"
-      },
-      {
-        "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-        "translated_title": "Europenii sunt pe cale să afle cât de mult este încorporată inteligența artificială în viața lor de zi cu zi",
-        "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-        "source": "Wired",
-        "published": "2026-08-02T06:31:33+00:00",
-        "summary": "Noile reguli ale UE stipulează că oamenii trebuie informați atunci când interacționează cu inteligență artificială sau când văd conținut generat sau editat de inteligență artificială.",
-        "category": "international"
-      },
-      {
-        "title": "Meta, TikTok, Snap and Google face wrongful death lawsuit from four US families",
-        "translated_title": "Meta, TikTok, Snap și Google sunt acuzate de moarte injustă de către patru familii din SUA",
-        "url": "https://www.engadget.com/2228490/meta-tiktok-snap-google-wrongful-death-lawsuit-us/",
-        "source": "Engadget",
-        "published": "2026-08-01T18:14:29+00:00",
-        "summary": "Centrul de Drept al Victimelor Rețelelor Sociale a acuzat companiile de a crea platforme adictive și periculoase.",
-        "category": "international"
-      },
-      {
-        "title": "How to create and delete stickers on your iPhone",
-        "translated_title": "Cum se creează și se șterg stickere pe iPhone",
-        "url": "https://www.engadget.com/2225199/how-to-create-delete-stickers-on-iphone/",
-        "source": "Engadget",
-        "published": "2026-08-01T17:30:00+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Ayaneo reveals its Game Boy Advance remake called the Konkr Pocket Advance",
-        "translated_title": "Ayaneo prezintă remake-ul Game Boy Advance, numit Konkr Pocket Advance",
-        "url": "https://www.engadget.com/2228464/ayaneo-game-boy-advance-remake-konkr-pocket-advance/",
-        "source": "Engadget",
-        "published": "2026-08-01T16:40:00+00:00",
-        "summary": "Dispozitivul portabil va fi lansat în culorile albastru marin și portocaliu.",
-        "category": "international"
-      },
-      {
-        "title": "Aceste telefoane Android nu vor mai fi compatibile YouTube și cu alte aplicații Google",
-        "translated_title": "Aceste telefoane Android nu vor mai fi compatibile cu YouTube și alte aplicații Google",
-        "url": "https://zonait.ro/telefoane-cu-android/",
-        "source": "Zona IT",
-        "published": "2026-08-01T07:00:00+00:00",
-        "summary": "Google a încetat să mai ofere actualizări de sistem de operare pentru tabletele și telefoanele Android mai vechi, lăsându-le inutilizabile.",
-        "category": "romanian"
-      },
-      {
-        "title": "BYD aduce în Europa electrica de 1.140 CP care se încarcă în cinci minute, dar prețul sare la 115.000 de euro",
-        "translated_title": "BYD aduce în Europa o mașină electrică de 1.140 CP care se încarcă în cinci minute, dar prețul este de 115.000 de euro",
-        "url": "https://playtech.ro/2026/byd-aduce-in-europa-electrica-de-1-140-cp-care-se-incarca-in-cinci-minute-dar-pretul-sare-la-115-000-de-euro/",
-        "source": "Playtech",
-        "published": "2026-08-02T06:00:16+00:00",
-        "summary": "",
-        "category": "romanian"
-      },
-      {
-        "title": "Terenurile care valorează mai mult decât un apartament de lux. Unde sunt cele mai scumpe parcele din România",
-        "translated_title": "Terenurile care valorează mai mult decât un apartament de lux. Unde sunt cele mai scumpe parcele din România",
-        "url": "https://playtech.ro/2026/terenurile-care-valoreaza-mai-mult-decat-un-apartament-de-lux-unde-sunt-cele-mai-scumpe-parcele-din-romania/",
-        "source": "Playtech",
-        "published": "2026-08-02T05:19:03+00:00",
-        "summary": "",
-        "category": "romanian"
-      },
-      {
-        "title": "IBM a creat unul dintre cele mai impresionante hard diskuri din istorie. A fost depășit în doar trei ani",
-        "translated_title": "IBM a creat unul dintre cele mai impresionante hard disk-uri din istorie, dar a fost depășit în doar trei ani",
-        "url": "https://playtech.ro/2026/ibm-a-creat-unul-dintre-cele-mai-impresionante-hard-diskuri-din-istorie-a-fost-depasit-in-doar-trei-ani/",
-        "source": "Playtech",
-        "published": "2026-08-02T05:02:21+00:00",
-        "summary": "",
         "category": "romanian"
       }
     ]
