@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-10",
+    "date_formatted": "10 August 2026",
+    "news": [
+      {
+        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+        "translated_title": "Fondul de investiții Situational Awareness, aflat în impas, investește 400 de milioane de dolari în startup-ul de cipuri Source Foundry",
+        "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+        "source": "TechCrunch",
+        "published": "2026-08-09T20:35:17+00:00",
+        "summary": "Fondul de investiții axat pe inteligență artificială face încă pariuri mari.",
+        "category": "international"
+      },
+      {
+        "title": "The AI safety test is becoming a safety risk",
+        "translated_title": "Testul de siguranță al inteligenței artificiale devine un risc pentru siguranță",
+        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+        "source": "TechCrunch",
+        "published": "2026-08-09T14:30:00+00:00",
+        "summary": "Agenții inteligenți artificiali evadează din medii de testare pentru securitate cibernetică și ajung în sisteme din lumea reală, ridicând întrebări despre capacitatea infrastructurii de siguranță, a standardelor industriale și a reglementărilor de a ține pasul cu modelele din ce în ce mai puternice.",
+        "category": "international"
+      },
+      {
+        "title": "Anthropic is turning Claude Code’s auto mode on by default",
+        "translated_title": "Anthropic activează modul automat al lui Claude Code în mod implicit",
+        "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+        "source": "TechCrunch",
+        "published": "2026-08-09T19:20:32+00:00",
+        "summary": "Programarea cu Claude Code va necesita în curând și mai puțină supraveghere umană.",
+        "category": "international"
+      },
+      {
+        "title": "AI detectors are creating a new era of distrust",
+        "translated_title": "Detectoarele de inteligență artificială creează o nouă eră a neîncrederii",
+        "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+        "source": "The Verge",
+        "published": "2026-08-09T12:00:00+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "How I use LLMs to learn complex topics",
+        "translated_title": "Cum folosesc modelele de limbaj pentru a învăța subiecte complexe",
+        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+        "source": "Hacker News",
+        "published": "2026-08-09T19:16:49+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "OpenChamber: An Agentic Development Environment",
+        "translated_title": "OpenChamber: Un mediu de dezvoltare agentic",
+        "url": "https://openchamber.dev/",
+        "source": "Hacker News",
+        "published": "2026-08-09T17:27:16+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Ask HN: What are you working on? (August 2026)",
+        "translated_title": "Întrebați HN: La ce lucrați? (August 2026)",
+        "url": "https://news.ycombinator.com/item?id=49233423",
+        "source": "Hacker News",
+        "published": "2026-08-09T17:23:22+00:00",
+        "summary": "Ce lucrați? Ce v-a intrigat recent?",
+        "category": "international"
+      },
+      {
+        "title": "Taxi drivers rarely die of Alzheimer's",
+        "translated_title": "Șoferii de taxi rareori mor de Alzheimer",
+        "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+        "source": "Hacker News",
+        "published": "2026-08-09T15:21:46+00:00",
+        "summary": "Hărțile mentale complexe și raționamentul spațial protejează creierul.",
+        "category": "international"
+      },
+      {
+        "title": "The Complicated Case of Passing On Your Digital Estate",
+        "translated_title": "Cazul complex al transmiterii moștenirii digitale",
+        "url": "https://www.wired.com/story/digital-estate-planning-tips/",
+        "source": "Wired",
+        "published": "2026-08-09T11:30:00+00:00",
+        "summary": "Nu există o modalitate perfectă de a transmite posesia activelor digitale iubitilor după moartea dumneavoastră, dar există lucruri pe care le puteți face acum pentru a face procesul mai ușor pentru ei.",
+        "category": "international"
+      },
+      {
+        "title": "4 Best Compression Boots: Therabody, Hyperice, and More (2026)",
+        "translated_title": "Cele 4 cele mai bune boturi de compresie: Therabody, Hyperice și altele (2026)",
+        "url": "https://www.wired.com/story/best-compression-boots/",
+        "source": "Wired",
+        "published": "2026-08-09T11:04:00+00:00",
+        "summary": "Indiferent dacă vă antrenați intens, călătoriți des sau aveți o circulație deficitară, acestea sunt cele mai bune boturi de compresie pentru oricine caută o recuperare musculară mai bună.",
+        "category": "international"
+      },
+      {
+        "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+        "translated_title": "Meetily vă permite să transcrieți și să rezumați întâlniri fără abonament - iată cum",
+        "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+        "source": "Wired",
+        "published": "2026-08-09T10:30:00+00:00",
+        "summary": "Există modalități infinite de a înregistra și transcrie întâlnirile virtuale cu inteligență artificială. Iată o opțiune care este gratuită și cu sursă deschisă.",
+        "category": "international"
+      },
+      {
+        "title": "Cele mai cumpărate telefoane Honor în această perioadă. Modelele pe care clienții le aleg cel mai des și cât costă",
+        "translated_title": "Cele mai cumpărate telefoane Honor în această perioadă. Modelele pe care clienții le aleg cel mai des și cât costă",
+        "url": "https://playtech.ro/2026/cele-mai-cumparate-telefoane-honor-in-aceasta-perioada-modelele-pe-care-clientii-le-aleg-cel-mai-des-si-cat-costa/",
+        "source": "Playtech",
+        "published": "2026-08-10T05:06:17+00:00",
+        "summary": "",
+        "category": "romanian"
+      },
+      {
+        "title": "Dacia cu scut metalic montat ulterior: protecție utilă sau sursă de vibrații și zgomote",
+        "translated_title": "Dacia cu scut metalic montat ulterior: protecție utilă sau sursă de vibrații și zgomote",
+        "url": "https://playtech.ro/2026/dacia-cu-scut-metalic-montat-ulterior-protectie-utila-sau-sursa-de-vibratii-si-zgomote/",
+        "source": "Playtech",
+        "published": "2026-08-10T05:00:28+00:00",
+        "summary": "",
+        "category": "romanian"
+      },
+      {
+        "title": "Dacia cu podea lovită: ce îți spune despre exploatare și când devine motiv de negociere",
+        "translated_title": "Dacia cu podea lovită: ce vă spune despre exploatare și când devine motiv de negociere",
+        "url": "https://playtech.ro/2026/dacia-cu-podea-lovita-ce-iti-spune-despre-exploatare-si-cand-devine-motiv-de-negociere/",
+        "source": "Playtech",
+        "published": "2026-08-10T04:30:27+00:00",
+        "summary": "",
+        "category": "romanian"
+      },
+      {
+        "title": "Anvelope vechi, dar cu profil bun: cum verifici vârsta și când devin nesigure",
+        "translated_title": "Anvelope vechi, dar cu profil bun: cum verificați vârsta și când devin nesigure",
+        "url": "https://playtech.ro/2026/anvelope-vechi-dar-cu-profil-bun-cum-verifici-varsta-si-cand-devin-nesigure/",
+        "source": "Playtech",
+        "published": "2026-08-10T04:00:26+00:00",
+        "summary": "",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-09",
     "date_formatted": "9 August 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-08-04T06:27:09.576869+00:00",
         "summary": "Turiștii au fost ținta a aproape 270.000 de atacuri cibernetice în ultimul an, din cauza dependenței crescute de platformele digitale.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "date_formatted": "3 August 2026",
-    "news": [
-      {
-        "title": "Sam Altman and AI’s decel debate",
-        "translated_title": "Dezbaterea lui Sam Altman și AI despre decelerație",
-        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-        "source": "TechCrunch",
-        "published": "2026-08-02T20:54:22+00:00",
-        "summary": "Sam Altman a cerut industriei să „temporizeze ritmul dezvoltării inteligenței artificiale.”",
-        "category": "international"
-      },
-      {
-        "title": "The global memory shortage hits the MacBook Air",
-        "translated_title": "Lipsa globală de memorie afectează MacBook Air",
-        "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-        "source": "TechCrunch",
-        "published": "2026-08-02T21:33:59+00:00",
-        "summary": "Lipsa globală de cipuri de memorie pare să afecteze disponibilitatea celui mai popular Mac al Apple.",
-        "category": "international"
-      },
-      {
-        "title": "Xbox prices are increasing by up to €200 or £170",
-        "translated_title": "Prețurile Xbox cresc cu până la 200 de euro sau 170 de lire sterline",
-        "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-        "source": "The Verge",
-        "published": "2026-08-02T16:14:20+00:00",
-        "summary": "Prețurile Xbox vor crește cu până la 200 de euro sau 170 de lire sterline, în funcție de model.",
-        "category": "international"
-      },
-      {
-        "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-        "translated_title": "Europenii vor afla cât de mult este integrată inteligența artificială în viețile lor",
-        "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-        "source": "Wired",
-        "published": "2026-08-02T10:00:00+00:00",
-        "summary": "Noile reguli ale UE cer ca oamenii să fie informați atunci când interacționează cu inteligență artificială sau văd conținut generat sau editat de inteligență artificială.",
-        "category": "international"
-      },
-      {
-        "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
-        "translated_title": "Este posibil să se creeze ochelari inteligenți care nu sunt deranjante?",
-        "url": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
-        "source": "Wired",
-        "published": "2026-08-02T10:00:00+00:00",
-        "summary": "Companiile mari investesc în ochelari care înregistrează audio și video și au inteligență artificială încorporată, ceea ce ridică îngrijorări cu privire la confidențialitate.",
-        "category": "international"
-      },
-      {
-        "title": "YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline",
-        "translated_title": "Starul YouTube AboFlah și-a făcut viața o transmisiune live",
-        "url": "https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/",
-        "source": "Wired",
-        "published": "2026-08-02T09:00:00+00:00",
-        "summary": "AboFlah vorbește despre noile sale obiective, transmisiuni pentru caritate și despre când este momentul să se deconecteze.",
-        "category": "international"
-      },
-      {
-        "title": "The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos",
-        "translated_title": "Telescopul James Webb schimbă înțelegerea astronomilor despre cosmosul antic",
-        "url": "https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/",
-        "source": "Wired",
-        "published": "2026-08-02T11:00:00+00:00",
-        "summary": "Imaginile de la telescopul spațial oferă cosmologilor noi date pentru a explora și a dezvolta teorii.",
-        "category": "international"
-      },
-      {
-        "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
-        "translated_title": "Great Question (YC W21) angajează manager senior de generare a cererii",
-        "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
-        "source": "Hacker News",
-        "published": "2026-08-02T12:01:00+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "How the words we teach English language learners changed",
-        "translated_title": "Cum s-au schimbat cuvintele pe care le învățăm elevilor de limba engleză",
-        "url": "https://pudding.cool/2026/07/essential-words/",
-        "source": "Hacker News",
-        "published": "2026-08-02T15:41:08+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-        "translated_title": "Arată HN: Kakehashi – spațiu experimental pentru a rula binare macOS pe Linux ARM",
-        "url": "https://github.com/wie-project/kakehashi",
-        "source": "Hacker News",
-        "published": "2026-08-02T16:26:40+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-        "translated_title": "Arată HN: NixOS-DGX-Spark – Nix și NixOS pe DGX Spark",
-        "url": "https://github.com/graham33/nixos-dgx-spark",
-        "source": "Hacker News",
-        "published": "2026-08-02T17:05:54+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Știrile zilei despre tehnologie – 3 august 2026",
-        "translated_title": "Știrile zilei despre tehnologie – 3 august 2026",
-        "url": "https://www.nwradu.ro/2026/08/stirile-zilei-despre-tehnologie-3-august-2026/",
-        "source": "Nwradu Blog",
-        "published": "2026-08-03T03:44:42+00:00",
-        "summary": "Iași raționalizează energia electrică, Anyscale se vinde cu 1,6 miliarde de euro, TollRO intră în vigoare de la 31 august.",
-        "category": "romanian"
-      },
-      {
-        "title": "TOP 25: Oferte eMAG din 2.08.26 (cel mai bun smartphone premium cu stylus, laptop de gaming cu Intel Core i9-13900H și grafică NVIDIA GeForce RTX 5060, televizor OLED Samsung pe diagonala de 195 cm și cu evaluare 4.86 / 5 din 90 de review-uri etc)",
-        "translated_title": "TOP 25: Oferte eMAG din 2.08.26",
-        "url": "https://gadget.ro/top-25-oferte-emag-din-2-08-26-cel-mai-bun-smartphone-premium-cu-stylus-laptop-de-gaming-cu-intel-core-i9-13900h-si-grafica-nvidia-geforce-rtx-5060-televizor-oled-samsung-pe-diagonala-de-195-cm-si/",
-        "source": "Gadget.ro",
-        "published": "2026-08-02T14:47:28+00:00",
-        "summary": "Se prezintă o listă cu produse cu preț bun și feedback relevant din partea utilizatorilor.",
-        "category": "romanian"
-      },
-      {
-        "title": "10 gadgets de la LIDL (3.08 – 9.08.26)",
-        "translated_title": "10 gadgeturi de la LIDL (3.08 – 9.08.26)",
-        "url": "https://gadget.ro/10-gadgets-de-la-lidl-3-08-9-08-26/",
-        "source": "Gadget.ro",
-        "published": "2026-08-02T19:44:35+00:00",
-        "summary": "Se prezintă o listă cu produse interesante din catalogul LIDL.",
-        "category": "romanian"
-      },
-      {
-        "title": "Honor X7e Plus (4G) a fost lansat cu baterie de 8.100 mAh și ecran de 120 Hz",
-        "translated_title": "Honor X7e Plus (4G) a fost lansat cu baterie de 8.100 mAh și ecran de 120 Hz",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/honor-x7e-plus-4g-a-fost-lansat-cu-baterie-de-8-100-mah-si-ecran-de-120-hz-19280770/",
-        "source": "Go4IT",
-        "published": "2026-08-03T07:24:06.491543+00:00",
-        "summary": "Noul dispozitiv are o baterie de 8.100 mAh și un ecran cu rată de reîmprospătare de 120 Hz.",
         "category": "romanian"
       }
     ]
