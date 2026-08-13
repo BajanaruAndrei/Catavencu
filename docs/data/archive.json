@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-13",
+    "date_formatted": "13 August 2026",
+    "news": [
+      {
+        "title": "Priceline Promo Codes & Coupons: 10% Off August 2026",
+        "translated_title": "Coduri promoționale Priceline & Cupoane: 10% reducere în august 2026",
+        "url": "https://www.wired.com/story/priceline-promo-code/",
+        "source": "Wired",
+        "published": "2026-08-13T05:00:00+00:00",
+        "summary": "Priceline oferă reduceri masive pentru hoteluri, zboruri și mașini de închiriat. Găsiți coduri promoționale verificate și oferte pentru Express Deals, reduceri pentru studenți și multe altele.",
+        "category": "international"
+      },
+      {
+        "title": "Factor Promo Code: 50% Off Off Meal Prep",
+        "translated_title": "Cod promoțional Factor: 50% reducere la pregătirea meselor",
+        "url": "https://www.wired.com/story/factor-promo-code/",
+        "source": "Wired",
+        "published": "2026-08-13T05:00:00+00:00",
+        "summary": "Faceți pregătirea meselor mai ușoară pentru orice nevoie alimentară, bucurându-vă de economii excelente cu codurile noastre promoționale Factor selectate cu atenție, în luna august.",
+        "category": "international"
+      },
+      {
+        "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+        "translated_title": "Arată HN: Ballet – Automatizarea fluxului de lucru care scrie integrări împotriva oricărui API",
+        "url": "https://www.ballet.dev/",
+        "source": "Hacker News",
+        "published": "2026-08-13T00:01:43+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+        "translated_title": "La mulți ani, calculatorul IBM și Model F/XT, 45 de ani de la lansare",
+        "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+        "source": "Hacker News",
+        "published": "2026-08-12T23:50:33+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Build Wide, Ship Narrow",
+        "translated_title": "Construiți pe scară largă, livrați pe scară mică",
+        "url": "https://adapt.com/blog/build-wide-ship-narrow",
+        "source": "Hacker News",
+        "published": "2026-08-12T23:43:48+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "A rare two-player Computer Space arcade machine is up for auction",
+        "translated_title": "O mașină de jocuri Computer Space pentru doi jucători, rare, este scoasă la licitație",
+        "url": "https://www.engadget.com/2235951/a-rare-retro-arcade-machine-featured-in-soylent-green-is-up-for-auction/",
+        "source": "Engadget",
+        "published": "2026-08-12T23:34:18+00:00",
+        "summary": "Mașina de jocuri cu carcasa strălucitoare face parte dintr-o licitație vastă de tehnologie retro, axată pe Steve Jobs și revoluția calculatorului.",
+        "category": "international"
+      },
+      {
+        "title": "Principia Mathematica is modern and insightful",
+        "translated_title": "Principia Mathematica este modernă și plină de insight-uri",
+        "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+        "source": "Hacker News",
+        "published": "2026-08-12T23:26:21+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "The Best Photos of the Big August Solar Eclipse",
+        "translated_title": "Cele mai bune fotografii ale eclipsei solare din august",
+        "url": "https://www.wired.com/story/best-photos-august-solar-eclipse-spain/",
+        "source": "Wired",
+        "published": "2026-08-12T22:47:30+00:00",
+        "summary": "A fost o sută de ani de când Peninsula Iberică a fost în umbra completă a lunii. Iată cum a arătat în calea totalității.",
+        "category": "international"
+      },
+      {
+        "title": "How to stop Twitch from training AI on your streams",
+        "translated_title": "Cum să opriți Twitch să antreneze inteligența artificială pe fluxurile dvs.",
+        "url": "https://www.engadget.com/2235928/how-to-stop-twitch-training-ai-on-streams/",
+        "source": "Engadget",
+        "published": "2026-08-12T22:38:45+00:00",
+        "summary": "Și de ce compania nu a făcut această funcție opțională.",
+        "category": "international"
+      },
+      {
+        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "translated_title": "Unii utilizatori Claude sunt supărați că noile filigrane Anthropic îi vor prinde folosindu-l la serviciu sau la școală",
+        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+        "source": "TechCrunch",
+        "published": "2026-08-12T22:26:37+00:00",
+        "summary": "Sistemul de filigrane al companiei Anthropic este considerat o problemă de unii utilizatori care s-au plâns pe rețelele sociale.",
+        "category": "international"
+      },
+      {
+        "title": "AI nuclear power firm Fermi finally has a new CEO",
+        "translated_title": "Firma de energie nucleară cu inteligență artificială Fermi are în sfârșit un nou director general",
+        "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+        "source": "TechCrunch",
+        "published": "2026-08-12T22:24:00+00:00",
+        "summary": "Lee McIntire, un membru independent al consiliului de administrație al Fermi, a fost numit director general, peste trei luni de la concedierea fondatorului Toby Neugebauer de la funcția de director general.",
+        "category": "international"
+      },
+      {
+        "title": "Un Galaxy S25+ a luat foc în timpul încărcării. Ce spune Samsung – FOTO",
+        "translated_title": "Un Galaxy S25+ a luat foc în timpul încărcării. Ce spune Samsung – FOTO",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/un-galaxy-s25-a-luat-foc-in-timpul-incarcarii-ce-spune-samsung-19281890/",
+        "source": "Go4IT",
+        "published": "2026-08-13T05:39:15.087948+00:00",
+        "summary": "Un telefon Samsung Galaxy S25+ a luat foc în timpul încărcării, într-o locuință din Qingdao, China. Incidentul s-a produs recent, iar proprietarul susține că telefonul nu prezenta probleme înainte de eveniment.",
+        "category": "romanian"
+      },
+      {
+        "title": "Google lansează noua serie Pixel 11. Cu ce îmbunătățiri vin cele trei modele din gama Google?",
+        "translated_title": "Google lansează noua serie Pixel 11. Cu ce îmbunătățiri vin cele trei modele din gama Google?",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/google-lanseaza-noua-serie-pixel-11-cu-ce-imbunatatiri-vin-cele-trei-modele-din-gama-google-19281911/",
+        "source": "Go4IT",
+        "published": "2026-08-13T05:39:15.087691+00:00",
+        "summary": "Google lansează astăzi noua generație de telefoane Pixel, cea cu numărul 11. Compania susține că noile modele Pixel, Pixel Pro și Pixel Pro XL vin cu componente hardware rafinate, concepute să reziste în timp, camere îmbunătățite.",
+        "category": "romanian"
+      },
+      {
+        "title": "Tor, Private Relay și alte proxy-uri la nivel de browser, compromise de vulnerabilitățile WebKit din iOS și macOS",
+        "translated_title": "Tor, Private Relay și alte proxy-uri la nivel de browser, compromise de vulnerabilitățile WebKit din iOS și macOS",
+        "url": "https://www.go4it.ro/securitate-informatica/tor-private-relay-si-alte-proxy-uri-la-nivel-de-browser-compromise-de-vulnerabilitatile-webkit-din-ios-si-macos-19281917/",
+        "source": "Go4IT",
+        "published": "2026-08-13T05:39:15.087552+00:00",
+        "summary": "Funcția cu plată iCloud Private Relay de la Apple este concepută pentru a ascunde traficul web, astfel încât site-urile, cum ar fi agențiile de publicitate, guvernele fără scrupule sau atacatorii rău intenționați, să nu poată urmări utilizatorii.",
+        "category": "romanian"
+      },
+      {
+        "title": "ShieldBreak, încă un nou zero-day pentru Windows care permite acces extins la sistem",
+        "translated_title": "ShieldBreak, o nouă vulnerabilitate zero-day pentru Windows care permite acces extins la sistem",
+        "url": "https://www.go4it.ro/content/software/shieldbreak-un-nou-zero-day-pentru-windows-permite-acces-extins-la-sistem-dupa-avertismentele-microsoft-19281921/",
+        "source": "Go4IT",
+        "published": "2026-08-13T05:39:15.087416+00:00",
+        "summary": "Un cercetător în securitate a publicat detalii despre o nouă vulnerabilitate din Windows. Problema permite escaladarea privilegiilor și accesul la datele de pe dispozitiv.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-12",
     "date_formatted": "12 August 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-08-07T05:39:39.086663+00:00",
         "summary": "OpenAI a anunțat o serie de schimbări importante pentru ChatGPT, inclusiv acces nelimitat la conversații text pentru conturile gratuite.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "date_formatted": "6 August 2026",
-    "news": [
-      {
-        "title": "Hungryroot Coupon Codes: 30% Off This August",
-        "translated_title": "Coduri de reducere Hungryroot: 30% reducere în această lună august",
-        "url": "https://www.wired.com/story/hungryroot-promo-code/",
-        "source": "Wired",
-        "published": "2026-08-06T05:00:00+00:00",
-        "summary": "Obțineți până la 30% reducere la prima comandă și cadouri gratuite folosind un cod promoțional Hungryroot astăzi.",
-        "category": "international"
-      },
-      {
-        "title": "Govee Discount Codes and Deals: 30% Off",
-        "translated_title": "Coduri de reducere Govee și oferte: 30% reducere",
-        "url": "https://www.wired.com/story/govee-discount-code/",
-        "source": "Wired",
-        "published": "2026-08-06T05:00:00+00:00",
-        "summary": "Noi la Govee? Obțineți un cupon de 5 dolari la prima cumpărătură doar pentru că v-ați înregistrat.",
-        "category": "international"
-      },
-      {
-        "title": "20% Off Brooks Promo Code | August 2026",
-        "translated_title": "20% reducere la codul promoțional Brooks | August 2026",
-        "url": "https://www.wired.com/story/brooks-promo-code/",
-        "source": "Wired",
-        "published": "2026-08-06T05:00:00+00:00",
-        "summary": "Beneficiați de 20% reducere la prima comandă cu un cod promoțional Brooks, plus reduceri și oferte pentru încălțămintea de alergare Brooks preferată.",
-        "category": "international"
-      },
-      {
-        "title": "Sealy Promo Codes: $100 Off",
-        "translated_title": "Coduri promoționale Sealy: 100 de dolari reducere",
-        "url": "https://www.wired.com/story/sealy-promo-code/",
-        "source": "Wired",
-        "published": "2026-08-06T05:00:00+00:00",
-        "summary": "Indiferent dacă treceți de la arcuri la spumă de memorie sau doar doriți să dormiți mai răcoros în această vară, aceste oferte de saltea Sealy vă vor face să vă treziți proaspăt și cu bani în portofel.",
-        "category": "international"
-      },
-      {
-        "title": "Crime Pays but Botany Doesn't",
-        "translated_title": "Crima plătește, dar botanica nu",
-        "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-        "source": "Hacker News",
-        "published": "2026-08-06T04:46:35+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Ship Safe, an open source security scanner for coding agents",
-        "translated_title": "Ship Safe, un scanner de securitate open source pentru agenți de codare",
-        "url": "https://github.com/asamassekou10/ship-safe",
-        "source": "Hacker News",
-        "published": "2026-08-06T04:02:28+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "The $299 Viture Pro 2 are the company's lightest and most comfortable smartglasses yet",
-        "translated_title": "Viture Pro 2, la 299 de dolari, sunt ochelarii inteligenți cei mai ușori și confortabili ai companiei",
-        "url": "https://www.engadget.com/2231156/virtue-pro-2-are-the-companys-lightest-and-most-comfortable-smartglasses-yet/",
-        "source": "Engadget",
-        "published": "2026-08-06T04:00:00+00:00",
-        "summary": "Viture lansează un doc mobil compact, Dock Mini, pentru doar 99 de dolari, alături de noii ochelari inteligenți de 299 de dolari.",
-        "category": "international"
-      },
-      {
-        "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
-        "translated_title": "Aratăți HN: Wallfacer – un manager de sesiune terminal pentru Claude Code și mai mult",
-        "url": "https://github.com/pradipta/wallfacer",
-        "source": "Hacker News",
-        "published": "2026-08-06T03:52:56+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Nashville uses eminent domain to block data center near zoo",
-        "translated_title": "Nashville folosește dreptul de expropriere pentru a bloca un centru de date lângă grădina zoologică",
-        "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-        "source": "Hacker News",
-        "published": "2026-08-06T02:15:14+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
-        "translated_title": "Încercarea lui Elon Musk de a crea o enciclopedie Wikipedia cu inteligență artificială nu a fost actualizată de luni de zile",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-        "source": "The Verge",
-        "published": "2026-08-06T00:25:10+00:00",
-        "summary": "Grokipedia, o enciclopedie online cu articole generate de inteligență artificială, pe care Elon Musk a promis că va fi o „îmbunătățire masivă” față de Wikipedia, nu a fost actualizată de la 24 aprilie, conform unui raport de la Lawfare.",
-        "category": "international"
-      },
-      {
-        "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
-        "translated_title": "Obțineți până la 400 de dolari reducere la biletul dvs. TechCrunch Disrupt 2026 până vineri",
-        "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-        "source": "TechCrunch",
-        "published": "2026-08-05T22:55:43+00:00",
-        "summary": "Începând de astăzi, puteți obține o reducere suplimentară de 100 de dolari la biletul dvs. de fondator, investitor sau participant TechCrunch Disrupt 2026, ceea ce este un bonus frumos pe lângă prețurile noastre actuale reduse.",
-        "category": "international"
-      },
-      {
-        "title": "REDMI K100 Pro va fi lansat pe 11 august: baterie mare, ecran OLED și Snapdragon",
-        "translated_title": "REDMI K100 Pro va fi lansat pe 11 august: baterie mare, ecran OLED și Snapdragon",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/redmi-k100-pro-va-fi-lansat-pe-11-august-baterie-mare-ecran-oled-si-snapdragon-19281221/",
-        "source": "Go4IT",
-        "published": "2026-08-06T06:29:28.735153+00:00",
-        "summary": "REDMI a confirmat lansarea modelului K100 Pro pentru data de 11 august, în China, cu accent pe autonomie, performanță și capabilități foto.",
-        "category": "romanian"
-      },
-      {
-        "title": "Fost dezvoltator Rockstar: lansarea GTA 6 ar putea fi amânată cu peste șase luni, în ciuda precomenzilor",
-        "translated_title": "Fost dezvoltator Rockstar: lansarea GTA 6 ar putea fi amânată cu peste șase luni, în ciuda precomenzilor",
-        "url": "https://www.go4it.ro/content/jocuri/fost-dezvoltator-rockstar-lansarea-gta-6-ar-putea-fi-amanata-cu-peste-sase-luni-in-ciuda-precomenzilor-19281196/",
-        "source": "Go4IT",
-        "published": "2026-08-06T06:29:28.734972+00:00",
-        "summary": "Data de lansare a jocului GTA 6 din luna noiembrie nu este garantată, potrivit unui fost dezvoltator Rockstar Games, care susține că studioul preferă să amâne un proiect dacă produsul final nu îndeplinește standardele de calitate.",
-        "category": "romanian"
-      },
-      {
-        "title": "Samsung a prezentat V10 BV-NAND, primul cip de stocare cu peste 400 de straturi destinat centrelor de date AI",
-        "translated_title": "Samsung a prezentat V10 BV-NAND, primul cip de stocare cu peste 400 de straturi destinat centrelor de date AI",
-        "url": "https://www.go4it.ro/content/componente-pc/samsung-a-prezentat-v10-bv-nand-primul-cip-de-stocare-cu-peste-400-de-straturi-destinat-centrelor-de-date-ai-19281206/",
-        "source": "Go4IT",
-        "published": "2026-08-06T06:29:28.734791+00:00",
-        "summary": "Samsung a prezentat noul cip de stocare V10 BV-NAND, care utilizează arhitectura NAND verticală de generația a zecea și introduce o tehnologie care permite o capacitate de stocare mai mare.",
-        "category": "romanian"
-      },
-      {
-        "title": "Apple nu reușește să atragă CXMT ca furnizor de memorie DRAM. Avantaj pentru Samsung și SK Hynix",
-        "translated_title": "Apple nu reușește să atragă CXMT ca furnizor de memorie DRAM, un avantaj pentru Samsung și SK Hynix",
-        "url": "https://www.go4it.ro/content/business/apple-nu-reuseste-sa-atraga-cxmt-ca-furnizor-de-memorie-dram-avantaj-pentru-samsung-si-sk-hynix-19281201/",
-        "source": "Go4IT",
-        "published": "2026-08-06T06:29:28.734605+00:00",
-        "summary": "Apple nu a reușit să adauge producătorul chinez CXMT pe lista furnizorilor de memorie DRAM pentru viitoarele iPhone-uri, situație care consolidează poziția Samsung și SK Hynix pe piață.",
         "category": "romanian"
       }
     ]
