@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-15",
+    "date_formatted": "15 August 2026",
+    "news": [
+      {
+        "title": "AI Driven Testing",
+        "translated_title": "Testare condusă de IA",
+        "url": "https://app.deltix.ai",
+        "source": "Hacker News",
+        "published": "2026-08-15T02:42:14+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+        "translated_title": "Cutremur de magnitudine 7,7 – 68 km NNW de Ende, Indonezia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+        "source": "Hacker News",
+        "published": "2026-08-15T01:14:05+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "The Ploopy A+ Trackball Is Here",
+        "translated_title": "Ploopy A+ Trackball este aici",
+        "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+        "source": "Hacker News",
+        "published": "2026-08-15T00:55:31+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "NSA and IETF, Part 9",
+        "translated_title": "NSA și IETF, Partea 9",
+        "url": "https://blog.cr.yp.to/20260814-update.html",
+        "source": "Hacker News",
+        "published": "2026-08-15T00:54:01+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Waymo receives permission to offer rides in Sacramento and San Diego",
+        "translated_title": "Waymo primește permisiunea de a oferi curse în Sacramento și San Diego",
+        "url": "https://www.engadget.com/2237530/waymo-receives-permission-to-offer-rides-in-sacramento-and-san-diego/",
+        "source": "Engadget",
+        "published": "2026-08-14T22:50:04+00:00",
+        "summary": "Compania va putea, de asemenea, să-și extindă flota în mai multe zone din San Francisco Bay Area și Los Angeles.",
+        "category": "international"
+      },
+      {
+        "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+        "translated_title": "Negocierile pentru vânzarea PayPal către Stripe și Advent se intensifică",
+        "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+        "source": "TechCrunch",
+        "published": "2026-08-14T22:43:24+00:00",
+        "summary": "PayPal negociază în continuare o posibilă vânzare către Stripe și firma de private equity Advent, pe măsură ce noul său CEO încearcă să întoarcă compania.",
+        "category": "international"
+      },
+      {
+        "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
+        "translated_title": "Legislatorii din New York City militează pentru a „interzice scanarea” la MSG",
+        "url": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
+        "source": "Wired",
+        "published": "2026-08-14T21:43:17+00:00",
+        "summary": "La o conferință de presă în afara Madison Square Garden, politicieni, muzicieni și avocați ai confidențialității au pledat pentru restricții mai stricte privind modul în care locurile publice utilizează supravegherea biometrică.",
+        "category": "international"
+      },
+      {
+        "title": "The Best Movies to Stream This Month (August 2026)",
+        "translated_title": "Cele mai bune filme de vizionat în această lună (august 2026)",
+        "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+        "source": "Wired",
+        "published": "2026-08-14T21:18:21+00:00",
+        "summary": "Avatar Aang, Heartstopper Forever și Exit 8 sunt printre filmele care merită atenția dvs. în această lună.",
+        "category": "international"
+      },
+      {
+        "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+        "translated_title": "Următorul mare influencer este acest robot de 4 picioare din China",
+        "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+        "source": "Wired",
+        "published": "2026-08-14T20:59:03+00:00",
+        "summary": "Unitree G1 a devenit faimos online ca un robot relativ accesibil care poate fermeca o mulțime. Dar poate el să țină vreodată un loc de muncă real?",
+        "category": "international"
+      },
+      {
+        "title": "Kia's EV3 will start under $31,000 in the US",
+        "translated_title": "Kia EV3 va începe sub 31.000 de dolari în SUA",
+        "url": "https://www.engadget.com/2237429/kia-ev3-will-start-under-31-000-in-the-us/",
+        "source": "Engadget",
+        "published": "2026-08-14T20:39:20+00:00",
+        "summary": "Acest lucru îl face cel mai ieftin EV din gama Kia.",
+        "category": "international"
+      },
+      {
+        "title": "Self-driving trucks are officially testing on California highways",
+        "translated_title": "Camioanele autonome sunt oficial testate pe autostrăzile din California",
+        "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+        "source": "TechCrunch",
+        "published": "2026-08-14T20:37:49+00:00",
+        "summary": "Aurora Innovation și Kodiak AI, două companii care dezvoltă camioane autonome, au primit permise de la Departamentul de Vehicule cu Motor din California.",
+        "category": "international"
+      },
+      {
+        "title": "Glovo și PragmaGO lansează un serviciu de finanțare pentru comercianții români. Procesul este digital, iar creditele sunt acordate pe baza datelor aplicației de livrări",
+        "translated_title": "Glovo și PragmaGO lansează un serviciu de finanțare pentru comercianții români",
+        "url": "https://www.go4it.ro/content/business/glovo-si-pragmago-lanseaza-un-serviciu-de-finantare-pentru-comerciantii-romani-procesul-este-digital-iar-creditele-sunt-acordate-pe-baza-datelor-aplicatiei-de-livrari-19282117/",
+        "source": "Go4IT",
+        "published": "2026-08-15T04:29:36.200672+00:00",
+        "summary": "Platforma de livrări Glovo și compania poloneză de fintech PragmaGO și-au extins parteneriatul în domeniul finanțării integrate în România și oferă finanțare de tip Merchant Cash Advance pentru mii de întreprinderi mici.",
+        "category": "romanian"
+      },
+      {
+        "title": "WhatsApp a lansat Scam Alert, un nou instrument AI pentru detectarea tentativelor de fraudă",
+        "translated_title": "WhatsApp a lansat Scam Alert, un nou instrument AI pentru detectarea tentativelor de fraudă",
+        "url": "https://www.go4it.ro/content/aplicatii/whatsapp-testeaza-scam-alert-un-nou-instrument-ai-pentru-detectarea-tentativelor-de-frauda-19282120/",
+        "source": "Go4IT",
+        "published": "2026-08-15T04:29:36.200547+00:00",
+        "summary": "Meta a anunțat lansarea unei noi funcții de securitate pentru WhatsApp, numită Scam Alert, care folosește inteligența artificială pentru a identifica mesajele suspecte și a avertiza utilizatorii cu privire la posibile tentative de fraudă.",
+        "category": "romanian"
+      },
+      {
+        "title": "GTA 6 Ultimate Edition se vinde mai bine decât versiunea Standard în perioada de precomenzi",
+        "translated_title": "GTA 6 Ultimate Edition se vinde mai bine decât versiunea Standard în perioada de precomenzi",
+        "url": "https://www.go4it.ro/content/jocuri/gta-6-ultimate-edition-se-vinde-mai-bine-decat-versiunea-standard-in-perioada-de-precomenzi-19282123/",
+        "source": "Go4IT",
+        "published": "2026-08-15T04:29:36.200416+00:00",
+        "summary": "Precomenzile pentru GTA 6 Ultimate Edition sunt mai mari decât pentru versiunea mai ieftină a jocului, potrivit declarațiilor directorului Take-Two, Strauss Zelnick.",
+        "category": "romanian"
+      },
+      {
+        "title": "Samsung are un început bun de an și își majorează cotele pe mai multe piețe",
+        "translated_title": "Samsung are un început bun de an și își majorează cotele pe mai multe piețe",
+        "url": "https://www.go4it.ro/content/business/samsung-are-un-inceput-bun-de-an-si-isi-majoreaza-cotele-pe-mai-multe-piete-19282127/",
+        "source": "Go4IT",
+        "published": "2026-08-15T04:29:36.200277+00:00",
+        "summary": "Samsung Electronics și-a consolidat poziția pe mai multe piețe în prima jumătate a anului 2026, ajungând la o cotă de 39,4% pe piața DRAM și la 22% pe segmentul smartphone.",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-14",
     "date_formatted": "14 August 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-08-09T05:03:40.531325+00:00",
         "summary": "România este singura țară din UE care a redus fondurile pentru cercetare și dezvoltare în ultimii zece ani, potrivit datelor Eurostat.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "date_formatted": "8 August 2026",
-    "news": [
-      {
-        "title": "Mythos social engineering AISI INC-2026-07-28-01",
-        "translated_title": "Ingineria socială Mythos AISI INC-2026-07-28-01",
-        "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-        "source": "Hacker News",
-        "published": "2026-08-08T03:41:56+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
-        "translated_title": "NASA va menține sonda Voyager 2 în funcțiune pentru încă un an",
-        "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-        "source": "Hacker News",
-        "published": "2026-08-08T01:49:11+00:00",
-        "summary": "NASA a găsit o soluție pentru a menține sonda Voyager 2 în funcțiune pentru încă un an.",
-        "category": "international"
-      },
-      {
-        "title": "The Nixpkgs core team has disbanded",
-        "translated_title": "Echipa centrală Nixpkgs s-a desființat",
-        "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-        "source": "Hacker News",
-        "published": "2026-08-08T01:12:45+00:00",
-        "summary": "Echipa centrală Nixpkgs a anunțat că s-a desființat.",
-        "category": "international"
-      },
-      {
-        "title": "Show HN: Modern C++ Build Tools for Module Feature",
-        "translated_title": "Arătați HN: Unelte de construire moderne C++ pentru caracteristica Module",
-        "url": "https://github.com/mcpp-community/mcpp",
-        "source": "Hacker News",
-        "published": "2026-08-08T00:30:52+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "OpenAI says it slowed Astra model development over security concerns",
-        "translated_title": "OpenAI a încetinit dezvoltarea modelului Astra din cauza problemelor de securitate",
-        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-        "source": "TechCrunch",
-        "published": "2026-08-07T22:48:24+00:00",
-        "summary": "OpenAI a încetinit dezvoltarea modelului Astra din cauza problemelor de securitate.",
-        "category": "international"
-      },
-      {
-        "title": "The gaming site sponsored by Walmart lays off its editorial staff",
-        "translated_title": "Site-ul de jocuri sponsorizat de Walmart a dat afară personalul editorial",
-        "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
-        "source": "The Verge",
-        "published": "2026-08-07T22:05:08+00:00",
-        "summary": "Site-ul de jocuri Restart, sponsorizat de Walmart, a dat afară întregul personal editorial.",
-        "category": "international"
-      },
-      {
-        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-        "translated_title": "După ce Rippling a cheltuit milioane pe IA în câteva luni, a creat un instrument de urmărire a ROI pentru angajați",
-        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-        "source": "TechCrunch",
-        "published": "2026-08-07T21:30:11+00:00",
-        "summary": "Rippling a lansat AI Spend Console, un produs care urmărește cheltuielile individuale și de echipă cu IA.",
-        "category": "international"
-      },
-      {
-        "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-        "translated_title": "Wacom MovinkPad 11 este un punct de intrare divertisment și accesibil pentru artiștii digitali",
-        "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-        "source": "TechCrunch",
-        "published": "2026-08-07T21:20:00+00:00",
-        "summary": "MovinkPad 11 este o tabletă grafică versatilă care poate ajuta la realizarea viselor de artă digitală.",
-        "category": "international"
-      },
-      {
-        "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-        "translated_title": "Cercetătorii de securitate au scanat web-ul polonez și au găsit instanțe, spitale și aeroporturi vulnerabile la atacuri cibernetice",
-        "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
-        "source": "TechCrunch",
-        "published": "2026-08-07T21:00:08+00:00",
-        "summary": "Cercetătorii au găsit puncte comune de eșec care ar fi putut permite atacatorilor să pătrundă în site-urile guvernamentale.",
-        "category": "international"
-      },
-      {
-        "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-        "translated_title": "Fenix Flexin nu mai neagă utilizarea IA pentru a crea „Rubberz”",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-        "source": "The Verge",
-        "published": "2026-08-07T20:01:51+00:00",
-        "summary": "Fenix Flexin pare să fi admis utilizarea IA pentru a crea cântecul „Rubberz”.",
-        "category": "international"
-      },
-      {
-        "title": "Watching Roku’s AI channel is like eating from a trough",
-        "translated_title": "Vizionarea canalului de IA Roku este ca și cum ai mânca dintr-o troacă",
-        "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-        "source": "The Verge",
-        "published": "2026-08-07T18:59:46+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "România activează noul sistem electronic de taxare rutieră. Când începe taxarea efectivă",
-        "translated_title": "România activează noul sistem electronic de taxare rutieră. Când începe taxarea efectivă",
-        "url": "https://www.go4it.ro/content/anunturi/romania-activeaza-noul-sistem-electronic-de-taxare-rutiera-cand-incepe-taxarea-efectiva-19281431/",
-        "source": "Go4IT",
-        "published": "2026-08-08T04:55:50.501891+00:00",
-        "summary": "România a anunțat calendarul oficial pentru implementarea Sistemului de Tarifare Rutieră Electronică.",
-        "category": "romanian"
-      },
-      {
-        "title": "Google mai pierde patru cercetători de vârf din domeniul IA",
-        "translated_title": "Google mai pierde patru cercetători de vârf din domeniul IA",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/google-mai-pierde-patru-cercetatori-de-varf-din-domeniul-ia-19281436/",
-        "source": "Go4IT",
-        "published": "2026-08-08T04:55:50.501734+00:00",
-        "summary": "Patru cercetători de vârf din domeniul inteligenței artificiale au părăsit Google.",
-        "category": "romanian"
-      },
-      {
-        "title": "UE accelerează proiectul satelitar IRIS², concurent pentru Starlink: Acord major de extindere și prime lansări programate pentru 2029",
-        "translated_title": "UE accelerează proiectul satelitar IRIS², concurent pentru Starlink: Acord major de extindere și prime lansări programate pentru 2029",
-        "url": "https://www.go4it.ro/content/internet/ue-accelereaza-proiectul-satelitar-iris%c2%b2-concurent-pentru-starlink-acord-major-de-extindere-si-prime-lansari-programate-pentru-2029-19281440/",
-        "source": "Go4IT",
-        "published": "2026-08-08T04:55:50.501572+00:00",
-        "summary": "Comisia Europeană și consorțiul SpaceRISE au semnat un acord de implementare pentru lansarea IRIS².",
-        "category": "romanian"
-      },
-      {
-        "title": "Românii vor folosi un portofel digital bazat pe codul Germaniei, însă activiștii avertizează asupra riscurilor de securitate",
-        "translated_title": "Românii vor folosi un portofel digital bazat pe codul Germaniei, însă activiștii avertizează asupra riscurilor de securitate",
-        "url": "https://www.go4it.ro/content/aplicatii/romanii-vor-folosi-un-portofel-digital-bazat-pe-codul-germaniei-insa-activistii-avertizeaza-asupra-riscurilor-de-securitate-19281444/",
-        "source": "Go4IT",
-        "published": "2026-08-08T04:55:50.501403+00:00",
-        "summary": "Românii vor utiliza un portofel digital bazat pe codul Germaniei, dar există avertizări cu privire la riscurile de securitate.",
         "category": "romanian"
       }
     ]
