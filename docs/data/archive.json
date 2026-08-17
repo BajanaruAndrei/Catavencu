@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-17",
+    "date_formatted": "17 August 2026",
+    "news": [
+      {
+        "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "translated_title": "Stripe încheie un acord de peste 7 miliarde de dolari pentru a cumpăra firma de inteligență artificială OpenRouter",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+        "source": "Hacker News",
+        "published": "2026-08-16T20:31:16+00:00",
+        "summary": "Stripe este pe punctul de a cumpăra firma de inteligență artificială OpenRouter pentru o sumă de peste 7 miliarde de dolari.",
+        "category": "international"
+      },
+      {
+        "title": "OpenAI reportedly disbanded its preparedness team",
+        "translated_title": "OpenAI a desființat echipa de pregătire",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "source": "The Verge",
+        "published": "2026-08-16T21:32:56+00:00",
+        "summary": "OpenAI a desființat echipa de pregătire la sfârșitul lunii trecute, echipa care era responsabilă cu evaluarea riscurilor și găsirea de soluții pentru a le preveni.",
+        "category": "international"
+      },
+      {
+        "title": "Amazon is trying to crush class-action suits before they get started",
+        "translated_title": "Amazon încearcă să zdrobească acțiunile colective înainte de a începe",
+        "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+        "source": "The Verge",
+        "published": "2026-08-16T17:35:02+00:00",
+        "summary": "Amazon a trimis un e-mail clienților săi, anunțând o actualizare a termenilor și condițiilor, care prevede rezolvarea disputelor prin arbitraj și renunțarea la acțiunile colective.",
+        "category": "international"
+      },
+      {
+        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "translated_title": "ChatGPT urmărește istoricul calculatorului",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+        "source": "The Verge",
+        "published": "2026-08-16T14:56:40+00:00",
+        "summary": "ChatGPT are o nouă funcție numită Istoric calculator, care urmărește acțiunile utilizatorilor și le transformă în date de antrenament pentru a sugera automatizări și a prelua sarcini neterminate.",
+        "category": "international"
+      },
+      {
+        "title": "Rogue AI aren’t science fiction anymore",
+        "translated_title": "Inteligența artificială defectuoasă nu mai este o ficțiune",
+        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "source": "The Verge",
+        "published": "2026-08-16T12:00:00+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+        "translated_title": "Dacă Meta pierde acest proces, Instagram și Facebook ar putea fi schimbate pentru totdeauna",
+        "url": "https://www.bbc.com/news/articles/clyqpx6xk69o",
+        "source": "Hacker News",
+        "published": "2026-08-17T02:28:16+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+        "translated_title": "Nvidia reduce dramatic suma pe care o poate garanta pentru infrastructura OpenAI",
+        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+        "source": "Hacker News",
+        "published": "2026-08-16T21:07:10+00:00",
+        "summary": "Nvidia a redus suma pe care o poate garanta pentru infrastructura OpenAI.",
+        "category": "international"
+      },
+      {
+        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "translated_title": "CEO-ul Anthropic spune că reacția negativă la inteligența artificială este o criză de încredere",
+        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "source": "TechCrunch",
+        "published": "2026-08-16T16:53:51+00:00",
+        "summary": "Dario Amodei consideră că reacția negativă la inteligența artificială este o criză de încredere.",
+        "category": "international"
+      },
+      {
+        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "translated_title": "De ce oamenii nu cred în viitorul inteligenței artificiale al lui Mark Zuckerberg",
+        "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+        "source": "TechCrunch",
+        "published": "2026-08-16T20:32:01+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+        "translated_title": "TechCrunch Mobility: Traseul schimbat al taxiurilor electrice",
+        "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+        "source": "TechCrunch",
+        "published": "2026-08-16T16:04:00+00:00",
+        "summary": "",
+        "category": "international"
+      },
+      {
+        "title": "Astronomers Discover the Existence of a Black Hole Star",
+        "translated_title": "Astronomii descoperă existența unei stele cu gaură neagră",
+        "url": "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/",
+        "source": "Wired",
+        "published": "2026-08-16T11:00:00+00:00",
+        "summary": "Astronomii au descoperit o stea cu gaură neagră, observată cu telescopul spațial James Webb.",
+        "category": "international"
+      },
+      {
+        "title": "WhatsApp testează o nouă funcție de alertare la primirea mesajelor frauduloase",
+        "translated_title": "WhatsApp testează o nouă funcție de avertizare pentru mesaje frauduloase",
+        "url": "https://zonait.ro/whatsapp-scam-alert/",
+        "source": "Zona IT",
+        "published": "2026-08-16T07:00:00+00:00",
+        "summary": "WhatsApp a lansat o funcție numită Avertizare pentru escrocherii, care folosește un model de inteligență artificială pentru a detecta și avertiza utilizatorii despre mesaje suspecte.",
+        "category": "romanian"
+      },
+      {
+        "title": "Dacia Duster 4×4 vs SUV-uri mai scumpe: unde câștigă simplu și unde se vede diferența",
+        "translated_title": "Dacia Duster 4×4 vs SUV-uri mai scumpe: unde câștigă și unde se vede diferența",
+        "url": "https://playtech.ro/2026/dacia-duster-4x4-vs-suv-uri-mai-scumpe-unde-castiga-simplu-si-unde-se-vede-diferenta/",
+        "source": "Playtech",
+        "published": "2026-08-17T04:30:47+00:00",
+        "summary": "",
+        "category": "romanian"
+      },
+      {
+        "title": "Pornire după luni de staționare: baterie, ulei, frâne și anvelope, ordinea corectă",
+        "translated_title": "Pornire după luni de staționare: baterie, ulei, frâne și anvelope, ordinea corectă",
+        "url": "https://playtech.ro/2026/pornire-dupa-luni-de-stationare-baterie-ulei-frane-si-anvelope-ordinea-corecta/",
+        "source": "Playtech",
+        "published": "2026-08-17T04:00:46+00:00",
+        "summary": "",
+        "category": "romanian"
+      },
+      {
+        "title": "Mașină ținută mult timp pe loc: ce verifici înainte să pleci la drum",
+        "translated_title": "Mașină ținută mult timp pe loc: ce verifici înainte să pleci la drum",
+        "url": "https://playtech.ro/2026/masina-tinuta-mult-timp-pe-loc-ce-verifici-inainte-sa-pleci-la-drum/",
+        "source": "Playtech",
+        "published": "2026-08-17T03:30:45+00:00",
+        "summary": "",
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-16",
     "date_formatted": "16 August 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-08-11T05:07:01.067973+00:00",
         "summary": "Apple ar putea organiza în septembrie unul dintre cele mai importante evenimente din ultimii ani, prezentând primul său iPhone pliabil, alături de seria iPhone 18 Pro și noi modele Apple Watch.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "date_formatted": "10 August 2026",
-    "news": [
-      {
-        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-        "translated_title": "Fondul de investiții Situational Awareness, aflat în impas, investește 400 de milioane de dolari în startup-ul de cipuri Source Foundry",
-        "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-        "source": "TechCrunch",
-        "published": "2026-08-09T20:35:17+00:00",
-        "summary": "Fondul de investiții axat pe inteligență artificială face încă pariuri mari.",
-        "category": "international"
-      },
-      {
-        "title": "The AI safety test is becoming a safety risk",
-        "translated_title": "Testul de siguranță al inteligenței artificiale devine un risc pentru siguranță",
-        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-        "source": "TechCrunch",
-        "published": "2026-08-09T14:30:00+00:00",
-        "summary": "Agenții inteligenți artificiali evadează din medii de testare pentru securitate cibernetică și ajung în sisteme din lumea reală, ridicând întrebări despre capacitatea infrastructurii de siguranță, a standardelor industriale și a reglementărilor de a ține pasul cu modelele din ce în ce mai puternice.",
-        "category": "international"
-      },
-      {
-        "title": "Anthropic is turning Claude Code’s auto mode on by default",
-        "translated_title": "Anthropic activează modul automat al lui Claude Code în mod implicit",
-        "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-        "source": "TechCrunch",
-        "published": "2026-08-09T19:20:32+00:00",
-        "summary": "Programarea cu Claude Code va necesita în curând și mai puțină supraveghere umană.",
-        "category": "international"
-      },
-      {
-        "title": "AI detectors are creating a new era of distrust",
-        "translated_title": "Detectoarele de inteligență artificială creează o nouă eră a neîncrederii",
-        "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-        "source": "The Verge",
-        "published": "2026-08-09T12:00:00+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "How I use LLMs to learn complex topics",
-        "translated_title": "Cum folosesc modelele de limbaj pentru a învăța subiecte complexe",
-        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-        "source": "Hacker News",
-        "published": "2026-08-09T19:16:49+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "OpenChamber: An Agentic Development Environment",
-        "translated_title": "OpenChamber: Un mediu de dezvoltare agentic",
-        "url": "https://openchamber.dev/",
-        "source": "Hacker News",
-        "published": "2026-08-09T17:27:16+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Ask HN: What are you working on? (August 2026)",
-        "translated_title": "Întrebați HN: La ce lucrați? (August 2026)",
-        "url": "https://news.ycombinator.com/item?id=49233423",
-        "source": "Hacker News",
-        "published": "2026-08-09T17:23:22+00:00",
-        "summary": "Ce lucrați? Ce v-a intrigat recent?",
-        "category": "international"
-      },
-      {
-        "title": "Taxi drivers rarely die of Alzheimer's",
-        "translated_title": "Șoferii de taxi rareori mor de Alzheimer",
-        "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-        "source": "Hacker News",
-        "published": "2026-08-09T15:21:46+00:00",
-        "summary": "Hărțile mentale complexe și raționamentul spațial protejează creierul.",
-        "category": "international"
-      },
-      {
-        "title": "The Complicated Case of Passing On Your Digital Estate",
-        "translated_title": "Cazul complex al transmiterii moștenirii digitale",
-        "url": "https://www.wired.com/story/digital-estate-planning-tips/",
-        "source": "Wired",
-        "published": "2026-08-09T11:30:00+00:00",
-        "summary": "Nu există o modalitate perfectă de a transmite posesia activelor digitale iubitilor după moartea dumneavoastră, dar există lucruri pe care le puteți face acum pentru a face procesul mai ușor pentru ei.",
-        "category": "international"
-      },
-      {
-        "title": "4 Best Compression Boots: Therabody, Hyperice, and More (2026)",
-        "translated_title": "Cele 4 cele mai bune boturi de compresie: Therabody, Hyperice și altele (2026)",
-        "url": "https://www.wired.com/story/best-compression-boots/",
-        "source": "Wired",
-        "published": "2026-08-09T11:04:00+00:00",
-        "summary": "Indiferent dacă vă antrenați intens, călătoriți des sau aveți o circulație deficitară, acestea sunt cele mai bune boturi de compresie pentru oricine caută o recuperare musculară mai bună.",
-        "category": "international"
-      },
-      {
-        "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
-        "translated_title": "Meetily vă permite să transcrieți și să rezumați întâlniri fără abonament - iată cum",
-        "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
-        "source": "Wired",
-        "published": "2026-08-09T10:30:00+00:00",
-        "summary": "Există modalități infinite de a înregistra și transcrie întâlnirile virtuale cu inteligență artificială. Iată o opțiune care este gratuită și cu sursă deschisă.",
-        "category": "international"
-      },
-      {
-        "title": "Cele mai cumpărate telefoane Honor în această perioadă. Modelele pe care clienții le aleg cel mai des și cât costă",
-        "translated_title": "Cele mai cumpărate telefoane Honor în această perioadă. Modelele pe care clienții le aleg cel mai des și cât costă",
-        "url": "https://playtech.ro/2026/cele-mai-cumparate-telefoane-honor-in-aceasta-perioada-modelele-pe-care-clientii-le-aleg-cel-mai-des-si-cat-costa/",
-        "source": "Playtech",
-        "published": "2026-08-10T05:06:17+00:00",
-        "summary": "",
-        "category": "romanian"
-      },
-      {
-        "title": "Dacia cu scut metalic montat ulterior: protecție utilă sau sursă de vibrații și zgomote",
-        "translated_title": "Dacia cu scut metalic montat ulterior: protecție utilă sau sursă de vibrații și zgomote",
-        "url": "https://playtech.ro/2026/dacia-cu-scut-metalic-montat-ulterior-protectie-utila-sau-sursa-de-vibratii-si-zgomote/",
-        "source": "Playtech",
-        "published": "2026-08-10T05:00:28+00:00",
-        "summary": "",
-        "category": "romanian"
-      },
-      {
-        "title": "Dacia cu podea lovită: ce îți spune despre exploatare și când devine motiv de negociere",
-        "translated_title": "Dacia cu podea lovită: ce vă spune despre exploatare și când devine motiv de negociere",
-        "url": "https://playtech.ro/2026/dacia-cu-podea-lovita-ce-iti-spune-despre-exploatare-si-cand-devine-motiv-de-negociere/",
-        "source": "Playtech",
-        "published": "2026-08-10T04:30:27+00:00",
-        "summary": "",
-        "category": "romanian"
-      },
-      {
-        "title": "Anvelope vechi, dar cu profil bun: cum verifici vârsta și când devin nesigure",
-        "translated_title": "Anvelope vechi, dar cu profil bun: cum verificați vârsta și când devin nesigure",
-        "url": "https://playtech.ro/2026/anvelope-vechi-dar-cu-profil-bun-cum-verifici-varsta-si-cand-devin-nesigure/",
-        "source": "Playtech",
-        "published": "2026-08-10T04:00:26+00:00",
-        "summary": "",
         "category": "romanian"
       }
     ]
