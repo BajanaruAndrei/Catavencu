@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-18",
+    "date_formatted": "18 August 2026",
+    "news": [
+      {
+        "title": "What's Better Than Binary? – Advent of Computing Episode 187",
+        "translated_title": "What's Better Than Binary? – Advent of Computing Episode 187",
+        "url": "https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary",
+        "source": "Hacker News",
+        "published": "2026-08-18T02:14:04+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Benchmarkpocalypse",
+        "translated_title": "The Benchmarkpocalypse",
+        "url": "https://danluu.com/benchpocalypse/",
+        "source": "Hacker News",
+        "published": "2026-08-18T02:11:02+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Anthropic’s annualized revenue surges to $65B",
+        "translated_title": "Anthropic’s annualized revenue surges to $65B",
+        "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+        "source": "TechCrunch",
+        "published": "2026-08-17T23:56:26+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Reddit’s AI is turning posts into podcasts and short videos",
+        "translated_title": "Reddit’s AI is turning posts into podcasts and short videos",
+        "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+        "source": "The Verge",
+        "published": "2026-08-17T23:46:01+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Repair Cafe – Fix Your Broken Items",
+        "translated_title": "Repair Cafe – Fix Your Broken Items",
+        "url": "https://www.repaircafe.org/",
+        "source": "Hacker News",
+        "published": "2026-08-17T23:28:28+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How Bluesky draws its logo on screenshots",
+        "translated_title": "How Bluesky draws its logo on screenshots",
+        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "source": "Hacker News",
+        "published": "2026-08-17T22:20:40+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Why flash drive capacity keeps increasing (and why small drives are rarely sold today)",
+        "translated_title": "Why flash drive capacity keeps increasing (and why small drives are rarely sold today)",
+        "url": "https://www.engadget.com/2237555/flash-drive-size-keep-going-up-why-small-rarely-sold-today/",
+        "source": "Engadget",
+        "published": "2026-08-17T21:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "What Is El Niño, and What Does It Mean for Weather, Water, and the Global Economy?",
+        "translated_title": "What Is El Niño, and What Does It Mean for Weather, Water, and the Global Economy?",
+        "url": "https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/",
+        "source": "Wired",
+        "published": "2026-08-17T21:28:42+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+        "translated_title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+        "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+        "source": "TechCrunch",
+        "published": "2026-08-17T21:27:05+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "ABC’s livestreamed news show is powered by trending topics",
+        "translated_title": "ABC’s livestreamed news show is powered by trending topics",
+        "url": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
+        "source": "The Verge",
+        "published": "2026-08-17T20:59:23+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "What are your retro game consoles worth?",
+        "translated_title": "What are your retro game consoles worth?",
+        "url": "https://www.engadget.com/2237553/what-are-retro-game-consoles-worth/",
+        "source": "Engadget",
+        "published": "2026-08-17T20:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "HMD 2760 Flip ar putea trece la Android 13 Go. Specificațiile telefonului au apărut online",
+        "translated_title": "HMD 2760 Flip ar putea trece la Android 13 Go. Specificațiile telefonului au apărut online",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/hmd-2760-flip-ar-putea-trece-la-android-13-go-specificatiile-telefonului-au-aparut-online-19282248/",
+        "source": "Go4IT",
+        "published": "2026-08-18T04:34:23.782902+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Instagram și Facebook s-ar putea schimba radical pentru minori. Meta, dată în judecată de 30 de state americane",
+        "translated_title": "Instagram și Facebook s-ar putea schimba radical pentru minori. Meta, dată în judecată de 30 de state americane",
+        "url": "https://www.go4it.ro/content/social-media/instagram-si-facebook-s-ar-putea-schimba-radical-pentru-minori-meta-data-in-judecata-de-30-de-state-americane-19282256/",
+        "source": "Go4IT",
+        "published": "2026-08-18T04:34:23.782704+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "iPhone Ultra ar putea afecta vânzările Galaxy Z Fold 8 mai puțin decât se anticipa",
+        "translated_title": "iPhone Ultra ar putea afecta vânzările Galaxy Z Fold 8 mai puțin decât se anticipa",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/iphone-ultra-ar-putea-afecta-mai-putin-vanzarile-galaxy-z-fold-8-decat-se-anticipa-19282258/",
+        "source": "Go4IT",
+        "published": "2026-08-18T04:34:23.782459+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Platforme de serviciu, imitate în 4,6 milioane de atacuri cibernetice",
+        "translated_title": "Platforme de serviciu, imitate în 4,6 milioane de atacuri cibernetice",
+        "url": "https://www.go4it.ro/securitate-informatica/platforme-de-serviciu-imitate-in-46-milioane-de-atacuri-cibernetice-19282265/",
+        "source": "Go4IT",
+        "published": "2026-08-18T04:34:23.782273+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-17",
     "date_formatted": "17 August 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-08-12T05:36:40.068136+00:00",
         "summary": "Baruri și restaurante din Regatul Unit interzic ochelarii inteligenți din considerente de confidențialitate, odată cu extinderea rapidă a tehnologiei purtabile.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "date_formatted": "11 August 2026",
-    "news": [
-      {
-        "title": "LG Promo Codes and Coupons for August 2026",
-        "translated_title": "Coduri promoționale LG și cupoane pentru august 2026",
-        "url": "https://www.wired.com/story/lg-promo-code/",
-        "source": "Wired",
-        "published": "2026-08-11T05:00:00+00:00",
-        "summary": "Economisiți 20% cu un cod promoțional LG, plus până la 1.000 de dolari reducere la aparate și 40% reducere la televizoare și monitoare bestseller.",
-        "category": "international"
-      },
-      {
-        "title": "Mattress Firm Coupons: Save up to $700 |",
-        "translated_title": "Cupoane Mattress Firm: Economisiți până la 700 de dolari",
-        "url": "https://www.wired.com/story/mattress-firm-coupon/",
-        "source": "Wired",
-        "published": "2026-08-11T05:00:00+00:00",
-        "summary": "Utilizați un cod promoțional Mattress Firm pentru a economisi bani la cumpărarea de saltele, obțineți o bază ajustabilă gratuită și deblocați până la 300 de dolari în credite instantanee.",
-        "category": "international"
-      },
-      {
-        "title": "Best Buy Discount Codes: Up to 60% Off",
-        "translated_title": "Coduri de reducere Best Buy: Până la 60% reducere",
-        "url": "https://www.wired.com/story/best-buy-discount-code/",
-        "source": "Wired",
-        "published": "2026-08-11T05:00:00+00:00",
-        "summary": "Găsiți cele mai recente coduri promoționale și oferte Best Buy, inclusiv 10% reducere în recompensă pentru noii membri ai cardului și livrare gratuită în 2 zile cu Best Buy Plus.",
-        "category": "international"
-      },
-      {
-        "title": "Best Casetify Promo Codes | 15% Off July",
-        "translated_title": "Cele mai bune coduri promoționale Casetify | 15% reducere în iulie",
-        "url": "https://www.wired.com/story/casetify-promo-code/",
-        "source": "Wired",
-        "published": "2026-08-11T05:00:00+00:00",
-        "summary": "Păstrați telefonul dvs. protejat și bugetul fericit cu aceste strategii dovedite pentru a obține un cod promoțional Casetify, reducere pentru studenți și oferte pe site.",
-        "category": "international"
-      },
-      {
-        "title": "Updated GPG Key for Signing Firefox and Thunderbird Releases",
-        "translated_title": "Cheie GPG actualizată pentru semnarea lansărilor Firefox și Thunderbird",
-        "url": "https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/",
-        "source": "Hacker News",
-        "published": "2026-08-11T04:04:36+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Why My Father Is Wrong: A Defense of Guitar Hero",
-        "translated_title": "De ce tatăl meu greșește: O apărare a Guitar Hero",
-        "url": "https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/",
-        "source": "Hacker News",
-        "published": "2026-08-11T03:52:39+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Hyperspace",
-        "translated_title": "Hyperspace",
-        "url": "https://hypercritical.co/hyperspace/",
-        "source": "Hacker News",
-        "published": "2026-08-11T02:04:35+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Recycle – Floppydisks",
-        "translated_title": "Reciclare – Floppydisks",
-        "url": "https://www.floppydisk.com/recycle",
-        "source": "Hacker News",
-        "published": "2026-08-11T02:01:01+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-        "translated_title": "OpenAI ar fi finalizat o ofertă de 7 miliarde de dolari pentru angajați",
-        "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-        "source": "TechCrunch",
-        "published": "2026-08-11T00:03:18+00:00",
-        "summary": "Piața imobiliară din San Francisco se confruntă din nou cu probleme.",
-        "category": "international"
-      },
-      {
-        "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-        "translated_title": "Pe măsură ce atacurile conduse de IA se multiplică, OpenAI lansează un nou model de securitate cibernetică",
-        "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-        "source": "TechCrunch",
-        "published": "2026-08-10T23:56:15+00:00",
-        "summary": "OpenAI extinde programul său de apărare cibernetică Daybreak și lansează un nou model de IA antrenat pentru securitate cibernetică.",
-        "category": "international"
-      },
-      {
-        "title": "Jeff Bezos might finally get his hands on a sports team",
-        "translated_title": "Jeff Bezos ar putea obține în sfârșit o echipă sportivă",
-        "url": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
-        "source": "TechCrunch",
-        "published": "2026-08-10T23:16:44+00:00",
-        "summary": "Jeff Bezos este pe punctul de a cumpăra prima sa participație la o echipă sportivă: celebrul club de fotbal Liverpool din Regatul Unit.",
-        "category": "international"
-      },
-      {
-        "title": "Oferta LIDL pentru scule din gama Parkside: fierăstrău pendular la sub 130 de lei",
-        "translated_title": "Oferta LIDL pentru scule din gama Parkside: fierăstrău pendular la sub 130 de lei",
-        "url": "https://www.go4it.ro/oferte-din-magazine/oferta-lidl-pentru-scule-din-gama-parkside-fierastrau-pendular-la-sub-130-de-lei-19281601/",
-        "source": "Go4IT",
-        "published": "2026-08-11T05:07:01.068367+00:00",
-        "summary": "Începând de joi, 13 august, și până duminică, 16 august, LIDL oferă cinci scule Parkside destinate meșteșugarilor și celor care derulează proiecte de tipul DYI.",
-        "category": "romanian"
-      },
-      {
-        "title": "Metrorex caută servicii de mentenanță IT, într-un contract estimat la peste 3,4 milioane de lei",
-        "translated_title": "Metrorex caută servicii de mentenanță IT, într-un contract estimat la peste 3,4 milioane de lei",
-        "url": "https://www.go4it.ro/content/anunturi/metrorex-cauta-servicii-de-mentenanta-it-intr-un-contract-estimat-la-peste-34-milioane-de-lei-19281611/",
-        "source": "Go4IT",
-        "published": "2026-08-11T05:07:01.068238+00:00",
-        "summary": "Metrorex S.A. a lansat o procedură de achiziție publică pentru servicii informatice, cu un contract estimat la peste 3,4 milioane de lei.",
-        "category": "romanian"
-      },
-      {
-        "title": "O regiune uriașă de pe glob va rămâne fără Internet pe perioada unor lucrări de mentenanță",
-        "translated_title": "O regiune uriașă de pe glob va rămâne fără Internet pe perioada unor lucrări de mentenanță",
-        "url": "https://www.go4it.ro/content/internet/o-regiune-uriasa-de-pe-glob-va-ramane-fara-internet-pe-perioada-unor-lucrari-de-mentenanta-19281613/",
-        "source": "Go4IT",
-        "published": "2026-08-11T05:07:01.068107+00:00",
-        "summary": "Regiunea Kamceatka, una dintre cele mai izolate provincii din Orientul Îndepărtat al Rusiei, va rămâne fără acces normal la Internet timp de cel puțin patru zile, pe durata unor lucrări la infrastructura de comunicații.",
-        "category": "romanian"
-      },
-      {
-        "title": "iPhone Ultra și iPhone 18 Pro: când ar avea loc lansarea și când ar putea începe precomenzile",
-        "translated_title": "iPhone Ultra și iPhone 18 Pro: când ar avea loc lansarea și când ar putea începe precomenzile",
-        "url": "https://www.go4it.ro/content/componente-pc/iphone-ultra-si-iphone-18-pro-cand-ar-avea-loc-lansarea-si-cand-ar-putea-incepe-precomenzile-19281614/",
-        "source": "Go4IT",
-        "published": "2026-08-11T05:07:01.067973+00:00",
-        "summary": "Apple ar putea organiza în septembrie unul dintre cele mai importante evenimente din ultimii ani, prezentând primul său iPhone pliabil, alături de seria iPhone 18 Pro și noi modele Apple Watch.",
         "category": "romanian"
       }
     ]
