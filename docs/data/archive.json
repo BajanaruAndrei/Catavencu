@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-19",
+    "date_formatted": "19 August 2026",
+    "news": [
+      {
+        "title": "Palomar: A registry of Lean verified mathematics",
+        "translated_title": "Palomar: A registry of Lean verified mathematics",
+        "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+        "source": "Hacker News",
+        "published": "2026-08-19T02:41:50+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Meta's blockbuster trial draws parallels to big tobacco",
+        "translated_title": "Meta's blockbuster trial draws parallels to big tobacco",
+        "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+        "source": "Hacker News",
+        "published": "2026-08-19T02:24:34+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "OpenLogi",
+        "translated_title": "OpenLogi",
+        "url": "https://openlogi.org/en",
+        "source": "Hacker News",
+        "published": "2026-08-19T01:58:28+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Integer",
+        "translated_title": "The Integer",
+        "url": "https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b",
+        "source": "Hacker News",
+        "published": "2026-08-19T01:23:45+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "ICE agents can't wear Meta glasses while they work, official memo warns",
+        "translated_title": "ICE agents can't wear Meta glasses while they work, official memo warns",
+        "url": "https://www.engadget.com/2239642/ice-agents-can-t-wear-meta-glasses-while-they-work-official-memo-warns/",
+        "source": "Engadget",
+        "published": "2026-08-18T22:57:32+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Framework's cheapest laptop just got a major spec bump",
+        "translated_title": "Framework's cheapest laptop just got a major spec bump",
+        "url": "https://www.engadget.com/2239631/framework-laptop-12-just-got-a-major-spec-bump/",
+        "source": "Engadget",
+        "published": "2026-08-18T22:33:32+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+        "translated_title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+        "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+        "source": "TechCrunch",
+        "published": "2026-08-18T22:14:25+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+        "translated_title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+        "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+        "source": "TechCrunch",
+        "published": "2026-08-18T20:36:20+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How to check your iPhone's battery health and cycle count",
+        "translated_title": "How to check your iPhone's battery health and cycle count",
+        "url": "https://www.engadget.com/2238802/how-to-check-your-iphones-battery-health-and-cycle-count/",
+        "source": "Engadget",
+        "published": "2026-08-18T20:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "GTA 6 gameplay leaked ahead of its new trailer, and Rockstar is taking down the videos",
+        "translated_title": "GTA 6 gameplay leaked ahead of its new trailer, and Rockstar is taking down the videos",
+        "url": "https://www.engadget.com/2239548/gta-6-gameplay-leak-august-2026/",
+        "source": "Engadget",
+        "published": "2026-08-18T20:29:54+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Squeeze More Juice Out of Your Dead Batteries—Using Physics",
+        "translated_title": "Squeeze More Juice Out of Your Dead Batteries—Using Physics",
+        "url": "https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/",
+        "source": "Wired",
+        "published": "2026-08-18T20:11:03+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "OpenAI lansează ChatGPT pentru adolescenți, chatbot-ul axat pe învățare. Ce funcții sunt prevăzute?",
+        "translated_title": "OpenAI lansează ChatGPT pentru adolescenți, chatbot-ul axat pe învățare. Ce funcții sunt prevăzute?",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/openai-lanseaza-chatgpt-pentru-adolescenti-chatbot-ul-axat-pe-invatare-ce-functii-sunt-prevazute-19282380/",
+        "source": "Go4IT",
+        "published": "2026-08-19T04:35:21.278421+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Val digital la cadastru: Platforma e-Terra trece testul celor 40.849 de cereri zilnice",
+        "translated_title": "Val digital la cadastru: Platforma e-Terra trece testul celor 40.849 de cereri zilnice",
+        "url": "https://www.go4it.ro/content/internet/val-digital-la-cadastru-platforma-e-terra-trece-testul-celor-40-849-de-cereri-zilnice-19282382/",
+        "source": "Go4IT",
+        "published": "2026-08-19T04:35:21.278242+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Piața NAND Flash accelerează: veniturile primilor cinci producători au crescut cu 77% în trimestrul al doilea",
+        "translated_title": "Piața NAND Flash accelerează: veniturile primilor cinci producători au crescut cu 77% în trimestrul al doilea",
+        "url": "https://www.go4it.ro/content/componente-pc/piata-nand-flash-accelereaza-veniturile-primilor-cinci-producatori-au-crescut-cu-77-in-trimestrul-al-doilea-19282398/",
+        "source": "Go4IT",
+        "published": "2026-08-19T04:35:21.278018+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "China renunță mai devreme la versiunea specială de Windows și accelerează trecerea la Linux",
+        "translated_title": "China renunță mai devreme la versiunea specială de Windows și accelerează trecerea la Linux",
+        "url": "https://www.go4it.ro/content/software/china-renunta-mai-devreme-la-versiunea-speciala-de-windows-si-accelereaza-trecerea-la-linux-19282395/",
+        "source": "Go4IT",
+        "published": "2026-08-19T04:35:21.277838+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-18",
     "date_formatted": "18 August 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-08-13T05:39:15.087416+00:00",
         "summary": "Un cercetător în securitate a publicat detalii despre o nouă vulnerabilitate din Windows. Problema permite escaladarea privilegiilor și accesul la datele de pe dispozitiv.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "date_formatted": "12 August 2026",
-    "news": [
-      {
-        "title": "Paramount+ Coupon Codes and Deals for August 2026",
-        "translated_title": "Coduri promoționale Paramount+ și oferte pentru august 2026",
-        "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-        "source": "Wired",
-        "published": "2026-08-12T05:00:00+00:00",
-        "summary": "Economisiți la streaming cu cele mai recente coduri promoționale și oferte Paramount+, inclusiv 50% reducere la abonamente, perioade de probă gratuite și multe altele.",
-        "category": "international"
-      },
-      {
-        "title": "20% Off Brooks Promo Code | August 2026",
-        "translated_title": "20% reducere la codul promoțional Brooks | August 2026",
-        "url": "https://www.wired.com/story/brooks-promo-code/",
-        "source": "Wired",
-        "published": "2026-08-12T05:00:00+00:00",
-        "summary": "Beneficiați de 20% reducere la prima comandă cu un cod promoțional Brooks, plus reduceri și oferte pentru încălțămintea de alergare Brooks preferată.",
-        "category": "international"
-      },
-      {
-        "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
-        "translated_title": "Coduri promoționale și reduceri Barkbox: până la 50% reducere",
-        "url": "https://www.wired.com/story/barkbox-promo-code/",
-        "source": "Wired",
-        "published": "2026-08-12T05:00:00+00:00",
-        "summary": "Economisiți la abonamentele Barkbox, care includ colecții lunare de jucării moi, gustări sănătoase și altele, proiectate pentru a ține coada câinelui dvs. în mișcare.",
-        "category": "international"
-      },
-      {
-        "title": "Chirp Discount Codes: Save Up to 67%",
-        "translated_title": "Coduri de reducere Chirp: economisiți până la 67%",
-        "url": "https://www.wired.com/story/chirp-discount-code/",
-        "source": "Wired",
-        "published": "2026-08-12T05:00:00+00:00",
-        "summary": "Utilizați aceste coduri promoționale Chirp verificate și sfaturi de cumpărături pentru a obține până la 67% reducere la roți, până la 50% reducere la produse recondiționate și multe altele.",
-        "category": "international"
-      },
-      {
-        "title": "Dropbox, loved by the masses, a shareholder dead end",
-        "translated_title": "Dropbox, iubit de mase, un fundătură pentru acționari",
-        "url": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
-        "source": "Hacker News",
-        "published": "2026-08-12T04:30:34+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
-        "translated_title": "Yulu din India atrage 93 de milioane de dolari, pe fondul creșterii comerțului rapid și a cererii de biciclete electrice",
-        "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
-        "source": "TechCrunch",
-        "published": "2026-08-12T04:30:00+00:00",
-        "summary": "Yulu își propune să aibă o flotă de 200.000 de biciclete în următorii doi ani și biciclete electrice mai rapide, vizând noi cazuri de utilizare în logistică.",
-        "category": "international"
-      },
-      {
-        "title": "The Human Is the Loop",
-        "translated_title": "Omul este bucla",
-        "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-        "source": "Hacker News",
-        "published": "2026-08-12T02:15:01+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-        "translated_title": "Compania care oferă cercetare medicală '100% scrisă de oameni, niciodată de IA' este de 100% IA",
-        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-        "source": "Hacker News",
-        "published": "2026-08-12T02:05:42+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
-        "translated_title": "Secretul salvator ascuns în sângele albastru al crabului de căluț",
-        "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
-        "source": "Hacker News",
-        "published": "2026-08-12T01:45:51+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
-        "translated_title": "Saber neagă înlocuirea scriitorilor Rideshare Stimulator cu ChatGPT",
-        "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-        "source": "The Verge",
-        "published": "2026-08-12T00:39:26+00:00",
-        "summary": "CEO-ul Matthew Karch afirmă că nici Saber, nici Unigine nu au înlocuit vreodată scriitori cu IA pentru jocul Rideshare Stimulator.",
-        "category": "international"
-      },
-      {
-        "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-        "translated_title": "Suspecți de atac cu punct de acces fals pe un zbor Delta",
-        "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-        "source": "Ars Technica",
-        "published": "2026-08-12T00:08:40+00:00",
-        "summary": "FBI Atlanta confirmă că investighează incidentul, fără arestări efectuate.",
-        "category": "international"
-      },
-      {
-        "title": "Sistemul e-Terra a fost repornit: Măsurile anunțate de ANCPI pentru procesarea celor 94.000 de cereri restante",
-        "translated_title": "Sistemul e-Terra a fost repornit: măsurile anunțate de ANCPI pentru procesarea celor 94.000 de cereri restante",
-        "url": "https://www.go4it.ro/content/aplicatii/sistemul-e-terra-a-fost-repornit-masurile-anuntate-de-ancpi-pentru-procesarea-celor-94-000-de-cereri-restante-19281769/",
-        "source": "Go4IT",
-        "published": "2026-08-12T05:36:40.068451+00:00",
-        "summary": "Aplicația e-Terra și-a reluat funcționarea după blocajul provocat de un incident cibernetic, ANCPI anunțând măsuri pentru procesarea cererilor restante.",
-        "category": "romanian"
-      },
-      {
-        "title": "Titlu sugerat: Anthropic introduce watermark invizibil pentru conținutul Claude, pentru a se conforma legislației UE",
-        "translated_title": "Anthropic introduce watermark invizibil pentru conținutul Claude, pentru a se conforma legislației UE",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/titlu-sugerat-anthropic-introduce-watermark-invizibil-pentru-continutul-claude-pentru-a-se-conforma-legislatiei-ue-19281771/",
-        "source": "Go4IT",
-        "published": "2026-08-12T05:36:40.068345+00:00",
-        "summary": "Compania Anthropic introduce watermarkuri invizibile și metadate în conținutul generat de modelul lingvistic Claude, pentru a respecta noile reglementări ale UE privind transparența tehnologică.",
-        "category": "romanian"
-      },
-      {
-        "title": "Redmi K100 Pro și Pro Max au fost lansate. Care sunt specificațiile?",
-        "translated_title": "Redmi K100 Pro și Pro Max au fost lansate. Care sunt specificațiile?",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/redmi-k100-pro-si-pro-max-au-fost-lansate-care-sunt-specificatiile-19281773/",
-        "source": "Go4IT",
-        "published": "2026-08-12T05:36:40.068242+00:00",
-        "summary": "Xiaomi a lansat oficial Redmi K100 Pro și K100 Pro Max în China, acestea folosind procesorul Snapdragon 8 Elite V5 și oferind baterii de capacitate foarte mare.",
-        "category": "romanian"
-      },
-      {
-        "title": "Val de interdicții pentru ochelarii inteligenți în puburile și restaurantele din Marea Britanie",
-        "translated_title": "Val de interdicții pentru ochelarii inteligenți în puburile și restaurantele din Marea Britanie",
-        "url": "https://www.go4it.ro/content/accesorii/val-de-interdictii-pentru-ochelarii-inteligenti-in-puburile-si-restaurantele-din-marea-britanie-19281755/",
-        "source": "Go4IT",
-        "published": "2026-08-12T05:36:40.068136+00:00",
-        "summary": "Baruri și restaurante din Regatul Unit interzic ochelarii inteligenți din considerente de confidențialitate, odată cu extinderea rapidă a tehnologiei purtabile.",
         "category": "romanian"
       }
     ]
