@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-20",
+    "date_formatted": "20 August 2026",
+    "news": [
+      {
+        "title": "Turns are Better than Radians",
+        "translated_title": "Turns are Better than Radians",
+        "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+        "source": "Hacker News",
+        "published": "2026-08-20T01:29:12+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Universality of Gradient Descent Neural Network Training",
+        "translated_title": "Universality of Gradient Descent Neural Network Training",
+        "url": "https://arxiv.org/abs/2007.13664",
+        "source": "Hacker News",
+        "published": "2026-08-20T00:05:12+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+        "translated_title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+        "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+        "source": "TechCrunch",
+        "published": "2026-08-19T23:32:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Binding of Isaac: Repentance+ Online release goes head-to-head with GTA 6 on November 19",
+        "translated_title": "The Binding of Isaac: Repentance+ Online release goes head-to-head with GTA 6 on November 19",
+        "url": "https://www.engadget.com/2240496/the-binding-of-isaac-repentance-online-release-goes-head-to-head-with-gta-6-on-november-19/",
+        "source": "Engadget",
+        "published": "2026-08-19T23:10:21+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
+        "translated_title": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
+        "url": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/",
+        "source": "Wired",
+        "published": "2026-08-19T23:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Does giving a camera wings dodge the FCC’s drone ban?",
+        "translated_title": "Does giving a camera wings dodge the FCC’s drone ban?",
+        "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+        "source": "The Verge",
+        "published": "2026-08-19T22:35:20+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+        "translated_title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+        "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+        "source": "TechCrunch",
+        "published": "2026-08-19T22:25:01+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "translated_title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "source": "TechCrunch",
+        "published": "2026-08-19T22:10:46+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "translated_title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+        "source": "TechCrunch",
+        "published": "2026-08-19T21:51:23+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Feature Request: Support AGENTS.md",
+        "translated_title": "Feature Request: Support AGENTS.md",
+        "url": "https://github.com/anthropics/claude-code/issues/6235",
+        "source": "Hacker News",
+        "published": "2026-08-19T21:19:50+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+        "translated_title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+        "url": "https://os8088.com/spotlight/",
+        "source": "Hacker News",
+        "published": "2026-08-19T21:11:31+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Google ar putea prezenta noile laptopuri Googlebook pe 15 septembrie",
+        "translated_title": "Google ar putea prezenta noile laptopuri Googlebook pe 15 septembrie",
+        "url": "https://www.go4it.ro/content/laptopuri/google-ar-putea-prezenta-noile-laptopuri-googlebook-pe-15-septembrie-19282487/",
+        "source": "Go4IT",
+        "published": "2026-08-20T04:35:31.064347+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "OpenAI neagă desființarea echipei sale de pregătire",
+        "translated_title": "OpenAI neagă desființarea echipei sale de pregătire",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/openai-neaga-desfiintarea-echipei-sale-de-pregatire-19282493/",
+        "source": "Go4IT",
+        "published": "2026-08-20T04:35:31.064166+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Roboți de 50 de ori mai mici decât un fir de păr pot colecta bacterii cu ajutorul luminii",
+        "translated_title": "Roboți de 50 de ori mai mici decât un fir de păr pot colecta bacterii cu ajutorul luminii",
+        "url": "https://www.go4it.ro/content/curiozitati/roboti-de-50-de-ori-mai-mici-decat-un-fir-de-par-pot-colecta-bacterii-cu-ajutorul-luminii-19282495/",
+        "source": "Go4IT",
+        "published": "2026-08-20T04:35:31.063988+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Pușca și shotgun-ul, soluții împotriva dronelor. Cum se pregătesc pușcașii marini americani – VIDEO",
+        "translated_title": "Pușca și shotgun-ul, soluții împotriva dronelor. Cum se pregătesc pușcașii marini americani – VIDEO",
+        "url": "https://www.go4it.ro/tehnologie-militara/pusca-si-shotgun-ul-solutii-impotriva-dronelor-cum-se-pregatesc-puscasii-marini-americani-video-19282498/",
+        "source": "Go4IT",
+        "published": "2026-08-20T04:35:31.063795+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-19",
     "date_formatted": "19 August 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Go4IT",
         "published": "2026-08-14T05:36:50.129418+00:00",
         "summary": "Piața monitoarelor OLED a înregistrat o creștere de 26,1% în trimestrul al doilea, ASUS consolidându-și poziția de lider.",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "date_formatted": "13 August 2026",
-    "news": [
-      {
-        "title": "Priceline Promo Codes & Coupons: 10% Off August 2026",
-        "translated_title": "Coduri promoționale Priceline & Cupoane: 10% reducere în august 2026",
-        "url": "https://www.wired.com/story/priceline-promo-code/",
-        "source": "Wired",
-        "published": "2026-08-13T05:00:00+00:00",
-        "summary": "Priceline oferă reduceri masive pentru hoteluri, zboruri și mașini de închiriat. Găsiți coduri promoționale verificate și oferte pentru Express Deals, reduceri pentru studenți și multe altele.",
-        "category": "international"
-      },
-      {
-        "title": "Factor Promo Code: 50% Off Off Meal Prep",
-        "translated_title": "Cod promoțional Factor: 50% reducere la pregătirea meselor",
-        "url": "https://www.wired.com/story/factor-promo-code/",
-        "source": "Wired",
-        "published": "2026-08-13T05:00:00+00:00",
-        "summary": "Faceți pregătirea meselor mai ușoară pentru orice nevoie alimentară, bucurându-vă de economii excelente cu codurile noastre promoționale Factor selectate cu atenție, în luna august.",
-        "category": "international"
-      },
-      {
-        "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-        "translated_title": "Arată HN: Ballet – Automatizarea fluxului de lucru care scrie integrări împotriva oricărui API",
-        "url": "https://www.ballet.dev/",
-        "source": "Hacker News",
-        "published": "2026-08-13T00:01:43+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-        "translated_title": "La mulți ani, calculatorul IBM și Model F/XT, 45 de ani de la lansare",
-        "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-        "source": "Hacker News",
-        "published": "2026-08-12T23:50:33+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Build Wide, Ship Narrow",
-        "translated_title": "Construiți pe scară largă, livrați pe scară mică",
-        "url": "https://adapt.com/blog/build-wide-ship-narrow",
-        "source": "Hacker News",
-        "published": "2026-08-12T23:43:48+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "A rare two-player Computer Space arcade machine is up for auction",
-        "translated_title": "O mașină de jocuri Computer Space pentru doi jucători, rare, este scoasă la licitație",
-        "url": "https://www.engadget.com/2235951/a-rare-retro-arcade-machine-featured-in-soylent-green-is-up-for-auction/",
-        "source": "Engadget",
-        "published": "2026-08-12T23:34:18+00:00",
-        "summary": "Mașina de jocuri cu carcasa strălucitoare face parte dintr-o licitație vastă de tehnologie retro, axată pe Steve Jobs și revoluția calculatorului.",
-        "category": "international"
-      },
-      {
-        "title": "Principia Mathematica is modern and insightful",
-        "translated_title": "Principia Mathematica este modernă și plină de insight-uri",
-        "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-        "source": "Hacker News",
-        "published": "2026-08-12T23:26:21+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "The Best Photos of the Big August Solar Eclipse",
-        "translated_title": "Cele mai bune fotografii ale eclipsei solare din august",
-        "url": "https://www.wired.com/story/best-photos-august-solar-eclipse-spain/",
-        "source": "Wired",
-        "published": "2026-08-12T22:47:30+00:00",
-        "summary": "A fost o sută de ani de când Peninsula Iberică a fost în umbra completă a lunii. Iată cum a arătat în calea totalității.",
-        "category": "international"
-      },
-      {
-        "title": "How to stop Twitch from training AI on your streams",
-        "translated_title": "Cum să opriți Twitch să antreneze inteligența artificială pe fluxurile dvs.",
-        "url": "https://www.engadget.com/2235928/how-to-stop-twitch-training-ai-on-streams/",
-        "source": "Engadget",
-        "published": "2026-08-12T22:38:45+00:00",
-        "summary": "Și de ce compania nu a făcut această funcție opțională.",
-        "category": "international"
-      },
-      {
-        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-        "translated_title": "Unii utilizatori Claude sunt supărați că noile filigrane Anthropic îi vor prinde folosindu-l la serviciu sau la școală",
-        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-        "source": "TechCrunch",
-        "published": "2026-08-12T22:26:37+00:00",
-        "summary": "Sistemul de filigrane al companiei Anthropic este considerat o problemă de unii utilizatori care s-au plâns pe rețelele sociale.",
-        "category": "international"
-      },
-      {
-        "title": "AI nuclear power firm Fermi finally has a new CEO",
-        "translated_title": "Firma de energie nucleară cu inteligență artificială Fermi are în sfârșit un nou director general",
-        "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
-        "source": "TechCrunch",
-        "published": "2026-08-12T22:24:00+00:00",
-        "summary": "Lee McIntire, un membru independent al consiliului de administrație al Fermi, a fost numit director general, peste trei luni de la concedierea fondatorului Toby Neugebauer de la funcția de director general.",
-        "category": "international"
-      },
-      {
-        "title": "Un Galaxy S25+ a luat foc în timpul încărcării. Ce spune Samsung – FOTO",
-        "translated_title": "Un Galaxy S25+ a luat foc în timpul încărcării. Ce spune Samsung – FOTO",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/un-galaxy-s25-a-luat-foc-in-timpul-incarcarii-ce-spune-samsung-19281890/",
-        "source": "Go4IT",
-        "published": "2026-08-13T05:39:15.087948+00:00",
-        "summary": "Un telefon Samsung Galaxy S25+ a luat foc în timpul încărcării, într-o locuință din Qingdao, China. Incidentul s-a produs recent, iar proprietarul susține că telefonul nu prezenta probleme înainte de eveniment.",
-        "category": "romanian"
-      },
-      {
-        "title": "Google lansează noua serie Pixel 11. Cu ce îmbunătățiri vin cele trei modele din gama Google?",
-        "translated_title": "Google lansează noua serie Pixel 11. Cu ce îmbunătățiri vin cele trei modele din gama Google?",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/google-lanseaza-noua-serie-pixel-11-cu-ce-imbunatatiri-vin-cele-trei-modele-din-gama-google-19281911/",
-        "source": "Go4IT",
-        "published": "2026-08-13T05:39:15.087691+00:00",
-        "summary": "Google lansează astăzi noua generație de telefoane Pixel, cea cu numărul 11. Compania susține că noile modele Pixel, Pixel Pro și Pixel Pro XL vin cu componente hardware rafinate, concepute să reziste în timp, camere îmbunătățite.",
-        "category": "romanian"
-      },
-      {
-        "title": "Tor, Private Relay și alte proxy-uri la nivel de browser, compromise de vulnerabilitățile WebKit din iOS și macOS",
-        "translated_title": "Tor, Private Relay și alte proxy-uri la nivel de browser, compromise de vulnerabilitățile WebKit din iOS și macOS",
-        "url": "https://www.go4it.ro/securitate-informatica/tor-private-relay-si-alte-proxy-uri-la-nivel-de-browser-compromise-de-vulnerabilitatile-webkit-din-ios-si-macos-19281917/",
-        "source": "Go4IT",
-        "published": "2026-08-13T05:39:15.087552+00:00",
-        "summary": "Funcția cu plată iCloud Private Relay de la Apple este concepută pentru a ascunde traficul web, astfel încât site-urile, cum ar fi agențiile de publicitate, guvernele fără scrupule sau atacatorii rău intenționați, să nu poată urmări utilizatorii.",
-        "category": "romanian"
-      },
-      {
-        "title": "ShieldBreak, încă un nou zero-day pentru Windows care permite acces extins la sistem",
-        "translated_title": "ShieldBreak, o nouă vulnerabilitate zero-day pentru Windows care permite acces extins la sistem",
-        "url": "https://www.go4it.ro/content/software/shieldbreak-un-nou-zero-day-pentru-windows-permite-acces-extins-la-sistem-dupa-avertismentele-microsoft-19281921/",
-        "source": "Go4IT",
-        "published": "2026-08-13T05:39:15.087416+00:00",
-        "summary": "Un cercetător în securitate a publicat detalii despre o nouă vulnerabilitate din Windows. Problema permite escaladarea privilegiilor și accesul la datele de pe dispozitiv.",
         "category": "romanian"
       }
     ]
