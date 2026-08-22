@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-22",
+    "date_formatted": "22 August 2026",
+    "news": [
+      {
+        "title": "Early Humans Likely Ate Carbs and Sugary Foods",
+        "translated_title": "Early Humans Likely Ate Carbs and Sugary Foods",
+        "url": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
+        "source": "Hacker News",
+        "published": "2026-08-22T02:37:30+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Michael Polansky is training an AI model on skin that’s still alive",
+        "translated_title": "Michael Polansky is training an AI model on skin that’s still alive",
+        "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+        "source": "TechCrunch",
+        "published": "2026-08-22T01:31:04+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "There's no reason for software to be slow anymore",
+        "translated_title": "There's no reason for software to be slow anymore",
+        "url": "https://danluu.com/perf-opt/",
+        "source": "Hacker News",
+        "published": "2026-08-22T01:06:17+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+        "translated_title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+        "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+        "source": "TechCrunch",
+        "published": "2026-08-22T01:03:06+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+        "translated_title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+        "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+        "source": "Hacker News",
+        "published": "2026-08-22T01:02:09+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "HN: The Good Parts (2016)",
+        "translated_title": "HN: The Good Parts (2016)",
+        "url": "https://danluu.com/hn-comments/",
+        "source": "Hacker News",
+        "published": "2026-08-21T23:53:03+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Unlikely Place at the Center of China’s AI Boom",
+        "translated_title": "The Unlikely Place at the Center of China’s AI Boom",
+        "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+        "source": "Wired",
+        "published": "2026-08-21T23:25:32+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
+        "translated_title": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
+        "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
+        "source": "Wired",
+        "published": "2026-08-21T23:10:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Anthropic’s Opus 4.6 is a smut-machine",
+        "translated_title": "Anthropic’s Opus 4.6 is a smut-machine",
+        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+        "source": "TechCrunch",
+        "published": "2026-08-21T23:07:25+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Nvidia partners with data center developer Cloverleaf",
+        "translated_title": "Nvidia partners with data center developer Cloverleaf",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+        "source": "TechCrunch",
+        "published": "2026-08-21T22:37:38+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "HoverAir’s transforming modular drone has already been halted in the US",
+        "translated_title": "HoverAir’s transforming modular drone has already been halted in the US",
+        "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+        "source": "The Verge",
+        "published": "2026-08-21T22:14:11+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Xbox Series X25: au apărut informații despre preț și data lansării",
+        "translated_title": "Xbox Series X25: au apărut informații despre preț și data lansării",
+        "url": "https://www.go4it.ro/content/jocuri/xbox-series-x25-au-aparut-informatii-despre-pret-si-data-lansarii-19282693/",
+        "source": "Go4IT",
+        "published": "2026-08-22T04:31:50.853267+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Google cumpără datele companiei Spirit Airlines pentru antrenarea IA cu doar 10 milioane de dolari, achiziție contestată de sindicatul însoțitorilor de zbor",
+        "translated_title": "Google cumpără datele companiei Spirit Airlines pentru antrenarea IA cu doar 10 milioane de dolari, achiziție contestată de sindicatul însoțitorilor de zbor",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/google-cumpara-datele-companiei-spirit-airlines-pentru-antrenarea-ia-cu-doar-10-milioane-de-dolari-achizitie-contestata-de-sindicatul-insotitorilor-de-zbor-19282704/",
+        "source": "Go4IT",
+        "published": "2026-08-22T04:31:50.853085+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Samsung extinde actualizarea-surpriză pentru Galaxy S8 și Galaxy Note 8",
+        "translated_title": "Samsung extinde actualizarea-surpriză pentru Galaxy S8 și Galaxy Note 8",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/samsung-extinde-actualizarea-surpriza-pentru-galaxy-s8-si-galaxy-note-8-19282710/",
+        "source": "Go4IT",
+        "published": "2026-08-22T04:31:50.852902+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Care sunt cele mai performante telefoane în testele Geekbench",
+        "translated_title": "Care sunt cele mai performante telefoane în testele Geekbench",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/care-sunt-cele-mai-performante-telefoane-in-testele-geekbench-19282713/",
+        "source": "Go4IT",
+        "published": "2026-08-22T04:31:50.852511+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-21",
     "date_formatted": "21 August 2026",
     "news": [
@@ -841,147 +982,6 @@
         "source": "Playtech",
         "published": "2026-08-15T16:20:36+00:00",
         "summary": "",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "date_formatted": "15 August 2026",
-    "news": [
-      {
-        "title": "AI Driven Testing",
-        "translated_title": "Testare condusă de IA",
-        "url": "https://app.deltix.ai",
-        "source": "Hacker News",
-        "published": "2026-08-15T02:42:14+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-        "translated_title": "Cutremur de magnitudine 7,7 – 68 km NNW de Ende, Indonezia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-        "source": "Hacker News",
-        "published": "2026-08-15T01:14:05+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "The Ploopy A+ Trackball Is Here",
-        "translated_title": "Ploopy A+ Trackball este aici",
-        "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-        "source": "Hacker News",
-        "published": "2026-08-15T00:55:31+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "NSA and IETF, Part 9",
-        "translated_title": "NSA și IETF, Partea 9",
-        "url": "https://blog.cr.yp.to/20260814-update.html",
-        "source": "Hacker News",
-        "published": "2026-08-15T00:54:01+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Waymo receives permission to offer rides in Sacramento and San Diego",
-        "translated_title": "Waymo primește permisiunea de a oferi curse în Sacramento și San Diego",
-        "url": "https://www.engadget.com/2237530/waymo-receives-permission-to-offer-rides-in-sacramento-and-san-diego/",
-        "source": "Engadget",
-        "published": "2026-08-14T22:50:04+00:00",
-        "summary": "Compania va putea, de asemenea, să-și extindă flota în mai multe zone din San Francisco Bay Area și Los Angeles.",
-        "category": "international"
-      },
-      {
-        "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-        "translated_title": "Negocierile pentru vânzarea PayPal către Stripe și Advent se intensifică",
-        "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-        "source": "TechCrunch",
-        "published": "2026-08-14T22:43:24+00:00",
-        "summary": "PayPal negociază în continuare o posibilă vânzare către Stripe și firma de private equity Advent, pe măsură ce noul său CEO încearcă să întoarcă compania.",
-        "category": "international"
-      },
-      {
-        "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
-        "translated_title": "Legislatorii din New York City militează pentru a „interzice scanarea” la MSG",
-        "url": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
-        "source": "Wired",
-        "published": "2026-08-14T21:43:17+00:00",
-        "summary": "La o conferință de presă în afara Madison Square Garden, politicieni, muzicieni și avocați ai confidențialității au pledat pentru restricții mai stricte privind modul în care locurile publice utilizează supravegherea biometrică.",
-        "category": "international"
-      },
-      {
-        "title": "The Best Movies to Stream This Month (August 2026)",
-        "translated_title": "Cele mai bune filme de vizionat în această lună (august 2026)",
-        "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
-        "source": "Wired",
-        "published": "2026-08-14T21:18:21+00:00",
-        "summary": "Avatar Aang, Heartstopper Forever și Exit 8 sunt printre filmele care merită atenția dvs. în această lună.",
-        "category": "international"
-      },
-      {
-        "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-        "translated_title": "Următorul mare influencer este acest robot de 4 picioare din China",
-        "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-        "source": "Wired",
-        "published": "2026-08-14T20:59:03+00:00",
-        "summary": "Unitree G1 a devenit faimos online ca un robot relativ accesibil care poate fermeca o mulțime. Dar poate el să țină vreodată un loc de muncă real?",
-        "category": "international"
-      },
-      {
-        "title": "Kia's EV3 will start under $31,000 in the US",
-        "translated_title": "Kia EV3 va începe sub 31.000 de dolari în SUA",
-        "url": "https://www.engadget.com/2237429/kia-ev3-will-start-under-31-000-in-the-us/",
-        "source": "Engadget",
-        "published": "2026-08-14T20:39:20+00:00",
-        "summary": "Acest lucru îl face cel mai ieftin EV din gama Kia.",
-        "category": "international"
-      },
-      {
-        "title": "Self-driving trucks are officially testing on California highways",
-        "translated_title": "Camioanele autonome sunt oficial testate pe autostrăzile din California",
-        "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-        "source": "TechCrunch",
-        "published": "2026-08-14T20:37:49+00:00",
-        "summary": "Aurora Innovation și Kodiak AI, două companii care dezvoltă camioane autonome, au primit permise de la Departamentul de Vehicule cu Motor din California.",
-        "category": "international"
-      },
-      {
-        "title": "Glovo și PragmaGO lansează un serviciu de finanțare pentru comercianții români. Procesul este digital, iar creditele sunt acordate pe baza datelor aplicației de livrări",
-        "translated_title": "Glovo și PragmaGO lansează un serviciu de finanțare pentru comercianții români",
-        "url": "https://www.go4it.ro/content/business/glovo-si-pragmago-lanseaza-un-serviciu-de-finantare-pentru-comerciantii-romani-procesul-este-digital-iar-creditele-sunt-acordate-pe-baza-datelor-aplicatiei-de-livrari-19282117/",
-        "source": "Go4IT",
-        "published": "2026-08-15T04:29:36.200672+00:00",
-        "summary": "Platforma de livrări Glovo și compania poloneză de fintech PragmaGO și-au extins parteneriatul în domeniul finanțării integrate în România și oferă finanțare de tip Merchant Cash Advance pentru mii de întreprinderi mici.",
-        "category": "romanian"
-      },
-      {
-        "title": "WhatsApp a lansat Scam Alert, un nou instrument AI pentru detectarea tentativelor de fraudă",
-        "translated_title": "WhatsApp a lansat Scam Alert, un nou instrument AI pentru detectarea tentativelor de fraudă",
-        "url": "https://www.go4it.ro/content/aplicatii/whatsapp-testeaza-scam-alert-un-nou-instrument-ai-pentru-detectarea-tentativelor-de-frauda-19282120/",
-        "source": "Go4IT",
-        "published": "2026-08-15T04:29:36.200547+00:00",
-        "summary": "Meta a anunțat lansarea unei noi funcții de securitate pentru WhatsApp, numită Scam Alert, care folosește inteligența artificială pentru a identifica mesajele suspecte și a avertiza utilizatorii cu privire la posibile tentative de fraudă.",
-        "category": "romanian"
-      },
-      {
-        "title": "GTA 6 Ultimate Edition se vinde mai bine decât versiunea Standard în perioada de precomenzi",
-        "translated_title": "GTA 6 Ultimate Edition se vinde mai bine decât versiunea Standard în perioada de precomenzi",
-        "url": "https://www.go4it.ro/content/jocuri/gta-6-ultimate-edition-se-vinde-mai-bine-decat-versiunea-standard-in-perioada-de-precomenzi-19282123/",
-        "source": "Go4IT",
-        "published": "2026-08-15T04:29:36.200416+00:00",
-        "summary": "Precomenzile pentru GTA 6 Ultimate Edition sunt mai mari decât pentru versiunea mai ieftină a jocului, potrivit declarațiilor directorului Take-Two, Strauss Zelnick.",
-        "category": "romanian"
-      },
-      {
-        "title": "Samsung are un început bun de an și își majorează cotele pe mai multe piețe",
-        "translated_title": "Samsung are un început bun de an și își majorează cotele pe mai multe piețe",
-        "url": "https://www.go4it.ro/content/business/samsung-are-un-inceput-bun-de-an-si-isi-majoreaza-cotele-pe-mai-multe-piete-19282127/",
-        "source": "Go4IT",
-        "published": "2026-08-15T04:29:36.200277+00:00",
-        "summary": "Samsung Electronics și-a consolidat poziția pe mai multe piețe în prima jumătate a anului 2026, ajungând la o cotă de 39,4% pe piața DRAM și la 22% pe segmentul smartphone.",
         "category": "romanian"
       }
     ]
