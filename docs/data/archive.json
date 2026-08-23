@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-23",
+    "date_formatted": "23 August 2026",
+    "news": [
+      {
+        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+        "translated_title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+        "url": "https://martypc.net/",
+        "source": "Hacker News",
+        "published": "2026-08-23T03:13:16+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+        "translated_title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+        "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+        "source": "TechCrunch",
+        "published": "2026-08-23T03:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "I Dream of Quieter Computing",
+        "translated_title": "I Dream of Quieter Computing",
+        "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+        "source": "Hacker News",
+        "published": "2026-08-23T02:33:22+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Art and Beauty of Blade Runner",
+        "translated_title": "The Art and Beauty of Blade Runner",
+        "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+        "source": "Hacker News",
+        "published": "2026-08-23T00:56:03+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "NanoGPT Speedrun Frontier",
+        "translated_title": "NanoGPT Speedrun Frontier",
+        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+        "source": "Hacker News",
+        "published": "2026-08-22T22:14:27+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "translated_title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "source": "TechCrunch",
+        "published": "2026-08-22T21:46:56+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?",
+        "translated_title": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?",
+        "url": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/",
+        "source": "Engadget",
+        "published": "2026-08-22T21:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How to limit Instagram from using your data for AI and ads",
+        "translated_title": "How to limit Instagram from using your data for AI and ads",
+        "url": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
+        "source": "Engadget",
+        "published": "2026-08-22T20:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+        "translated_title": "Will the DOJ’s investigation into a16z spook other VCs?",
+        "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+        "source": "TechCrunch",
+        "published": "2026-08-22T20:24:20+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The oldest iPhone model you can trade-in with Apple is older than you'd think",
+        "translated_title": "The oldest iPhone model you can trade-in with Apple is older than you'd think",
+        "url": "https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/",
+        "source": "Engadget",
+        "published": "2026-08-22T20:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "translated_title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "source": "TechCrunch",
+        "published": "2026-08-22T19:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "TikTok va plăti 400 de milioane de dolari pentru încălcarea vieții private a copiilor în SUA",
+        "translated_title": "TikTok va plăti 400 de milioane de dolari pentru încălcarea vieții private a copiilor în SUA",
+        "url": "https://www.go4it.ro/content/social-media/tiktok-va-plati-400-de-milioane-de-dolari-pentru-incalcarea-vietii-private-a-copiilor-in-sua-19282761/",
+        "source": "Go4IT",
+        "published": "2026-08-23T04:35:08.973563+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Reels-urile TikTok și Instagram reduc activitatea unor regiuni ale creierului asociate cu autocontrolul",
+        "translated_title": "Reels-urile TikTok și Instagram reduc activitatea unor regiuni ale creierului asociate cu autocontrolul",
+        "url": "https://www.go4it.ro/content/social-media/reels-urile-tiktok-si-instagram-reduc-activitatea-unor-regiuni-ale-creierului-asociate-cu-autocontrolul-19282757/",
+        "source": "Go4IT",
+        "published": "2026-08-23T04:35:08.973381+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "CEO Micron: Inteligența artificială a schimbat complet industria memoriilor",
+        "translated_title": "CEO Micron: Inteligența artificială a schimbat complet industria memoriilor",
+        "url": "https://www.go4it.ro/content/business/ceo-micron-inteligenta-artificiala-a-schimbat-complet-industria-memoriilor-19282755/",
+        "source": "Go4IT",
+        "published": "2026-08-23T04:35:08.973191+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "WhatsApp testează trei funcții noi: reacții animate, actualizări Liquid Glass pe iOS și opțiuni suplimentare pentru sondaje",
+        "translated_title": "WhatsApp testează trei funcții noi: reacții animate, actualizări Liquid Glass pe iOS și opțiuni suplimentare pentru sondaje",
+        "url": "https://www.go4it.ro/content/aplicatii/whatsapp-testeaza-trei-functii-noi-reactii-animate-actualizari-liquid-glass-pe-ios-si-optiuni-suplimentare-pentru-sondaje-19282747/",
+        "source": "Go4IT",
+        "published": "2026-08-23T04:35:08.973001+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-22",
     "date_formatted": "22 August 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://playtech.ro/2026/masina-tinuta-mult-timp-pe-loc-ce-verifici-inainte-sa-pleci-la-drum/",
         "source": "Playtech",
         "published": "2026-08-17T03:30:45+00:00",
-        "summary": "",
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-16",
-    "date_formatted": "16 August 2026",
-    "news": [
-      {
-        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-        "translated_title": "Femeia afirmă că tatăl ei vitreg a folosit Grok pentru a transforma o fotografie din copilărie în imagini explicite",
-        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-        "source": "TechCrunch",
-        "published": "2026-08-15T21:29:19+00:00",
-        "summary": "Femeia susține că uneltele cu inteligență artificială transformă viața de zi cu zi în abuz sexual asupra copiilor.",
-        "category": "international"
-      },
-      {
-        "title": "SpaceX officially closes its Cursor acquisition",
-        "translated_title": "SpaceX a închis oficial achiziția Cursor",
-        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-        "source": "TechCrunch",
-        "published": "2026-08-15T16:30:00+00:00",
-        "summary": "Startup-ul de codare cu inteligență artificială Cursor este acum oficial parte a SpaceX.",
-        "category": "international"
-      },
-      {
-        "title": "Every fusion startup that has raised over $100M",
-        "translated_title": "Toate startup-urile de fuziune care au strâns peste 100 de milioane de dolari",
-        "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-        "source": "TechCrunch",
-        "published": "2026-08-15T13:15:20+00:00",
-        "summary": "Startup-urile de fuziune au strâns până în prezent 7,1 miliarde de dolari, majoritatea mergând către câteva companii.",
-        "category": "international"
-      },
-      {
-        "title": "Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb",
-        "translated_title": "Un studiu sponsorizat de guvern despre alcool nu rezistă analizei: Nassim Taleb",
-        "url": "https://nntaleb.substack.com/p/have-another-drink",
-        "source": "Hacker News",
-        "published": "2026-08-16T03:23:34+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Patterns and problems in emerging multi-agent systems",
-        "translated_title": "Modele și probleme în sistemele multi-agente emergente",
-        "url": "https://www.anthropic.com/research/multiagent-systems",
-        "source": "Hacker News",
-        "published": "2026-08-16T02:12:53+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
-        "translated_title": "Arată HN: Mic Drop, un joc de karaoke multiplayer în timp real",
-        "url": "https://www.micdrop.gg/",
-        "source": "Hacker News",
-        "published": "2026-08-16T00:46:29+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Tea5767-Radio-Tuner",
-        "translated_title": "Tea5767-Radio-Tuner",
-        "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
-        "source": "Hacker News",
-        "published": "2026-08-15T23:54:35+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
-        "translated_title": "Recenzie Retrospec Joe Rev 2 (2026): Punând „bucuria” în plimbare",
-        "url": "https://www.wired.com/review/retrospec-joe-rev-2/",
-        "source": "Wired",
-        "published": "2026-08-15T11:00:00+00:00",
-        "summary": "Acest BMX electric accesibil a încântat întreaga mea familie, chiar dacă are o rază de acțiune limitată, confort redus și abilități BMX limitate.",
-        "category": "international"
-      },
-      {
-        "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
-        "translated_title": "Acest colier ciudat și frumos este de fapt un disc de USB",
-        "url": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
-        "source": "Wired",
-        "published": "2026-08-15T11:00:00+00:00",
-        "summary": "Colierul Puff de la Noware reimagинеază în mod original discurile flash, transformând ceva funcțional în bijuterii personalizate.",
-        "category": "international"
-      },
-      {
-        "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
-        "translated_title": "Cele 6 accesorii Apple Watch pentru a-ți îmbunătăți ceasul (2026)",
-        "url": "https://www.wired.com/story/best-apple-watch-accessories/",
-        "source": "Wired",
-        "published": "2026-08-15T10:30:00+00:00",
-        "summary": "",
-        "category": "international"
-      },
-      {
-        "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
-        "translated_title": "Instapaper, aplicația originală de citit mai târziu, a primit o actualizare majoră",
-        "url": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
-        "source": "Wired",
-        "published": "2026-08-15T10:30:00+00:00",
-        "summary": "Noi fonturi, personalizare îmbunătățită și un layout complet nou fac ca merită să-ți actualizezi contul Instapaper.",
-        "category": "international"
-      },
-      {
-        "title": "Google adaugă opțiunea tap-to-share pentru utilizatorii Quick Share, imitând o funcție AirDrop asemănătoare",
-        "translated_title": "Google adaugă opțiunea tap-to-share pentru utilizatorii Quick Share, imitând o funcție AirDrop similară",
-        "url": "https://zonait.ro/quick-share-tap-to-share/",
-        "source": "Zona IT",
-        "published": "2026-08-15T07:00:00+00:00",
-        "summary": "Utilizatorii de Android primesc o funcție apreciată de utilizatorii iPhone, o opțiune tap-to-share care permite schimburi rapide de fișiere, fotografii și videoclipuri cu alți utilizatori de mobil.",
-        "category": "romanian"
-      },
-      {
-        "title": "De ce tot mai mulți oameni pun o lingură metalică la geam. Explicația acestui truc simplu",
-        "translated_title": "De ce tot mai mulți oameni pun o lingură metalică la geam. Explicația acestui truc simplu",
-        "url": "https://playtech.ro/2026/de-ce-tot-mai-multi-oameni-pun-o-lingura-metalica-la-geam-explicatia-acestui-truc-simplu/",
-        "source": "Playtech",
-        "published": "2026-08-15T17:35:04+00:00",
-        "summary": "",
-        "category": "romanian"
-      },
-      {
-        "title": "AMD vrea să-i ia fața Nvidia în cursa inteligenței artificiale. Noul sistem pe care mizează giganții tech",
-        "translated_title": "AMD vrea să-i ia fața Nvidia în cursa inteligenței artificiale. Noul sistem pe care mizează giganții tech",
-        "url": "https://playtech.ro/2026/amd-vrea-sa-i-ia-fata-nvidia-in-cursa-inteligentei-artificiale-noul-sistem-pe-care-mizeaza-gigantii-tech/",
-        "source": "Playtech",
-        "published": "2026-08-15T17:21:25+00:00",
-        "summary": "",
-        "category": "romanian"
-      },
-      {
-        "title": "Ai voie să faci grătar în spatele blocului? Locurile în care o friptură la iarbă verde se poate termina cu amendă",
-        "translated_title": "Ai voie să faci grătar în spatele blocului? Locurile în care o friptură la iarbă verde se poate termina cu amendă",
-        "url": "https://playtech.ro/2026/ai-voie-sa-faci-gratar-in-spatele-blocului-locurile-in-care-o-friptura-la-iarba-verde-se-poate-termina-cu-amenda/",
-        "source": "Playtech",
-        "published": "2026-08-15T16:20:36+00:00",
         "summary": "",
         "category": "romanian"
       }
