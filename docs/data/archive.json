@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-25",
+    "date_formatted": "25 August 2026",
+    "news": [
+      {
+        "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
+        "translated_title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
+        "url": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
+        "source": "Wired",
+        "published": "2026-08-25T04:01:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Headlong: A Microharness for Persistent Agents",
+        "translated_title": "Headlong: A Microharness for Persistent Agents",
+        "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+        "source": "Hacker News",
+        "published": "2026-08-25T03:54:19+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How to watch the Nancy Grace Roman Space Telescope's launch",
+        "translated_title": "How to watch the Nancy Grace Roman Space Telescope's launch",
+        "url": "https://www.engadget.com/2243391/how-to-watch-the-nancy-grace-roman-space-telescopes-launch/",
+        "source": "Engadget",
+        "published": "2026-08-25T03:48:02+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+        "translated_title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+        "url": "https://news.ycombinator.com/item?id=49428842",
+        "source": "Hacker News",
+        "published": "2026-08-25T03:46:01+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+        "translated_title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+        "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+        "source": "TechCrunch",
+        "published": "2026-08-25T03:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Thomson Reuters Launches Its Own Frontier Model",
+        "translated_title": "Thomson Reuters Launches Its Own Frontier Model",
+        "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+        "source": "Hacker News",
+        "published": "2026-08-25T02:11:39+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How Universities Should Prepare Founders",
+        "translated_title": "How Universities Should Prepare Founders",
+        "url": "https://paulgraham.com/prepare.html",
+        "source": "Hacker News",
+        "published": "2026-08-25T01:40:39+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "translated_title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+        "source": "TechCrunch",
+        "published": "2026-08-25T00:23:12+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+        "translated_title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+        "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+        "source": "The Verge",
+        "published": "2026-08-24T23:38:10+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+        "translated_title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+        "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+        "source": "TechCrunch",
+        "published": "2026-08-24T23:05:44+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How does converting a video to 4K actually work?",
+        "translated_title": "How does converting a video to 4K actually work?",
+        "url": "https://www.engadget.com/2240352/how-converting-video-to-4k-works/",
+        "source": "Engadget",
+        "published": "2026-08-24T21:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Xiaomi exclude telefoanele second-hand din garanție și din serviciile de protecție a bateriei",
+        "translated_title": "Xiaomi exclude telefoanele second-hand din garanție și din serviciile de protecție a bateriei",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/xiaomi-exclude-telefoanele-second-hand-din-garantie-si-din-serviciile-de-protectie-a-bateriei-19282886/",
+        "source": "Go4IT",
+        "published": "2026-08-25T04:37:09.403411+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Xiaomi a lansat XRING O3, cip de 3 nm cu suport LPDDR6. Procesorul debutează pe Xiaomi 18 Fold",
+        "translated_title": "Xiaomi a lansat XRING O3, cip de 3 nm cu suport LPDDR6. Procesorul debutează pe Xiaomi 18 Fold",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/xiaomi-a-lansat-xring-o3-cip-de-3-nm-cu-suport-lpddr6-procesorul-debuteaza-pe-xiaomi-18-fold-19282889/",
+        "source": "Go4IT",
+        "published": "2026-08-25T04:37:09.403234+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "SEA: Piața smartphone-urilor scade cu 15%, cel mai slab rezultat din ultimii trei ani",
+        "translated_title": "SEA: Piața smartphone-urilor scade cu 15%, cel mai slab rezultat din ultimii trei ani",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/sea-piata-smartphone-urilor-scade-cu-15-cel-mai-slab-rezultat-din-ultimii-trei-ani-19282904/",
+        "source": "Go4IT",
+        "published": "2026-08-25T04:37:09.403051+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Lightning, robotul umanoid Honor, depășește recordul la 400 de metri",
+        "translated_title": "Lightning, robotul umanoid Honor, depășește recordul la 400 de metri",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/lightning-robotul-umanoid-honor-depaseste-recordul-la-400-de-metri-19282898/",
+        "source": "Go4IT",
+        "published": "2026-08-25T04:37:09.402846+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-24",
     "date_formatted": "24 August 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/software/china-renunta-mai-devreme-la-versiunea-speciala-de-windows-si-accelereaza-trecerea-la-linux-19282395/",
         "source": "Go4IT",
         "published": "2026-08-19T04:35:21.277838+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-18",
-    "date_formatted": "18 August 2026",
-    "news": [
-      {
-        "title": "What's Better Than Binary? – Advent of Computing Episode 187",
-        "translated_title": "What's Better Than Binary? – Advent of Computing Episode 187",
-        "url": "https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary",
-        "source": "Hacker News",
-        "published": "2026-08-18T02:14:04+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Benchmarkpocalypse",
-        "translated_title": "The Benchmarkpocalypse",
-        "url": "https://danluu.com/benchpocalypse/",
-        "source": "Hacker News",
-        "published": "2026-08-18T02:11:02+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Anthropic’s annualized revenue surges to $65B",
-        "translated_title": "Anthropic’s annualized revenue surges to $65B",
-        "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-        "source": "TechCrunch",
-        "published": "2026-08-17T23:56:26+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Reddit’s AI is turning posts into podcasts and short videos",
-        "translated_title": "Reddit’s AI is turning posts into podcasts and short videos",
-        "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
-        "source": "The Verge",
-        "published": "2026-08-17T23:46:01+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Repair Cafe – Fix Your Broken Items",
-        "translated_title": "Repair Cafe – Fix Your Broken Items",
-        "url": "https://www.repaircafe.org/",
-        "source": "Hacker News",
-        "published": "2026-08-17T23:28:28+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How Bluesky draws its logo on screenshots",
-        "translated_title": "How Bluesky draws its logo on screenshots",
-        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-        "source": "Hacker News",
-        "published": "2026-08-17T22:20:40+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Why flash drive capacity keeps increasing (and why small drives are rarely sold today)",
-        "translated_title": "Why flash drive capacity keeps increasing (and why small drives are rarely sold today)",
-        "url": "https://www.engadget.com/2237555/flash-drive-size-keep-going-up-why-small-rarely-sold-today/",
-        "source": "Engadget",
-        "published": "2026-08-17T21:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "What Is El Niño, and What Does It Mean for Weather, Water, and the Global Economy?",
-        "translated_title": "What Is El Niño, and What Does It Mean for Weather, Water, and the Global Economy?",
-        "url": "https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/",
-        "source": "Wired",
-        "published": "2026-08-17T21:28:42+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-        "translated_title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-        "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-        "source": "TechCrunch",
-        "published": "2026-08-17T21:27:05+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "ABC’s livestreamed news show is powered by trending topics",
-        "translated_title": "ABC’s livestreamed news show is powered by trending topics",
-        "url": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
-        "source": "The Verge",
-        "published": "2026-08-17T20:59:23+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "What are your retro game consoles worth?",
-        "translated_title": "What are your retro game consoles worth?",
-        "url": "https://www.engadget.com/2237553/what-are-retro-game-consoles-worth/",
-        "source": "Engadget",
-        "published": "2026-08-17T20:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "HMD 2760 Flip ar putea trece la Android 13 Go. Specificațiile telefonului au apărut online",
-        "translated_title": "HMD 2760 Flip ar putea trece la Android 13 Go. Specificațiile telefonului au apărut online",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/hmd-2760-flip-ar-putea-trece-la-android-13-go-specificatiile-telefonului-au-aparut-online-19282248/",
-        "source": "Go4IT",
-        "published": "2026-08-18T04:34:23.782902+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Instagram și Facebook s-ar putea schimba radical pentru minori. Meta, dată în judecată de 30 de state americane",
-        "translated_title": "Instagram și Facebook s-ar putea schimba radical pentru minori. Meta, dată în judecată de 30 de state americane",
-        "url": "https://www.go4it.ro/content/social-media/instagram-si-facebook-s-ar-putea-schimba-radical-pentru-minori-meta-data-in-judecata-de-30-de-state-americane-19282256/",
-        "source": "Go4IT",
-        "published": "2026-08-18T04:34:23.782704+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "iPhone Ultra ar putea afecta vânzările Galaxy Z Fold 8 mai puțin decât se anticipa",
-        "translated_title": "iPhone Ultra ar putea afecta vânzările Galaxy Z Fold 8 mai puțin decât se anticipa",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/iphone-ultra-ar-putea-afecta-mai-putin-vanzarile-galaxy-z-fold-8-decat-se-anticipa-19282258/",
-        "source": "Go4IT",
-        "published": "2026-08-18T04:34:23.782459+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Platforme de serviciu, imitate în 4,6 milioane de atacuri cibernetice",
-        "translated_title": "Platforme de serviciu, imitate în 4,6 milioane de atacuri cibernetice",
-        "url": "https://www.go4it.ro/securitate-informatica/platforme-de-serviciu-imitate-in-46-milioane-de-atacuri-cibernetice-19282265/",
-        "source": "Go4IT",
-        "published": "2026-08-18T04:34:23.782273+00:00",
         "summary": null,
         "category": "romanian"
       }
