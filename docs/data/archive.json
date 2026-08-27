@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-27",
+    "date_formatted": "27 August 2026",
+    "news": [
+      {
+        "title": "Google launches Pokémon Sleep special-edition Fitbit Air",
+        "translated_title": "Google launches Pokémon Sleep special-edition Fitbit Air",
+        "url": "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
+        "source": "The Verge",
+        "published": "2026-08-27T14:58:33+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’",
+        "translated_title": "In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’",
+        "url": "https://www.theverge.com/transportation/985503/waymo-tesla-lidar-camera-robotaxi-cybercab-musk",
+        "source": "The Verge",
+        "published": "2026-08-27T14:55:20+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Hold up, there’s a new Twitter in the town",
+        "translated_title": "Hold up, there’s a new Twitter in the town",
+        "url": "https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/",
+        "source": "TechCrunch",
+        "published": "2026-08-27T14:40:22+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Meta's latest teen safety commitments are US-only (for now)",
+        "translated_title": "Meta's latest teen safety commitments are US-only (for now)",
+        "url": "https://www.engadget.com/2245418/meta-teen-safety-commitments-are-us-only-for-now/",
+        "source": "Engadget",
+        "published": "2026-08-27T14:38:41+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
+        "translated_title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
+        "url": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
+        "source": "TechCrunch",
+        "published": "2026-08-27T14:36:37+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "French CII's Mitra-15 in SIMH. Work in Progress",
+        "translated_title": "French CII's Mitra-15 in SIMH. Work in Progress",
+        "url": "https://github.com/JPLeRouzic/Mitra-15-for-SIMH",
+        "source": "Hacker News",
+        "published": "2026-08-27T14:27:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
+        "translated_title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
+        "url": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
+        "source": "TechCrunch",
+        "published": "2026-08-27T14:27:52+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "AI’s memory crunch is coming for Android apps",
+        "translated_title": "AI’s memory crunch is coming for Android apps",
+        "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+        "source": "TechCrunch",
+        "published": "2026-08-27T14:27:04+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "If Meta’s going down, it’s taking TikTok and YouTube with it",
+        "translated_title": "If Meta’s going down, it’s taking TikTok and YouTube with it",
+        "url": "https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap",
+        "source": "The Verge",
+        "published": "2026-08-27T14:24:29+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Show HN: Restoredrill – proves your Postgres backups restore",
+        "translated_title": "Show HN: Restoredrill – proves your Postgres backups restore",
+        "url": "https://github.com/ahmadpiran/restoredrill",
+        "source": "Hacker News",
+        "published": "2026-08-27T14:16:23+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "507 Mechanical Movements",
+        "translated_title": "507 Mechanical Movements",
+        "url": "https://507movements.com/",
+        "source": "Hacker News",
+        "published": "2026-08-27T14:08:18+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "ANAF lansează aplicații gratuite pentru verificarea SAF-T: Peste 580.000 de firme pot corecta erorile înainte de raportare",
+        "translated_title": "ANAF lansează aplicații gratuite pentru verificarea SAF-T: Peste 580.000 de firme pot corecta erorile înainte de raportare",
+        "url": "https://www.go4it.ro/content/aplicatii/anaf-lanseaza-aplicatii-gratuite-pentru-verificarea-saf-t-peste-580-000-de-firme-pot-corecta-erorile-inainte-de-raportare-19283206/",
+        "source": "Go4IT",
+        "published": "2026-08-27T14:59:59.241815+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Bucharest Cybersecurity Conference 2026: DNSC anunță că au început înscrierile pentru summitul internațional de securitate cibernetică",
+        "translated_title": "Bucharest Cybersecurity Conference 2026: DNSC anunță că au început înscrierile pentru summitul internațional de securitate cibernetică",
+        "url": "https://www.go4it.ro/securitate-informatica/bucharest-cybersecurity-conference-2026-dnsc-anunta-ca-au-inceput-inscrierile-pentru-summitul-international-de-securitate-cibernetica-19283215/",
+        "source": "Go4IT",
+        "published": "2026-08-27T14:59:59.241340+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Comandamentul Apărării Cibernetice din MApN cumpără soluții de securitate cibernetică de până la 14,8 milioane de lei",
+        "translated_title": "Comandamentul Apărării Cibernetice din MApN cumpără soluții de securitate cibernetică de până la 14,8 milioane de lei",
+        "url": "https://www.go4it.ro/securitate-informatica/comandamentul-apararii-cibernetice-din-mapn-cumpara-solutii-de-securitate-cibernetica-de-pana-la-148-milioane-de-lei-19283219/",
+        "source": "Go4IT",
+        "published": "2026-08-27T14:59:59.241151+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "România găzduiește în premieră teste de tehnologie militară BraveTechEU: Premii de sute de mii de euro pentru startup-uri din UE și Ucraina",
+        "translated_title": "România găzduiește în premieră teste de tehnologie militară BraveTechEU: Premii de sute de mii de euro pentru startup-uri din UE și Ucraina",
+        "url": "https://www.go4it.ro/tehnologie-militara/romania-gazduieste-in-premiera-teste-de-tehnologie-militara-bravetecheu-premii-de-sute-de-mii-de-euro-pentru-startup-uri-din-ue-si-ucraina-19283228/",
+        "source": "Go4IT",
+        "published": "2026-08-27T14:59:59.240964+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-26",
     "date_formatted": "26 August 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/telefoane-mobile/piata-telefoanelor-pliabile-va-depasi-36-de-milioane-de-unitati-in-2028-19282621/",
         "source": "Go4IT",
         "published": "2026-08-21T04:36:59.873922+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "date_formatted": "20 August 2026",
-    "news": [
-      {
-        "title": "Turns are Better than Radians",
-        "translated_title": "Turns are Better than Radians",
-        "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-        "source": "Hacker News",
-        "published": "2026-08-20T01:29:12+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Universality of Gradient Descent Neural Network Training",
-        "translated_title": "Universality of Gradient Descent Neural Network Training",
-        "url": "https://arxiv.org/abs/2007.13664",
-        "source": "Hacker News",
-        "published": "2026-08-20T00:05:12+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-        "translated_title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-        "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-        "source": "TechCrunch",
-        "published": "2026-08-19T23:32:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Binding of Isaac: Repentance+ Online release goes head-to-head with GTA 6 on November 19",
-        "translated_title": "The Binding of Isaac: Repentance+ Online release goes head-to-head with GTA 6 on November 19",
-        "url": "https://www.engadget.com/2240496/the-binding-of-isaac-repentance-online-release-goes-head-to-head-with-gta-6-on-november-19/",
-        "source": "Engadget",
-        "published": "2026-08-19T23:10:21+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
-        "translated_title": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
-        "url": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/",
-        "source": "Wired",
-        "published": "2026-08-19T23:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Does giving a camera wings dodge the FCC’s drone ban?",
-        "translated_title": "Does giving a camera wings dodge the FCC’s drone ban?",
-        "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
-        "source": "The Verge",
-        "published": "2026-08-19T22:35:20+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-        "translated_title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-        "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-        "source": "TechCrunch",
-        "published": "2026-08-19T22:25:01+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-        "translated_title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-        "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-        "source": "TechCrunch",
-        "published": "2026-08-19T22:10:46+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-        "translated_title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-        "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-        "source": "TechCrunch",
-        "published": "2026-08-19T21:51:23+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Feature Request: Support AGENTS.md",
-        "translated_title": "Feature Request: Support AGENTS.md",
-        "url": "https://github.com/anthropics/claude-code/issues/6235",
-        "source": "Hacker News",
-        "published": "2026-08-19T21:19:50+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-        "translated_title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-        "url": "https://os8088.com/spotlight/",
-        "source": "Hacker News",
-        "published": "2026-08-19T21:11:31+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Google ar putea prezenta noile laptopuri Googlebook pe 15 septembrie",
-        "translated_title": "Google ar putea prezenta noile laptopuri Googlebook pe 15 septembrie",
-        "url": "https://www.go4it.ro/content/laptopuri/google-ar-putea-prezenta-noile-laptopuri-googlebook-pe-15-septembrie-19282487/",
-        "source": "Go4IT",
-        "published": "2026-08-20T04:35:31.064347+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "OpenAI neagă desființarea echipei sale de pregătire",
-        "translated_title": "OpenAI neagă desființarea echipei sale de pregătire",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/openai-neaga-desfiintarea-echipei-sale-de-pregatire-19282493/",
-        "source": "Go4IT",
-        "published": "2026-08-20T04:35:31.064166+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Roboți de 50 de ori mai mici decât un fir de păr pot colecta bacterii cu ajutorul luminii",
-        "translated_title": "Roboți de 50 de ori mai mici decât un fir de păr pot colecta bacterii cu ajutorul luminii",
-        "url": "https://www.go4it.ro/content/curiozitati/roboti-de-50-de-ori-mai-mici-decat-un-fir-de-par-pot-colecta-bacterii-cu-ajutorul-luminii-19282495/",
-        "source": "Go4IT",
-        "published": "2026-08-20T04:35:31.063988+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Pușca și shotgun-ul, soluții împotriva dronelor. Cum se pregătesc pușcașii marini americani – VIDEO",
-        "translated_title": "Pușca și shotgun-ul, soluții împotriva dronelor. Cum se pregătesc pușcașii marini americani – VIDEO",
-        "url": "https://www.go4it.ro/tehnologie-militara/pusca-si-shotgun-ul-solutii-impotriva-dronelor-cum-se-pregatesc-puscasii-marini-americani-video-19282498/",
-        "source": "Go4IT",
-        "published": "2026-08-20T04:35:31.063795+00:00",
         "summary": null,
         "category": "romanian"
       }
