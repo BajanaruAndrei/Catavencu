@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-29",
+    "date_formatted": "29 August 2026",
+    "news": [
+      {
+        "title": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
+        "translated_title": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
+        "url": "https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/",
+        "source": "Wired",
+        "published": "2026-08-29T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+        "translated_title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+        "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+        "source": "Wired",
+        "published": "2026-08-29T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How to Run a Chatbot on Your Own Computer",
+        "translated_title": "How to Run a Chatbot on Your Own Computer",
+        "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+        "source": "Wired",
+        "published": "2026-08-29T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Psilocybin Might Make Your Brain Live in the Moment",
+        "translated_title": "Psilocybin Might Make Your Brain Live in the Moment",
+        "url": "https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/",
+        "source": "Wired",
+        "published": "2026-08-29T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+        "translated_title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+        "url": "https://www.inventati.org/who/manifesto",
+        "source": "Hacker News",
+        "published": "2026-08-29T07:38:31+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Samsung's Processing-in-Memory (PIM)",
+        "translated_title": "Samsung's Processing-in-Memory (PIM)",
+        "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+        "source": "Hacker News",
+        "published": "2026-08-29T06:06:51+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "TurboKV: Insanely fast Rust key-value store",
+        "translated_title": "TurboKV: Insanely fast Rust key-value store",
+        "url": "https://github.com/kingroryg/turbokv",
+        "source": "Hacker News",
+        "published": "2026-08-29T02:23:37+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+        "translated_title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+        "url": "https://www.kumander.org/",
+        "source": "Hacker News",
+        "published": "2026-08-29T01:48:15+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+        "translated_title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+        "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+        "source": "TechCrunch",
+        "published": "2026-08-28T23:24:27+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How to use your old Android phone as a Wi-Fi extender",
+        "translated_title": "How to use your old Android phone as a Wi-Fi extender",
+        "url": "https://www.engadget.com/2246379/how-to-use-old-android-phone-wifi-extender/",
+        "source": "Engadget",
+        "published": "2026-08-28T23:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Google further buries search results under AI mode",
+        "translated_title": "Google further buries search results under AI mode",
+        "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+        "source": "The Verge",
+        "published": "2026-08-28T22:48:11+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Cum au manipulat hackerii ruși un asistent AI pentru a lansa atacuri cibernetice împotriva a șapte companii internaționale",
+        "translated_title": "Cum au manipulat hackerii ruși un asistent AI pentru a lansa atacuri cibernetice împotriva a șapte companii internaționale",
+        "url": "https://www.go4it.ro/securitate-informatica/cum-au-manipulat-hackerii-rusi-un-asistent-ai-pentru-a-lansa-atacuri-cibernetice-impotriva-a-sapte-companii-internationale-19283423/",
+        "source": "Go4IT",
+        "published": "2026-08-29T10:49:33.436407+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "România ar putea doborî drone direct de la sol în câteva săptămâni, anunță ministrul Apărării",
+        "translated_title": "România ar putea doborî drone direct de la sol în câteva săptămâni, anunță ministrul Apărării",
+        "url": "https://www.go4it.ro/tehnologie-militara/romania-ar-putea-dobori-drone-direct-de-la-sol-in-cateva-saptamani-anunta-ministrul-apararii-19283426/",
+        "source": "Go4IT",
+        "published": "2026-08-29T10:49:33.436167+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Cum poate ecosistemul Samsung SmartThings să te ajute să economisești timp pentru activitățile care contează prin automatizare",
+        "translated_title": "Cum poate ecosistemul Samsung SmartThings să te ajute să economisești timp pentru activitățile care contează prin automatizare",
+        "url": "https://www.go4it.ro/content/internet/cum-poate-ecosistemul-samsung-smartthings-sa-te-ajute-sa-economisesti-timp-pentru-activitatile-care-conteaza-prin-automatizare-19283437/",
+        "source": "Go4IT",
+        "published": "2026-08-29T10:49:33.435985+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Fosta fabrică Electroargeș vrea să producă piese pentru drone militare: Ofertă oficială trimisă către MApN",
+        "translated_title": "Fosta fabrică Electroargeș vrea să producă piese pentru drone militare: Ofertă oficială trimisă către MApN",
+        "url": "https://www.go4it.ro/content/drone/fosta-fabrica-electroarges-vrea-sa-produca-piese-pentru-drone-militare-oferta-oficiala-trimisa-catre-mapn-19283447/",
+        "source": "Go4IT",
+        "published": "2026-08-29T10:49:33.435805+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-28",
     "date_formatted": "28 August 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/aplicatii/whatsapp-testeaza-trei-functii-noi-reactii-animate-actualizari-liquid-glass-pe-ios-si-optiuni-suplimentare-pentru-sondaje-19282747/",
         "source": "Go4IT",
         "published": "2026-08-23T04:35:08.973001+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-22",
-    "date_formatted": "22 August 2026",
-    "news": [
-      {
-        "title": "Early Humans Likely Ate Carbs and Sugary Foods",
-        "translated_title": "Early Humans Likely Ate Carbs and Sugary Foods",
-        "url": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
-        "source": "Hacker News",
-        "published": "2026-08-22T02:37:30+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Michael Polansky is training an AI model on skin that’s still alive",
-        "translated_title": "Michael Polansky is training an AI model on skin that’s still alive",
-        "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-        "source": "TechCrunch",
-        "published": "2026-08-22T01:31:04+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "There's no reason for software to be slow anymore",
-        "translated_title": "There's no reason for software to be slow anymore",
-        "url": "https://danluu.com/perf-opt/",
-        "source": "Hacker News",
-        "published": "2026-08-22T01:06:17+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-        "translated_title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-        "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-        "source": "TechCrunch",
-        "published": "2026-08-22T01:03:06+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-        "translated_title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-        "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-        "source": "Hacker News",
-        "published": "2026-08-22T01:02:09+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "HN: The Good Parts (2016)",
-        "translated_title": "HN: The Good Parts (2016)",
-        "url": "https://danluu.com/hn-comments/",
-        "source": "Hacker News",
-        "published": "2026-08-21T23:53:03+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Unlikely Place at the Center of China’s AI Boom",
-        "translated_title": "The Unlikely Place at the Center of China’s AI Boom",
-        "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-        "source": "Wired",
-        "published": "2026-08-21T23:25:32+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
-        "translated_title": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
-        "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
-        "source": "Wired",
-        "published": "2026-08-21T23:10:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Anthropic’s Opus 4.6 is a smut-machine",
-        "translated_title": "Anthropic’s Opus 4.6 is a smut-machine",
-        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-        "source": "TechCrunch",
-        "published": "2026-08-21T23:07:25+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "translated_title": "Nvidia partners with data center developer Cloverleaf",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-        "source": "TechCrunch",
-        "published": "2026-08-21T22:37:38+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "HoverAir’s transforming modular drone has already been halted in the US",
-        "translated_title": "HoverAir’s transforming modular drone has already been halted in the US",
-        "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-        "source": "The Verge",
-        "published": "2026-08-21T22:14:11+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Xbox Series X25: au apărut informații despre preț și data lansării",
-        "translated_title": "Xbox Series X25: au apărut informații despre preț și data lansării",
-        "url": "https://www.go4it.ro/content/jocuri/xbox-series-x25-au-aparut-informatii-despre-pret-si-data-lansarii-19282693/",
-        "source": "Go4IT",
-        "published": "2026-08-22T04:31:50.853267+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Google cumpără datele companiei Spirit Airlines pentru antrenarea IA cu doar 10 milioane de dolari, achiziție contestată de sindicatul însoțitorilor de zbor",
-        "translated_title": "Google cumpără datele companiei Spirit Airlines pentru antrenarea IA cu doar 10 milioane de dolari, achiziție contestată de sindicatul însoțitorilor de zbor",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/google-cumpara-datele-companiei-spirit-airlines-pentru-antrenarea-ia-cu-doar-10-milioane-de-dolari-achizitie-contestata-de-sindicatul-insotitorilor-de-zbor-19282704/",
-        "source": "Go4IT",
-        "published": "2026-08-22T04:31:50.853085+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Samsung extinde actualizarea-surpriză pentru Galaxy S8 și Galaxy Note 8",
-        "translated_title": "Samsung extinde actualizarea-surpriză pentru Galaxy S8 și Galaxy Note 8",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/samsung-extinde-actualizarea-surpriza-pentru-galaxy-s8-si-galaxy-note-8-19282710/",
-        "source": "Go4IT",
-        "published": "2026-08-22T04:31:50.852902+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Care sunt cele mai performante telefoane în testele Geekbench",
-        "translated_title": "Care sunt cele mai performante telefoane în testele Geekbench",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/care-sunt-cele-mai-performante-telefoane-in-testele-geekbench-19282713/",
-        "source": "Go4IT",
-        "published": "2026-08-22T04:31:50.852511+00:00",
         "summary": null,
         "category": "romanian"
       }
