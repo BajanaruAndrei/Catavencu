@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-08-30",
+    "date_formatted": "30 August 2026",
+    "news": [
+      {
+        "title": "Brits would quite like their private messages to stay private",
+        "translated_title": "Brits would quite like their private messages to stay private",
+        "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+        "source": "Hacker News",
+        "published": "2026-08-30T09:26:08+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Scientists Create the Littlest Big Bang to Study the Universe's Origins",
+        "translated_title": "Scientists Create the Littlest Big Bang to Study the Universe's Origins",
+        "url": "https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/",
+        "source": "Wired",
+        "published": "2026-08-30T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+        "translated_title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+        "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+        "source": "Hacker News",
+        "published": "2026-08-30T08:51:39+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+        "translated_title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+        "url": "https://arxiv.org/abs/1804.07389",
+        "source": "Hacker News",
+        "published": "2026-08-30T08:23:26+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Iceland rejects reopening talks on EU entry",
+        "translated_title": "Iceland rejects reopening talks on EU entry",
+        "url": "https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f",
+        "source": "Hacker News",
+        "published": "2026-08-30T08:07:29+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Android Auto not working? Here's what to check first",
+        "translated_title": "Android Auto not working? Here's what to check first",
+        "url": "https://www.engadget.com/2242769/android-auto-not-working-check-first/",
+        "source": "Engadget",
+        "published": "2026-08-29T23:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How to save money on your phone bill with an MVNO",
+        "translated_title": "How to save money on your phone bill with an MVNO",
+        "url": "https://www.engadget.com/2246399/how-to-save-money-phone-bill-with-mvno/",
+        "source": "Engadget",
+        "published": "2026-08-29T23:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The wildest video game budgets can't hold a candle to GTA 6",
+        "translated_title": "The wildest video game budgets can't hold a candle to GTA 6",
+        "url": "https://www.engadget.com/2246918/video-games-rival-gta-6-budget/",
+        "source": "Engadget",
+        "published": "2026-08-29T22:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Why does your Kindle even have Bluetooth?",
+        "translated_title": "Why does your Kindle even have Bluetooth?",
+        "url": "https://www.engadget.com/2242764/why-does-your-kindle-even-have-bluetooth/",
+        "source": "Engadget",
+        "published": "2026-08-29T22:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+        "translated_title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+        "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+        "source": "The Verge",
+        "published": "2026-08-29T20:59:26+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Alt-right troll Milo Yiannopoulos has been deported",
+        "translated_title": "Alt-right troll Milo Yiannopoulos has been deported",
+        "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+        "source": "The Verge",
+        "published": "2026-08-29T19:49:59+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Aplicația românească Parents are OK anunță familiile dacă telefonul părinților în vârstă devine inactiv",
+        "translated_title": "Aplicația românească Parents are OK anunță familiile dacă telefonul părinților în vârstă devine inactiv",
+        "url": "https://www.go4it.ro/content/aplicatii/aplicatia-romaneasca-parents-are-ok-anunta-familiile-daca-telefonul-parintilor-in-varsta-devine-inactiv-19283431/",
+        "source": "Go4IT",
+        "published": "2026-08-30T09:45:57.745656+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Inelul smart Oura ar putea conduce anchetatorii la cadavrul unui membru al Gărzii Naționale din Utah, ucis de soția sa infidelă",
+        "translated_title": "Inelul smart Oura ar putea conduce anchetatorii la cadavrul unui membru al Gărzii Naționale din Utah, ucis de soția sa infidelă",
+        "url": "https://www.go4it.ro/content/accesorii/inelul-smart-oura-ar-putea-conduce-anchetatorii-la-cadavrul-unui-membru-al-garzii-nationale-din-utah-ucis-de-sotia-sa-infidela-19283463/",
+        "source": "Go4IT",
+        "published": "2026-08-30T09:45:57.745471+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Ediția specială „Pokémon Sleep” a dispozitivului Fitbit Air de la Google va fi disponibilă în septembrie",
+        "translated_title": "Ediția specială „Pokémon Sleep” a dispozitivului Fitbit Air de la Google va fi disponibilă în septembrie",
+        "url": "https://www.go4it.ro/content/accesorii/editia-speciala-pokemon-sleep-a-dispozitivului-fitbit-air-de-la-google-va-fi-disponibila-in-septembrie-19283420/",
+        "source": "Go4IT",
+        "published": "2026-08-30T09:45:57.745282+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Decesul unui programator în toaleta companiei nu este accident de muncă: Nu își pornise calculatorul",
+        "translated_title": "Decesul unui programator în toaleta companiei nu este accident de muncă: Nu își pornise calculatorul",
+        "url": "https://www.go4it.ro/content/curiozitati/decesul-unui-programator-in-toaleta-companiei-nu-este-accident-de-munca-nu-isi-pornise-calculatorul-19283466/",
+        "source": "Go4IT",
+        "published": "2026-08-30T09:45:57.745072+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-08-29",
     "date_formatted": "29 August 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/business/take-two-cere-microsoft-si-discord-datele-cyberleek-suspectat-ca-a-distribuit-scurgerile-gta-6-19282776/",
         "source": "Go4IT",
         "published": "2026-08-24T04:42:37.933128+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "date_formatted": "23 August 2026",
-    "news": [
-      {
-        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-        "translated_title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-        "url": "https://martypc.net/",
-        "source": "Hacker News",
-        "published": "2026-08-23T03:13:16+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
-        "translated_title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
-        "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-        "source": "TechCrunch",
-        "published": "2026-08-23T03:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "I Dream of Quieter Computing",
-        "translated_title": "I Dream of Quieter Computing",
-        "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-        "source": "Hacker News",
-        "published": "2026-08-23T02:33:22+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Art and Beauty of Blade Runner",
-        "translated_title": "The Art and Beauty of Blade Runner",
-        "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-        "source": "Hacker News",
-        "published": "2026-08-23T00:56:03+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "NanoGPT Speedrun Frontier",
-        "translated_title": "NanoGPT Speedrun Frontier",
-        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-        "source": "Hacker News",
-        "published": "2026-08-22T22:14:27+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-        "translated_title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-        "source": "TechCrunch",
-        "published": "2026-08-22T21:46:56+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?",
-        "translated_title": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?",
-        "url": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/",
-        "source": "Engadget",
-        "published": "2026-08-22T21:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How to limit Instagram from using your data for AI and ads",
-        "translated_title": "How to limit Instagram from using your data for AI and ads",
-        "url": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
-        "source": "Engadget",
-        "published": "2026-08-22T20:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-        "translated_title": "Will the DOJ’s investigation into a16z spook other VCs?",
-        "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-        "source": "TechCrunch",
-        "published": "2026-08-22T20:24:20+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The oldest iPhone model you can trade-in with Apple is older than you'd think",
-        "translated_title": "The oldest iPhone model you can trade-in with Apple is older than you'd think",
-        "url": "https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/",
-        "source": "Engadget",
-        "published": "2026-08-22T20:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-        "translated_title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-        "source": "TechCrunch",
-        "published": "2026-08-22T19:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "TikTok va plăti 400 de milioane de dolari pentru încălcarea vieții private a copiilor în SUA",
-        "translated_title": "TikTok va plăti 400 de milioane de dolari pentru încălcarea vieții private a copiilor în SUA",
-        "url": "https://www.go4it.ro/content/social-media/tiktok-va-plati-400-de-milioane-de-dolari-pentru-incalcarea-vietii-private-a-copiilor-in-sua-19282761/",
-        "source": "Go4IT",
-        "published": "2026-08-23T04:35:08.973563+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Reels-urile TikTok și Instagram reduc activitatea unor regiuni ale creierului asociate cu autocontrolul",
-        "translated_title": "Reels-urile TikTok și Instagram reduc activitatea unor regiuni ale creierului asociate cu autocontrolul",
-        "url": "https://www.go4it.ro/content/social-media/reels-urile-tiktok-si-instagram-reduc-activitatea-unor-regiuni-ale-creierului-asociate-cu-autocontrolul-19282757/",
-        "source": "Go4IT",
-        "published": "2026-08-23T04:35:08.973381+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "CEO Micron: Inteligența artificială a schimbat complet industria memoriilor",
-        "translated_title": "CEO Micron: Inteligența artificială a schimbat complet industria memoriilor",
-        "url": "https://www.go4it.ro/content/business/ceo-micron-inteligenta-artificiala-a-schimbat-complet-industria-memoriilor-19282755/",
-        "source": "Go4IT",
-        "published": "2026-08-23T04:35:08.973191+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "WhatsApp testează trei funcții noi: reacții animate, actualizări Liquid Glass pe iOS și opțiuni suplimentare pentru sondaje",
-        "translated_title": "WhatsApp testează trei funcții noi: reacții animate, actualizări Liquid Glass pe iOS și opțiuni suplimentare pentru sondaje",
-        "url": "https://www.go4it.ro/content/aplicatii/whatsapp-testeaza-trei-functii-noi-reactii-animate-actualizari-liquid-glass-pe-ios-si-optiuni-suplimentare-pentru-sondaje-19282747/",
-        "source": "Go4IT",
-        "published": "2026-08-23T04:35:08.973001+00:00",
         "summary": null,
         "category": "romanian"
       }
