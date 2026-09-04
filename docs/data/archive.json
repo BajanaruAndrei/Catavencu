@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-04",
+    "date_formatted": "4 Septembrie 2026",
+    "news": [
+      {
+        "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+        "translated_title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+        "url": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
+        "source": "The Verge",
+        "published": "2026-09-04T07:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Aqara goes all in on smart lighting",
+        "translated_title": "Aqara goes all in on smart lighting",
+        "url": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
+        "source": "The Verge",
+        "published": "2026-09-04T07:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
+        "translated_title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
+        "url": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
+        "source": "The Verge",
+        "published": "2026-09-04T07:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+        "translated_title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+        "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+        "source": "Hacker News",
+        "published": "2026-09-04T06:47:51+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Tesla starts offering Cybercab robotaxi rides",
+        "translated_title": "Tesla starts offering Cybercab robotaxi rides",
+        "url": "https://www.engadget.com/2250874/tesla-offering-cybercab-robotaxi-rides/",
+        "source": "Engadget",
+        "published": "2026-09-04T06:41:33+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Foreo Discount Codes and Deals: Up to 50% Off",
+        "translated_title": "Foreo Discount Codes and Deals: Up to 50% Off",
+        "url": "https://www.wired.com/story/foreo-promo-code/",
+        "source": "Wired",
+        "published": "2026-09-04T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Sportsman's Warehouse Promo Code: Save in September 2026",
+        "translated_title": "Sportsman's Warehouse Promo Code: Save in September 2026",
+        "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
+        "source": "Wired",
+        "published": "2026-09-04T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Mattress Firm Coupons: Save up to $700",
+        "translated_title": "Mattress Firm Coupons: Save up to $700",
+        "url": "https://www.wired.com/story/mattress-firm-coupon/",
+        "source": "Wired",
+        "published": "2026-09-04T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Dermstore Coupons: 25% Off for September 2026",
+        "translated_title": "Dermstore Coupons: 25% Off for September 2026",
+        "url": "https://www.wired.com/story/dermstore-promo-code/",
+        "source": "Wired",
+        "published": "2026-09-04T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The sameness problem behind those unappetizing AI-generated menus",
+        "translated_title": "The sameness problem behind those unappetizing AI-generated menus",
+        "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+        "source": "TechCrunch",
+        "published": "2026-09-04T04:21:03+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+        "translated_title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+        "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+        "source": "Hacker News",
+        "published": "2026-09-04T03:40:26+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Telefoanele s-au scumpit masiv în 2026. Peste 40% dintre modele au prețuri mai mari, iar memoria este principala cauză",
+        "translated_title": "Telefoanele s-au scumpit masiv în 2026. Peste 40% dintre modele au prețuri mai mari, iar memoria este principala cauză",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/telefoanele-s-au-scumpit-masiv-in-2026-peste-40-dintre-modele-au-preturi-mai-mari-iar-memoria-este-principala-cauza-19284002/",
+        "source": "Go4IT",
+        "published": "2026-09-04T08:30:00.391503+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Microsoft pune limită la Xbox Cloud Gaming. Abonații Game Pass vor primi cel mult 15 ore pe lună",
+        "translated_title": "Microsoft pune limită la Xbox Cloud Gaming. Abonații Game Pass vor primi cel mult 15 ore pe lună",
+        "url": "https://www.go4it.ro/content/jocuri/microsoft-pune-limita-la-xbox-cloud-gaming-abonatii-game-pass-vor-primi-cel-mult-15-ore-pe-luna-19284007/",
+        "source": "Go4IT",
+        "published": "2026-09-04T08:30:00.391268+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "OPPO Find X10 Pro Max apare în primele randări. Telefonul ar putea avea trei camere de 200 MP și o baterie uriașă",
+        "translated_title": "OPPO Find X10 Pro Max apare în primele randări. Telefonul ar putea avea trei camere de 200 MP și o baterie uriașă",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/oppo-find-x10-pro-max-apare-in-primele-randari-telefonul-ar-putea-avea-trei-camere-de-200-mp-si-o-baterie-uriasa-19284019/",
+        "source": "Go4IT",
+        "published": "2026-09-04T08:30:00.390883+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Misiunea comună BepiColombo intră pe ultima linie dreaptă spre planeta Mercur, după o călătorie de aproape opt ani",
+        "translated_title": "Misiunea comună BepiColombo intră pe ultima linie dreaptă spre planeta Mercur, după o călătorie de aproape opt ani",
+        "url": "https://www.go4it.ro/content/stiinta/misiunea-comuna-bepicolombo-intra-pe-ultima-linie-dreapta-spre-planeta-mercur-dupa-o-calatorie-de-aproape-opt-ani-19284032/",
+        "source": "Go4IT",
+        "published": "2026-09-04T08:30:00.390475+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-03",
     "date_formatted": "3 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/drone/fosta-fabrica-electroarges-vrea-sa-produca-piese-pentru-drone-militare-oferta-oficiala-trimisa-catre-mapn-19283447/",
         "source": "Go4IT",
         "published": "2026-08-29T10:49:33.435805+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-28",
-    "date_formatted": "28 August 2026",
-    "news": [
-      {
-        "title": "Friend-focused photo sharing app Retro snags $21M",
-        "translated_title": "Friend-focused photo sharing app Retro snags $21M",
-        "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
-        "source": "TechCrunch",
-        "published": "2026-08-28T15:35:03+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How to make your Android alarm ring at full volume even when your calls are muted",
-        "translated_title": "How to make your Android alarm ring at full volume even when your calls are muted",
-        "url": "https://www.engadget.com/2242569/how-to-make-android-alarm-ring-full-volume-while-calls-muted/",
-        "source": "Engadget",
-        "published": "2026-08-28T15:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The iPhone Fold could make concerts even worse",
-        "translated_title": "The iPhone Fold could make concerts even worse",
-        "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
-        "source": "The Verge",
-        "published": "2026-08-28T15:26:19+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "GLM-5.3 is now open-weight",
-        "translated_title": "GLM-5.3 is now open-weight",
-        "url": "https://twitter.com/Zai_org/status/2093354097122455713",
-        "source": "Hacker News",
-        "published": "2026-08-28T15:20:13+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-        "translated_title": "AI Has Human Doctors Asking: What’s Left for Us?",
-        "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-        "source": "Wired",
-        "published": "2026-08-28T15:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Africa's Wild Dogs Are the Most Hated Carnivores on the Continent",
-        "translated_title": "Africa's Wild Dogs Are the Most Hated Carnivores on the Continent",
-        "url": "https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/",
-        "source": "Hacker News",
-        "published": "2026-08-28T14:44:51+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Price increases suddenly hit Apple TV and Apple One",
-        "translated_title": "Price increases suddenly hit Apple TV and Apple One",
-        "url": "https://www.engadget.com/2246336/price-increases-suddenly-hit-apple-tv-and-apple-one/",
-        "source": "Engadget",
-        "published": "2026-08-28T14:37:58+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple TV is raising its subscription prices again",
-        "translated_title": "Apple TV is raising its subscription prices again",
-        "url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
-        "source": "TechCrunch",
-        "published": "2026-08-28T14:36:48+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Autistici/Inventati's main .org domain goes dark after US terrorism designation",
-        "translated_title": "Autistici/Inventati's main .org domain goes dark after US terrorism designation",
-        "url": "https://mastodon.bida.im/@cavallette/117172989300228024",
-        "source": "Hacker News",
-        "published": "2026-08-28T14:33:04+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Verschlimmbesserung: The Word Your Software Updates Need",
-        "translated_title": "Verschlimmbesserung: The Word Your Software Updates Need",
-        "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
-        "source": "Hacker News",
-        "published": "2026-08-28T14:30:33+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
-        "translated_title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
-        "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
-        "source": "The Verge",
-        "published": "2026-08-28T13:47:36+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Bulgaria mută decisiv în Marea Neagră: Sofia cumpără 7 nave vânătoare de mine de la Belgia și Țările de Jos",
-        "translated_title": "Bulgaria mută decisiv în Marea Neagră: Sofia cumpără 7 nave vânătoare de mine de la Belgia și Țările de Jos",
-        "url": "https://www.go4it.ro/tehnologie-militara/bulgaria-muta-decisiv-in-marea-neagra-sofia-cumpara-7-nave-vanatoare-de-mine-de-la-belgia-si-tarile-de-jos-19283389/",
-        "source": "Go4IT",
-        "published": "2026-08-28T15:55:16.177520+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Alertă de securitate cibernetică: Vulnerabilități majore descoperite în Next.js, una dintre cele mai populare platforme web",
-        "translated_title": "Alertă de securitate cibernetică: Vulnerabilități majore descoperite în Next.js, una dintre cele mai populare platforme web",
-        "url": "https://www.go4it.ro/securitate-informatica/alerta-de-securitate-cibernetica-vulnerabilitati-majore-descoperite-in-next-js-una-dintre-cele-mai-populare-platforme-web-19283411/",
-        "source": "Go4IT",
-        "published": "2026-08-28T15:55:16.177165+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Producător românesc de produse cosmetice, amendat cu 5.000 de euro de Autoritatea pentru Protecția Datelor după un atac cibernetic",
-        "translated_title": "Producător românesc de produse cosmetice, amendat cu 5.000 de euro de Autoritatea pentru Protecția Datelor după un atac cibernetic",
-        "url": "https://www.go4it.ro/securitate-informatica/producator-romanesc-de-produse-cosmetice-amendat-cu-5-000-de-euro-de-autoritatea-pentru-protectia-datelor-dupa-un-atac-cibernetic-19283414/",
-        "source": "Go4IT",
-        "published": "2026-08-28T15:55:16.176982+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Cum au manipulat hackerii ruși un asistent AI pentru a lansa atacuri cibernetice împotriva a șapte companii internaționale",
-        "translated_title": "Cum au manipulat hackerii ruși un asistent AI pentru a lansa atacuri cibernetice împotriva a șapte companii internaționale",
-        "url": "https://www.go4it.ro/securitate-informatica/cum-au-manipulat-hackerii-rusi-un-asistent-ai-pentru-a-lansa-atacuri-cibernetice-impotriva-a-sapte-companii-internationale-19283423/",
-        "source": "Go4IT",
-        "published": "2026-08-28T15:55:16.176798+00:00",
         "summary": null,
         "category": "romanian"
       }
