@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-06",
+    "date_formatted": "6 Septembrie 2026",
+    "news": [
+      {
+        "title": "Site Is Closed on Sundays",
+        "translated_title": "Site Is Closed on Sundays",
+        "url": "https://v7.robweychert.com/",
+        "source": "Hacker News",
+        "published": "2026-09-06T06:23:05+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "AMD Based FreeBSD Desktop Reloaded",
+        "translated_title": "AMD Based FreeBSD Desktop Reloaded",
+        "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+        "source": "Hacker News",
+        "published": "2026-09-06T02:24:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "AI, Tools and Transformation",
+        "translated_title": "AI, Tools and Transformation",
+        "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+        "source": "Hacker News",
+        "published": "2026-09-06T02:12:46+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "GPT-6 Astra on robot arms",
+        "translated_title": "GPT-6 Astra on robot arms",
+        "url": "https://openai.robocurve.org/gpt-6-astra/",
+        "source": "Hacker News",
+        "published": "2026-09-06T01:52:45+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Is It Safe To Leave Your Phone's Bluetooth Running All The Time?",
+        "translated_title": "Is It Safe To Leave Your Phone's Bluetooth Running All The Time?",
+        "url": "https://www.engadget.com/2245488/is-it-safe-leave-bluetooth-when-not-using/",
+        "source": "Engadget",
+        "published": "2026-09-05T23:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple iTunes still exists, but not the way it used to",
+        "translated_title": "Apple iTunes still exists, but not the way it used to",
+        "url": "https://www.engadget.com/2246423/apple-itunes-still-exists-how-different-from-past/",
+        "source": "Engadget",
+        "published": "2026-09-05T23:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "translated_title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "source": "TechCrunch",
+        "published": "2026-09-05T22:49:55+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Is the Steam Deck still worth it in 2026?",
+        "translated_title": "Is the Steam Deck still worth it in 2026?",
+        "url": "https://www.engadget.com/2248094/is-steam-deck-still-worth-it/",
+        "source": "Engadget",
+        "published": "2026-09-05T22:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How to find your MacBook's diagnostic menu",
+        "translated_title": "How to find your MacBook's diagnostic menu",
+        "url": "https://www.engadget.com/2247996/how-to-find-macbook-diagnostic-menu/",
+        "source": "Engadget",
+        "published": "2026-09-05T22:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Explore the globe in field recordings",
+        "translated_title": "Explore the globe in field recordings",
+        "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+        "source": "The Verge",
+        "published": "2026-09-05T21:31:34+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "iPhone Handoff will seamlessly share one number between two phones",
+        "translated_title": "iPhone Handoff will seamlessly share one number between two phones",
+        "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+        "source": "The Verge",
+        "published": "2026-09-05T20:53:58+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Hitul ABBA „Dancing Queen” împlinește 50 de ani",
+        "translated_title": "Hitul ABBA „Dancing Queen” împlinește 50 de ani",
+        "url": "https://www.go4it.ro/content/muzica-si-filme/hitul-abba-dancing-queen-implineste-50-de-ani-19284071/",
+        "source": "Go4IT",
+        "published": "2026-09-06T08:23:10.243596+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Microsoft avertizează asupra unei noi tactici care păcălește filtrele de e-mail",
+        "translated_title": "Microsoft avertizează asupra unei noi tactici care păcălește filtrele de e-mail",
+        "url": "https://www.go4it.ro/securitate-informatica/microsoft-avertizeaza-asupra-unei-noi-tactici-care-pacaleste-filtrele-de-e-mail-19284074/",
+        "source": "Go4IT",
+        "published": "2026-09-06T08:23:10.243442+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Ce funcții standard ar putea lipsi de pe iPhone Ultra, primul telefon pliabil de la Apple",
+        "translated_title": "Ce funcții standard ar putea lipsi de pe iPhone Ultra, primul telefon pliabil de la Apple",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/ce-functii-standard-ar-putea-lipsi-de-pe-iphone-ultra-primul-telefon-pliabil-de-la-apple-19284076/",
+        "source": "Go4IT",
+        "published": "2026-09-06T08:23:10.243289+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Claude ajunge pe CarPlay: utilizatorii pot conversa cu chatbot-ul Anthropic direct din mașină",
+        "translated_title": "Claude ajunge pe CarPlay: utilizatorii pot conversa cu chatbot-ul Anthropic direct din mașină",
+        "url": "https://www.go4it.ro/content/auto/claude-ajunge-pe-carplay-utilizatorii-pot-conversa-cu-chatbot-ul-anthropic-direct-din-masina-19284078/",
+        "source": "Go4IT",
+        "published": "2026-09-06T08:23:10.243151+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-05",
     "date_formatted": "5 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/internet/tech-news/pe-ce-dispozitive-apple-va-ajunge-noul-cip-m6-modelele-pro-si-max-lipsesc-din-planuri-19283620/",
         "source": "Go4IT",
         "published": "2026-08-31T10:35:03.229909+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "date_formatted": "30 August 2026",
-    "news": [
-      {
-        "title": "Brits would quite like their private messages to stay private",
-        "translated_title": "Brits would quite like their private messages to stay private",
-        "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-        "source": "Hacker News",
-        "published": "2026-08-30T09:26:08+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Scientists Create the Littlest Big Bang to Study the Universe's Origins",
-        "translated_title": "Scientists Create the Littlest Big Bang to Study the Universe's Origins",
-        "url": "https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/",
-        "source": "Wired",
-        "published": "2026-08-30T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-        "translated_title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-        "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-        "source": "Hacker News",
-        "published": "2026-08-30T08:51:39+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-        "translated_title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-        "url": "https://arxiv.org/abs/1804.07389",
-        "source": "Hacker News",
-        "published": "2026-08-30T08:23:26+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Iceland rejects reopening talks on EU entry",
-        "translated_title": "Iceland rejects reopening talks on EU entry",
-        "url": "https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f",
-        "source": "Hacker News",
-        "published": "2026-08-30T08:07:29+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Android Auto not working? Here's what to check first",
-        "translated_title": "Android Auto not working? Here's what to check first",
-        "url": "https://www.engadget.com/2242769/android-auto-not-working-check-first/",
-        "source": "Engadget",
-        "published": "2026-08-29T23:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How to save money on your phone bill with an MVNO",
-        "translated_title": "How to save money on your phone bill with an MVNO",
-        "url": "https://www.engadget.com/2246399/how-to-save-money-phone-bill-with-mvno/",
-        "source": "Engadget",
-        "published": "2026-08-29T23:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The wildest video game budgets can't hold a candle to GTA 6",
-        "translated_title": "The wildest video game budgets can't hold a candle to GTA 6",
-        "url": "https://www.engadget.com/2246918/video-games-rival-gta-6-budget/",
-        "source": "Engadget",
-        "published": "2026-08-29T22:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Why does your Kindle even have Bluetooth?",
-        "translated_title": "Why does your Kindle even have Bluetooth?",
-        "url": "https://www.engadget.com/2242764/why-does-your-kindle-even-have-bluetooth/",
-        "source": "Engadget",
-        "published": "2026-08-29T22:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-        "translated_title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-        "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
-        "source": "The Verge",
-        "published": "2026-08-29T20:59:26+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Alt-right troll Milo Yiannopoulos has been deported",
-        "translated_title": "Alt-right troll Milo Yiannopoulos has been deported",
-        "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
-        "source": "The Verge",
-        "published": "2026-08-29T19:49:59+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Aplicația românească Parents are OK anunță familiile dacă telefonul părinților în vârstă devine inactiv",
-        "translated_title": "Aplicația românească Parents are OK anunță familiile dacă telefonul părinților în vârstă devine inactiv",
-        "url": "https://www.go4it.ro/content/aplicatii/aplicatia-romaneasca-parents-are-ok-anunta-familiile-daca-telefonul-parintilor-in-varsta-devine-inactiv-19283431/",
-        "source": "Go4IT",
-        "published": "2026-08-30T09:45:57.745656+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Inelul smart Oura ar putea conduce anchetatorii la cadavrul unui membru al Gărzii Naționale din Utah, ucis de soția sa infidelă",
-        "translated_title": "Inelul smart Oura ar putea conduce anchetatorii la cadavrul unui membru al Gărzii Naționale din Utah, ucis de soția sa infidelă",
-        "url": "https://www.go4it.ro/content/accesorii/inelul-smart-oura-ar-putea-conduce-anchetatorii-la-cadavrul-unui-membru-al-garzii-nationale-din-utah-ucis-de-sotia-sa-infidela-19283463/",
-        "source": "Go4IT",
-        "published": "2026-08-30T09:45:57.745471+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Ediția specială „Pokémon Sleep” a dispozitivului Fitbit Air de la Google va fi disponibilă în septembrie",
-        "translated_title": "Ediția specială „Pokémon Sleep” a dispozitivului Fitbit Air de la Google va fi disponibilă în septembrie",
-        "url": "https://www.go4it.ro/content/accesorii/editia-speciala-pokemon-sleep-a-dispozitivului-fitbit-air-de-la-google-va-fi-disponibila-in-septembrie-19283420/",
-        "source": "Go4IT",
-        "published": "2026-08-30T09:45:57.745282+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Decesul unui programator în toaleta companiei nu este accident de muncă: Nu își pornise calculatorul",
-        "translated_title": "Decesul unui programator în toaleta companiei nu este accident de muncă: Nu își pornise calculatorul",
-        "url": "https://www.go4it.ro/content/curiozitati/decesul-unui-programator-in-toaleta-companiei-nu-este-accident-de-munca-nu-isi-pornise-calculatorul-19283466/",
-        "source": "Go4IT",
-        "published": "2026-08-30T09:45:57.745072+00:00",
         "summary": null,
         "category": "romanian"
       }
