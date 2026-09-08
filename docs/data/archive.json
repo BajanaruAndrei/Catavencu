@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-08",
+    "date_formatted": "8 Septembrie 2026",
+    "news": [
+      {
+        "title": "Renault is building its €17,900 Dacia Spring EV in Europe to qualify for local subsidies",
+        "translated_title": "Renault is building its €17,900 Dacia Spring EV in Europe to qualify for local subsidies",
+        "url": "https://www.engadget.com/2252406/renault-building-dacia-spring-ev-in-europe-to-qualify-for-local-subsidies/",
+        "source": "Engadget",
+        "published": "2026-09-08T07:39:11+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Xiaomi 18 Fold hands-on: An attractive 'mid-size' foldable with powerful specs",
+        "translated_title": "Xiaomi 18 Fold hands-on: An attractive 'mid-size' foldable with powerful specs",
+        "url": "https://www.engadget.com/2252401/xiaomi-18-fold-hands-on-ifa-2026/",
+        "source": "Engadget",
+        "published": "2026-09-08T07:16:20+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+        "translated_title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+        "url": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+        "source": "The Verge",
+        "published": "2026-09-08T07:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+        "translated_title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+        "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+        "source": "Hacker News",
+        "published": "2026-09-08T06:39:20+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "translated_title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "source": "Hacker News",
+        "published": "2026-09-08T05:42:28+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Multi-Agents LLM Financial Trading Framework",
+        "translated_title": "Multi-Agents LLM Financial Trading Framework",
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "source": "Hacker News",
+        "published": "2026-09-08T05:20:23+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "My Feed, My Way",
+        "translated_title": "My Feed, My Way",
+        "url": "https://www.pm.gov.au/media/my-feed-my-way",
+        "source": "Hacker News",
+        "published": "2026-09-08T05:10:36+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+        "translated_title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+        "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+        "source": "TechCrunch",
+        "published": "2026-09-08T02:16:39+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+        "translated_title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+        "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+        "source": "The Verge",
+        "published": "2026-09-08T02:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How To Reset The Camera Settings On Your iPhone",
+        "translated_title": "How To Reset The Camera Settings On Your iPhone",
+        "url": "https://www.engadget.com/2249676/how-to-reset-iphone-camera-settings/",
+        "source": "Engadget",
+        "published": "2026-09-08T00:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Pros and cons of using a Chromebook as your everyday PC",
+        "translated_title": "Pros and cons of using a Chromebook as your everyday PC",
+        "url": "https://www.engadget.com/2249648/chromebook-pros-and-cons-as-main-pc/",
+        "source": "Engadget",
+        "published": "2026-09-08T00:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "iPhone 18 Pro: funcțiile foto ascunse din iOS 27 care schimbă aplicația Camera",
+        "translated_title": "iPhone 18 Pro: funcțiile foto ascunse din iOS 27 care schimbă aplicația Camera",
+        "url": "https://www.go4it.ro/content/software/iphone-18-pro-functiile-foto-ascunse-din-ios-27-care-schimba-aplicatia-camera-19284262/",
+        "source": "Go4IT",
+        "published": "2026-09-08T08:37:52.495956+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Galaxy Z Fold 8 începe să fure utilizatori de iPhone. Numărul celor care fac schimbarea s-a dublat",
+        "translated_title": "Galaxy Z Fold 8 începe să fure utilizatori de iPhone. Numărul celor care fac schimbarea s-a dublat",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/galaxy-z-fold-8-incepe-sa-fure-utilizatori-de-iphone-numarul-celor-care-fac-schimbarea-s-a-dublat-19284265/",
+        "source": "Go4IT",
+        "published": "2026-09-08T08:37:52.495774+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Televizoarele LG ar putea colecta mai multe date decât credeai. Testele au găsit audio captat în standby",
+        "translated_title": "Televizoarele LG ar putea colecta mai multe date decât credeai. Testele au găsit audio captat în standby",
+        "url": "https://www.go4it.ro/content/televizoare/televizoarele-lg-ar-putea-colecta-mai-multe-date-decat-credeai-testele-au-gasit-audio-captat-in-standby-19284267/",
+        "source": "Go4IT",
+        "published": "2026-09-08T08:37:52.495556+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Memoria DRAM s-a scumpit puternic în 2026. Veniturile industriei au crescut cu aproape 60% într-un singur trimestru",
+        "translated_title": "Memoria DRAM s-a scumpit puternic în 2026. Veniturile industriei au crescut cu aproape 60% într-un singur trimestru",
+        "url": "https://www.go4it.ro/content/componente-pc/memoria-dram-s-a-scumpit-puternic-in-2026-veniturile-industriei-au-crescut-cu-aproape-60-intr-un-singur-trimestru-19284270/",
+        "source": "Go4IT",
+        "published": "2026-09-08T08:37:52.495376+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-07",
     "date_formatted": "7 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/muzica-si-filme/video-the-decoy-plane-documentar-netflix-despre-operatiunea-secreta-a-lui-donald-trump-din-turcia-19283839/",
         "source": "Go4IT",
         "published": "2026-09-02T08:24:52.110342+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "date_formatted": "1 Septembrie 2026",
-    "news": [
-      {
-        "title": "How engineered microbes could help feed the world’s crops",
-        "translated_title": "How engineered microbes could help feed the world’s crops",
-        "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-        "source": "MIT Technology Review",
-        "published": "2026-09-01T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "CollectWise (YC F24) Is Hiring",
-        "translated_title": "CollectWise (YC F24) Is Hiring",
-        "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
-        "source": "Hacker News",
-        "published": "2026-09-01T07:01:49+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Roland's new digital piano has built-in Wi-Fi that integrates with a teaching app",
-        "translated_title": "Roland's new digital piano has built-in Wi-Fi that integrates with a teaching app",
-        "url": "https://www.engadget.com/2247836/roland-new-digital-piano-has-built-in-wi-fi-that-integrates-with-a-teaching-app/",
-        "source": "Engadget",
-        "published": "2026-09-01T07:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Samsung's new Galaxy Book 6 model is a budget-friendly $799 laptop",
-        "translated_title": "Samsung's new Galaxy Book 6 model is a budget-friendly $799 laptop",
-        "url": "https://www.engadget.com/2248309/samsung-galaxy-book-6-model-budget-friendly-799-laptop/",
-        "source": "Engadget",
-        "published": "2026-09-01T05:01:49+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
-        "translated_title": "Magna increases bet on battery swapping in India with $35M for Yuma",
-        "url": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
-        "source": "TechCrunch",
-        "published": "2026-09-01T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Chewy Promo Codes: $20 Off September 2026",
-        "translated_title": "Chewy Promo Codes: $20 Off September 2026",
-        "url": "https://www.wired.com/story/chewy-promo-code/",
-        "source": "Wired",
-        "published": "2026-09-01T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Vermell – Minimal, dependency-free C++ web framework using epoll",
-        "translated_title": "Vermell – Minimal, dependency-free C++ web framework using epoll",
-        "url": "https://github.com/vermellcc/vermell",
-        "source": "Hacker News",
-        "published": "2026-09-01T04:56:11+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "JBL just introduced a trio of Wi-Fi speakers for whole-home audio",
-        "translated_title": "JBL just introduced a trio of Wi-Fi speakers for whole-home audio",
-        "url": "https://www.engadget.com/2247954/jbl-just-introduced-a-trio-of-wi-fi-speakers-for-whole-home-audio/",
-        "source": "Engadget",
-        "published": "2026-09-01T04:01:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Restroom Archive",
-        "translated_title": "Restroom Archive",
-        "url": "https://restroomarchive.com",
-        "source": "Hacker News",
-        "published": "2026-09-01T03:23:48+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "GPU World",
-        "translated_title": "GPU World",
-        "url": "https://www.gpuworld.org/",
-        "source": "Hacker News",
-        "published": "2026-09-01T03:16:36+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-        "translated_title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-        "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-        "source": "TechCrunch",
-        "published": "2026-09-01T00:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Smartphone-urile, tabletele și laptop-urile se schimbă. Legislația UE obligă producătorii să le reproiecteze",
-        "translated_title": "Smartphone-urile, tabletele și laptop-urile se schimbă. Legislația UE obligă producătorii să le reproiecteze",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/smartphone-urile-tabletele-si-laptop-urile-se-schimba-legislatia-ue-obliga-producatorii-sa-le-reproiecteze-19283712/",
-        "source": "Go4IT",
-        "published": "2026-09-01T09:11:46.441375+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Estonia evită interzicerea accesului minorilor la rețelele de socializare. Ce soluții alternative sunt propuse",
-        "translated_title": "Estonia evită interzicerea accesului minorilor la rețelele de socializare. Ce soluții alternative sunt propuse",
-        "url": "https://www.go4it.ro/content/social-media/estonia-evita-interzicerea-accesului-minorilor-la-retelele-de-socializare-ce-solutii-alternative-sunt-propuse-19283714/",
-        "source": "Go4IT",
-        "published": "2026-09-01T09:11:46.441252+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "O nouă navă construită în România poate interveni cu ROV-uri în cazul unor defecțiuni la cablurile submarine",
-        "translated_title": "O nouă navă construită în România poate interveni cu ROV-uri în cazul unor defecțiuni la cablurile submarine",
-        "url": "https://www.go4it.ro/content/business/o-noua-nava-construita-in-romania-poate-interveni-cu-rov-uri-in-cazul-unor-defectiuni-la-cablurile-submarine-19283716/",
-        "source": "Go4IT",
-        "published": "2026-09-01T09:11:46.441132+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Probleme cu Outlook și Exchange. Microsoft testează soluții de remediere",
-        "translated_title": "Probleme cu Outlook și Exchange. Microsoft testează soluții de remediere",
-        "url": "https://www.go4it.ro/content/software/probleme-cu-outlook-si-exchange-microsoft-testeaza-solutii-de-remediere-19283721/",
-        "source": "Go4IT",
-        "published": "2026-09-01T09:11:46.441010+00:00",
         "summary": null,
         "category": "romanian"
       }
