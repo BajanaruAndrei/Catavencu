@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-09",
+    "date_formatted": "9 Septembrie 2026",
+    "news": [
+      {
+        "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+        "translated_title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+        "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+        "source": "Hacker News",
+        "published": "2026-09-09T07:22:46+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "On Really Trying (2009)",
+        "translated_title": "On Really Trying (2009)",
+        "url": "https://gwern.net/on-really-trying",
+        "source": "Hacker News",
+        "published": "2026-09-09T06:58:44+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Copyright does more harm than good and should be abolished",
+        "translated_title": "Copyright does more harm than good and should be abolished",
+        "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+        "source": "Hacker News",
+        "published": "2026-09-09T06:31:28+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "“Tweet” and the bird logo apparently enter the public domain",
+        "translated_title": "“Tweet” and the bird logo apparently enter the public domain",
+        "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+        "source": "Hacker News",
+        "published": "2026-09-09T06:02:07+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+        "translated_title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+        "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+        "source": "TechCrunch",
+        "published": "2026-09-09T06:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
+        "translated_title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
+        "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
+        "source": "The Verge",
+        "published": "2026-09-09T05:26:53+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "TurboTax Full Service Coupons This September 2026",
+        "translated_title": "TurboTax Full Service Coupons This September 2026",
+        "url": "https://www.wired.com/story/turbotax-coupon/",
+        "source": "Wired",
+        "published": "2026-09-09T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Uber Eats Promo Codes: $15 Off │September 2026",
+        "translated_title": "Uber Eats Promo Codes: $15 Off │September 2026",
+        "url": "https://www.wired.com/story/uber-eats-promo-code/",
+        "source": "Wired",
+        "published": "2026-09-09T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+        "translated_title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+        "url": "https://www.wired.com/story/hr-block-coupon/",
+        "source": "Wired",
+        "published": "2026-09-09T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+        "translated_title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+        "url": "https://www.wired.com/story/legalzoom-promo-code/",
+        "source": "Wired",
+        "published": "2026-09-09T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+        "translated_title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+        "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+        "source": "TechCrunch",
+        "published": "2026-09-09T04:01:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Producția de smartphone-uri crește peste așteptări în 2026, dar sunt avertismente: 2027 ar putea fi mai dificil",
+        "translated_title": "Producția de smartphone-uri crește peste așteptări în 2026, dar sunt avertismente: 2027 ar putea fi mai dificil",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/productia-de-smartphone-uri-creste-peste-asteptari-in-2026-dar-sunt-avertismente-2027-ar-putea-fi-mai-dificil-19284355/",
+        "source": "Go4IT",
+        "published": "2026-09-09T08:40:02.510123+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Xring O3 îl depășește pe Snapdragon 8 Elite Gen 5 în benchmark‐uri publicate de Xiaomi",
+        "translated_title": "Xring O3 îl depășește pe Snapdragon 8 Elite Gen 5 în benchmark‐uri publicate de Xiaomi",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/xring-o3-il-depaseste-pe-snapdragon-8-elite-gen-5-in-benchmark%e2%80%90uri-publicate-de-xiaomi-19284358/",
+        "source": "Go4IT",
+        "published": "2026-09-09T08:40:02.509974+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Intel crește prețurile procesoarelor: ce modele sunt vizate și cum se schimbă piața PC‐urilor",
+        "translated_title": "Intel crește prețurile procesoarelor: ce modele sunt vizate și cum se schimbă piața PC‐urilor",
+        "url": "https://www.go4it.ro/content/componente-pc/intel-creste-preturile-procesoarelor-ce-modele-sunt-vizate-si-cum-se-schimba-piata-pc%e2%80%90urilor-19284364/",
+        "source": "Go4IT",
+        "published": "2026-09-09T08:40:02.509683+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Canon EOS R8 Mark II – apar detalii înainte de lansare. Noul aparat foto vine cu stabilizare și rafală de 40 fps",
+        "translated_title": "Canon EOS R8 Mark II – apar detalii înainte de lansare. Noul aparat foto vine cu stabilizare și rafală de 40 fps",
+        "url": "https://www.go4it.ro/content/camere-foto/canon-eos-r8-mark-ii-apar-detalii-inainte-de-lansare-noul-aparat-foto-vine-cu-stabilizare-si-rafala-de-40-fps-19284367/",
+        "source": "Go4IT",
+        "published": "2026-09-09T08:40:02.509527+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-08",
     "date_formatted": "8 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/internet/google-scapa-de-o-masura-radicala-in-procesul-antitrust-privind-publicitatea-online-19283945/",
         "source": "Go4IT",
         "published": "2026-09-03T08:34:12.064101+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-02",
-    "date_formatted": "2 Septembrie 2026",
-    "news": [
-      {
-        "title": "Dell’s newest laptop sounds a lot like a MacBook Neo",
-        "translated_title": "Dell’s newest laptop sounds a lot like a MacBook Neo",
-        "url": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
-        "source": "The Verge",
-        "published": "2026-09-02T07:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "GTA VI extended look got 31 million views on Netflix despite six-hour exclusivity window",
-        "translated_title": "GTA VI extended look got 31 million views on Netflix despite six-hour exclusivity window",
-        "url": "https://www.engadget.com/2249261/gta-vi-extended-31-million-views-netflix-top-movie/",
-        "source": "Engadget",
-        "published": "2026-09-02T06:16:37+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "This new Roomba seals itself to your carpet",
-        "translated_title": "This new Roomba seals itself to your carpet",
-        "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
-        "source": "The Verge",
-        "published": "2026-09-02T06:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Hoka Coupon Codes: 30% Off in September 2026",
-        "translated_title": "Hoka Coupon Codes: 30% Off in September 2026",
-        "url": "https://www.wired.com/story/hoka-coupon-code/",
-        "source": "Wired",
-        "published": "2026-09-02T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Uplift Promo Codes: $300 Off",
-        "translated_title": "Uplift Promo Codes: $300 Off",
-        "url": "https://www.wired.com/story/uplift-desk-coupon-code/",
-        "source": "Wired",
-        "published": "2026-09-02T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-        "translated_title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-        "url": "https://arxiv.org/abs/2608.29530",
-        "source": "Hacker News",
-        "published": "2026-09-02T04:15:56+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "WebFPGA",
-        "translated_title": "WebFPGA",
-        "url": "https://webfpga.io/",
-        "source": "Hacker News",
-        "published": "2026-09-02T03:54:58+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "True Rate of Unemployment",
-        "translated_title": "True Rate of Unemployment",
-        "url": "https://www.lisep.org/tru",
-        "source": "Hacker News",
-        "published": "2026-09-02T02:21:10+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "This is the best setting and placement for your Dolby Atmos soundbar",
-        "translated_title": "This is the best setting and placement for your Dolby Atmos soundbar",
-        "url": "https://www.engadget.com/2245484/dolby-atmos-soundbar-best-setting-and-placement/",
-        "source": "Engadget",
-        "published": "2026-09-02T00:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Larry Page’s flying car company Pivotal loses its CEO",
-        "translated_title": "Larry Page’s flying car company Pivotal loses its CEO",
-        "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
-        "source": "TechCrunch",
-        "published": "2026-09-01T23:59:59+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The efficient frontier of LLM inference",
-        "translated_title": "The efficient frontier of LLM inference",
-        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-        "source": "Hacker News",
-        "published": "2026-09-01T23:48:05+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple schimbă culorile iPhone 18 Pro. O nuanță elegantă ar putea înlocui controversatul portocaliu de anul trecut",
-        "translated_title": "Apple schimbă culorile iPhone 18 Pro. O nuanță elegantă ar putea înlocui controversatul portocaliu de anul trecut",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/apple-schimba-culorile-iphone-18-pro-dark-cherry-ar-putea-inlocui-controversatul-portocaliu-de-anul-trecut-19283828/",
-        "source": "Go4IT",
-        "published": "2026-09-02T08:24:52.110923+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Apple renunță la suport pentru trei MacBook-uri populare. Ce se întâmplă cu modelele din 2017 și 2018",
-        "translated_title": "Apple renunță la suport pentru trei MacBook-uri populare. Ce se întâmplă cu modelele din 2017 și 2018",
-        "url": "https://www.go4it.ro/content/laptopuri/apple-renunta-la-suport-pentru-trei-macbook-uri-populare-ce-se-intampla-cu-modelele-din-2017-si-2018-19283794/",
-        "source": "Go4IT",
-        "published": "2026-09-02T08:24:52.110746+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Lista firmelor românești care ar urma să producă drone împreună cu parteneri din Ucraina",
-        "translated_title": "Lista firmelor românești care ar urma să producă drone împreună cu parteneri din Ucraina",
-        "url": "https://www.go4it.ro/tehnologie-militara/lista-firmelor-romanesti-care-ar-urma-sa-produca-drone-impreuna-cu-parteneri-din-ucraina-19283836/",
-        "source": "Go4IT",
-        "published": "2026-09-02T08:24:52.110543+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "VIDEO: „The Decoy Plane” – Documentar Netflix despre operațiunea secretă a lui Donald Trump din Turcia",
-        "translated_title": "VIDEO: „The Decoy Plane” – Documentar Netflix despre operațiunea secretă a lui Donald Trump din Turcia",
-        "url": "https://www.go4it.ro/content/muzica-si-filme/video-the-decoy-plane-documentar-netflix-despre-operatiunea-secreta-a-lui-donald-trump-din-turcia-19283839/",
-        "source": "Go4IT",
-        "published": "2026-09-02T08:24:52.110342+00:00",
         "summary": null,
         "category": "romanian"
       }
