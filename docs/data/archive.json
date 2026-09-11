@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-11",
+    "date_formatted": "11 Septembrie 2026",
+    "news": [
+      {
+        "title": "Astra for Coding: Why Are We Doing This Again?",
+        "translated_title": "Astra for Coding: Why Are We Doing This Again?",
+        "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+        "source": "Hacker News",
+        "published": "2026-09-11T06:23:06+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+        "translated_title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+        "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
+        "source": "Hacker News",
+        "published": "2026-09-11T05:26:58+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Chewy Promo Codes: $20 Off September 2026",
+        "translated_title": "Chewy Promo Codes: $20 Off September 2026",
+        "url": "https://www.wired.com/story/chewy-promo-code/",
+        "source": "Wired",
+        "published": "2026-09-11T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Gemini app is now available for Windows",
+        "translated_title": "The Gemini app is now available for Windows",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+        "source": "Hacker News",
+        "published": "2026-09-11T04:52:20+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Exercise intensity is associated with cardiometabolic health",
+        "translated_title": "Exercise intensity is associated with cardiometabolic health",
+        "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+        "source": "Hacker News",
+        "published": "2026-09-11T03:48:10+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+        "translated_title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+        "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+        "source": "Wired",
+        "published": "2026-09-10T23:28:42+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra: How these XL phones compete",
+        "translated_title": "iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra: How these XL phones compete",
+        "url": "https://www.engadget.com/2255321/iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-comparison/",
+        "source": "Engadget",
+        "published": "2026-09-10T23:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "CA governor signs 'landmark' laws on youth use of social media and AI chatbots",
+        "translated_title": "CA governor signs 'landmark' laws on youth use of social media and AI chatbots",
+        "url": "https://www.engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/",
+        "source": "Engadget",
+        "published": "2026-09-10T22:45:45+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+        "translated_title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+        "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+        "source": "TechCrunch",
+        "published": "2026-09-10T22:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "translated_title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+        "source": "TechCrunch",
+        "published": "2026-09-10T21:51:59+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "translated_title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+        "source": "TechCrunch",
+        "published": "2026-09-10T21:35:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Trend online periculos pentru sănătate: femeile își „sincronizează ciclul” cu antrenamentele la sală",
+        "translated_title": "Trend online periculos pentru sănătate: femeile își „sincronizează ciclul” cu antrenamentele la sală",
+        "url": "https://www.go4it.ro/content/social-media/trend-online-periculos-pentru-sanatate-femeile-isi-sincronizeaza-ciclul-cu-antrenamentele-la-sala-19284652/",
+        "source": "Go4IT",
+        "published": "2026-09-11T08:36:12.049226+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Planeta Mercur se micșorează într-un ritm alert. Care este motivul",
+        "translated_title": "Planeta Mercur se micșorează într-un ritm alert. Care este motivul",
+        "url": "https://www.go4it.ro/content/stiinta/planeta-mercur-se-micsoreaza-intr-un-ritm-alert-care-este-motivul-19284654/",
+        "source": "Go4IT",
+        "published": "2026-09-11T08:36:12.049043+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Hackerii lasă AI-ul să lucreze în locul lor. Soluțiile AI chinezești sunt antrenate cu date sustrase de la Anthropic și alte companii mari din domeniu",
+        "translated_title": "Hackerii lasă AI-ul să lucreze în locul lor. Soluțiile AI chinezești sunt antrenate cu date sustrase de la Anthropic și alte companii mari din domeniu",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/hackerii-lasa-ai-ul-sa-lucreze-in-locul-lor-solutiile-ai-chinezesti-sunt-antrenate-cu-date-sustrase-de-la-anthropic-si-alte-companii-mari-din-domeniu-19284656/",
+        "source": "Go4IT",
+        "published": "2026-09-11T08:36:12.048858+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "California înăsprește regulile pentru copii în privința rețelelor de socializare și jucăriilor cu AI",
+        "translated_title": "California înăsprește regulile pentru copii în privința rețelelor de socializare și jucăriilor cu AI",
+        "url": "https://www.go4it.ro/content/social-media/california-inaspreste-regulile-pentru-copii-in-privinta-retelelor-de-socializare-si-jucariilor-cu-ai-19284658/",
+        "source": "Go4IT",
+        "published": "2026-09-11T08:36:12.048667+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-10",
     "date_formatted": "10 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/pc/un-computer-apple-1-original-ar-putea-fi-vandut-la-licitatie-cu-pana-la-800-000-de-dolari-19284040/",
         "source": "Go4IT",
         "published": "2026-09-05T08:04:21.571530+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-04",
-    "date_formatted": "4 Septembrie 2026",
-    "news": [
-      {
-        "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
-        "translated_title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
-        "url": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
-        "source": "The Verge",
-        "published": "2026-09-04T07:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Aqara goes all in on smart lighting",
-        "translated_title": "Aqara goes all in on smart lighting",
-        "url": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
-        "source": "The Verge",
-        "published": "2026-09-04T07:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
-        "translated_title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
-        "url": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
-        "source": "The Verge",
-        "published": "2026-09-04T07:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
-        "translated_title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
-        "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-        "source": "Hacker News",
-        "published": "2026-09-04T06:47:51+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Tesla starts offering Cybercab robotaxi rides",
-        "translated_title": "Tesla starts offering Cybercab robotaxi rides",
-        "url": "https://www.engadget.com/2250874/tesla-offering-cybercab-robotaxi-rides/",
-        "source": "Engadget",
-        "published": "2026-09-04T06:41:33+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Foreo Discount Codes and Deals: Up to 50% Off",
-        "translated_title": "Foreo Discount Codes and Deals: Up to 50% Off",
-        "url": "https://www.wired.com/story/foreo-promo-code/",
-        "source": "Wired",
-        "published": "2026-09-04T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Sportsman's Warehouse Promo Code: Save in September 2026",
-        "translated_title": "Sportsman's Warehouse Promo Code: Save in September 2026",
-        "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
-        "source": "Wired",
-        "published": "2026-09-04T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Mattress Firm Coupons: Save up to $700",
-        "translated_title": "Mattress Firm Coupons: Save up to $700",
-        "url": "https://www.wired.com/story/mattress-firm-coupon/",
-        "source": "Wired",
-        "published": "2026-09-04T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Dermstore Coupons: 25% Off for September 2026",
-        "translated_title": "Dermstore Coupons: 25% Off for September 2026",
-        "url": "https://www.wired.com/story/dermstore-promo-code/",
-        "source": "Wired",
-        "published": "2026-09-04T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The sameness problem behind those unappetizing AI-generated menus",
-        "translated_title": "The sameness problem behind those unappetizing AI-generated menus",
-        "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-        "source": "TechCrunch",
-        "published": "2026-09-04T04:21:03+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
-        "translated_title": "Grep beats LSP? Why coding agents ignore your fancier tools",
-        "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
-        "source": "Hacker News",
-        "published": "2026-09-04T03:40:26+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Telefoanele s-au scumpit masiv în 2026. Peste 40% dintre modele au prețuri mai mari, iar memoria este principala cauză",
-        "translated_title": "Telefoanele s-au scumpit masiv în 2026. Peste 40% dintre modele au prețuri mai mari, iar memoria este principala cauză",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/telefoanele-s-au-scumpit-masiv-in-2026-peste-40-dintre-modele-au-preturi-mai-mari-iar-memoria-este-principala-cauza-19284002/",
-        "source": "Go4IT",
-        "published": "2026-09-04T08:30:00.391503+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Microsoft pune limită la Xbox Cloud Gaming. Abonații Game Pass vor primi cel mult 15 ore pe lună",
-        "translated_title": "Microsoft pune limită la Xbox Cloud Gaming. Abonații Game Pass vor primi cel mult 15 ore pe lună",
-        "url": "https://www.go4it.ro/content/jocuri/microsoft-pune-limita-la-xbox-cloud-gaming-abonatii-game-pass-vor-primi-cel-mult-15-ore-pe-luna-19284007/",
-        "source": "Go4IT",
-        "published": "2026-09-04T08:30:00.391268+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "OPPO Find X10 Pro Max apare în primele randări. Telefonul ar putea avea trei camere de 200 MP și o baterie uriașă",
-        "translated_title": "OPPO Find X10 Pro Max apare în primele randări. Telefonul ar putea avea trei camere de 200 MP și o baterie uriașă",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/oppo-find-x10-pro-max-apare-in-primele-randari-telefonul-ar-putea-avea-trei-camere-de-200-mp-si-o-baterie-uriasa-19284019/",
-        "source": "Go4IT",
-        "published": "2026-09-04T08:30:00.390883+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Misiunea comună BepiColombo intră pe ultima linie dreaptă spre planeta Mercur, după o călătorie de aproape opt ani",
-        "translated_title": "Misiunea comună BepiColombo intră pe ultima linie dreaptă spre planeta Mercur, după o călătorie de aproape opt ani",
-        "url": "https://www.go4it.ro/content/stiinta/misiunea-comuna-bepicolombo-intra-pe-ultima-linie-dreapta-spre-planeta-mercur-dupa-o-calatorie-de-aproape-opt-ani-19284032/",
-        "source": "Go4IT",
-        "published": "2026-09-04T08:30:00.390475+00:00",
         "summary": null,
         "category": "romanian"
       }
