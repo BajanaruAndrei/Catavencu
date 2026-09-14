@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-14",
+    "date_formatted": "14 Septembrie 2026",
+    "news": [
+      {
+        "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+        "translated_title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+        "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+        "source": "Wired",
+        "published": "2026-09-14T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "A 386 PC for Your RP2350",
+        "translated_title": "A 386 PC for Your RP2350",
+        "url": "https://github.com/rh1tech/frank-386",
+        "source": "Hacker News",
+        "published": "2026-09-14T08:25:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "EuroBirdPortal – Live bird movements across Europe",
+        "translated_title": "EuroBirdPortal – Live bird movements across Europe",
+        "url": "https://www.eurobirdportal.org/ebp/en/",
+        "source": "Hacker News",
+        "published": "2026-09-14T08:25:47+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+        "translated_title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+        "url": "https://screensize.net/reports/viewport-stats",
+        "source": "Hacker News",
+        "published": "2026-09-14T07:35:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
+        "translated_title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
+        "url": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
+        "source": "Hacker News",
+        "published": "2026-09-14T06:34:06+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "MagSafe vs. USB-C: Which is better for charging your MacBook?",
+        "translated_title": "MagSafe vs. USB-C: Which is better for charging your MacBook?",
+        "url": "https://www.engadget.com/2252867/usb-c-vs-magsafe-best-macbook-charging-option/",
+        "source": "Engadget",
+        "published": "2026-09-14T00:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "At what length do Ethernet cables drop to lower speeds?",
+        "translated_title": "At what length do Ethernet cables drop to lower speeds?",
+        "url": "https://www.engadget.com/2252864/ethernet-cable-length-drops-lower-speeds/",
+        "source": "Engadget",
+        "published": "2026-09-14T00:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Make long drives easier with this Android Auto feature",
+        "translated_title": "Make long drives easier with this Android Auto feature",
+        "url": "https://www.engadget.com/2252861/android-auto-feature-easier-long-drive/",
+        "source": "Engadget",
+        "published": "2026-09-13T23:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How to use GPT-6 Astra when it rolls out to you",
+        "translated_title": "How to use GPT-6 Astra when it rolls out to you",
+        "url": "https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule/",
+        "source": "Engadget",
+        "published": "2026-09-13T23:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+        "translated_title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+        "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+        "source": "TechCrunch",
+        "published": "2026-09-13T21:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+        "translated_title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+        "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+        "source": "TechCrunch",
+        "published": "2026-09-13T20:49:38+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Un tehnician a fost legat de stâlp de localnicii furioși pe conexiunea la Internet",
+        "translated_title": "Un tehnician a fost legat de stâlp de localnicii furioși pe conexiunea la Internet",
+        "url": "https://www.go4it.ro/content/curiozitati/un-tehnician-a-fost-legat-de-stalp-de-localnicii-furiosi-pe-conexiunea-la-internet-19284890/",
+        "source": "Go4IT",
+        "published": "2026-09-14T09:35:34.709717+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Din noiembrie, UE va introduce o nouă taxă pentru coletele de pe Temu și Shein",
+        "translated_title": "Din noiembrie, UE va introduce o nouă taxă pentru coletele de pe Temu și Shein",
+        "url": "https://www.go4it.ro/content/anunturi/din-noiembrie-ue-va-introduce-o-noua-taxa-pentru-coletele-de-pe-temu-si-shein-19284916/",
+        "source": "Go4IT",
+        "published": "2026-09-14T09:35:34.709619+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Review | Xiaomi 17 Ultra: Baterie și sistem de camere demne de apelativul Ultra",
+        "translated_title": "Review | Xiaomi 17 Ultra: Baterie și sistem de camere demne de apelativul Ultra",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/review-xiaomi-17-ultra-19284845/",
+        "source": "Go4IT",
+        "published": "2026-09-14T09:35:34.709534+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Dr. Werner Vogels, vicepreședinte Amazon: Hackerii fură date de pe acum pentru a le decripta peste câțiva ani cu computere cuantice",
+        "translated_title": "Dr. Werner Vogels, vicepreședinte Amazon: Hackerii fură date de pe acum pentru a le decripta peste câțiva ani cu computere cuantice",
+        "url": "https://www.go4it.ro/securitate-informatica/dr-werner-vogels-vicepresedinte-amazon-hackerii-fura-date-de-pe-acum-pentru-a-le-decripta-peste-cativa-ani-cu-computere-cuantice-19284930/",
+        "source": "Go4IT",
+        "published": "2026-09-14T09:35:34.709358+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-12",
     "date_formatted": "12 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/accesorii/ceasornicarul-jerome-marcu-lanseaza-marcu-initial-un-model-exclusivist-din-titan-cu-diamante-integrate-in-ace-19284189/",
         "source": "Go4IT",
         "published": "2026-09-07T08:56:57.076081+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-06",
-    "date_formatted": "6 Septembrie 2026",
-    "news": [
-      {
-        "title": "Site Is Closed on Sundays",
-        "translated_title": "Site Is Closed on Sundays",
-        "url": "https://v7.robweychert.com/",
-        "source": "Hacker News",
-        "published": "2026-09-06T06:23:05+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "AMD Based FreeBSD Desktop Reloaded",
-        "translated_title": "AMD Based FreeBSD Desktop Reloaded",
-        "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
-        "source": "Hacker News",
-        "published": "2026-09-06T02:24:57+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "AI, Tools and Transformation",
-        "translated_title": "AI, Tools and Transformation",
-        "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-        "source": "Hacker News",
-        "published": "2026-09-06T02:12:46+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "GPT-6 Astra on robot arms",
-        "translated_title": "GPT-6 Astra on robot arms",
-        "url": "https://openai.robocurve.org/gpt-6-astra/",
-        "source": "Hacker News",
-        "published": "2026-09-06T01:52:45+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Is It Safe To Leave Your Phone's Bluetooth Running All The Time?",
-        "translated_title": "Is It Safe To Leave Your Phone's Bluetooth Running All The Time?",
-        "url": "https://www.engadget.com/2245488/is-it-safe-leave-bluetooth-when-not-using/",
-        "source": "Engadget",
-        "published": "2026-09-05T23:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple iTunes still exists, but not the way it used to",
-        "translated_title": "Apple iTunes still exists, but not the way it used to",
-        "url": "https://www.engadget.com/2246423/apple-itunes-still-exists-how-different-from-past/",
-        "source": "Engadget",
-        "published": "2026-09-05T23:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "translated_title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-        "source": "TechCrunch",
-        "published": "2026-09-05T22:49:55+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Is the Steam Deck still worth it in 2026?",
-        "translated_title": "Is the Steam Deck still worth it in 2026?",
-        "url": "https://www.engadget.com/2248094/is-steam-deck-still-worth-it/",
-        "source": "Engadget",
-        "published": "2026-09-05T22:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How to find your MacBook's diagnostic menu",
-        "translated_title": "How to find your MacBook's diagnostic menu",
-        "url": "https://www.engadget.com/2247996/how-to-find-macbook-diagnostic-menu/",
-        "source": "Engadget",
-        "published": "2026-09-05T22:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Explore the globe in field recordings",
-        "translated_title": "Explore the globe in field recordings",
-        "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-        "source": "The Verge",
-        "published": "2026-09-05T21:31:34+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "iPhone Handoff will seamlessly share one number between two phones",
-        "translated_title": "iPhone Handoff will seamlessly share one number between two phones",
-        "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-        "source": "The Verge",
-        "published": "2026-09-05T20:53:58+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Hitul ABBA „Dancing Queen” împlinește 50 de ani",
-        "translated_title": "Hitul ABBA „Dancing Queen” împlinește 50 de ani",
-        "url": "https://www.go4it.ro/content/muzica-si-filme/hitul-abba-dancing-queen-implineste-50-de-ani-19284071/",
-        "source": "Go4IT",
-        "published": "2026-09-06T08:23:10.243596+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Microsoft avertizează asupra unei noi tactici care păcălește filtrele de e-mail",
-        "translated_title": "Microsoft avertizează asupra unei noi tactici care păcălește filtrele de e-mail",
-        "url": "https://www.go4it.ro/securitate-informatica/microsoft-avertizeaza-asupra-unei-noi-tactici-care-pacaleste-filtrele-de-e-mail-19284074/",
-        "source": "Go4IT",
-        "published": "2026-09-06T08:23:10.243442+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Ce funcții standard ar putea lipsi de pe iPhone Ultra, primul telefon pliabil de la Apple",
-        "translated_title": "Ce funcții standard ar putea lipsi de pe iPhone Ultra, primul telefon pliabil de la Apple",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/ce-functii-standard-ar-putea-lipsi-de-pe-iphone-ultra-primul-telefon-pliabil-de-la-apple-19284076/",
-        "source": "Go4IT",
-        "published": "2026-09-06T08:23:10.243289+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Claude ajunge pe CarPlay: utilizatorii pot conversa cu chatbot-ul Anthropic direct din mașină",
-        "translated_title": "Claude ajunge pe CarPlay: utilizatorii pot conversa cu chatbot-ul Anthropic direct din mașină",
-        "url": "https://www.go4it.ro/content/auto/claude-ajunge-pe-carplay-utilizatorii-pot-conversa-cu-chatbot-ul-anthropic-direct-din-masina-19284078/",
-        "source": "Go4IT",
-        "published": "2026-09-06T08:23:10.243151+00:00",
         "summary": null,
         "category": "romanian"
       }
