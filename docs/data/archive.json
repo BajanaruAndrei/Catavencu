@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-15",
+    "date_formatted": "15 Septembrie 2026",
+    "news": [
+      {
+        "title": "System 76 Pangolin Pro Review (2026): Powerhouse Linux Laptop",
+        "translated_title": "System 76 Pangolin Pro Review (2026): Powerhouse Linux Laptop",
+        "url": "https://www.wired.com/review/system76-pangolin-pro-linux-laptop/",
+        "source": "Wired",
+        "published": "2026-09-15T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+        "translated_title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+        "url": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+        "source": "The Verge",
+        "published": "2026-09-15T08:54:48+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple TV cleaned up at the Emmys with eight wins for Widow's Bay and Pluribus",
+        "translated_title": "Apple TV cleaned up at the Emmys with eight wins for Widow's Bay and Pluribus",
+        "url": "https://www.engadget.com/2258734/apple-tv-wins-big-widows-bay-pluribus-emmys/",
+        "source": "Engadget",
+        "published": "2026-09-15T08:15:37+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+        "translated_title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+        "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+        "source": "Hacker News",
+        "published": "2026-09-15T07:00:30+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
+        "translated_title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
+        "url": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
+        "source": "The Verge",
+        "published": "2026-09-15T07:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "2028 Volvo XC60 and XC90 first look: Double the range and smarter safety, too",
+        "translated_title": "2028 Volvo XC60 and XC90 first look: Double the range and smarter safety, too",
+        "url": "https://www.engadget.com/2255878/2028-volvo-xc60-and-xc90-first-look/",
+        "source": "Engadget",
+        "published": "2026-09-15T07:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "I can't stop thinking about Papua New Guinea",
+        "translated_title": "I can't stop thinking about Papua New Guinea",
+        "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+        "source": "Hacker News",
+        "published": "2026-09-15T06:16:24+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Linux from Scratch",
+        "translated_title": "Linux from Scratch",
+        "url": "https://www.linuxfromscratch.org/",
+        "source": "Hacker News",
+        "published": "2026-09-15T04:15:23+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "US confirms for first time it has deployed space weapons",
+        "translated_title": "US confirms for first time it has deployed space weapons",
+        "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+        "source": "Hacker News",
+        "published": "2026-09-15T03:47:56+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How to use Meta Display glasses while driving with the Audio Only feature",
+        "translated_title": "How to use Meta Display glasses while driving with the Audio Only feature",
+        "url": "https://www.engadget.com/2255133/meta-display-glasses-audio-only-driving-detection-feature/",
+        "source": "Engadget",
+        "published": "2026-09-15T00:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
+        "translated_title": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
+        "url": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
+        "source": "Wired",
+        "published": "2026-09-15T00:23:42+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Serialele „Widow’s Bay” și „The Pitt” sunt marile câștigătoare ale Premiilor Emmy 2026",
+        "translated_title": "Serialele „Widow’s Bay” și „The Pitt” sunt marile câștigătoare ale Premiilor Emmy 2026",
+        "url": "https://www.go4it.ro/content/muzica-si-filme/serialele-widows-bay-si-the-pitt-sunt-marile-castigatoare-ale-premiilor-emmy-2026-19285044/",
+        "source": "Go4IT",
+        "published": "2026-09-15T09:12:56.093730+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Orient a lansat o alternativă mai accesibilă la modelul Tissot PRX. Preț și disponibilitate",
+        "translated_title": "Orient a lansat o alternativă mai accesibilă la modelul Tissot PRX. Preț și disponibilitate",
+        "url": "https://www.go4it.ro/content/accesorii/orient-a-lansat-o-alternativa-mai-accesibila-la-modelul-tissot-prx-pret-si-disponibilitate-19285047/",
+        "source": "Go4IT",
+        "published": "2026-09-15T09:12:56.093525+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "O relație pornită pe Tinder a declanșat a o anchetă de spionaj în inima NATO",
+        "translated_title": "O relație pornită pe Tinder a declanșat a o anchetă de spionaj în inima NATO",
+        "url": "https://www.go4it.ro/content/social-media/o-relatie-pornita-pe-tinder-a-declansat-a-o-ancheta-de-spionaj-in-inima-nato-19285051/",
+        "source": "Go4IT",
+        "published": "2026-09-15T09:12:56.093333+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Coreea de Sud a lansat o aplicație care avertizează victimele atunci când agresorii se apropie",
+        "translated_title": "Coreea de Sud a lansat o aplicație care avertizează victimele atunci când agresorii se apropie",
+        "url": "https://www.go4it.ro/content/aplicatii/coreea-de-sud-a-lansat-o-aplicatie-care-avertizeaza-victimele-atunci-cand-agresorii-se-apropie-19285056/",
+        "source": "Go4IT",
+        "published": "2026-09-15T09:12:56.093149+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "date_formatted": "14 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/componente-pc/memoria-dram-s-a-scumpit-puternic-in-2026-veniturile-industriei-au-crescut-cu-aproape-60-intr-un-singur-trimestru-19284270/",
         "source": "Go4IT",
         "published": "2026-09-08T08:37:52.495376+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-07",
-    "date_formatted": "7 Septembrie 2026",
-    "news": [
-      {
-        "title": "Programming is Art",
-        "translated_title": "Programming is Art",
-        "url": "https://orchidfiles.com/programming-is-art/",
-        "source": "Hacker News",
-        "published": "2026-09-07T08:05:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "It's time for Mark Zuckerberg to resign from Meta",
-        "translated_title": "It's time for Mark Zuckerberg to resign from Meta",
-        "url": "https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta",
-        "source": "Hacker News",
-        "published": "2026-09-07T07:59:21+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
-        "translated_title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
-        "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
-        "source": "Hacker News",
-        "published": "2026-09-07T05:33:25+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-        "translated_title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-        "url": "https://github.com/timgordontg/engrim",
-        "source": "Hacker News",
-        "published": "2026-09-07T04:49:36+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Is it safe to buy a refurbished iPhone from Walmart?",
-        "translated_title": "Is it safe to buy a refurbished iPhone from Walmart?",
-        "url": "https://www.engadget.com/2248893/is-it-safe-buy-refurbished-iphone-walmart/",
-        "source": "Engadget",
-        "published": "2026-09-07T00:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "When are portable Apple CarPlay screens actually worth it?",
-        "translated_title": "When are portable Apple CarPlay screens actually worth it?",
-        "url": "https://www.engadget.com/2248887/when-portable-apple-carplay-screen-worth-it/",
-        "source": "Engadget",
-        "published": "2026-09-07T00:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-        "translated_title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-        "source": "The Verge",
-        "published": "2026-09-06T23:36:04+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The pros and cons of using wireless Android Auto",
-        "translated_title": "The pros and cons of using wireless Android Auto",
-        "url": "https://www.engadget.com/2248846/pros-and-cons-wireless-android-auto/",
-        "source": "Engadget",
-        "published": "2026-09-06T23:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "10 Smart Gadgets That Could Instantly Upgrade Your Backyard",
-        "translated_title": "10 Smart Gadgets That Could Instantly Upgrade Your Backyard",
-        "url": "https://www.engadget.com/2248646/smart-gadgets-could-instantly-upgrade-backyard/",
-        "source": "Engadget",
-        "published": "2026-09-06T23:15:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-        "translated_title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-        "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-        "source": "TechCrunch",
-        "published": "2026-09-06T21:41:06+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "An Amazon cargo plane crashed at Miami International Airport",
-        "translated_title": "An Amazon cargo plane crashed at Miami International Airport",
-        "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-        "source": "The Verge",
-        "published": "2026-09-06T20:56:38+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Australia pregătește o nouă lovitură pentru algoritmii rețelelor de socializare",
-        "translated_title": "Australia pregătește o nouă lovitură pentru algoritmii rețelelor de socializare",
-        "url": "https://www.go4it.ro/content/social-media/australia-pregateste-o-noua-lovitura-pentru-algoritmii-retelelor-de-socializare-19284178/",
-        "source": "Go4IT",
-        "published": "2026-09-07T08:56:57.076690+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "„The Odyssey” urcă pe primul loc în box-office-ul mondial, după un duel strâns cu noul Spider-Man",
-        "translated_title": "„The Odyssey” urcă pe primul loc în box-office-ul mondial, după un duel strâns cu noul Spider-Man",
-        "url": "https://www.go4it.ro/content/muzica-si-filme/the-odyssey-urca-pe-primul-loc-in-box-office-ul-mondial-dupa-un-duel-strans-cu-noul-spider-man-19284181/",
-        "source": "Go4IT",
-        "published": "2026-09-07T08:56:57.076480+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Noul James Bond, tot mai așteptat de fani: cine va prelua rolul agentului 007",
-        "translated_title": "Noul James Bond, tot mai așteptat de fani: cine va prelua rolul agentului 007",
-        "url": "https://www.go4it.ro/content/muzica-si-filme/noul-james-bond-tot-mai-asteptat-de-fani-cine-va-prelua-rolul-agentului-007-19284185/",
-        "source": "Go4IT",
-        "published": "2026-09-07T08:56:57.076294+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Ceasornicarul Jerome Marcu lansează Marcu Initial, un model exclusivist din titan cu diamante integrate în ace",
-        "translated_title": "Ceasornicarul Jerome Marcu lansează Marcu Initial, un model exclusivist din titan cu diamante integrate în ace",
-        "url": "https://www.go4it.ro/content/accesorii/ceasornicarul-jerome-marcu-lanseaza-marcu-initial-un-model-exclusivist-din-titan-cu-diamante-integrate-in-ace-19284189/",
-        "source": "Go4IT",
-        "published": "2026-09-07T08:56:57.076081+00:00",
         "summary": null,
         "category": "romanian"
       }
