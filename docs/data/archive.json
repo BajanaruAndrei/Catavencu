@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-17",
+    "date_formatted": "17 Septembrie 2026",
+    "news": [
+      {
+        "title": "Flock Once Touted Its Cameras as ‘Made in the USA.’ Now It’s Not So Clear",
+        "translated_title": "Flock Once Touted Its Cameras as ‘Made in the USA.’ Now It’s Not So Clear",
+        "url": "https://www.wired.com/story/flock-once-touted-its-cameras-as-made-in-the-usa-now-its-not-so-clear/",
+        "source": "Wired",
+        "published": "2026-09-17T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "AI Safety Is Mostly a Sex Cult",
+        "translated_title": "AI Safety Is Mostly a Sex Cult",
+        "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+        "source": "Hacker News",
+        "published": "2026-09-17T08:36:37+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "One Year of Sponsored Servo Development",
+        "translated_title": "One Year of Sponsored Servo Development",
+        "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+        "source": "Hacker News",
+        "published": "2026-09-17T08:13:54+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "An iOS 27 bug can temporarily freeze your iPhone",
+        "translated_title": "An iOS 27 bug can temporarily freeze your iPhone",
+        "url": "https://www.engadget.com/2260916/ios-27-bug-temporarily-freeze-iphone/",
+        "source": "Engadget",
+        "published": "2026-09-17T06:08:09+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+        "translated_title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+        "source": "TechCrunch",
+        "published": "2026-09-17T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for September 2026",
+        "translated_title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for September 2026",
+        "url": "https://www.wired.com/story/noom-promo-code/",
+        "source": "Wired",
+        "published": "2026-09-17T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Hydrow Discount Code: Save Up to $150 | September 2026",
+        "translated_title": "Hydrow Discount Code: Save Up to $150 | September 2026",
+        "url": "https://www.wired.com/story/hydrow-discount-code/",
+        "source": "Wired",
+        "published": "2026-09-17T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Best Buy Discount Codes: 60% Off",
+        "translated_title": "Best Buy Discount Codes: 60% Off",
+        "url": "https://www.wired.com/story/best-buy-discount-code/",
+        "source": "Wired",
+        "published": "2026-09-17T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Cloudflare/Security-Audit-Skill",
+        "translated_title": "Cloudflare/Security-Audit-Skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "source": "Hacker News",
+        "published": "2026-09-17T04:36:55+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+        "translated_title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch",
+        "published": "2026-09-17T03:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+        "translated_title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+        "url": "https://github.com/browser-use/jev-ultrafast",
+        "source": "Hacker News",
+        "published": "2026-09-17T03:12:05+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "O cameră video TP-Link prezintă o vulnerabilitate critică, afirmă cercetătorii în securitate",
+        "translated_title": "O cameră video TP-Link prezintă o vulnerabilitate critică, afirmă cercetătorii în securitate",
+        "url": "https://www.go4it.ro/securitate-informatica/o-camera-video-tp-link-prezinta-o-vulnerabilitate-critica-afirma-cercetatorii-in-securitate-19285285/",
+        "source": "Go4IT",
+        "published": "2026-09-17T09:13:44.911453+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "CEO-ul Nvidia respinge apelurile la încetinirea ritmului AI la Dreamforce: „Run as Fast as You Can!”",
+        "translated_title": "CEO-ul Nvidia respinge apelurile la încetinirea ritmului AI la Dreamforce: „Run as Fast as You Can!”",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/jensen-huang-respinge-apelurile-la-incetinirea-ritmului-ai-la-dreamforce-alergati-cat-de-repede-puteti-19285290/",
+        "source": "Go4IT",
+        "published": "2026-09-17T09:13:44.911288+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Valoarea iPhone-ului vechi poate scădea rapid după anunțul unui model nou – studiu",
+        "translated_title": "Valoarea iPhone-ului vechi poate scădea rapid după anunțul unui model nou – studiu",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/valoarea-iphone-ului-vechi-poate-scadea-rapid-dupa-anuntul-unui-model-nou-studiu-19285294/",
+        "source": "Go4IT",
+        "published": "2026-09-17T09:13:44.911109+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Hackerii au păcălit Revolut folosind adresa unei prefecturi din Italia. Datele a 680 de clienți au fost transmise",
+        "translated_title": "Hackerii au păcălit Revolut folosind adresa unei prefecturi din Italia. Datele a 680 de clienți au fost transmise",
+        "url": "https://www.go4it.ro/content/internet/hackerii-au-pacalit-revolut-folosind-adresa-unei-prefecturi-din-italia-datele-a-680-de-clienti-au-fost-transmise-19285301/",
+        "source": "Go4IT",
+        "published": "2026-09-17T09:13:44.910948+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-16",
     "date_formatted": "16 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/social-media/scandal-diplomatic-din-cauza-unei-imagini-publicate-de-donald-trump-pe-propria-retea-de-socializare-19284548/",
         "source": "Go4IT",
         "published": "2026-09-10T08:40:23.235593+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "date_formatted": "9 Septembrie 2026",
-    "news": [
-      {
-        "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-        "translated_title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-        "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-        "source": "Hacker News",
-        "published": "2026-09-09T07:22:46+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "On Really Trying (2009)",
-        "translated_title": "On Really Trying (2009)",
-        "url": "https://gwern.net/on-really-trying",
-        "source": "Hacker News",
-        "published": "2026-09-09T06:58:44+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Copyright does more harm than good and should be abolished",
-        "translated_title": "Copyright does more harm than good and should be abolished",
-        "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
-        "source": "Hacker News",
-        "published": "2026-09-09T06:31:28+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "“Tweet” and the bird logo apparently enter the public domain",
-        "translated_title": "“Tweet” and the bird logo apparently enter the public domain",
-        "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
-        "source": "Hacker News",
-        "published": "2026-09-09T06:02:07+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
-        "translated_title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
-        "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
-        "source": "TechCrunch",
-        "published": "2026-09-09T06:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
-        "translated_title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
-        "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
-        "source": "The Verge",
-        "published": "2026-09-09T05:26:53+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "TurboTax Full Service Coupons This September 2026",
-        "translated_title": "TurboTax Full Service Coupons This September 2026",
-        "url": "https://www.wired.com/story/turbotax-coupon/",
-        "source": "Wired",
-        "published": "2026-09-09T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Uber Eats Promo Codes: $15 Off │September 2026",
-        "translated_title": "Uber Eats Promo Codes: $15 Off │September 2026",
-        "url": "https://www.wired.com/story/uber-eats-promo-code/",
-        "source": "Wired",
-        "published": "2026-09-09T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-        "translated_title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-        "url": "https://www.wired.com/story/hr-block-coupon/",
-        "source": "Wired",
-        "published": "2026-09-09T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
-        "translated_title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
-        "url": "https://www.wired.com/story/legalzoom-promo-code/",
-        "source": "Wired",
-        "published": "2026-09-09T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-        "translated_title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-        "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-        "source": "TechCrunch",
-        "published": "2026-09-09T04:01:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Producția de smartphone-uri crește peste așteptări în 2026, dar sunt avertismente: 2027 ar putea fi mai dificil",
-        "translated_title": "Producția de smartphone-uri crește peste așteptări în 2026, dar sunt avertismente: 2027 ar putea fi mai dificil",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/productia-de-smartphone-uri-creste-peste-asteptari-in-2026-dar-sunt-avertismente-2027-ar-putea-fi-mai-dificil-19284355/",
-        "source": "Go4IT",
-        "published": "2026-09-09T08:40:02.510123+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Xring O3 îl depășește pe Snapdragon 8 Elite Gen 5 în benchmark‐uri publicate de Xiaomi",
-        "translated_title": "Xring O3 îl depășește pe Snapdragon 8 Elite Gen 5 în benchmark‐uri publicate de Xiaomi",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/xring-o3-il-depaseste-pe-snapdragon-8-elite-gen-5-in-benchmark%e2%80%90uri-publicate-de-xiaomi-19284358/",
-        "source": "Go4IT",
-        "published": "2026-09-09T08:40:02.509974+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Intel crește prețurile procesoarelor: ce modele sunt vizate și cum se schimbă piața PC‐urilor",
-        "translated_title": "Intel crește prețurile procesoarelor: ce modele sunt vizate și cum se schimbă piața PC‐urilor",
-        "url": "https://www.go4it.ro/content/componente-pc/intel-creste-preturile-procesoarelor-ce-modele-sunt-vizate-si-cum-se-schimba-piata-pc%e2%80%90urilor-19284364/",
-        "source": "Go4IT",
-        "published": "2026-09-09T08:40:02.509683+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Canon EOS R8 Mark II – apar detalii înainte de lansare. Noul aparat foto vine cu stabilizare și rafală de 40 fps",
-        "translated_title": "Canon EOS R8 Mark II – apar detalii înainte de lansare. Noul aparat foto vine cu stabilizare și rafală de 40 fps",
-        "url": "https://www.go4it.ro/content/camere-foto/canon-eos-r8-mark-ii-apar-detalii-inainte-de-lansare-noul-aparat-foto-vine-cu-stabilizare-si-rafala-de-40-fps-19284367/",
-        "source": "Go4IT",
-        "published": "2026-09-09T08:40:02.509527+00:00",
         "summary": null,
         "category": "romanian"
       }
