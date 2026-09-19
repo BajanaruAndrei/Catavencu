@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-19",
+    "date_formatted": "19 Septembrie 2026",
+    "news": [
+      {
+        "title": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+        "translated_title": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+        "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with/",
+        "source": "Hacker News",
+        "published": "2026-09-19T07:13:10+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+        "translated_title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "source": "Hacker News",
+        "published": "2026-09-19T06:41:44+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "If math is more than proof, we need to better celebrate the rest of it",
+        "translated_title": "If math is more than proof, we need to better celebrate the rest of it",
+        "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+        "source": "Hacker News",
+        "published": "2026-09-19T06:28:02+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
+        "translated_title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
+        "url": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
+        "source": "Wired",
+        "published": "2026-09-19T06:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+        "translated_title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+        "source": "Hacker News",
+        "published": "2026-09-19T05:48:50+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Paramount+ Coupon Codes and Deals for September 2026",
+        "translated_title": "Paramount+ Coupon Codes and Deals for September 2026",
+        "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+        "source": "Wired",
+        "published": "2026-09-19T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "KitchenAid Promo Codes: Save Up to 20%",
+        "translated_title": "KitchenAid Promo Codes: Save Up to 20%",
+        "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+        "source": "Wired",
+        "published": "2026-09-19T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Flock Offers Employees Buyouts as Customers Flee",
+        "translated_title": "Flock Offers Employees Buyouts as Customers Flee",
+        "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
+        "source": "Wired",
+        "published": "2026-09-19T02:22:54+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "India forces caller-ID apps to feed spam reports to telcos",
+        "translated_title": "India forces caller-ID apps to feed spam reports to telcos",
+        "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+        "source": "TechCrunch",
+        "published": "2026-09-19T01:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "translated_title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+        "source": "TechCrunch",
+        "published": "2026-09-19T00:12:07+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "translated_title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+        "source": "TechCrunch",
+        "published": "2026-09-18T23:25:01+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Microsoft a lansat o actualizare de urgență pentru Windows 11 pentru a remedia problemele provocate de patch-ul record din septembrie",
+        "translated_title": "Microsoft a lansat o actualizare de urgență pentru Windows 11 pentru a remedia problemele provocate de patch-ul record din septembrie",
+        "url": "https://www.go4it.ro/securitate-informatica/microsoft-a-lansat-o-actualizare-de-urgenta-pentru-windows-11-pentru-a-remedia-problemele-provocate-de-patch-ul-record-din-septembrie-19285502/",
+        "source": "Go4IT",
+        "published": "2026-09-19T08:32:59.664965+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Acuzații false de jaf bancar: O bunică cere daune de 10 milioane de dolari după o eroare a tehnologiei de recunoaștere facială bazată pe AI",
+        "translated_title": "Acuzații false de jaf bancar: O bunică cere daune de 10 milioane de dolari după o eroare a tehnologiei de recunoaștere facială bazată pe AI",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/acuzatii-false-de-jaf-bancar-o-bunica-cere-daune-de-10-milioane-de-dolari-dupa-o-eroare-a-tehnologiei-de-recunoastere-faciala-bazata-pe-ai-19285497/",
+        "source": "Go4IT",
+        "published": "2026-09-19T08:32:59.664761+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Apple a dezvoltat tehnologia Reference Image pentru a dovedi criptografic că o fotografie este autentică",
+        "translated_title": "Apple a dezvoltat tehnologia Reference Image pentru a dovedi criptografic că o fotografie este autentică",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/apple-a-dezvoltat-tehnologia-reference-image-pentru-a-dovedi-criptografic-ca-o-fotografie-este-autentica-19285508/",
+        "source": "Go4IT",
+        "published": "2026-09-19T08:32:59.664583+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Bitdefender: Imaginea lui Florin Talpeș, folosită într-o nouă înșelătorie online care promite câștiguri rapide",
+        "translated_title": "Bitdefender: Imaginea lui Florin Talpeș, folosită într-o nouă înșelătorie online care promite câștiguri rapide",
+        "url": "https://www.go4it.ro/securitate-informatica/bitdefender-imaginea-lui-florin-talpes-folosita-intr-o-noua-inselatorie-online-care-promite-castiguri-rapide-19285511/",
+        "source": "Go4IT",
+        "published": "2026-09-19T08:32:59.664400+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-18",
     "date_formatted": "18 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/oferte-din-magazine/oferta-la-kaufland-drujba-simpatica-pe-benzina-parkside-la-doar-299-de-lei-19284696/",
         "source": "Go4IT",
         "published": "2026-09-12T08:22:55.872099+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-11",
-    "date_formatted": "11 Septembrie 2026",
-    "news": [
-      {
-        "title": "Astra for Coding: Why Are We Doing This Again?",
-        "translated_title": "Astra for Coding: Why Are We Doing This Again?",
-        "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-        "source": "Hacker News",
-        "published": "2026-09-11T06:23:06+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
-        "translated_title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
-        "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
-        "source": "Hacker News",
-        "published": "2026-09-11T05:26:58+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Chewy Promo Codes: $20 Off September 2026",
-        "translated_title": "Chewy Promo Codes: $20 Off September 2026",
-        "url": "https://www.wired.com/story/chewy-promo-code/",
-        "source": "Wired",
-        "published": "2026-09-11T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Gemini app is now available for Windows",
-        "translated_title": "The Gemini app is now available for Windows",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-        "source": "Hacker News",
-        "published": "2026-09-11T04:52:20+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Exercise intensity is associated with cardiometabolic health",
-        "translated_title": "Exercise intensity is associated with cardiometabolic health",
-        "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
-        "source": "Hacker News",
-        "published": "2026-09-11T03:48:10+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-        "translated_title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-        "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-        "source": "Wired",
-        "published": "2026-09-10T23:28:42+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra: How these XL phones compete",
-        "translated_title": "iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra: How these XL phones compete",
-        "url": "https://www.engadget.com/2255321/iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-comparison/",
-        "source": "Engadget",
-        "published": "2026-09-10T23:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "CA governor signs 'landmark' laws on youth use of social media and AI chatbots",
-        "translated_title": "CA governor signs 'landmark' laws on youth use of social media and AI chatbots",
-        "url": "https://www.engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/",
-        "source": "Engadget",
-        "published": "2026-09-10T22:45:45+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-        "translated_title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-        "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-        "source": "TechCrunch",
-        "published": "2026-09-10T22:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-        "translated_title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-        "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-        "source": "TechCrunch",
-        "published": "2026-09-10T21:51:59+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-        "translated_title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-        "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-        "source": "TechCrunch",
-        "published": "2026-09-10T21:35:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Trend online periculos pentru sănătate: femeile își „sincronizează ciclul” cu antrenamentele la sală",
-        "translated_title": "Trend online periculos pentru sănătate: femeile își „sincronizează ciclul” cu antrenamentele la sală",
-        "url": "https://www.go4it.ro/content/social-media/trend-online-periculos-pentru-sanatate-femeile-isi-sincronizeaza-ciclul-cu-antrenamentele-la-sala-19284652/",
-        "source": "Go4IT",
-        "published": "2026-09-11T08:36:12.049226+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Planeta Mercur se micșorează într-un ritm alert. Care este motivul",
-        "translated_title": "Planeta Mercur se micșorează într-un ritm alert. Care este motivul",
-        "url": "https://www.go4it.ro/content/stiinta/planeta-mercur-se-micsoreaza-intr-un-ritm-alert-care-este-motivul-19284654/",
-        "source": "Go4IT",
-        "published": "2026-09-11T08:36:12.049043+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Hackerii lasă AI-ul să lucreze în locul lor. Soluțiile AI chinezești sunt antrenate cu date sustrase de la Anthropic și alte companii mari din domeniu",
-        "translated_title": "Hackerii lasă AI-ul să lucreze în locul lor. Soluțiile AI chinezești sunt antrenate cu date sustrase de la Anthropic și alte companii mari din domeniu",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/hackerii-lasa-ai-ul-sa-lucreze-in-locul-lor-solutiile-ai-chinezesti-sunt-antrenate-cu-date-sustrase-de-la-anthropic-si-alte-companii-mari-din-domeniu-19284656/",
-        "source": "Go4IT",
-        "published": "2026-09-11T08:36:12.048858+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "California înăsprește regulile pentru copii în privința rețelelor de socializare și jucăriilor cu AI",
-        "translated_title": "California înăsprește regulile pentru copii în privința rețelelor de socializare și jucăriilor cu AI",
-        "url": "https://www.go4it.ro/content/social-media/california-inaspreste-regulile-pentru-copii-in-privinta-retelelor-de-socializare-si-jucariilor-cu-ai-19284658/",
-        "source": "Go4IT",
-        "published": "2026-09-11T08:36:12.048667+00:00",
         "summary": null,
         "category": "romanian"
       }
