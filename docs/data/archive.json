@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-20",
+    "date_formatted": "20 Septembrie 2026",
+    "news": [
+      {
+        "title": "Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans",
+        "translated_title": "Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans",
+        "url": "https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/",
+        "source": "Wired",
+        "published": "2026-09-20T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "translated_title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+        "source": "Hacker News",
+        "published": "2026-09-20T07:38:37+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Dropbox's Jan 1st 2027 terms of service",
+        "translated_title": "Dropbox's Jan 1st 2027 terms of service",
+        "url": "https://www.dropbox.com/terms2026",
+        "source": "Hacker News",
+        "published": "2026-09-20T06:42:45+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+        "translated_title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+        "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+        "source": "Hacker News",
+        "published": "2026-09-20T06:16:42+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+        "translated_title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+        "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+        "source": "Hacker News",
+        "published": "2026-09-20T05:46:19+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How long can you expect your old cassette tapes to last?",
+        "translated_title": "How long can you expect your old cassette tapes to last?",
+        "url": "https://www.engadget.com/2259220/how-long-old-cassette-tapes-last-lifespan/",
+        "source": "Engadget",
+        "published": "2026-09-20T00:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How to record audio on your iPhone",
+        "translated_title": "How to record audio on your iPhone",
+        "url": "https://www.engadget.com/2259179/how-to-record-audio-iphone/",
+        "source": "Engadget",
+        "published": "2026-09-20T00:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "What is the difference between Apple CarPlay and CarPlay Ultra?",
+        "translated_title": "What is the difference between Apple CarPlay and CarPlay Ultra?",
+        "url": "https://www.engadget.com/2259087/apple-carplay-vs-ultra-differences-explained/",
+        "source": "Engadget",
+        "published": "2026-09-19T23:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The pros and cons of using wired vs. wireless Xbox controllers",
+        "translated_title": "The pros and cons of using wired vs. wireless Xbox controllers",
+        "url": "https://www.engadget.com/2258987/wired-vs-wireless-xbox-controllers-pros-cons/",
+        "source": "Engadget",
+        "published": "2026-09-19T23:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+        "translated_title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+        "source": "The Verge",
+        "published": "2026-09-19T20:44:40+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+        "translated_title": "Flock reportedly tries to shrink workforce with employee buyouts",
+        "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+        "source": "TechCrunch",
+        "published": "2026-09-19T20:39:13+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Acest ceas sportiv cu tematică auto, inspirat din anii ’70, reinventează în mod ingenios conceptul GMT",
+        "translated_title": "Acest ceas sportiv cu tematică auto, inspirat din anii ’70, reinventează în mod ingenios conceptul GMT",
+        "url": "https://www.go4it.ro/content/accesorii/acest-ceas-sportiv-cu-tematica-auto-inspirat-din-anii-70-reinventeaza-in-mod-ingenios-conceptul-gmt-19285522/",
+        "source": "Go4IT",
+        "published": "2026-09-20T09:05:18.955191+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Profilul victimei ideale în fraudele cu investiții: Cine sunt românii cei mai vulnerabili la capcanele din online",
+        "translated_title": "Profilul victimei ideale în fraudele cu investiții: Cine sunt românii cei mai vulnerabili la capcanele din online",
+        "url": "https://www.go4it.ro/securitate-informatica/profilul-victimei-ideale-in-fraudele-cu-investitii-cine-sunt-romanii-cei-mai-vulnerabili-la-capcanele-din-online-19285536/",
+        "source": "Go4IT",
+        "published": "2026-09-20T09:05:18.955008+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "NASA a făcut 5 găuri pe Marte. Craterele au dezvăluit o surpriză",
+        "translated_title": "NASA a făcut 5 găuri pe Marte. Craterele au dezvăluit o surpriză",
+        "url": "https://www.go4it.ro/content/stiinta/nasa-a-facut-5-gauri-pe-marte-craterele-au-dezvaluit-o-surpriza-19285533/",
+        "source": "Go4IT",
+        "published": "2026-09-20T09:05:18.954812+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Rusia acuză atacuri cibernetice majore și sabotaje în a doua zi a alegerilor parlamentare",
+        "translated_title": "Rusia acuză atacuri cibernetice majore și sabotaje în a doua zi a alegerilor parlamentare",
+        "url": "https://www.go4it.ro/securitate-informatica/rusia-acuza-atacuri-cibernetice-majore-si-sabotaje-in-a-doua-zi-a-alegerilor-parlamentare-19285539/",
+        "source": "Go4IT",
+        "published": "2026-09-20T09:05:18.954625+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-19",
     "date_formatted": "19 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/securitate-informatica/dr-werner-vogels-vicepresedinte-amazon-hackerii-fura-date-de-pe-acum-pentru-a-le-decripta-peste-cativa-ani-cu-computere-cuantice-19284930/",
         "source": "Go4IT",
         "published": "2026-09-14T09:35:34.709358+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-12",
-    "date_formatted": "12 Septembrie 2026",
-    "news": [
-      {
-        "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-        "translated_title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-        "url": "https://eiln.github.io/posts/ane.html",
-        "source": "Hacker News",
-        "published": "2026-09-12T07:54:03+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "WeWorm: Zero-Click WeChat Worm",
-        "translated_title": "WeWorm: Zero-Click WeChat Worm",
-        "url": "https://calif.io/research/weworm",
-        "source": "Hacker News",
-        "published": "2026-09-12T05:49:10+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Usenet rewind archive search engine",
-        "translated_title": "Usenet rewind archive search engine",
-        "url": "https://www.usenet-rewind.com/",
-        "source": "Hacker News",
-        "published": "2026-09-12T04:19:52+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Navier-Stokes Announcement",
-        "translated_title": "Navier-Stokes Announcement",
-        "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-        "source": "Hacker News",
-        "published": "2026-09-12T04:09:43+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "translated_title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "source": "TechCrunch",
-        "published": "2026-09-11T22:58:17+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Moss developer Polyarc has closed",
-        "translated_title": "Moss developer Polyarc has closed",
-        "url": "https://www.engadget.com/2256562/moss-developer-polyarc-has-closed/",
-        "source": "Engadget",
-        "published": "2026-09-11T21:58:32+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-        "translated_title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-        "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-        "source": "TechCrunch",
-        "published": "2026-09-11T21:19:05+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-        "translated_title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "source": "TechCrunch",
-        "published": "2026-09-11T20:59:47+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "OpenAI’s feud with mathematicians is only escalating",
-        "translated_title": "OpenAI’s feud with mathematicians is only escalating",
-        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "source": "TechCrunch",
-        "published": "2026-09-11T20:57:36+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-        "translated_title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-        "source": "The Verge",
-        "published": "2026-09-11T20:44:02+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Roundtables: AI’s apocalypse crisis",
-        "translated_title": "Roundtables: AI’s apocalypse crisis",
-        "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-        "source": "MIT Technology Review",
-        "published": "2026-09-11T20:05:06+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Anthropic: Inteligența artificială a fost folosită în Yemen pentru proiectarea de rachete ghidate",
-        "translated_title": "Anthropic: Inteligența artificială a fost folosită în Yemen pentru proiectarea de rachete ghidate",
-        "url": "https://www.go4it.ro/tehnologie-militara/anthropic-inteligenta-artificiala-a-fost-folosita-in-yemen-pentru-proiectarea-de-rachete-ghidate-19284690/",
-        "source": "Go4IT",
-        "published": "2026-09-12T08:22:55.872522+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Alertă de securitate cibernetică: Vulnerabilități critice în sistemele SAP folosite de mii de companii",
-        "translated_title": "Alertă de securitate cibernetică: Vulnerabilități critice în sistemele SAP folosite de mii de companii",
-        "url": "https://www.go4it.ro/securitate-informatica/alerta-de-securitate-cibernetica-vulnerabilitati-critice-in-sistemele-sap-folosite-de-mii-de-companii-19284693/",
-        "source": "Go4IT",
-        "published": "2026-09-12T08:22:55.872385+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Rusia lansează rețeaua 5G în 16 mari orașe, inclusiv în Moscova. Aria de acoperire va fi extinsă la 50 de orașe până la finalul anului 2026",
-        "translated_title": "Rusia lansează rețeaua 5G în 16 mari orașe, inclusiv în Moscova. Aria de acoperire va fi extinsă la 50 de orașe până la finalul anului 2026",
-        "url": "https://www.go4it.ro/content/telecomunicatii/rusia-lanseaza-reteaua-5g-in-16-mari-orase-inclusiv-in-moscova-aria-de-acoperire-va-fi-extinsa-la-50-de-orase-pana-la-finalul-anului-2026-19284695/",
-        "source": "Go4IT",
-        "published": "2026-09-12T08:22:55.872235+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Ofertă la Kaufland: mini-drujbă pe benzină Parkside la doar 299 de lei",
-        "translated_title": "Ofertă la Kaufland: mini-drujbă pe benzină Parkside la doar 299 de lei",
-        "url": "https://www.go4it.ro/oferte-din-magazine/oferta-la-kaufland-drujba-simpatica-pe-benzina-parkside-la-doar-299-de-lei-19284696/",
-        "source": "Go4IT",
-        "published": "2026-09-12T08:22:55.872099+00:00",
         "summary": null,
         "category": "romanian"
       }
