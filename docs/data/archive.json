@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-21",
+    "date_formatted": "21 Septembrie 2026",
+    "news": [
+      {
+        "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+        "translated_title": "Amazon doesn’t trust Meta’s Muse AI agent",
+        "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+        "source": "The Verge",
+        "published": "2026-09-21T09:21:47+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury",
+        "translated_title": "After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury",
+        "url": "https://www.wired.com/story/after-8-years-in-space-bepicolombo-finally-approaching-mercury/",
+        "source": "Wired",
+        "published": "2026-09-21T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+        "translated_title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+        "url": "https://github.com/jaredpalmer/kev/tree/main",
+        "source": "Hacker News",
+        "published": "2026-09-21T07:11:55+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+        "translated_title": "Grim Fandango Puzzle Document (1996) [pdf]",
+        "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+        "source": "Hacker News",
+        "published": "2026-09-21T05:55:22+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+        "translated_title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+        "url": "https://github.com/volotat/mini-AGI/",
+        "source": "Hacker News",
+        "published": "2026-09-21T04:42:37+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Heretic removes restrictions from language models",
+        "translated_title": "Heretic removes restrictions from language models",
+        "url": "https://heretic-project.org/",
+        "source": "Hacker News",
+        "published": "2026-09-21T04:35:22+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "One mobile number, two phones: What is iPhone handoff and which carriers support it?",
+        "translated_title": "One mobile number, two phones: What is iPhone handoff and which carriers support it?",
+        "url": "https://www.engadget.com/2260552/iphone-handoff-uses-carriers-explained/",
+        "source": "Engadget",
+        "published": "2026-09-21T00:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Wired vs. wireless internet: Which should you choose for your home?",
+        "translated_title": "Wired vs. wireless internet: Which should you choose for your home?",
+        "url": "https://www.engadget.com/2260477/wired-vs-wireless-internet-which-choose-for-home/",
+        "source": "Engadget",
+        "published": "2026-09-21T00:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Which major chatbot apps work with CarPlay?",
+        "translated_title": "Which major chatbot apps work with CarPlay?",
+        "url": "https://www.engadget.com/2260401/major-chatbot-apps-work-with-carplay/",
+        "source": "Engadget",
+        "published": "2026-09-20T23:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "7 ways to get free movies and TV channels on your smart TV",
+        "translated_title": "7 ways to get free movies and TV channels on your smart TV",
+        "url": "https://www.engadget.com/2262964/ways-to-get-free-movies-channels-on-smart-tv/",
+        "source": "Engadget",
+        "published": "2026-09-20T23:15:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "translated_title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch",
+        "published": "2026-09-20T21:41:08+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Drona cu mustăți: Cercetătorii au găsit o soluție pentru orientarea dronei într-un mediu ostil",
+        "translated_title": "Drona cu mustăți: Cercetătorii au găsit o soluție pentru orientarea dronei într-un mediu ostil",
+        "url": "https://www.go4it.ro/content/stiinta/drona-cu-mustati-cercetatorii-au-gasit-o-solutie-pentru-orientarea-dronei-intr-un-mediu-ostil-19285633/",
+        "source": "Go4IT",
+        "published": "2026-09-21T09:37:37.125649+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Gigafabricile AI ale Europei nu reprezintă doar un proiect de infrastructură, ci o oportunitate de afaceri",
+        "translated_title": "Gigafabricile AI ale Europei nu reprezintă doar un proiect de infrastructură, ci o oportunitate de afaceri",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/gigafabricile-ai-ale-europei-nu-reprezinta-doar-un-proiect-de-infrastructura-ci-o-oportunitate-de-afaceri-19285662/",
+        "source": "Go4IT",
+        "published": "2026-09-21T09:37:37.125452+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Megaproiect feroviar la Marea Neagră: un tren va traversa litoralul cu 250 km/h",
+        "translated_title": "Megaproiect feroviar la Marea Neagră: un tren va traversa litoralul cu 250 km/h",
+        "url": "https://www.go4it.ro/content/anunturi/megaproiect-feroviar-la-marea-neagra-un-tren-va-traversa-litoralul-cu-250-km-h-19285638/",
+        "source": "Go4IT",
+        "published": "2026-09-21T09:37:37.125206+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Cercetătorii susțin că Soarele a devorat un „super-Pământ” în tinerețea sa",
+        "translated_title": "Cercetătorii susțin că Soarele a devorat un „super-Pământ” în tinerețea sa",
+        "url": "https://www.go4it.ro/content/stiinta/cercetatorii-sustin-ca-soarele-a-devorat-un-super-pamant-in-tineretea-sa-19285640/",
+        "source": "Go4IT",
+        "published": "2026-09-21T09:37:37.125002+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-20",
     "date_formatted": "20 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/aplicatii/coreea-de-sud-a-lansat-o-aplicatie-care-avertizeaza-victimele-atunci-cand-agresorii-se-apropie-19285056/",
         "source": "Go4IT",
         "published": "2026-09-15T09:12:56.093149+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-14",
-    "date_formatted": "14 Septembrie 2026",
-    "news": [
-      {
-        "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
-        "translated_title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
-        "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-        "source": "Wired",
-        "published": "2026-09-14T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A 386 PC for Your RP2350",
-        "translated_title": "A 386 PC for Your RP2350",
-        "url": "https://github.com/rh1tech/frank-386",
-        "source": "Hacker News",
-        "published": "2026-09-14T08:25:57+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "EuroBirdPortal – Live bird movements across Europe",
-        "translated_title": "EuroBirdPortal – Live bird movements across Europe",
-        "url": "https://www.eurobirdportal.org/ebp/en/",
-        "source": "Hacker News",
-        "published": "2026-09-14T08:25:47+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
-        "translated_title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
-        "url": "https://screensize.net/reports/viewport-stats",
-        "source": "Hacker News",
-        "published": "2026-09-14T07:35:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
-        "translated_title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
-        "url": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
-        "source": "Hacker News",
-        "published": "2026-09-14T06:34:06+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "MagSafe vs. USB-C: Which is better for charging your MacBook?",
-        "translated_title": "MagSafe vs. USB-C: Which is better for charging your MacBook?",
-        "url": "https://www.engadget.com/2252867/usb-c-vs-magsafe-best-macbook-charging-option/",
-        "source": "Engadget",
-        "published": "2026-09-14T00:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "At what length do Ethernet cables drop to lower speeds?",
-        "translated_title": "At what length do Ethernet cables drop to lower speeds?",
-        "url": "https://www.engadget.com/2252864/ethernet-cable-length-drops-lower-speeds/",
-        "source": "Engadget",
-        "published": "2026-09-14T00:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Make long drives easier with this Android Auto feature",
-        "translated_title": "Make long drives easier with this Android Auto feature",
-        "url": "https://www.engadget.com/2252861/android-auto-feature-easier-long-drive/",
-        "source": "Engadget",
-        "published": "2026-09-13T23:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How to use GPT-6 Astra when it rolls out to you",
-        "translated_title": "How to use GPT-6 Astra when it rolls out to you",
-        "url": "https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule/",
-        "source": "Engadget",
-        "published": "2026-09-13T23:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-        "translated_title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-        "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-        "source": "TechCrunch",
-        "published": "2026-09-13T21:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-        "translated_title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-        "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-        "source": "TechCrunch",
-        "published": "2026-09-13T20:49:38+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Un tehnician a fost legat de stâlp de localnicii furioși pe conexiunea la Internet",
-        "translated_title": "Un tehnician a fost legat de stâlp de localnicii furioși pe conexiunea la Internet",
-        "url": "https://www.go4it.ro/content/curiozitati/un-tehnician-a-fost-legat-de-stalp-de-localnicii-furiosi-pe-conexiunea-la-internet-19284890/",
-        "source": "Go4IT",
-        "published": "2026-09-14T09:35:34.709717+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Din noiembrie, UE va introduce o nouă taxă pentru coletele de pe Temu și Shein",
-        "translated_title": "Din noiembrie, UE va introduce o nouă taxă pentru coletele de pe Temu și Shein",
-        "url": "https://www.go4it.ro/content/anunturi/din-noiembrie-ue-va-introduce-o-noua-taxa-pentru-coletele-de-pe-temu-si-shein-19284916/",
-        "source": "Go4IT",
-        "published": "2026-09-14T09:35:34.709619+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Review | Xiaomi 17 Ultra: Baterie și sistem de camere demne de apelativul Ultra",
-        "translated_title": "Review | Xiaomi 17 Ultra: Baterie și sistem de camere demne de apelativul Ultra",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/review-xiaomi-17-ultra-19284845/",
-        "source": "Go4IT",
-        "published": "2026-09-14T09:35:34.709534+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Dr. Werner Vogels, vicepreședinte Amazon: Hackerii fură date de pe acum pentru a le decripta peste câțiva ani cu computere cuantice",
-        "translated_title": "Dr. Werner Vogels, vicepreședinte Amazon: Hackerii fură date de pe acum pentru a le decripta peste câțiva ani cu computere cuantice",
-        "url": "https://www.go4it.ro/securitate-informatica/dr-werner-vogels-vicepresedinte-amazon-hackerii-fura-date-de-pe-acum-pentru-a-le-decripta-peste-cativa-ani-cu-computere-cuantice-19284930/",
-        "source": "Go4IT",
-        "published": "2026-09-14T09:35:34.709358+00:00",
         "summary": null,
         "category": "romanian"
       }
