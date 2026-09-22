@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-22",
+    "date_formatted": "22 Septembrie 2026",
+    "news": [
+      {
+        "title": "OpenAI faces lawsuit from British Columbia over Tumbler Ridge shooting",
+        "translated_title": "OpenAI faces lawsuit from British Columbia over Tumbler Ridge shooting",
+        "url": "https://www.engadget.com/2264989/openai-tumbler-ridge-shooting-lawsuit/",
+        "source": "Engadget",
+        "published": "2026-09-22T08:47:27+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple’s first live music venue is opening beneath its UK headquarters",
+        "translated_title": "Apple’s first live music venue is opening beneath its UK headquarters",
+        "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+        "source": "The Verge",
+        "published": "2026-09-22T08:35:54+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Can gzip be a language model?",
+        "translated_title": "Can gzip be a language model?",
+        "url": "https://nathan.rs/posts/gzip-lm/",
+        "source": "Hacker News",
+        "published": "2026-09-22T06:08:39+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Morphotonics raises €40M to expand its display tech into data centers",
+        "translated_title": "Morphotonics raises €40M to expand its display tech into data centers",
+        "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+        "source": "TechCrunch",
+        "published": "2026-09-22T06:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Meta Quest Promo Codes and Coupons for September 2026",
+        "translated_title": "Meta Quest Promo Codes and Coupons for September 2026",
+        "url": "https://www.wired.com/story/meta-quest-promo-code/",
+        "source": "Wired",
+        "published": "2026-09-22T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Loop Earplugs Discount Codes: 40% Off",
+        "translated_title": "Loop Earplugs Discount Codes: 40% Off",
+        "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
+        "source": "Wired",
+        "published": "2026-09-22T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ruggable Discount Code: 30% Off Rugs | September 2026",
+        "translated_title": "Ruggable Discount Code: 30% Off Rugs | September 2026",
+        "url": "https://www.wired.com/story/ruggable-discount-code/",
+        "source": "Wired",
+        "published": "2026-09-22T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "1Password Coupon: Score a Free Trial in September 2026",
+        "translated_title": "1Password Coupon: Score a Free Trial in September 2026",
+        "url": "https://www.wired.com/story/1password-coupon/",
+        "source": "Wired",
+        "published": "2026-09-22T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Used ThinkPad Buyer's Guide (2019)",
+        "translated_title": "Used ThinkPad Buyer's Guide (2019)",
+        "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
+        "source": "Hacker News",
+        "published": "2026-09-22T04:14:47+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+        "translated_title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+        "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+        "source": "Hacker News",
+        "published": "2026-09-22T04:02:09+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Claude Status – Elevated errors for multiple models",
+        "translated_title": "Claude Status – Elevated errors for multiple models",
+        "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+        "source": "Hacker News",
+        "published": "2026-09-22T01:05:19+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Președintele Nicușor Dan cere consultarea specialiștilor privind interzicerea accesului copiilor la rețelele de socializare",
+        "translated_title": "Președintele Nicușor Dan cere consultarea specialiștilor privind interzicerea accesului copiilor la rețelele de socializare",
+        "url": "https://www.go4it.ro/content/social-media/presedintele-nicusor-dan-cere-consultarea-specialistilor-privind-interzicerea-accesului-copiilor-la-retelele-de-socializare-19285750/",
+        "source": "Go4IT",
+        "published": "2026-09-22T09:02:17.981333+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Motivul inedit pentru care angajații din China merg la cinema în pauzele de prânz. Care este alternativa europeană",
+        "translated_title": "Motivul inedit pentru care angajații din China merg la cinema în pauzele de prânz. Care este alternativa europeană",
+        "url": "https://www.go4it.ro/content/curiozitati/motivul-inedit-pentru-care-angajatii-din-china-merg-la-cinema-in-pauzele-de-pranz-care-este-alternativa-europeana-19285753/",
+        "source": "Go4IT",
+        "published": "2026-09-22T09:02:17.981147+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Oamenii de știință au creat o baterie care poate fi înghițită. Ar putea fi folosită pentru alimentarea dispozitivelor medicale",
+        "translated_title": "Oamenii de știință au creat o baterie care poate fi înghițită. Ar putea fi folosită pentru alimentarea dispozitivelor medicale",
+        "url": "https://www.go4it.ro/content/curiozitati/oamenii-de-stiinta-au-creat-o-baterie-care-poate-fi-inghitita-ar-putea-fi-folosita-pentru-alimentarea-dispozitivelor-medicale-19285755/",
+        "source": "Go4IT",
+        "published": "2026-09-22T09:02:17.980960+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Actrița Cate Blanchett cere oamenilor să nu mai folosească telefoanele mobile în timpul spectacolelor",
+        "translated_title": "Actrița Cate Blanchett cere oamenilor să nu mai folosească telefoanele mobile în timpul spectacolelor",
+        "url": "https://www.go4it.ro/content/muzica-si-filme/actrita-cate-blanchett-cere-oamenilor-sa-nu-mai-foloseasca-telefoanele-mobile-in-timpul-spectacolelor-19285757/",
+        "source": "Go4IT",
+        "published": "2026-09-22T09:02:17.980768+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-21",
     "date_formatted": "21 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/accesorii/rolex-readuce-la-viata-padellone-dupa-peste-70-de-ani-ce-este-nou-la-modelul-legendar-19285197/",
         "source": "Go4IT",
         "published": "2026-09-16T09:05:35.614713+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-15",
-    "date_formatted": "15 Septembrie 2026",
-    "news": [
-      {
-        "title": "System 76 Pangolin Pro Review (2026): Powerhouse Linux Laptop",
-        "translated_title": "System 76 Pangolin Pro Review (2026): Powerhouse Linux Laptop",
-        "url": "https://www.wired.com/review/system76-pangolin-pro-linux-laptop/",
-        "source": "Wired",
-        "published": "2026-09-15T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
-        "translated_title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
-        "url": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
-        "source": "The Verge",
-        "published": "2026-09-15T08:54:48+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple TV cleaned up at the Emmys with eight wins for Widow's Bay and Pluribus",
-        "translated_title": "Apple TV cleaned up at the Emmys with eight wins for Widow's Bay and Pluribus",
-        "url": "https://www.engadget.com/2258734/apple-tv-wins-big-widows-bay-pluribus-emmys/",
-        "source": "Engadget",
-        "published": "2026-09-15T08:15:37+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
-        "translated_title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
-        "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
-        "source": "Hacker News",
-        "published": "2026-09-15T07:00:30+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
-        "translated_title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
-        "url": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
-        "source": "The Verge",
-        "published": "2026-09-15T07:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "2028 Volvo XC60 and XC90 first look: Double the range and smarter safety, too",
-        "translated_title": "2028 Volvo XC60 and XC90 first look: Double the range and smarter safety, too",
-        "url": "https://www.engadget.com/2255878/2028-volvo-xc60-and-xc90-first-look/",
-        "source": "Engadget",
-        "published": "2026-09-15T07:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "I can't stop thinking about Papua New Guinea",
-        "translated_title": "I can't stop thinking about Papua New Guinea",
-        "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-        "source": "Hacker News",
-        "published": "2026-09-15T06:16:24+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Linux from Scratch",
-        "translated_title": "Linux from Scratch",
-        "url": "https://www.linuxfromscratch.org/",
-        "source": "Hacker News",
-        "published": "2026-09-15T04:15:23+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "US confirms for first time it has deployed space weapons",
-        "translated_title": "US confirms for first time it has deployed space weapons",
-        "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
-        "source": "Hacker News",
-        "published": "2026-09-15T03:47:56+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How to use Meta Display glasses while driving with the Audio Only feature",
-        "translated_title": "How to use Meta Display glasses while driving with the Audio Only feature",
-        "url": "https://www.engadget.com/2255133/meta-display-glasses-audio-only-driving-detection-feature/",
-        "source": "Engadget",
-        "published": "2026-09-15T00:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
-        "translated_title": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
-        "url": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
-        "source": "Wired",
-        "published": "2026-09-15T00:23:42+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Serialele „Widow’s Bay” și „The Pitt” sunt marile câștigătoare ale Premiilor Emmy 2026",
-        "translated_title": "Serialele „Widow’s Bay” și „The Pitt” sunt marile câștigătoare ale Premiilor Emmy 2026",
-        "url": "https://www.go4it.ro/content/muzica-si-filme/serialele-widows-bay-si-the-pitt-sunt-marile-castigatoare-ale-premiilor-emmy-2026-19285044/",
-        "source": "Go4IT",
-        "published": "2026-09-15T09:12:56.093730+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Orient a lansat o alternativă mai accesibilă la modelul Tissot PRX. Preț și disponibilitate",
-        "translated_title": "Orient a lansat o alternativă mai accesibilă la modelul Tissot PRX. Preț și disponibilitate",
-        "url": "https://www.go4it.ro/content/accesorii/orient-a-lansat-o-alternativa-mai-accesibila-la-modelul-tissot-prx-pret-si-disponibilitate-19285047/",
-        "source": "Go4IT",
-        "published": "2026-09-15T09:12:56.093525+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "O relație pornită pe Tinder a declanșat a o anchetă de spionaj în inima NATO",
-        "translated_title": "O relație pornită pe Tinder a declanșat a o anchetă de spionaj în inima NATO",
-        "url": "https://www.go4it.ro/content/social-media/o-relatie-pornita-pe-tinder-a-declansat-a-o-ancheta-de-spionaj-in-inima-nato-19285051/",
-        "source": "Go4IT",
-        "published": "2026-09-15T09:12:56.093333+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Coreea de Sud a lansat o aplicație care avertizează victimele atunci când agresorii se apropie",
-        "translated_title": "Coreea de Sud a lansat o aplicație care avertizează victimele atunci când agresorii se apropie",
-        "url": "https://www.go4it.ro/content/aplicatii/coreea-de-sud-a-lansat-o-aplicatie-care-avertizeaza-victimele-atunci-cand-agresorii-se-apropie-19285056/",
-        "source": "Go4IT",
-        "published": "2026-09-15T09:12:56.093149+00:00",
         "summary": null,
         "category": "romanian"
       }
