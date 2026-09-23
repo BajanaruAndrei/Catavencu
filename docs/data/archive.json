@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-23",
+    "date_formatted": "23 Septembrie 2026",
+    "news": [
+      {
+        "title": "Jev in 25 Lines of Python",
+        "translated_title": "Jev in 25 Lines of Python",
+        "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+        "source": "Hacker News",
+        "published": "2026-09-23T07:26:23+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How often do you think about the 1893 World's Fair?",
+        "translated_title": "How often do you think about the 1893 World's Fair?",
+        "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
+        "source": "Hacker News",
+        "published": "2026-09-23T05:32:51+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "30% Off Canon Promo Codes | September 2026",
+        "translated_title": "30% Off Canon Promo Codes | September 2026",
+        "url": "https://www.wired.com/story/canon-promo-code/",
+        "source": "Wired",
+        "published": "2026-09-23T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "PlayStation Discount Code: Save on PS5 Games September 2026",
+        "translated_title": "PlayStation Discount Code: Save on PS5 Games September 2026",
+        "url": "https://www.wired.com/story/playstation-discount-code/",
+        "source": "Wired",
+        "published": "2026-09-23T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+        "translated_title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+        "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+        "source": "TechCrunch",
+        "published": "2026-09-23T04:59:08+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+        "translated_title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+        "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+        "source": "Hacker News",
+        "published": "2026-09-23T04:00:43+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Data-only attacks are easier than you think (2024)",
+        "translated_title": "Data-only attacks are easier than you think (2024)",
+        "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+        "source": "Hacker News",
+        "published": "2026-09-23T03:49:28+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Discord’s age verification era is upon us, despite community backlash",
+        "translated_title": "Discord’s age verification era is upon us, despite community backlash",
+        "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+        "source": "TechCrunch",
+        "published": "2026-09-23T03:31:12+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+        "translated_title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+        "source": "The Verge",
+        "published": "2026-09-23T00:17:17+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The pros and cons of using a password manager over an authenticator app",
+        "translated_title": "The pros and cons of using a password manager over an authenticator app",
+        "url": "https://www.engadget.com/2264763/using-password-manager-instead-of-authenticator-app-pros-cons/",
+        "source": "Engadget",
+        "published": "2026-09-23T00:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "iOS 27: How to hide or replace the audio button in iMessages",
+        "translated_title": "iOS 27: How to hide or replace the audio button in iMessages",
+        "url": "https://www.engadget.com/2264685/how-to-remove-voice-button-iphone-imessages-ios-27/",
+        "source": "Engadget",
+        "published": "2026-09-22T23:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Tom Cruise dezvăluie metoda neobișnuită prin care își pregătește rolurile. Urmează noul său film „Digger”",
+        "translated_title": "Tom Cruise dezvăluie metoda neobișnuită prin care își pregătește rolurile. Urmează noul său film „Digger”",
+        "url": "https://www.go4it.ro/content/muzica-si-filme/tom-cruise-dezvaluie-metoda-neobisnuita-prin-care-isi-pregateste-rolurile-urmeaza-noul-sau-film-digger-19285884/",
+        "source": "Go4IT",
+        "published": "2026-09-23T09:06:16.943444+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Poate inteligența artificială să distrugă omenirea? Care este riscul real",
+        "translated_title": "Poate inteligența artificială să distrugă omenirea? Care este riscul real",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/poate-inteligenta-artificiala-sa-distruga-omenirea-care-este-riscul-real-19285887/",
+        "source": "Go4IT",
+        "published": "2026-09-23T09:06:16.943336+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Reclamă online prin care se caută actori africani pentru filme de acțiuni. În realitate, tinerii de culoare sunt trimiși pe front în Ucraina",
+        "translated_title": "Reclamă online prin care se caută actori africani pentru filme de acțiuni. În realitate, tinerii de culoare sunt trimiși pe front în Ucraina",
+        "url": "https://www.go4it.ro/content/social-media/reclama-online-prin-care-se-cauta-actori-africani-pentru-filme-de-actiuni-in-realitate-tinerii-de-culoare-sunt-trimisi-pe-front-in-ucraina-19285889/",
+        "source": "Go4IT",
+        "published": "2026-09-23T09:06:16.943222+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Tranzacții instant prin apropierea telefonului: CEC Bank lansează transferurile RoPay prin NFC",
+        "translated_title": "Tranzacții instant prin apropierea telefonului: CEC Bank lansează transferurile RoPay prin NFC",
+        "url": "https://www.go4it.ro/content/business/tranzactii-instant-prin-apropierea-telefonului-cec-bank-lanseaza-transferurile-ropay-prin-nfc-19285894/",
+        "source": "Go4IT",
+        "published": "2026-09-23T09:06:16.943113+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-22",
     "date_formatted": "22 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/internet/hackerii-au-pacalit-revolut-folosind-adresa-unei-prefecturi-din-italia-datele-a-680-de-clienti-au-fost-transmise-19285301/",
         "source": "Go4IT",
         "published": "2026-09-17T09:13:44.910948+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-16",
-    "date_formatted": "16 Septembrie 2026",
-    "news": [
-      {
-        "title": "Meta is reportedly ready to launch less pervy smart glasses",
-        "translated_title": "Meta is reportedly ready to launch less pervy smart glasses",
-        "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
-        "source": "The Verge",
-        "published": "2026-09-16T08:54:46+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy",
-        "translated_title": "‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy",
-        "url": "https://www.wired.com/story/smart-nanoparticles-deliver-mrna-directly-to-tumors-in-new-cancer-therapy/",
-        "source": "Wired",
-        "published": "2026-09-16T08:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
-        "translated_title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
-        "url": "https://github.com/dbalsom/martypc",
-        "source": "Hacker News",
-        "published": "2026-09-16T05:56:02+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A software thing I built: GPS on a 25MHz 486-SX",
-        "translated_title": "A software thing I built: GPS on a 25MHz 486-SX",
-        "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-        "source": "Hacker News",
-        "published": "2026-09-16T05:43:44+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Bose Promo Code: 40% Off for September 2026",
-        "translated_title": "Bose Promo Code: 40% Off for September 2026",
-        "url": "https://www.wired.com/story/bose-coupon-code/",
-        "source": "Wired",
-        "published": "2026-09-16T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
-        "translated_title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
-        "url": "https://www.wired.com/story/naturepedic-promo-code/",
-        "source": "Wired",
-        "published": "2026-09-16T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Chegg Coupon Codes September 2026: Save on Study, Textbooks, & More",
-        "translated_title": "Chegg Coupon Codes September 2026: Save on Study, Textbooks, & More",
-        "url": "https://www.wired.com/story/chegg-coupon-code/",
-        "source": "Wired",
-        "published": "2026-09-16T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Datamimic – don't let your coding agent invent its own test world",
-        "translated_title": "Datamimic – don't let your coding agent invent its own test world",
-        "url": "https://github.com/rapiddweller/datamimic",
-        "source": "Hacker News",
-        "published": "2026-09-16T04:58:36+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Negativland, Culture Jamming, and the Art of Making Something New",
-        "translated_title": "Negativland, Culture Jamming, and the Art of Making Something New",
-        "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-        "source": "Hacker News",
-        "published": "2026-09-16T02:46:06+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
-        "translated_title": "The Boox Palma 3 gets stylus support and a sleek redesign",
-        "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
-        "source": "The Verge",
-        "published": "2026-09-16T02:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
-        "translated_title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
-        "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
-        "source": "The Verge",
-        "published": "2026-09-16T01:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Condamnare pentru un român care deținea 240 de dispozitive de skimming într-o locuință din San Antonio. Sute de carduri bancare compromise",
-        "translated_title": "Condamnare pentru un român care deținea 240 de dispozitive de skimming într-o locuință din San Antonio. Sute de carduri bancare compromise",
-        "url": "https://www.go4it.ro/securitate-informatica/condamnare-pentru-un-roman-care-detinea-240-de-dispozitive-de-skimming-intr-o-locuinta-din-san-antonio-sute-de-carduri-bancare-compromise-19285192/",
-        "source": "Go4IT",
-        "published": "2026-09-16T09:05:35.615142+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "DNSC: O breșă gravă pune în pericol serverele de e-mail Cisco",
-        "translated_title": "DNSC: O breșă gravă pune în pericol serverele de e-mail Cisco",
-        "url": "https://www.go4it.ro/securitate-informatica/dnsc-o-bresa-grava-pune-in-pericol-serverele-de-e-mail-cisco-19285196/",
-        "source": "Go4IT",
-        "published": "2026-09-16T09:05:35.615005+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Alianță de urgență în Silicon Valley: giganții AI sfidează Casa Albă și își creează propriul organism de supraveghere",
-        "translated_title": "Alianță de urgență în Silicon Valley: giganții AI sfidează Casa Albă și își creează propriul organism de supraveghere",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/alianta-de-urgenta-in-silicon-valley-gigantii-ai-sfideaza-casa-alba-si-isi-creeaza-propriul-organism-de-supraveghere-19285195/",
-        "source": "Go4IT",
-        "published": "2026-09-16T09:05:35.614853+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Rolex readuce la viață Padellone după peste 70 de ani. O poreclă italiană intră oficial în gama Rolex",
-        "translated_title": "Rolex readuce la viață Padellone după peste 70 de ani. O poreclă italiană intră oficial în gama Rolex",
-        "url": "https://www.go4it.ro/content/accesorii/rolex-readuce-la-viata-padellone-dupa-peste-70-de-ani-ce-este-nou-la-modelul-legendar-19285197/",
-        "source": "Go4IT",
-        "published": "2026-09-16T09:05:35.614713+00:00",
         "summary": null,
         "category": "romanian"
       }
