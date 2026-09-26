@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-26",
+    "date_formatted": "26 Septembrie 2026",
+    "news": [
+      {
+        "title": "CAPTCHAs don't prove you're human – they prove you're American",
+        "translated_title": "CAPTCHAs don't prove you're human – they prove you're American",
+        "url": "https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/",
+        "source": "Hacker News",
+        "published": "2026-09-26T08:27:19+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Is your Postgres migration safe or not safe?",
+        "translated_title": "Is your Postgres migration safe or not safe?",
+        "url": "https://safenotsafe.dev/",
+        "source": "Hacker News",
+        "published": "2026-09-26T07:33:12+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Can ‘eSUV’ e-bikes really go from trail to town?",
+        "translated_title": "Can ‘eSUV’ e-bikes really go from trail to town?",
+        "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+        "source": "The Verge",
+        "published": "2026-09-26T07:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
+        "translated_title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
+        "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+        "source": "Hacker News",
+        "published": "2026-09-26T06:51:12+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "A single function Jev-like wrapper for LLMs, including vision models",
+        "translated_title": "A single function Jev-like wrapper for LLMs, including vision models",
+        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+        "source": "Hacker News",
+        "published": "2026-09-26T04:20:58+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "At Meta Connect, the company’s smart glasses were everywhere",
+        "translated_title": "At Meta Connect, the company’s smart glasses were everywhere",
+        "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+        "source": "TechCrunch",
+        "published": "2026-09-26T01:08:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
+        "translated_title": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
+        "url": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/",
+        "source": "Wired",
+        "published": "2026-09-26T00:02:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "translated_title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+        "source": "TechCrunch",
+        "published": "2026-09-25T23:11:10+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Automattic has a new board after failed attempt to put CEO on leave",
+        "translated_title": "Automattic has a new board after failed attempt to put CEO on leave",
+        "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+        "source": "TechCrunch",
+        "published": "2026-09-25T23:04:34+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+        "translated_title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+        "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+        "source": "TechCrunch",
+        "published": "2026-09-25T22:20:47+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+        "translated_title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+        "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+        "source": "Wired",
+        "published": "2026-09-25T20:30:40+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ucraina: mită de un milion de dolari pentru drone. Alți bani, ascunși în criptomonede",
+        "translated_title": "Ucraina: mită de un milion de dolari pentru drone. Alți bani, ascunși în criptomonede",
+        "url": "https://www.go4it.ro/content/drone/ucraina-mita-de-un-milion-de-dolari-pentru-drone-alti-bani-ascunsi-in-criptomonede-19286150/",
+        "source": "Go4IT",
+        "published": "2026-09-26T09:08:49.794306+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Alertă DNSC: Milioane de site-uri WordPress, expuse unui risc cibernetic major. Actualizarea este urgentă",
+        "translated_title": "Alertă DNSC: Milioane de site-uri WordPress, expuse unui risc cibernetic major. Actualizarea este urgentă",
+        "url": "https://www.go4it.ro/securitate-informatica/alerta-dnsc-milioane-de-site-uri-wordpress-expuse-unui-risc-cibernetic-major-actualizarea-este-urgenta-19286173/",
+        "source": "Go4IT",
+        "published": "2026-09-26T09:08:49.794204+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Amendă de 5.000 de euro pentru lanțul de cofetării Tip Top: pontajul pe bază de amprente la locul de muncă a încălcat legea",
+        "translated_title": "Amendă de 5.000 de euro pentru lanțul de cofetării Tip Top: pontajul pe bază de amprente la locul de muncă a încălcat legea",
+        "url": "https://www.go4it.ro/securitate-informatica/amenda-de-5-000-de-euro-pentru-lantul-de-cofetarii-tip-top-pontajul-pe-baza-de-amprente-la-locul-de-munca-a-incalcat-legea-19286175/",
+        "source": "Go4IT",
+        "published": "2026-09-26T09:08:49.794101+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "VIDEO: U2 a lansat „Silencio”, al doilea single de pe „Carnaval De Luz”, al 16-lea album de studio al formației",
+        "translated_title": "VIDEO: U2 a lansat „Silencio”, al doilea single de pe „Carnaval De Luz”, al 16-lea album de studio al formației",
+        "url": "https://www.go4it.ro/content/muzica-si-filme/video-u2-a-lansat-silencio-al-doilea-single-de-pe-carnaval-de-luz-al-16-lea-album-de-studio-al-formatiei-19286153/",
+        "source": "Go4IT",
+        "published": "2026-09-26T09:08:49.793975+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-25",
     "date_formatted": "25 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/securitate-informatica/rusia-acuza-atacuri-cibernetice-majore-si-sabotaje-in-a-doua-zi-a-alegerilor-parlamentare-19285539/",
         "source": "Go4IT",
         "published": "2026-09-20T09:05:18.954625+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-19",
-    "date_formatted": "19 Septembrie 2026",
-    "news": [
-      {
-        "title": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
-        "translated_title": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
-        "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with/",
-        "source": "Hacker News",
-        "published": "2026-09-19T07:13:10+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-        "translated_title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-        "source": "Hacker News",
-        "published": "2026-09-19T06:41:44+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "If math is more than proof, we need to better celebrate the rest of it",
-        "translated_title": "If math is more than proof, we need to better celebrate the rest of it",
-        "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-        "source": "Hacker News",
-        "published": "2026-09-19T06:28:02+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
-        "translated_title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
-        "url": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
-        "source": "Wired",
-        "published": "2026-09-19T06:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-        "translated_title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-        "source": "Hacker News",
-        "published": "2026-09-19T05:48:50+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Paramount+ Coupon Codes and Deals for September 2026",
-        "translated_title": "Paramount+ Coupon Codes and Deals for September 2026",
-        "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-        "source": "Wired",
-        "published": "2026-09-19T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "KitchenAid Promo Codes: Save Up to 20%",
-        "translated_title": "KitchenAid Promo Codes: Save Up to 20%",
-        "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-        "source": "Wired",
-        "published": "2026-09-19T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Flock Offers Employees Buyouts as Customers Flee",
-        "translated_title": "Flock Offers Employees Buyouts as Customers Flee",
-        "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
-        "source": "Wired",
-        "published": "2026-09-19T02:22:54+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "India forces caller-ID apps to feed spam reports to telcos",
-        "translated_title": "India forces caller-ID apps to feed spam reports to telcos",
-        "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-        "source": "TechCrunch",
-        "published": "2026-09-19T01:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-        "translated_title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-        "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-        "source": "TechCrunch",
-        "published": "2026-09-19T00:12:07+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-        "translated_title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-        "source": "TechCrunch",
-        "published": "2026-09-18T23:25:01+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Microsoft a lansat o actualizare de urgență pentru Windows 11 pentru a remedia problemele provocate de patch-ul record din septembrie",
-        "translated_title": "Microsoft a lansat o actualizare de urgență pentru Windows 11 pentru a remedia problemele provocate de patch-ul record din septembrie",
-        "url": "https://www.go4it.ro/securitate-informatica/microsoft-a-lansat-o-actualizare-de-urgenta-pentru-windows-11-pentru-a-remedia-problemele-provocate-de-patch-ul-record-din-septembrie-19285502/",
-        "source": "Go4IT",
-        "published": "2026-09-19T08:32:59.664965+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Acuzații false de jaf bancar: O bunică cere daune de 10 milioane de dolari după o eroare a tehnologiei de recunoaștere facială bazată pe AI",
-        "translated_title": "Acuzații false de jaf bancar: O bunică cere daune de 10 milioane de dolari după o eroare a tehnologiei de recunoaștere facială bazată pe AI",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/acuzatii-false-de-jaf-bancar-o-bunica-cere-daune-de-10-milioane-de-dolari-dupa-o-eroare-a-tehnologiei-de-recunoastere-faciala-bazata-pe-ai-19285497/",
-        "source": "Go4IT",
-        "published": "2026-09-19T08:32:59.664761+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Apple a dezvoltat tehnologia Reference Image pentru a dovedi criptografic că o fotografie este autentică",
-        "translated_title": "Apple a dezvoltat tehnologia Reference Image pentru a dovedi criptografic că o fotografie este autentică",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/apple-a-dezvoltat-tehnologia-reference-image-pentru-a-dovedi-criptografic-ca-o-fotografie-este-autentica-19285508/",
-        "source": "Go4IT",
-        "published": "2026-09-19T08:32:59.664583+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Bitdefender: Imaginea lui Florin Talpeș, folosită într-o nouă înșelătorie online care promite câștiguri rapide",
-        "translated_title": "Bitdefender: Imaginea lui Florin Talpeș, folosită într-o nouă înșelătorie online care promite câștiguri rapide",
-        "url": "https://www.go4it.ro/securitate-informatica/bitdefender-imaginea-lui-florin-talpes-folosita-intr-o-noua-inselatorie-online-care-promite-castiguri-rapide-19285511/",
-        "source": "Go4IT",
-        "published": "2026-09-19T08:32:59.664400+00:00",
         "summary": null,
         "category": "romanian"
       }
