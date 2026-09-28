@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-28",
+    "date_formatted": "28 Septembrie 2026",
+    "news": [
+      {
+        "title": "I've Tested Over 100 Home Security Cameras. Here's Which to Buy",
+        "translated_title": "I've Tested Over 100 Home Security Cameras. Here's Which to Buy",
+        "url": "https://www.wired.com/story/best-security-cameras/",
+        "source": "Wired",
+        "published": "2026-09-28T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+        "translated_title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+        "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+        "source": "Wired",
+        "published": "2026-09-28T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+        "translated_title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+        "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+        "source": "Wired",
+        "published": "2026-09-28T09:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK",
+        "translated_title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK",
+        "url": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
+        "source": "Hacker News",
+        "published": "2026-09-28T09:23:37+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "SpaceX's Starship launching to orbit for first time ever today",
+        "translated_title": "SpaceX's Starship launching to orbit for first time ever today",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+        "source": "Hacker News",
+        "published": "2026-09-28T09:15:04+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+        "translated_title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+        "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+        "source": "Wired",
+        "published": "2026-09-28T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Who’s liable when AI agents go rogue?",
+        "translated_title": "Who’s liable when AI agents go rogue?",
+        "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+        "source": "MIT Technology Review",
+        "published": "2026-09-28T08:06:22+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+        "translated_title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+        "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+        "source": "The Verge",
+        "published": "2026-09-28T08:00:36+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Prompting Claude Opus 5.5",
+        "translated_title": "Prompting Claude Opus 5.5",
+        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+        "source": "Hacker News",
+        "published": "2026-09-28T07:33:29+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Made by Mechanical Means",
+        "translated_title": "Made by Mechanical Means",
+        "url": "https://felixrieseberg.com/made-by-mechanical-means/",
+        "source": "Hacker News",
+        "published": "2026-09-28T07:06:06+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "You can now preorder the tiny Boox Picco ereader",
+        "translated_title": "You can now preorder the tiny Boox Picco ereader",
+        "url": "https://www.engadget.com/2268196/you-can-now-preorder-the-tiny-boox-picco-ereader/",
+        "source": "Engadget",
+        "published": "2026-09-28T07:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Alerte „Alpha Scramble” la Mihail Kogălniceanu: Cum interceptează avioanele F-18 spaniole dronele intrate în spațiul aerian românesc",
+        "translated_title": "Alerte „Alpha Scramble” la Mihail Kogălniceanu: Cum interceptează avioanele F-18 spaniole dronele intrate în spațiul aerian românesc",
+        "url": "https://www.go4it.ro/tehnologie-militara/alerte-alpha-scramble-la-mihail-kogalniceanu-cum-intercepteaza-avioanele-f-18-spaniole-dronele-intrate-in-spatiul-aerian-romanesc-19286309/",
+        "source": "Go4IT",
+        "published": "2026-09-28T10:36:57.970148+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Orașul viitorului pentru elita tehnologiei: Proiectul de 1 miliard de dolari pe care compania Praxis vrea să îl ridice în Uruguay",
+        "translated_title": "Orașul viitorului pentru elita tehnologiei: Proiectul de 1 miliard de dolari pe care compania Praxis vrea să îl ridice în Uruguay",
+        "url": "https://www.go4it.ro/content/business/orasul-viitorului-pentru-elita-tehnologiei-proiectul-de-1-miliard-de-dolari-pe-care-compania-praxis-vrea-sa-il-ridice-in-uruguay-19286312/",
+        "source": "Go4IT",
+        "published": "2026-09-28T10:36:57.969961+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "DNA se blindează împotriva interceptărilor de la distanță: achiziție de calculatoare anti-spionaj în valoare de peste 360.000 de lei",
+        "translated_title": "DNA se blindează împotriva interceptărilor de la distanță: achiziție de calculatoare anti-spionaj în valoare de peste 360.000 de lei",
+        "url": "https://www.go4it.ro/content/business/dna-se-blindeaza-impotriva-interceptarilor-de-la-distanta-achizitie-de-calculatoare-anti-spionaj-in-valoare-de-peste-360-000-de-lei-19286316/",
+        "source": "Go4IT",
+        "published": "2026-09-28T10:36:57.969775+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "REVIEW | Tastatura de gaming Epomaker HE60: Caracteristici pentru eSports și baterie „heavy-duty” de 8.000 mAh",
+        "translated_title": "REVIEW | Tastatura de gaming Epomaker HE60: Caracteristici pentru eSports și baterie „heavy-duty” de 8.000 mAh",
+        "url": "https://www.go4it.ro/content/periferice/tastaturi-si-mouse/review-tastatura-de-gaming-epomaker-he60-caracteristici-pentru-esports-si-baterie-heavy-duty-de-8-000-mah-19286318/",
+        "source": "Go4IT",
+        "published": "2026-09-28T10:36:57.969582+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-27",
     "date_formatted": "27 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/muzica-si-filme/actrita-cate-blanchett-cere-oamenilor-sa-nu-mai-foloseasca-telefoanele-mobile-in-timpul-spectacolelor-19285757/",
         "source": "Go4IT",
         "published": "2026-09-22T09:02:17.980768+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-21",
-    "date_formatted": "21 Septembrie 2026",
-    "news": [
-      {
-        "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-        "translated_title": "Amazon doesn’t trust Meta’s Muse AI agent",
-        "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-        "source": "The Verge",
-        "published": "2026-09-21T09:21:47+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury",
-        "translated_title": "After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury",
-        "url": "https://www.wired.com/story/after-8-years-in-space-bepicolombo-finally-approaching-mercury/",
-        "source": "Wired",
-        "published": "2026-09-21T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-        "translated_title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-        "url": "https://github.com/jaredpalmer/kev/tree/main",
-        "source": "Hacker News",
-        "published": "2026-09-21T07:11:55+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-        "translated_title": "Grim Fandango Puzzle Document (1996) [pdf]",
-        "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-        "source": "Hacker News",
-        "published": "2026-09-21T05:55:22+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-        "translated_title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-        "url": "https://github.com/volotat/mini-AGI/",
-        "source": "Hacker News",
-        "published": "2026-09-21T04:42:37+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Heretic removes restrictions from language models",
-        "translated_title": "Heretic removes restrictions from language models",
-        "url": "https://heretic-project.org/",
-        "source": "Hacker News",
-        "published": "2026-09-21T04:35:22+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "One mobile number, two phones: What is iPhone handoff and which carriers support it?",
-        "translated_title": "One mobile number, two phones: What is iPhone handoff and which carriers support it?",
-        "url": "https://www.engadget.com/2260552/iphone-handoff-uses-carriers-explained/",
-        "source": "Engadget",
-        "published": "2026-09-21T00:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Wired vs. wireless internet: Which should you choose for your home?",
-        "translated_title": "Wired vs. wireless internet: Which should you choose for your home?",
-        "url": "https://www.engadget.com/2260477/wired-vs-wireless-internet-which-choose-for-home/",
-        "source": "Engadget",
-        "published": "2026-09-21T00:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Which major chatbot apps work with CarPlay?",
-        "translated_title": "Which major chatbot apps work with CarPlay?",
-        "url": "https://www.engadget.com/2260401/major-chatbot-apps-work-with-carplay/",
-        "source": "Engadget",
-        "published": "2026-09-20T23:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "7 ways to get free movies and TV channels on your smart TV",
-        "translated_title": "7 ways to get free movies and TV channels on your smart TV",
-        "url": "https://www.engadget.com/2262964/ways-to-get-free-movies-channels-on-smart-tv/",
-        "source": "Engadget",
-        "published": "2026-09-20T23:15:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-        "translated_title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-        "source": "TechCrunch",
-        "published": "2026-09-20T21:41:08+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Drona cu mustăți: Cercetătorii au găsit o soluție pentru orientarea dronei într-un mediu ostil",
-        "translated_title": "Drona cu mustăți: Cercetătorii au găsit o soluție pentru orientarea dronei într-un mediu ostil",
-        "url": "https://www.go4it.ro/content/stiinta/drona-cu-mustati-cercetatorii-au-gasit-o-solutie-pentru-orientarea-dronei-intr-un-mediu-ostil-19285633/",
-        "source": "Go4IT",
-        "published": "2026-09-21T09:37:37.125649+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Gigafabricile AI ale Europei nu reprezintă doar un proiect de infrastructură, ci o oportunitate de afaceri",
-        "translated_title": "Gigafabricile AI ale Europei nu reprezintă doar un proiect de infrastructură, ci o oportunitate de afaceri",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/gigafabricile-ai-ale-europei-nu-reprezinta-doar-un-proiect-de-infrastructura-ci-o-oportunitate-de-afaceri-19285662/",
-        "source": "Go4IT",
-        "published": "2026-09-21T09:37:37.125452+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Megaproiect feroviar la Marea Neagră: un tren va traversa litoralul cu 250 km/h",
-        "translated_title": "Megaproiect feroviar la Marea Neagră: un tren va traversa litoralul cu 250 km/h",
-        "url": "https://www.go4it.ro/content/anunturi/megaproiect-feroviar-la-marea-neagra-un-tren-va-traversa-litoralul-cu-250-km-h-19285638/",
-        "source": "Go4IT",
-        "published": "2026-09-21T09:37:37.125206+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Cercetătorii susțin că Soarele a devorat un „super-Pământ” în tinerețea sa",
-        "translated_title": "Cercetătorii susțin că Soarele a devorat un „super-Pământ” în tinerețea sa",
-        "url": "https://www.go4it.ro/content/stiinta/cercetatorii-sustin-ca-soarele-a-devorat-un-super-pamant-in-tineretea-sa-19285640/",
-        "source": "Go4IT",
-        "published": "2026-09-21T09:37:37.125002+00:00",
         "summary": null,
         "category": "romanian"
       }
