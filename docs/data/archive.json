@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-09-29",
+    "date_formatted": "29 Septembrie 2026",
+    "news": [
+      {
+        "title": "A Pentagon Influencer Called Liberal Women a ‘Pestilence’ Who Will End Western Civilization",
+        "translated_title": "A Pentagon Influencer Called Liberal Women a ‘Pestilence’ Who Will End Western Civilization",
+        "url": "https://www.wired.com/story/a-pentagon-influencer-called-liberal-women-a-pestilence-who-will-end-western-civilization/",
+        "source": "Wired",
+        "published": "2026-09-29T10:15:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Your car’s data privacy problems are worse than you think",
+        "translated_title": "Your car’s data privacy problems are worse than you think",
+        "url": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
+        "source": "The Verge",
+        "published": "2026-09-29T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+        "translated_title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+        "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+        "source": "TechCrunch",
+        "published": "2026-09-29T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Beats 360 Review: Customizable, Stylish, and Fun",
+        "translated_title": "Beats 360 Review: Customizable, Stylish, and Fun",
+        "url": "https://www.wired.com/review/beats-360/",
+        "source": "Wired",
+        "published": "2026-09-29T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Anthropic lost $8 billion last year and said its AI could destroy humanity",
+        "translated_title": "Anthropic lost $8 billion last year and said its AI could destroy humanity",
+        "url": "https://www.engadget.com/2271659/anthropic-lost-8-billion-says-it-could-destroy-humanity/",
+        "source": "Engadget",
+        "published": "2026-09-29T09:59:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Plastic Is Melting Onto Corals",
+        "translated_title": "Plastic Is Melting Onto Corals",
+        "url": "https://www.wired.com/story/plastic-is-melting-onto-corals/",
+        "source": "Wired",
+        "published": "2026-09-29T09:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Meta now has a version of Muse just for small businesses",
+        "translated_title": "Meta now has a version of Muse just for small businesses",
+        "url": "https://www.engadget.com/2271498/meta-now-has-a-version-of-muse-just-for-small-businesses/",
+        "source": "Engadget",
+        "published": "2026-09-29T09:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "19 Best Gifts for Plant Lovers and Gardeners (2026)",
+        "translated_title": "19 Best Gifts for Plant Lovers and Gardeners (2026)",
+        "url": "https://www.wired.com/story/gifts-for-plant-lovers-and-gardeners-2026/",
+        "source": "Wired",
+        "published": "2026-09-29T09:15:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "AI companies leak data to advertisers [pdf]",
+        "translated_title": "AI companies leak data to advertisers [pdf]",
+        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+        "source": "Hacker News",
+        "published": "2026-09-29T09:03:41+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+        "translated_title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+        "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+        "source": "TechCrunch",
+        "published": "2026-09-29T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Using any C++ library in Godot",
+        "translated_title": "Using any C++ library in Godot",
+        "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+        "source": "Hacker News",
+        "published": "2026-09-29T08:40:37+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Precizia care se repetă, piesă după piesă (P)",
+        "translated_title": "Precizia care se repetă, piesă după piesă (P)",
+        "url": "https://www.go4it.ro/content/advertorial/precizia-care-se-repeta-piesa-dupa-piesa-p-19286432/",
+        "source": "Go4IT",
+        "published": "2026-09-29T10:25:25.410345+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Ordinea care schimbă felul în care trăiești acasă (P)",
+        "translated_title": "Ordinea care schimbă felul în care trăiești acasă (P)",
+        "url": "https://www.go4it.ro/content/advertorial/ordinea-care-schimba-felul-in-care-traiesti-acasa-p-19286437/",
+        "source": "Go4IT",
+        "published": "2026-09-29T10:25:25.410165+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Gadget Parkside cu baterie util la birou și în mașină, disponibil în curând la Lidl",
+        "translated_title": "Gadget Parkside cu baterie util la birou și în mașină, disponibil în curând la Lidl",
+        "url": "https://www.go4it.ro/oferte-din-magazine/gadget-parkside-cu-baterie-util-la-birou-si-in-masina-disponibil-in-curand-la-lidl-19286441/",
+        "source": "Go4IT",
+        "published": "2026-09-29T10:25:25.409982+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "România își consolidează apărarea la Marea Neagră: primele vehicule amfibii AAV-7 din SUA au intrat în dotarea infanteriei marine",
+        "translated_title": "România își consolidează apărarea la Marea Neagră: primele vehicule amfibii AAV-7 din SUA au intrat în dotarea infanteriei marine",
+        "url": "https://www.go4it.ro/tehnologie-militara/romania-isi-consolideaza-apararea-la-marea-neagra-primele-vehicule-amfibii-aav-7-din-sua-au-intrat-in-dotarea-infanteriei-marine-19286445/",
+        "source": "Go4IT",
+        "published": "2026-09-29T10:25:25.409773+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-28",
     "date_formatted": "28 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/business/tranzactii-instant-prin-apropierea-telefonului-cec-bank-lanseaza-transferurile-ropay-prin-nfc-19285894/",
         "source": "Go4IT",
         "published": "2026-09-23T09:06:16.943113+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-22",
-    "date_formatted": "22 Septembrie 2026",
-    "news": [
-      {
-        "title": "OpenAI faces lawsuit from British Columbia over Tumbler Ridge shooting",
-        "translated_title": "OpenAI faces lawsuit from British Columbia over Tumbler Ridge shooting",
-        "url": "https://www.engadget.com/2264989/openai-tumbler-ridge-shooting-lawsuit/",
-        "source": "Engadget",
-        "published": "2026-09-22T08:47:27+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple’s first live music venue is opening beneath its UK headquarters",
-        "translated_title": "Apple’s first live music venue is opening beneath its UK headquarters",
-        "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
-        "source": "The Verge",
-        "published": "2026-09-22T08:35:54+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Can gzip be a language model?",
-        "translated_title": "Can gzip be a language model?",
-        "url": "https://nathan.rs/posts/gzip-lm/",
-        "source": "Hacker News",
-        "published": "2026-09-22T06:08:39+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Morphotonics raises €40M to expand its display tech into data centers",
-        "translated_title": "Morphotonics raises €40M to expand its display tech into data centers",
-        "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
-        "source": "TechCrunch",
-        "published": "2026-09-22T06:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Meta Quest Promo Codes and Coupons for September 2026",
-        "translated_title": "Meta Quest Promo Codes and Coupons for September 2026",
-        "url": "https://www.wired.com/story/meta-quest-promo-code/",
-        "source": "Wired",
-        "published": "2026-09-22T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Loop Earplugs Discount Codes: 40% Off",
-        "translated_title": "Loop Earplugs Discount Codes: 40% Off",
-        "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
-        "source": "Wired",
-        "published": "2026-09-22T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Ruggable Discount Code: 30% Off Rugs | September 2026",
-        "translated_title": "Ruggable Discount Code: 30% Off Rugs | September 2026",
-        "url": "https://www.wired.com/story/ruggable-discount-code/",
-        "source": "Wired",
-        "published": "2026-09-22T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "1Password Coupon: Score a Free Trial in September 2026",
-        "translated_title": "1Password Coupon: Score a Free Trial in September 2026",
-        "url": "https://www.wired.com/story/1password-coupon/",
-        "source": "Wired",
-        "published": "2026-09-22T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Used ThinkPad Buyer's Guide (2019)",
-        "translated_title": "Used ThinkPad Buyer's Guide (2019)",
-        "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
-        "source": "Hacker News",
-        "published": "2026-09-22T04:14:47+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-        "translated_title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-        "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-        "source": "Hacker News",
-        "published": "2026-09-22T04:02:09+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Claude Status – Elevated errors for multiple models",
-        "translated_title": "Claude Status – Elevated errors for multiple models",
-        "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-        "source": "Hacker News",
-        "published": "2026-09-22T01:05:19+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Președintele Nicușor Dan cere consultarea specialiștilor privind interzicerea accesului copiilor la rețelele de socializare",
-        "translated_title": "Președintele Nicușor Dan cere consultarea specialiștilor privind interzicerea accesului copiilor la rețelele de socializare",
-        "url": "https://www.go4it.ro/content/social-media/presedintele-nicusor-dan-cere-consultarea-specialistilor-privind-interzicerea-accesului-copiilor-la-retelele-de-socializare-19285750/",
-        "source": "Go4IT",
-        "published": "2026-09-22T09:02:17.981333+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Motivul inedit pentru care angajații din China merg la cinema în pauzele de prânz. Care este alternativa europeană",
-        "translated_title": "Motivul inedit pentru care angajații din China merg la cinema în pauzele de prânz. Care este alternativa europeană",
-        "url": "https://www.go4it.ro/content/curiozitati/motivul-inedit-pentru-care-angajatii-din-china-merg-la-cinema-in-pauzele-de-pranz-care-este-alternativa-europeana-19285753/",
-        "source": "Go4IT",
-        "published": "2026-09-22T09:02:17.981147+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Oamenii de știință au creat o baterie care poate fi înghițită. Ar putea fi folosită pentru alimentarea dispozitivelor medicale",
-        "translated_title": "Oamenii de știință au creat o baterie care poate fi înghițită. Ar putea fi folosită pentru alimentarea dispozitivelor medicale",
-        "url": "https://www.go4it.ro/content/curiozitati/oamenii-de-stiinta-au-creat-o-baterie-care-poate-fi-inghitita-ar-putea-fi-folosita-pentru-alimentarea-dispozitivelor-medicale-19285755/",
-        "source": "Go4IT",
-        "published": "2026-09-22T09:02:17.980960+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Actrița Cate Blanchett cere oamenilor să nu mai folosească telefoanele mobile în timpul spectacolelor",
-        "translated_title": "Actrița Cate Blanchett cere oamenilor să nu mai folosească telefoanele mobile în timpul spectacolelor",
-        "url": "https://www.go4it.ro/content/muzica-si-filme/actrita-cate-blanchett-cere-oamenilor-sa-nu-mai-foloseasca-telefoanele-mobile-in-timpul-spectacolelor-19285757/",
-        "source": "Go4IT",
-        "published": "2026-09-22T09:02:17.980768+00:00",
         "summary": null,
         "category": "romanian"
       }
