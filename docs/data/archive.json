@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-01",
+    "date_formatted": "1 Octombrie 2026",
+    "news": [
+      {
+        "title": "Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race",
+        "translated_title": "Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race",
+        "url": "https://www.wired.com/story/madison-square-gardens-james-dolan-is-spending-big-on-new-yorks-governor-race/",
+        "source": "Wired",
+        "published": "2026-10-01T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Lemmo’s fancy e-bike is one of the first with a semi-solid state battery",
+        "translated_title": "Lemmo’s fancy e-bike is one of the first with a semi-solid state battery",
+        "url": "https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery",
+        "source": "The Verge",
+        "published": "2026-10-01T10:11:29+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The People of Utah vs. Kevin O’Leary",
+        "translated_title": "The People of Utah vs. Kevin O’Leary",
+        "url": "https://www.theverge.com/cs/features/993343/stratos-utah-kevin-oleary-data-center-backlash",
+        "source": "The Verge",
+        "published": "2026-10-01T10:00:02+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How smaller, distributed batteries could help the grid",
+        "translated_title": "How smaller, distributed batteries could help the grid",
+        "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-01T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple Mac Studio (M5 Ultra) Review: Unlimited Power",
+        "translated_title": "Apple Mac Studio (M5 Ultra) Review: Unlimited Power",
+        "url": "https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/",
+        "source": "Wired",
+        "published": "2026-10-01T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+        "translated_title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+        "url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+        "source": "Hacker News",
+        "published": "2026-10-01T09:48:18+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Secrets of the US Spyware King",
+        "translated_title": "The Secrets of the US Spyware King",
+        "url": "https://www.wired.com/story/the-secrets-of-the-us-spyware-king/",
+        "source": "Wired",
+        "published": "2026-10-01T09:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Noise from Universal’s latest ride made rich locals furious, fast",
+        "translated_title": "Noise from Universal’s latest ride made rich locals furious, fast",
+        "url": "https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise",
+        "source": "The Verge",
+        "published": "2026-10-01T09:00:04+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Casio’s Crystal G-Shock Is the Most Expensive Ever Made",
+        "translated_title": "Casio’s Crystal G-Shock Is the Most Expensive Ever Made",
+        "url": "https://www.wired.com/story/casio-crystal-g-shock-is-the-most-expensive-ever-made/",
+        "source": "Wired",
+        "published": "2026-10-01T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "California's new law bans companies from relying on AI to fire workers",
+        "translated_title": "California's new law bans companies from relying on AI to fire workers",
+        "url": "https://www.engadget.com/2274224/california-law-bans-companies-from-relying-on-ai-to-fire-workers/",
+        "source": "Engadget",
+        "published": "2026-10-01T07:36:44+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple TV is down",
+        "translated_title": "Apple TV is down",
+        "url": "https://www.engadget.com/2274184/apple-tv-is-down/",
+        "source": "Engadget",
+        "published": "2026-10-01T04:22:21+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Black Edition, noua colecție Caviar cu iPhone de lux de până la 14.000 de dolari. Două modele nu mai au camere – VIDEO",
+        "translated_title": "Black Edition, noua colecție Caviar cu iPhone de lux de până la 14.000 de dolari. Două modele nu mai au camere – VIDEO",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/caviar-black-edition-iphone-uri-de-lux-doua-modele-nu-mai-au-camere-19286648/",
+        "source": "Go4IT",
+        "published": "2026-10-01T10:44:15.116673+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Pentagonul creează „Autonomous Warfare Command”, un comandament special pentru drone și inteligență artificială",
+        "translated_title": "Pentagonul creează „Autonomous Warfare Command”, un comandament special pentru drone și inteligență artificială",
+        "url": "https://www.go4it.ro/tehnologie-militara/pentagonul-creeaza-autonomous-warfare-command-un-comandament-special-pentru-drone-si-inteligenta-artificiala-19286660/",
+        "source": "Go4IT",
+        "published": "2026-10-01T10:44:15.116472+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "O mamă este îngrozită după ce IA de la Meta a scotocit pe Instagram și Facebook în căutarea unor informații invazive despre fiicele sale minore și a creat profiluri detaliate ale copiilor",
+        "translated_title": "O mamă este îngrozită după ce IA de la Meta a scotocit pe Instagram și Facebook în căutarea unor informații invazive despre fiicele sale minore și a creat profiluri detaliate ale copiilor",
+        "url": "https://www.go4it.ro/content/aplicatii/o-mama-este-ingrozita-dupa-ce-ia-de-la-meta-a-scotocit-pe-instagram-si-facebook-in-cautarea-unor-informatii-invazive-despre-fiicele-sale-minore-si-a-creat-profiluri-detaliate-ale-copiilor-19286664/",
+        "source": "Go4IT",
+        "published": "2026-10-01T10:44:15.116332+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Review Huawei Watch D3: ceas smart elegant, cu tensiometru certificat medical",
+        "translated_title": "Review Huawei Watch D3: ceas smart elegant, cu tensiometru certificat medical",
+        "url": "https://www.go4it.ro/content/smartwatch/review-huawei-watch-d3-ceas-smart-elegant-cu-tensiometru-certificat-medical-19286571/",
+        "source": "Go4IT",
+        "published": "2026-10-01T10:44:15.116201+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-09-30",
     "date_formatted": "30 Septembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/inteligenta-artificiala/donald-trump-si-xi-jinping-au-discutat-despre-inteligenta-artificiala-ce-alti-invitati-de-renume-au-participat-19286137/",
         "source": "Go4IT",
         "published": "2026-09-25T09:24:14.442603+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-24",
-    "date_formatted": "24 Septembrie 2026",
-    "news": [
-      {
-        "title": "The Best Linux Laptops (2026): System76, Framework, and More",
-        "translated_title": "The Best Linux Laptops (2026): System76, Framework, and More",
-        "url": "https://www.wired.com/story/best-linux-laptops/",
-        "source": "Wired",
-        "published": "2026-09-24T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Scientists Detect Radio Signals from an Exoplanet for the First Time in History",
-        "translated_title": "Scientists Detect Radio Signals from an Exoplanet for the First Time in History",
-        "url": "https://www.wired.com/story/scientists-detect-radio-signals-from-exoplanet-for-first-time-in-history/",
-        "source": "Wired",
-        "published": "2026-09-24T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-        "translated_title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-        "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-        "source": "Hacker News",
-        "published": "2026-09-24T08:23:03+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-        "translated_title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-        "url": "https://transluce.org/agent-activity",
-        "source": "Hacker News",
-        "published": "2026-09-24T05:21:10+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
-        "translated_title": "Six-year-old breaks women's world Rubik's Cube record [video]",
-        "url": "https://www.youtube.com/watch?v=UCMRgvyTm08",
-        "source": "Hacker News",
-        "published": "2026-09-24T05:07:58+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Peacock Promo Codes: 40% Off September 2026",
-        "translated_title": "Peacock Promo Codes: 40% Off September 2026",
-        "url": "https://www.wired.com/story/peacock-promo-code/",
-        "source": "Wired",
-        "published": "2026-09-24T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "TurboTax Full Service Coupons This September 2026",
-        "translated_title": "TurboTax Full Service Coupons This September 2026",
-        "url": "https://www.wired.com/story/turbotax-coupon/",
-        "source": "Wired",
-        "published": "2026-09-24T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Contrastive Language Models",
-        "translated_title": "Contrastive Language Models",
-        "url": "https://contrastive-lm.notion.site/",
-        "source": "Hacker News",
-        "published": "2026-09-24T04:20:59+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Everything new coming to Meta’s AI agent Muse",
-        "translated_title": "Everything new coming to Meta’s AI agent Muse",
-        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-        "source": "TechCrunch",
-        "published": "2026-09-24T01:13:32+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-        "translated_title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-        "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-        "source": "TechCrunch",
-        "published": "2026-09-24T00:46:17+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Meta is making a standalone Muse AI gadget",
-        "translated_title": "Meta is making a standalone Muse AI gadget",
-        "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-        "source": "The Verge",
-        "published": "2026-09-24T00:15:20+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "HP a lansat un nou laptop de 14 inci cu ecran OLED de 1.100 de niți",
-        "translated_title": "HP a lansat un nou laptop de 14 inci cu ecran OLED de 1.100 de niți",
-        "url": "https://www.go4it.ro/content/laptopuri/hp-a-lansat-un-nou-laptop-de-14-inci-cu-ecran-oled-de-1-100-de-niti-19285994/",
-        "source": "Go4IT",
-        "published": "2026-09-24T09:00:58.120137+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "SoftBank atrage 11,1 miliarde de dolari pentru parteneriatul său cu OpenAI",
-        "translated_title": "SoftBank atrage 11,1 miliarde de dolari pentru parteneriatul său cu OpenAI",
-        "url": "https://www.go4it.ro/content/business/softbank-atrage-111-miliarde-de-dolari-pentru-parteneriatul-sau-cu-openai-19286004/",
-        "source": "Go4IT",
-        "published": "2026-09-24T09:00:58.120049+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "O dronă s-a prăbușit astăzi în județul Suceava. Multiple alerte în cursul acestei dimineți",
-        "translated_title": "O dronă s-a prăbușit astăzi în județul Suceava. Multiple alerte în cursul acestei dimineți",
-        "url": "https://www.go4it.ro/content/drone/o-drona-s-a-prabusit-astazi-in-judetul-suceava-multiple-alerte-in-cursul-acestei-dimineti-19286012/",
-        "source": "Go4IT",
-        "published": "2026-09-24T09:00:58.119961+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "MEDIAFAX împlinește 35 de ani. De la fax și presa tipărită la internet, smartphone și știri în timp real, tehnologia a schimbat radical jurnalismul",
-        "translated_title": "MEDIAFAX împlinește 35 de ani. De la fax și presa tipărită la internet, smartphone și știri în timp real, tehnologia a schimbat radical jurnalismul",
-        "url": "https://www.go4it.ro/diverse/mediafax-implineste-35-de-ani-de-la-fax-si-presa-tiparita-la-internet-smartphone-si-stiri-in-timp-real-tehnologia-a-schimbat-radical-jurnalismul-19286013/",
-        "source": "Go4IT",
-        "published": "2026-09-24T09:00:58.119873+00:00",
         "summary": null,
         "category": "romanian"
       }
