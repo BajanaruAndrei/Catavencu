@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-03",
+    "date_formatted": "3 Octombrie 2026",
+    "news": [
+      {
+        "title": "A Decade-Long Experiment Is Unlocking the Mysteries of the Ocean’s ‘Deep Reefs’",
+        "translated_title": "A Decade-Long Experiment Is Unlocking the Mysteries of the Ocean’s ‘Deep Reefs’",
+        "url": "https://www.wired.com/story/inside-decade-long-experiment-to-understand-oceans-mysterious-deep-reefs/",
+        "source": "Wired",
+        "published": "2026-10-03T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Why should I have to pay more for buses if I don't use a smartphone?",
+        "translated_title": "Why should I have to pay more for buses if I don't use a smartphone?",
+        "url": "https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone",
+        "source": "Hacker News",
+        "published": "2026-10-03T07:48:11+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Surfshark Promo Codes: 87% Off | October 2026",
+        "translated_title": "Surfshark Promo Codes: 87% Off | October 2026",
+        "url": "https://www.wired.com/story/surfshark-coupon/",
+        "source": "Wired",
+        "published": "2026-10-03T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "An Update on Orion for Linux and Windows",
+        "translated_title": "An Update on Orion for Linux and Windows",
+        "url": "https://blog.kagi.com/update-orion-linux-windows",
+        "source": "Hacker News",
+        "published": "2026-10-03T04:53:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Extra Big Ass Intelligence",
+        "translated_title": "Extra Big Ass Intelligence",
+        "url": "https://www.extrabigassintelligence.com/",
+        "source": "Hacker News",
+        "published": "2026-10-03T03:19:10+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Cloudflare OHTTP gateway",
+        "translated_title": "Cloudflare OHTTP gateway",
+        "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+        "source": "Hacker News",
+        "published": "2026-10-03T03:15:05+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple acknowledges AT&T network bug on iPhone 18 Pro Max",
+        "translated_title": "Apple acknowledges AT&T network bug on iPhone 18 Pro Max",
+        "url": "https://www.engadget.com/2276489/apple-att-network-bug-iphone-18-pro-max/",
+        "source": "Engadget",
+        "published": "2026-10-03T02:10:16+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Meta wants your next gadget to be Muse-infused",
+        "translated_title": "Meta wants your next gadget to be Muse-infused",
+        "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+        "source": "TechCrunch",
+        "published": "2026-10-03T00:45:39+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Sanders introduces bill to ban the federal government from using Flock",
+        "translated_title": "Sanders introduces bill to ban the federal government from using Flock",
+        "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+        "source": "TechCrunch",
+        "published": "2026-10-03T00:21:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Lyft agrees to pay $272.5 million to settle worker classification lawsuit",
+        "translated_title": "Lyft agrees to pay $272.5 million to settle worker classification lawsuit",
+        "url": "https://www.engadget.com/2276430/lyft-agrees-to-pay-272-5-million-to-settle-worker-classification-lawsuit/",
+        "source": "Engadget",
+        "published": "2026-10-02T22:15:53+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "translated_title": "Sean Parker is rebuilding Stability AI around music",
+        "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+        "source": "TechCrunch",
+        "published": "2026-10-02T21:09:14+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Noile reguli UE obligă platformele online să alerteze poliția în caz de amenințări la viața utilizatorilor",
+        "translated_title": "Noile reguli UE obligă platformele online să alerteze poliția în caz de amenințări la viața utilizatorilor",
+        "url": "https://www.go4it.ro/content/internet/noile-reguli-ue-obliga-platformele-online-sa-alerteze-politia-in-caz-de-amenintari-la-viata-utilizatorilor-19286827/",
+        "source": "Go4IT",
+        "published": "2026-10-03T09:41:18.495041+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Amendă GDPR după un atac cibernetic: Un furnizor de servicii suport clienți din București, sancționat cu 5.000 de euro pentru breșe grave de securitate",
+        "translated_title": "Amendă GDPR după un atac cibernetic: Un furnizor de servicii suport clienți din București, sancționat cu 5.000 de euro pentru breșe grave de securitate",
+        "url": "https://www.go4it.ro/securitate-informatica/amenda-gdpr-dupa-un-atac-cibernetic-un-furnizor-de-servicii-suport-clienti-din-bucuresti-sanctionat-cu-5-000-de-euro-pentru-brese-grave-de-securitate-19286830/",
+        "source": "Go4IT",
+        "published": "2026-10-03T09:41:18.494817+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Poliția a destructurat gruparea de ransomware KillSec, condusă de un adolescent român. Entitatea folosea AI în atacuri",
+        "translated_title": "Poliția a destructurat gruparea de ransomware KillSec, condusă de un adolescent român. Entitatea folosea AI în atacuri",
+        "url": "https://www.go4it.ro/securitate-informatica/politia-a-destructurat-gruparea-de-ransomware-killsec-condusa-de-un-adolescent-roman-entitatea-folosea-ai-in-atacuri-19286821/",
+        "source": "Go4IT",
+        "published": "2026-10-03T09:41:18.494635+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Serverele AI scumpesc din nou memoria: DRAM și NAND Flash ar putea avea creșteri de până la 20%",
+        "translated_title": "Serverele AI scumpesc din nou memoria: DRAM și NAND Flash ar putea avea creșteri de până la 20%",
+        "url": "https://www.go4it.ro/content/componente-pc/serverele-ai-scumpesc-din-nou-memoria-dram-si-nand-flash-ar-putea-avea-cresteri-de-pana-la-20-19286833/",
+        "source": "Go4IT",
+        "published": "2026-10-03T09:41:18.494452+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-02",
     "date_formatted": "2 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/securitate-informatica/ursul-pacalit-de-vulpe-in-varianta-digitala-2026-copiii-avertizati-de-dnsc-printr-o-noua-campanie-de-informare-19286215/",
         "source": "Go4IT",
         "published": "2026-09-27T09:50:21.094359+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-26",
-    "date_formatted": "26 Septembrie 2026",
-    "news": [
-      {
-        "title": "CAPTCHAs don't prove you're human – they prove you're American",
-        "translated_title": "CAPTCHAs don't prove you're human – they prove you're American",
-        "url": "https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/",
-        "source": "Hacker News",
-        "published": "2026-09-26T08:27:19+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Is your Postgres migration safe or not safe?",
-        "translated_title": "Is your Postgres migration safe or not safe?",
-        "url": "https://safenotsafe.dev/",
-        "source": "Hacker News",
-        "published": "2026-09-26T07:33:12+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Can ‘eSUV’ e-bikes really go from trail to town?",
-        "translated_title": "Can ‘eSUV’ e-bikes really go from trail to town?",
-        "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
-        "source": "The Verge",
-        "published": "2026-09-26T07:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
-        "translated_title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
-        "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
-        "source": "Hacker News",
-        "published": "2026-09-26T06:51:12+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A single function Jev-like wrapper for LLMs, including vision models",
-        "translated_title": "A single function Jev-like wrapper for LLMs, including vision models",
-        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-        "source": "Hacker News",
-        "published": "2026-09-26T04:20:58+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "At Meta Connect, the company’s smart glasses were everywhere",
-        "translated_title": "At Meta Connect, the company’s smart glasses were everywhere",
-        "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-        "source": "TechCrunch",
-        "published": "2026-09-26T01:08:57+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
-        "translated_title": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
-        "url": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/",
-        "source": "Wired",
-        "published": "2026-09-26T00:02:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "translated_title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-        "source": "TechCrunch",
-        "published": "2026-09-25T23:11:10+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Automattic has a new board after failed attempt to put CEO on leave",
-        "translated_title": "Automattic has a new board after failed attempt to put CEO on leave",
-        "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-        "source": "TechCrunch",
-        "published": "2026-09-25T23:04:34+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-        "translated_title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-        "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-        "source": "TechCrunch",
-        "published": "2026-09-25T22:20:47+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-        "translated_title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-        "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
-        "source": "Wired",
-        "published": "2026-09-25T20:30:40+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Ucraina: mită de un milion de dolari pentru drone. Alți bani, ascunși în criptomonede",
-        "translated_title": "Ucraina: mită de un milion de dolari pentru drone. Alți bani, ascunși în criptomonede",
-        "url": "https://www.go4it.ro/content/drone/ucraina-mita-de-un-milion-de-dolari-pentru-drone-alti-bani-ascunsi-in-criptomonede-19286150/",
-        "source": "Go4IT",
-        "published": "2026-09-26T09:08:49.794306+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Alertă DNSC: Milioane de site-uri WordPress, expuse unui risc cibernetic major. Actualizarea este urgentă",
-        "translated_title": "Alertă DNSC: Milioane de site-uri WordPress, expuse unui risc cibernetic major. Actualizarea este urgentă",
-        "url": "https://www.go4it.ro/securitate-informatica/alerta-dnsc-milioane-de-site-uri-wordpress-expuse-unui-risc-cibernetic-major-actualizarea-este-urgenta-19286173/",
-        "source": "Go4IT",
-        "published": "2026-09-26T09:08:49.794204+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Amendă de 5.000 de euro pentru lanțul de cofetării Tip Top: pontajul pe bază de amprente la locul de muncă a încălcat legea",
-        "translated_title": "Amendă de 5.000 de euro pentru lanțul de cofetării Tip Top: pontajul pe bază de amprente la locul de muncă a încălcat legea",
-        "url": "https://www.go4it.ro/securitate-informatica/amenda-de-5-000-de-euro-pentru-lantul-de-cofetarii-tip-top-pontajul-pe-baza-de-amprente-la-locul-de-munca-a-incalcat-legea-19286175/",
-        "source": "Go4IT",
-        "published": "2026-09-26T09:08:49.794101+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "VIDEO: U2 a lansat „Silencio”, al doilea single de pe „Carnaval De Luz”, al 16-lea album de studio al formației",
-        "translated_title": "VIDEO: U2 a lansat „Silencio”, al doilea single de pe „Carnaval De Luz”, al 16-lea album de studio al formației",
-        "url": "https://www.go4it.ro/content/muzica-si-filme/video-u2-a-lansat-silencio-al-doilea-single-de-pe-carnaval-de-luz-al-16-lea-album-de-studio-al-formatiei-19286153/",
-        "source": "Go4IT",
-        "published": "2026-09-26T09:08:49.793975+00:00",
         "summary": null,
         "category": "romanian"
       }
