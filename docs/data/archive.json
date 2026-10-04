@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-04",
+    "date_formatted": "4 Octombrie 2026",
+    "news": [
+      {
+        "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+        "translated_title": "Rural Data Centers Are in for a Big Federal Tax Break",
+        "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+        "source": "Wired",
+        "published": "2026-10-04T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Keurig Alta First-Look: No More Plastic K-Cups",
+        "translated_title": "Keurig Alta First-Look: No More Plastic K-Cups",
+        "url": "https://www.wired.com/story/keurig-alta-coffee-brewer/",
+        "source": "Wired",
+        "published": "2026-10-04T09:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
+        "translated_title": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
+        "url": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
+        "source": "Wired",
+        "published": "2026-10-04T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "What are amplifiers for and how important are they to your sound system's quality?",
+        "translated_title": "What are amplifiers for and how important are they to your sound system's quality?",
+        "url": "https://www.engadget.com/2273783/amplifier-what-for-how-important-for-sound-system-quality/",
+        "source": "Engadget",
+        "published": "2026-10-04T00:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How has Apple's Mac Studio changed over the years?",
+        "translated_title": "How has Apple's Mac Studio changed over the years?",
+        "url": "https://www.engadget.com/2273779/apple-mac-studio-how-changed-over-years/",
+        "source": "Engadget",
+        "published": "2026-10-04T00:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "What's the difference between battery capacity and battery life?",
+        "translated_title": "What's the difference between battery capacity and battery life?",
+        "url": "https://www.engadget.com/2273775/battery-capacity-vs-life-differences/",
+        "source": "Engadget",
+        "published": "2026-10-03T23:45:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Why is this the only pink MacBook available right now?",
+        "translated_title": "Why is this the only pink MacBook available right now?",
+        "url": "https://www.engadget.com/2273771/why-only-pink-macbook-available-right-now/",
+        "source": "Engadget",
+        "published": "2026-10-03T23:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+        "translated_title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+        "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+        "source": "TechCrunch",
+        "published": "2026-10-03T19:33:15+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "translated_title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "source": "TechCrunch",
+        "published": "2026-10-03T18:43:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+        "translated_title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+        "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+        "source": "Wired",
+        "published": "2026-10-03T18:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+        "translated_title": "Capcom is preparing for a ‘future where we create games together with AI’",
+        "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+        "source": "The Verge",
+        "published": "2026-10-03T16:49:10+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple are o problemă cu iPhone 18 Pro Max: telefoanele afectate de rețeaua AT&T trebuie înlocuite",
+        "translated_title": "Apple are o problemă cu iPhone 18 Pro Max: telefoanele afectate de rețeaua AT&T trebuie înlocuite",
+        "url": "https://www.go4it.ro/content/telecomunicatii/apple-are-o-problema-cu-iphone-18-pro-max-telefoanele-afectate-de-reteaua-att-trebuie-inlocuite-19286873/",
+        "source": "Go4IT",
+        "published": "2026-10-04T10:25:49.650951+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "TDK vrea să schimbe ochelarii inteligenți: imaginile sunt proiectate direct pe retină printr-o oglindă de doar 150 nm",
+        "translated_title": "TDK vrea să schimbe ochelarii inteligenți: imaginile sunt proiectate direct pe retină printr-o oglindă de doar 150 nm",
+        "url": "https://www.go4it.ro/content/stiinta/tdk-vrea-sa-schimbe-ochelarii-inteligenti-imaginile-sunt-proiectate-direct-pe-retina-printr-o-oglinda-de-doar-150-nm-19286866/",
+        "source": "Go4IT",
+        "published": "2026-10-04T10:25:49.650737+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "„Omenirea pierde controlul”: șeful dronelor din Ucraina avertizează că armele cu AI devin tot mai autonome",
+        "translated_title": "„Omenirea pierde controlul”: șeful dronelor din Ucraina avertizează că armele cu AI devin tot mai autonome",
+        "url": "https://www.go4it.ro/tehnologie-militara/omenirea-pierde-controlul-seful-dronelor-din-ucraina-avertizeaza-ca-armele-cu-ai-devin-tot-mai-autonome-19286882/",
+        "source": "Go4IT",
+        "published": "2026-10-04T10:25:49.650338+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Un robot terestru ucrainean se apără de o dronă aeriană rusă – VIDEO",
+        "translated_title": "Un robot terestru ucrainean se apără de o dronă aeriană rusă – VIDEO",
+        "url": "https://www.go4it.ro/tehnologie-militara/un-robot-terestru-ucrainean-se-apara-de-o-drona-aeriana-rusa-video-19286898/",
+        "source": "Go4IT",
+        "published": "2026-10-04T10:25:49.650139+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-03",
     "date_formatted": "3 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/periferice/tastaturi-si-mouse/review-tastatura-de-gaming-epomaker-he60-caracteristici-pentru-esports-si-baterie-heavy-duty-de-8-000-mah-19286318/",
         "source": "Go4IT",
         "published": "2026-09-28T10:36:57.969582+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-27",
-    "date_formatted": "27 Septembrie 2026",
-    "news": [
-      {
-        "title": "Nicotine Is Mounting a Comeback in the Wellness Movement",
-        "translated_title": "Nicotine Is Mounting a Comeback in the Wellness Movement",
-        "url": "https://www.wired.com/story/nicotine-is-mounting-a-comeback-in-the-wellness-movement/",
-        "source": "Wired",
-        "published": "2026-09-27T09:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes",
-        "translated_title": "Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes",
-        "url": "https://www.wired.com/story/pancreatic-cells-just-one-genetic-tweak-away-from-treating-diabetes/",
-        "source": "Wired",
-        "published": "2026-09-27T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-        "translated_title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-        "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-        "source": "Hacker News",
-        "published": "2026-09-27T08:44:04+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-        "translated_title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-        "source": "Hacker News",
-        "published": "2026-09-27T06:19:33+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The internet discovers TLA+. Now what?",
-        "translated_title": "The internet discovers TLA+. Now what?",
-        "url": "https://reasonable.io/blog/tla-tutorial/",
-        "source": "Hacker News",
-        "published": "2026-09-27T05:26:15+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "What is the size of Yemen? (2024)",
-        "translated_title": "What is the size of Yemen? (2024)",
-        "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
-        "source": "Hacker News",
-        "published": "2026-09-27T02:40:26+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-        "translated_title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-        "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-        "source": "TechCrunch",
-        "published": "2026-09-27T01:40:30+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-        "translated_title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-        "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-        "source": "TechCrunch",
-        "published": "2026-09-27T01:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Why we won't know how visible the iPhone Duo's crease is for a long time",
-        "translated_title": "Why we won't know how visible the iPhone Duo's crease is for a long time",
-        "url": "https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/",
-        "source": "Engadget",
-        "published": "2026-09-27T00:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How powerful of a power bank do you need to safely charge a laptop?",
-        "translated_title": "How powerful of a power bank do you need to safely charge a laptop?",
-        "url": "https://www.engadget.com/2266595/how-powerful-power-bank-needs-to-be-charge-laptop/",
-        "source": "Engadget",
-        "published": "2026-09-27T00:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Your old GPU could be worth more than you think",
-        "translated_title": "Your old GPU could be worth more than you think",
-        "url": "https://www.engadget.com/2267877/your-old-gpu-worth-more-than-you-think/",
-        "source": "Engadget",
-        "published": "2026-09-26T23:45:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Pariurile sportive online, interzise de președintele Braziliei",
-        "translated_title": "Pariurile sportive online, interzise de președintele Braziliei",
-        "url": "https://www.go4it.ro/content/internet/pariurile-sportive-online-interzise-de-presedintele-braziliei-19286199/",
-        "source": "Go4IT",
-        "published": "2026-09-27T09:50:21.094921+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Un puști-minune din Japonia și-a spulberat concurența eSports din cadrul Jocurilor Asiatice. Noul campion are doar 11 ani",
-        "translated_title": "Un puști-minune din Japonia și-a spulberat concurența eSports din cadrul Jocurilor Asiatice. Noul campion are doar 11 ani",
-        "url": "https://www.go4it.ro/content/jocuri/un-pusti-minune-din-japonia-si-a-spulberat-concurenta-esports-din-cadrul-jocurilor-asiatice-noul-campion-are-doar-11-ani-19286209/",
-        "source": "Go4IT",
-        "published": "2026-09-27T09:50:21.094739+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "OpenAI suspendă activitățile de antrenare a modelelor AI, după noi incidente de securitate",
-        "translated_title": "OpenAI suspendă activitățile de antrenare a modelelor AI, după noi incidente de securitate",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/openai-suspenda-activitatile-de-antrenare-a-modelelor-ai-dupa-noi-incidente-de-securitate-19286212/",
-        "source": "Go4IT",
-        "published": "2026-09-27T09:50:21.094557+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "„Ursul păcălit de vulpe”, în varianta digitală 2026. Copiii, avertizați de DNSC printr-o nouă campanie de informare",
-        "translated_title": "„Ursul păcălit de vulpe”, în varianta digitală 2026. Copiii, avertizați de DNSC printr-o nouă campanie de informare",
-        "url": "https://www.go4it.ro/securitate-informatica/ursul-pacalit-de-vulpe-in-varianta-digitala-2026-copiii-avertizati-de-dnsc-printr-o-noua-campanie-de-informare-19286215/",
-        "source": "Go4IT",
-        "published": "2026-09-27T09:50:21.094359+00:00",
         "summary": null,
         "category": "romanian"
       }
