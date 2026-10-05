@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-05",
+    "date_formatted": "5 Octombrie 2026",
+    "news": [
+      {
+        "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+        "translated_title": "Best Power Banks (2026): My Picks After Testing Over 100",
+        "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+        "source": "Wired",
+        "published": "2026-10-05T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Google admits not every Android app runs great on Intel Googlebooks",
+        "translated_title": "Google admits not every Android app runs great on Intel Googlebooks",
+        "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+        "source": "The Verge",
+        "published": "2026-10-05T10:58:22+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Withings BodyScan 2 Review: Worth Its Weight",
+        "translated_title": "Withings BodyScan 2 Review: Worth Its Weight",
+        "url": "https://www.wired.com/review/withings-bodyscan-2/",
+        "source": "Wired",
+        "published": "2026-10-05T10:36:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple and a Hacker's Future",
+        "translated_title": "Apple and a Hacker's Future",
+        "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+        "source": "Hacker News",
+        "published": "2026-10-05T10:05:02+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Our minds aren’t equipped to handle AI",
+        "translated_title": "Our minds aren’t equipped to handle AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+        "source": "The Verge",
+        "published": "2026-10-05T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Omega Has New Bond Watches Even If There Isn’t a New James Bond",
+        "translated_title": "Omega Has New Bond Watches Even If There Isn’t a New James Bond",
+        "url": "https://www.wired.com/story/omega-has-new-bond-watches-even-if-we-dont-have-a-new-bond/",
+        "source": "Wired",
+        "published": "2026-10-05T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "A Prediction Market About the Past? Sure, Why Not!",
+        "translated_title": "A Prediction Market About the Past? Sure, Why Not!",
+        "url": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
+        "source": "Wired",
+        "published": "2026-10-05T09:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+        "translated_title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+        "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+        "source": "Hacker News",
+        "published": "2026-10-05T08:09:36+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "People really hate AI, so why can’t they get enough?",
+        "translated_title": "People really hate AI, so why can’t they get enough?",
+        "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-05T08:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+        "translated_title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+        "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+        "source": "Hacker News",
+        "published": "2026-10-05T07:46:10+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Replacement of petroleum based products with plant-based materials (2025)",
+        "translated_title": "Replacement of petroleum based products with plant-based materials (2025)",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
+        "source": "Hacker News",
+        "published": "2026-10-05T05:09:43+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ofertă Lidl: Cărucior SilverCrest multifuncțional de cumpărături cu compartiment termoizolant",
+        "translated_title": "Ofertă Lidl: Cărucior SilverCrest multifuncțional de cumpărături cu compartiment termoizolant",
+        "url": "https://www.go4it.ro/oferte-din-magazine/oferta-lidl-carucior-silvercrest-multifunctional-de-cumparaturi-cu-compartiment-termoizolant-19287021/",
+        "source": "Go4IT",
+        "published": "2026-10-05T11:11:49.310459+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Analiză pe 9 milioane de tineri: Cum afectează timpul petrecut pe telefon sănătatea mintală și somnul",
+        "translated_title": "Analiză pe 9 milioane de tineri: Cum afectează timpul petrecut pe telefon sănătatea mintală și somnul",
+        "url": "https://www.go4it.ro/content/stiinta/analiza-pe-9-milioane-de-tineri-cum-afecteaza-timpul-petrecut-pe-telefon-sanatatea-mintala-si-somnul-19287025/",
+        "source": "Go4IT",
+        "published": "2026-10-05T11:11:49.310371+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Sam Altman, CEO-ul OpenAI: Societatea trebuie să accepte unele efecte negative ale dezvoltării inteligenței artificiale",
+        "translated_title": "Sam Altman, CEO-ul OpenAI: Societatea trebuie să accepte unele efecte negative ale dezvoltării inteligenței artificiale",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/sam-altman-ceo-ul-openai-societatea-trebuie-sa-accepte-unele-efecte-negative-ale-dezvoltarii-inteligentei-artificiale-19287010/",
+        "source": "Go4IT",
+        "published": "2026-10-05T11:11:49.310282+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Isabelle Moeller (Biometrics Institute), despre rolul pozitiv al biometriei: Dincolo de supraveghere, tehnologia a ajutat la identificarea a 3.600 de victime după tsunamiul din Thailanda",
+        "translated_title": "Isabelle Moeller (Biometrics Institute), despre rolul pozitiv al biometriei: Dincolo de supraveghere, tehnologia a ajutat la identificarea a 3.600 de victime după tsunamiul din Thailanda",
+        "url": "https://www.go4it.ro/securitate-informatica/isabelle-moeller-biometrics-institute-despre-rolul-pozitiv-al-biometriei-dincolo-de-supraveghere-tehnologia-a-ajutat-la-identificarea-a-3-600-de-victime-dupa-tsunamiul-din-thailanda-19287028/",
+        "source": "Go4IT",
+        "published": "2026-10-05T11:11:49.310193+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-04",
     "date_formatted": "4 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/tehnologie-militara/romania-isi-consolideaza-apararea-la-marea-neagra-primele-vehicule-amfibii-aav-7-din-sua-au-intrat-in-dotarea-infanteriei-marine-19286445/",
         "source": "Go4IT",
         "published": "2026-09-29T10:25:25.409773+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-28",
-    "date_formatted": "28 Septembrie 2026",
-    "news": [
-      {
-        "title": "I've Tested Over 100 Home Security Cameras. Here's Which to Buy",
-        "translated_title": "I've Tested Over 100 Home Security Cameras. Here's Which to Buy",
-        "url": "https://www.wired.com/story/best-security-cameras/",
-        "source": "Wired",
-        "published": "2026-09-28T10:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-        "translated_title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-        "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-        "source": "Wired",
-        "published": "2026-09-28T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-        "translated_title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-        "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-        "source": "Wired",
-        "published": "2026-09-28T09:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK",
-        "translated_title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK",
-        "url": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
-        "source": "Hacker News",
-        "published": "2026-09-28T09:23:37+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "SpaceX's Starship launching to orbit for first time ever today",
-        "translated_title": "SpaceX's Starship launching to orbit for first time ever today",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
-        "source": "Hacker News",
-        "published": "2026-09-28T09:15:04+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-        "translated_title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-        "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-        "source": "Wired",
-        "published": "2026-09-28T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Who’s liable when AI agents go rogue?",
-        "translated_title": "Who’s liable when AI agents go rogue?",
-        "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-        "source": "MIT Technology Review",
-        "published": "2026-09-28T08:06:22+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
-        "translated_title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
-        "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
-        "source": "The Verge",
-        "published": "2026-09-28T08:00:36+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Prompting Claude Opus 5.5",
-        "translated_title": "Prompting Claude Opus 5.5",
-        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-        "source": "Hacker News",
-        "published": "2026-09-28T07:33:29+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Made by Mechanical Means",
-        "translated_title": "Made by Mechanical Means",
-        "url": "https://felixrieseberg.com/made-by-mechanical-means/",
-        "source": "Hacker News",
-        "published": "2026-09-28T07:06:06+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "You can now preorder the tiny Boox Picco ereader",
-        "translated_title": "You can now preorder the tiny Boox Picco ereader",
-        "url": "https://www.engadget.com/2268196/you-can-now-preorder-the-tiny-boox-picco-ereader/",
-        "source": "Engadget",
-        "published": "2026-09-28T07:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Alerte „Alpha Scramble” la Mihail Kogălniceanu: Cum interceptează avioanele F-18 spaniole dronele intrate în spațiul aerian românesc",
-        "translated_title": "Alerte „Alpha Scramble” la Mihail Kogălniceanu: Cum interceptează avioanele F-18 spaniole dronele intrate în spațiul aerian românesc",
-        "url": "https://www.go4it.ro/tehnologie-militara/alerte-alpha-scramble-la-mihail-kogalniceanu-cum-intercepteaza-avioanele-f-18-spaniole-dronele-intrate-in-spatiul-aerian-romanesc-19286309/",
-        "source": "Go4IT",
-        "published": "2026-09-28T10:36:57.970148+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Orașul viitorului pentru elita tehnologiei: Proiectul de 1 miliard de dolari pe care compania Praxis vrea să îl ridice în Uruguay",
-        "translated_title": "Orașul viitorului pentru elita tehnologiei: Proiectul de 1 miliard de dolari pe care compania Praxis vrea să îl ridice în Uruguay",
-        "url": "https://www.go4it.ro/content/business/orasul-viitorului-pentru-elita-tehnologiei-proiectul-de-1-miliard-de-dolari-pe-care-compania-praxis-vrea-sa-il-ridice-in-uruguay-19286312/",
-        "source": "Go4IT",
-        "published": "2026-09-28T10:36:57.969961+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "DNA se blindează împotriva interceptărilor de la distanță: achiziție de calculatoare anti-spionaj în valoare de peste 360.000 de lei",
-        "translated_title": "DNA se blindează împotriva interceptărilor de la distanță: achiziție de calculatoare anti-spionaj în valoare de peste 360.000 de lei",
-        "url": "https://www.go4it.ro/content/business/dna-se-blindeaza-impotriva-interceptarilor-de-la-distanta-achizitie-de-calculatoare-anti-spionaj-in-valoare-de-peste-360-000-de-lei-19286316/",
-        "source": "Go4IT",
-        "published": "2026-09-28T10:36:57.969775+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "REVIEW | Tastatura de gaming Epomaker HE60: Caracteristici pentru eSports și baterie „heavy-duty” de 8.000 mAh",
-        "translated_title": "REVIEW | Tastatura de gaming Epomaker HE60: Caracteristici pentru eSports și baterie „heavy-duty” de 8.000 mAh",
-        "url": "https://www.go4it.ro/content/periferice/tastaturi-si-mouse/review-tastatura-de-gaming-epomaker-he60-caracteristici-pentru-esports-si-baterie-heavy-duty-de-8-000-mah-19286318/",
-        "source": "Go4IT",
-        "published": "2026-09-28T10:36:57.969582+00:00",
         "summary": null,
         "category": "romanian"
       }
