@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-06",
+    "date_formatted": "6 Octombrie 2026",
+    "news": [
+      {
+        "title": "The best October Prime Day tech deals we found",
+        "translated_title": "The best October Prime Day tech deals we found",
+        "url": "https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech",
+        "source": "The Verge",
+        "published": "2026-10-06T10:55:05+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+        "translated_title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+        "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+        "source": "The Verge",
+        "published": "2026-10-06T10:53:11+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Our Go-To Over-Ear Headphones Are at Their Lowest Price for Prime Day",
+        "translated_title": "Our Go-To Over-Ear Headphones Are at Their Lowest Price for Prime Day",
+        "url": "https://www.wired.com/story/nothing-headphone-1-deal-prime-day-10-6-2026/",
+        "source": "Wired",
+        "published": "2026-10-06T10:43:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Best Power Station Is 30 Percent Off for Prime Day",
+        "translated_title": "The Best Power Station Is 30 Percent Off for Prime Day",
+        "url": "https://www.wired.com/story/bluetti-elite-300-prime-day-deal-10-06-2026/",
+        "source": "Wired",
+        "published": "2026-10-06T10:41:31+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+        "translated_title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+        "source": "Wired",
+        "published": "2026-10-06T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Internet Runs on Cats and Porn. It’s About to Get Cattier and Pornier",
+        "translated_title": "The Internet Runs on Cats and Porn. It’s About to Get Cattier and Pornier",
+        "url": "https://www.wired.com/story/icann-top-level-domains-meow/",
+        "source": "Wired",
+        "published": "2026-10-06T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Nobel Prize in Physics goes to Francis Halzen",
+        "translated_title": "Nobel Prize in Physics goes to Francis Halzen",
+        "url": "https://www.nobelprize.org/prizes/physics/2026/",
+        "source": "Hacker News",
+        "published": "2026-10-06T09:48:46+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Xbox Elite Controller 3 specs leak via Xbox's own Design Lab",
+        "translated_title": "Xbox Elite Controller 3 specs leak via Xbox's own Design Lab",
+        "url": "https://www.engadget.com/2278466/xbox-elite-controller-3-spec-leak/",
+        "source": "Engadget",
+        "published": "2026-10-06T09:38:03+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Gleam doesn't compile to Erlang source anymore",
+        "translated_title": "Gleam doesn't compile to Erlang source anymore",
+        "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+        "source": "Hacker News",
+        "published": "2026-10-06T08:08:20+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "This remote-controlled wagon is silly but so very useful",
+        "translated_title": "This remote-controlled wagon is silly but so very useful",
+        "url": "https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful",
+        "source": "The Verge",
+        "published": "2026-10-06T08:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Resurrecting iChat Audio and Video Conferencing",
+        "translated_title": "Resurrecting iChat Audio and Video Conferencing",
+        "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+        "source": "Hacker News",
+        "published": "2026-10-06T03:39:01+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Trend pe TikTok ce pretinde că ameliorează migrenele. Doctorii explică fenomenul",
+        "translated_title": "Trend pe TikTok ce pretinde că ameliorează migrenele. Doctorii explică fenomenul",
+        "url": "https://www.go4it.ro/content/social-media/trend-pe-tiktok-ce-pretinde-ca-amelioreaza-migrenele-doctorii-explica-fenomenul-19287120/",
+        "source": "Go4IT",
+        "published": "2026-10-06T11:01:49.726049+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Istoria vieții pe Pământ ar putea fi rescrisă. Când ar fi apărut, de fapt, animalele pe planeta noastră",
+        "translated_title": "Istoria vieții pe Pământ ar putea fi rescrisă. Când ar fi apărut, de fapt, animalele pe planeta noastră",
+        "url": "https://www.go4it.ro/content/stiinta/istoria-vietii-pe-pamant-ar-putea-fi-rescrisa-cand-ar-fi-aparut-de-fapt-animalele-pe-planeta-noastra-19287122/",
+        "source": "Go4IT",
+        "published": "2026-10-06T11:01:49.725858+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "MacBook-ul cu touch screen, tot mai aproape de lansare?",
+        "translated_title": "MacBook-ul cu touch screen, tot mai aproape de lansare?",
+        "url": "https://www.go4it.ro/content/laptopuri/macbook-ul-cu-touch-screen-tot-mai-aproape-de-lansare-19287124/",
+        "source": "Go4IT",
+        "published": "2026-10-06T11:01:49.725626+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Lansare discretă de la Seiko: Două noi ceasuri 5 Sports Field GMT cu tentă militară, sub 500 de euro",
+        "translated_title": "Lansare discretă de la Seiko: Două noi ceasuri 5 Sports Field GMT cu tentă militară, sub 500 de euro",
+        "url": "https://www.go4it.ro/content/accesorii/lansare-discreta-de-la-seiko-doua-noi-ceasuri-5-sports-field-gmt-cu-tenta-militara-sub-500-de-euro-19287132/",
+        "source": "Go4IT",
+        "published": "2026-10-06T11:01:49.725439+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "date_formatted": "5 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/telefoane-mobile/iphone-duo-pare-ca-are-probleme-in-productie-sunt-insa-si-vesti-bune-19286539/",
         "source": "Go4IT",
         "published": "2026-09-30T10:18:01.208290+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-29",
-    "date_formatted": "29 Septembrie 2026",
-    "news": [
-      {
-        "title": "A Pentagon Influencer Called Liberal Women a ‘Pestilence’ Who Will End Western Civilization",
-        "translated_title": "A Pentagon Influencer Called Liberal Women a ‘Pestilence’ Who Will End Western Civilization",
-        "url": "https://www.wired.com/story/a-pentagon-influencer-called-liberal-women-a-pestilence-who-will-end-western-civilization/",
-        "source": "Wired",
-        "published": "2026-09-29T10:15:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Your car’s data privacy problems are worse than you think",
-        "translated_title": "Your car’s data privacy problems are worse than you think",
-        "url": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
-        "source": "The Verge",
-        "published": "2026-09-29T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-        "translated_title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-        "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
-        "source": "TechCrunch",
-        "published": "2026-09-29T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Beats 360 Review: Customizable, Stylish, and Fun",
-        "translated_title": "Beats 360 Review: Customizable, Stylish, and Fun",
-        "url": "https://www.wired.com/review/beats-360/",
-        "source": "Wired",
-        "published": "2026-09-29T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Anthropic lost $8 billion last year and said its AI could destroy humanity",
-        "translated_title": "Anthropic lost $8 billion last year and said its AI could destroy humanity",
-        "url": "https://www.engadget.com/2271659/anthropic-lost-8-billion-says-it-could-destroy-humanity/",
-        "source": "Engadget",
-        "published": "2026-09-29T09:59:57+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Plastic Is Melting Onto Corals",
-        "translated_title": "Plastic Is Melting Onto Corals",
-        "url": "https://www.wired.com/story/plastic-is-melting-onto-corals/",
-        "source": "Wired",
-        "published": "2026-09-29T09:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Meta now has a version of Muse just for small businesses",
-        "translated_title": "Meta now has a version of Muse just for small businesses",
-        "url": "https://www.engadget.com/2271498/meta-now-has-a-version-of-muse-just-for-small-businesses/",
-        "source": "Engadget",
-        "published": "2026-09-29T09:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "19 Best Gifts for Plant Lovers and Gardeners (2026)",
-        "translated_title": "19 Best Gifts for Plant Lovers and Gardeners (2026)",
-        "url": "https://www.wired.com/story/gifts-for-plant-lovers-and-gardeners-2026/",
-        "source": "Wired",
-        "published": "2026-09-29T09:15:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "AI companies leak data to advertisers [pdf]",
-        "translated_title": "AI companies leak data to advertisers [pdf]",
-        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-        "source": "Hacker News",
-        "published": "2026-09-29T09:03:41+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-        "translated_title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-        "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
-        "source": "TechCrunch",
-        "published": "2026-09-29T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Using any C++ library in Godot",
-        "translated_title": "Using any C++ library in Godot",
-        "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-        "source": "Hacker News",
-        "published": "2026-09-29T08:40:37+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Precizia care se repetă, piesă după piesă (P)",
-        "translated_title": "Precizia care se repetă, piesă după piesă (P)",
-        "url": "https://www.go4it.ro/content/advertorial/precizia-care-se-repeta-piesa-dupa-piesa-p-19286432/",
-        "source": "Go4IT",
-        "published": "2026-09-29T10:25:25.410345+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Ordinea care schimbă felul în care trăiești acasă (P)",
-        "translated_title": "Ordinea care schimbă felul în care trăiești acasă (P)",
-        "url": "https://www.go4it.ro/content/advertorial/ordinea-care-schimba-felul-in-care-traiesti-acasa-p-19286437/",
-        "source": "Go4IT",
-        "published": "2026-09-29T10:25:25.410165+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Gadget Parkside cu baterie util la birou și în mașină, disponibil în curând la Lidl",
-        "translated_title": "Gadget Parkside cu baterie util la birou și în mașină, disponibil în curând la Lidl",
-        "url": "https://www.go4it.ro/oferte-din-magazine/gadget-parkside-cu-baterie-util-la-birou-si-in-masina-disponibil-in-curand-la-lidl-19286441/",
-        "source": "Go4IT",
-        "published": "2026-09-29T10:25:25.409982+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "România își consolidează apărarea la Marea Neagră: primele vehicule amfibii AAV-7 din SUA au intrat în dotarea infanteriei marine",
-        "translated_title": "România își consolidează apărarea la Marea Neagră: primele vehicule amfibii AAV-7 din SUA au intrat în dotarea infanteriei marine",
-        "url": "https://www.go4it.ro/tehnologie-militara/romania-isi-consolideaza-apararea-la-marea-neagra-primele-vehicule-amfibii-aav-7-din-sua-au-intrat-in-dotarea-infanteriei-marine-19286445/",
-        "source": "Go4IT",
-        "published": "2026-09-29T10:25:25.409773+00:00",
         "summary": null,
         "category": "romanian"
       }
