@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-07",
+    "date_formatted": "7 Octombrie 2026",
+    "news": [
+      {
+        "title": "A Mysterious Nonprofit Run by SpaceXAI’s Top Lawyer Is Paying the Salaries of Government Workers",
+        "translated_title": "A Mysterious Nonprofit Run by SpaceXAI’s Top Lawyer Is Paying the Salaries of Government Workers",
+        "url": "https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge/",
+        "source": "Wired",
+        "published": "2026-10-07T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Jaguar’s first EV looks just like its divisive concept car",
+        "translated_title": "Jaguar’s first EV looks just like its divisive concept car",
+        "url": "https://www.theverge.com/transportation/1006536/jaguar-type-01-design-specs-price-reveal",
+        "source": "The Verge",
+        "published": "2026-10-07T10:03:46+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat",
+        "translated_title": "A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat",
+        "url": "https://www.wired.com/story/startup-atoco-makes-water-from-air-using-data-centers/",
+        "source": "Wired",
+        "published": "2026-10-07T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+        "translated_title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+        "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+        "source": "Hacker News",
+        "published": "2026-10-07T09:51:43+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+        "translated_title": "A font recreated from photographs of classic Commodore 64 keycaps",
+        "url": "https://github.com/szabadkai/c64-keyboard-font/",
+        "source": "Hacker News",
+        "published": "2026-10-07T09:17:55+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+        "translated_title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+        "source": "The Verge",
+        "published": "2026-10-07T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Elon Musk’s America PAC Is Spending Big on the Midterms. We’re Tracking It Daily",
+        "translated_title": "Elon Musk’s America PAC Is Spending Big on the Midterms. We’re Tracking It Daily",
+        "url": "https://www.wired.com/story/elon-musks-america-pac-is-spending-big-on-the-midterms-were-tracking-it-daily/",
+        "source": "Wired",
+        "published": "2026-10-07T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple TV's F1 coverage will now support Dolby Atmos",
+        "translated_title": "Apple TV's F1 coverage will now support Dolby Atmos",
+        "url": "https://www.engadget.com/2279712/apple-tv-dolby-atmos-support-formula-1/",
+        "source": "Engadget",
+        "published": "2026-10-07T08:58:55+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Your Next Great Read Might Be Certified ‘Organic’",
+        "translated_title": "Your Next Great Read Might Be Certified ‘Organic’",
+        "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+        "source": "Wired",
+        "published": "2026-10-07T08:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Spotify expands audiobooks to over 180 markets",
+        "translated_title": "Spotify expands audiobooks to over 180 markets",
+        "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+        "source": "TechCrunch",
+        "published": "2026-10-07T07:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+        "translated_title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+        "url": "https://github.com/shader-effects-inc/shaders",
+        "source": "Hacker News",
+        "published": "2026-10-07T05:38:35+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Edge computing nu mai este doar un experiment. 78% dintre proiectele IoT au trecut deja de etapa pilot",
+        "translated_title": "Edge computing nu mai este doar un experiment. 78% dintre proiectele IoT au trecut deja de etapa pilot",
+        "url": "https://www.go4it.ro/content/stiinta/edge-computing-nu-mai-este-doar-un-experiment-78-dintre-proiectele-iot-au-trecut-deja-de-etapa-pilot-19287158/",
+        "source": "Go4IT",
+        "published": "2026-10-07T10:51:33.453867+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "OnePlus 16 ar putea duce ecranul la 165 Hz în toate aplicațiile. Funcția ar putea fi activată din setări",
+        "translated_title": "OnePlus 16 ar putea duce ecranul la 165 Hz în toate aplicațiile. Funcția ar putea fi activată din setări",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/oneplus-16-ar-putea-duce-ecranul-la-165-hz-in-toate-aplicatiile-functia-ar-putea-fi-activata-din-setari-19287202/",
+        "source": "Go4IT",
+        "published": "2026-10-07T10:51:33.453686+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Microsoft pregătește un eveniment important azi. Surface Laptop Ultra, RTX Spark și Windows sunt în centrul atenției",
+        "translated_title": "Microsoft pregătește un eveniment important azi. Surface Laptop Ultra, RTX Spark și Windows sunt în centrul atenției",
+        "url": "https://www.go4it.ro/content/laptopuri/microsoft-pregateste-compania-surface-laptop-ultra-19287205/",
+        "source": "Go4IT",
+        "published": "2026-10-07T10:51:33.453502+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "CNAIR: TollRo ar trebui să funcționeze corect acum. Nu este exclusă apariția unor noi erori",
+        "translated_title": "CNAIR: TollRo ar trebui să funcționeze corect acum. Nu este exclusă apariția unor noi erori",
+        "url": "https://www.go4it.ro/content/anunturi/cnair-tollro-ar-trebui-sa-functioneze-corect-acum-nu-este-exclusa-aparitia-unor-noi-erori-19287216/",
+        "source": "Go4IT",
+        "published": "2026-10-07T10:51:33.453309+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-06",
     "date_formatted": "6 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/smartwatch/review-huawei-watch-d3-ceas-smart-elegant-cu-tensiometru-certificat-medical-19286571/",
         "source": "Go4IT",
         "published": "2026-10-01T10:44:15.116201+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-30",
-    "date_formatted": "30 Septembrie 2026",
-    "news": [
-      {
-        "title": "How Israeli Checkpoints Choke Palestinian Life in the Occupied West Bank",
-        "translated_title": "How Israeli Checkpoints Choke Palestinian Life in the Occupied West Bank",
-        "url": "https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/",
-        "source": "Wired",
-        "published": "2026-09-30T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The US government's new AI chatbot gives Minecraft's end poem a bureaucratic twist",
-        "translated_title": "The US government's new AI chatbot gives Minecraft's end poem a bureaucratic twist",
-        "url": "https://www.engadget.com/2272978/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/",
-        "source": "Engadget",
-        "published": "2026-09-30T09:48:35+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Best Mattresses for Kids (2026): Saatva, Birch, Helix, and More",
-        "translated_title": "Best Mattresses for Kids (2026): Saatva, Birch, Helix, and More",
-        "url": "https://www.wired.com/gallery/the-best-kids-mattresses/",
-        "source": "Wired",
-        "published": "2026-09-30T09:32:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Sony implements a lottery system to deal with the PS5 Pro shortage in Japan",
-        "translated_title": "Sony implements a lottery system to deal with the PS5 Pro shortage in Japan",
-        "url": "https://www.engadget.com/2272946/sony-lottery-system-ps5-pro-japan/",
-        "source": "Engadget",
-        "published": "2026-09-30T07:55:04+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Why Is Sam Altman a Free Man?",
-        "translated_title": "Why Is Sam Altman a Free Man?",
-        "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
-        "source": "Hacker News",
-        "published": "2026-09-30T07:32:40+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "September 2026: The world today, as seen by one Polish guy",
-        "translated_title": "September 2026: The world today, as seen by one Polish guy",
-        "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-        "source": "Hacker News",
-        "published": "2026-09-30T07:12:31+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
-        "translated_title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
-        "url": "https://www.wired.com/gallery/best-laptop-docking-stations/",
-        "source": "Wired",
-        "published": "2026-09-30T05:30:53+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "LG Promo Codes and Coupons for October 2026",
-        "translated_title": "LG Promo Codes and Coupons for October 2026",
-        "url": "https://www.wired.com/story/lg-promo-code/",
-        "source": "Wired",
-        "published": "2026-09-30T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple Pay finally launches in India after years on the sidelines",
-        "translated_title": "Apple Pay finally launches in India after years on the sidelines",
-        "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-        "source": "TechCrunch",
-        "published": "2026-09-30T04:08:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "RSS Feeds for Last.fm",
-        "translated_title": "RSS Feeds for Last.fm",
-        "url": "https://lfm.xiffy.nl/",
-        "source": "Hacker News",
-        "published": "2026-09-30T03:00:05+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-        "translated_title": "Sam Altman says OpenAI won’t go public until its models are safe",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-        "source": "The Verge",
-        "published": "2026-09-30T00:19:13+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "SteelSeries lansează mouse-uri cu polling rate de 8K și baterie schimbabilă: până la 60 de ore de autonomie",
-        "translated_title": "SteelSeries lansează mouse-uri cu polling rate de 8K și baterie schimbabilă: până la 60 de ore de autonomie",
-        "url": "https://www.go4it.ro/content/periferice/tastaturi-si-mouse/steelseries-lanseaza-mouse-uri-cu-polling-rate-de-8k-si-baterie-schimbabila-pana-la-60-de-ore-de-autonomie-19286526/",
-        "source": "Go4IT",
-        "published": "2026-09-30T10:18:01.208832+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "John Ternus schimbă regulile la Apple: lansări mai rapide și posibile concedieri în companie",
-        "translated_title": "John Ternus schimbă regulile la Apple: lansări mai rapide și posibile concedieri în companie",
-        "url": "https://www.go4it.ro/content/business/john-ternus-schimba-regulile-la-apple-lansari-mai-rapide-si-posibile-concedieri-in-companie-19286533/",
-        "source": "Go4IT",
-        "published": "2026-09-30T10:18:01.208652+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "BYD ajunge la 10 milioane de mașini și lansează un sedan electric de 764 CP cu 626 de mile autonomie",
-        "translated_title": "BYD ajunge la 10 milioane de mașini și lansează un sedan electric de 764 CP cu 626 de mile autonomie",
-        "url": "https://www.go4it.ro/content/auto/byd-ajunge-la-10-milioane-de-masini-si-lanseaza-un-sedan-electric-de-764-cp-cu-626-de-mile-autonomie-19286535/",
-        "source": "Go4IT",
-        "published": "2026-09-30T10:18:01.208471+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "iPhone Duo pare că are probleme în producție. Sunt, însă, și vești bune",
-        "translated_title": "iPhone Duo pare că are probleme în producție. Sunt, însă, și vești bune",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/iphone-duo-pare-ca-are-probleme-in-productie-sunt-insa-si-vesti-bune-19286539/",
-        "source": "Go4IT",
-        "published": "2026-09-30T10:18:01.208290+00:00",
         "summary": null,
         "category": "romanian"
       }
