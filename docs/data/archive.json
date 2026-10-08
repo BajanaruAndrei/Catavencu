@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-08",
+    "date_formatted": "8 Octombrie 2026",
+    "news": [
+      {
+        "title": "Spend Elon Musk’s Money",
+        "translated_title": "Spend Elon Musk’s Money",
+        "url": "https://www.wired.com/story/spend-elon-musk-money/",
+        "source": "Wired",
+        "published": "2026-10-08T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel Prize in Chemistry",
+        "translated_title": "Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel Prize in Chemistry",
+        "url": "https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/",
+        "source": "Wired",
+        "published": "2026-10-08T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Best Reusable Water Bottles of 2026, Tested by WIRED",
+        "translated_title": "Best Reusable Water Bottles of 2026, Tested by WIRED",
+        "url": "https://www.wired.com/story/best-reusable-water-bottles/",
+        "source": "Wired",
+        "published": "2026-10-08T10:05:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Why we’re watching these climate tech companies",
+        "translated_title": "Why we’re watching these climate tech companies",
+        "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-08T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "WIRED’s Midterms Races to Watch",
+        "translated_title": "WIRED’s Midterms Races to Watch",
+        "url": "https://www.wired.com/story/wireds-midterms-races-to-watch/",
+        "source": "Wired",
+        "published": "2026-10-08T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "translated_title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-08T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The new BMW iX4 is the X4 reborn as an EV",
+        "translated_title": "The new BMW iX4 is the X4 reborn as an EV",
+        "url": "https://www.engadget.com/2280880/bmw-ix4-is-the-x4-reborn-as-an-ev/",
+        "source": "Engadget",
+        "published": "2026-10-08T08:45:55+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "GPT-6 is coming to all tiers of ChatGPT",
+        "translated_title": "GPT-6 is coming to all tiers of ChatGPT",
+        "url": "https://www.engadget.com/2280879/gpt-6-coming-all-tiers-chatgpt/",
+        "source": "Engadget",
+        "published": "2026-10-08T08:45:16+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Building a safer path to autonomous industrial AI",
+        "translated_title": "Building a safer path to autonomous industrial AI",
+        "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-08T08:17:32+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+        "translated_title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+        "url": "https://dat-ecosystem.org/",
+        "source": "Hacker News",
+        "published": "2026-10-08T06:43:13+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Classic PC demoscene productions running natively in the browser",
+        "translated_title": "Classic PC demoscene productions running natively in the browser",
+        "url": "https://treylorswift.github.io/demoscene-recomp/web/",
+        "source": "Hacker News",
+        "published": "2026-10-08T06:29:25+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ofertă Auchan: Compania vinde propriul aparat de făcut sifon, mai ieftin decât cele de la Sodastream",
+        "translated_title": "Ofertă Auchan: Compania vinde propriul aparat de făcut sifon, mai ieftin decât cele de la Sodastream",
+        "url": "https://www.go4it.ro/oferte-din-magazine/oferta-auchan-compania-vinde-propriul-aparat-de-facut-sifon-mai-ieftin-decat-cele-de-la-sodastream-19287309/",
+        "source": "Go4IT",
+        "published": "2026-10-08T11:09:21.789579+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Bucureștiul primește bani europeni pentru modernizarea transportului public cu vehicule electrice",
+        "translated_title": "Bucureștiul primește bani europeni pentru modernizarea transportului public cu vehicule electrice",
+        "url": "https://www.go4it.ro/content/anunturi/bucurestiul-primeste-bani-europeni-pentru-modernizarea-transportului-public-cu-vehicule-electrice-19287314/",
+        "source": "Go4IT",
+        "published": "2026-10-08T11:09:21.789479+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Revin casierii? Retailerii renunță la casele de marcat automate „self-checkout” după ani de furturi, erori și economii de timp iluzorii",
+        "translated_title": "Revin casierii? Retailerii renunță la casele de marcat automate „self-checkout” după ani de furturi, erori și economii de timp iluzorii",
+        "url": "https://www.go4it.ro/content/business/revin-casierii-retailerii-renunta-la-casele-de-marcat-automate-self-checkout-dupa-ani-de-furturi-erori-si-economii-de-timp-iluzorii-19287322/",
+        "source": "Go4IT",
+        "published": "2026-10-08T11:09:21.789353+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Finlanda cere suspendarea dezvoltării unor centre de date pentru AI de la Google",
+        "translated_title": "Finlanda cere suspendarea dezvoltării unor centre de date pentru AI de la Google",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/finlanda-cere-suspendarea-dezvoltarii-unor-centre-de-date-pentru-ai-de-la-google-19287317/",
+        "source": "Go4IT",
+        "published": "2026-10-08T11:09:21.789255+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-07",
     "date_formatted": "7 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/drone/posibila-drona-prabusita-in-judetul-tulcea-a-provocat-un-incendiu-19286784/",
         "source": "Go4IT",
         "published": "2026-10-02T10:19:21.812371+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-01",
-    "date_formatted": "1 Octombrie 2026",
-    "news": [
-      {
-        "title": "Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race",
-        "translated_title": "Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race",
-        "url": "https://www.wired.com/story/madison-square-gardens-james-dolan-is-spending-big-on-new-yorks-governor-race/",
-        "source": "Wired",
-        "published": "2026-10-01T10:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Lemmo’s fancy e-bike is one of the first with a semi-solid state battery",
-        "translated_title": "Lemmo’s fancy e-bike is one of the first with a semi-solid state battery",
-        "url": "https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery",
-        "source": "The Verge",
-        "published": "2026-10-01T10:11:29+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The People of Utah vs. Kevin O’Leary",
-        "translated_title": "The People of Utah vs. Kevin O’Leary",
-        "url": "https://www.theverge.com/cs/features/993343/stratos-utah-kevin-oleary-data-center-backlash",
-        "source": "The Verge",
-        "published": "2026-10-01T10:00:02+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How smaller, distributed batteries could help the grid",
-        "translated_title": "How smaller, distributed batteries could help the grid",
-        "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-01T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple Mac Studio (M5 Ultra) Review: Unlimited Power",
-        "translated_title": "Apple Mac Studio (M5 Ultra) Review: Unlimited Power",
-        "url": "https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/",
-        "source": "Wired",
-        "published": "2026-10-01T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
-        "translated_title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
-        "url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
-        "source": "Hacker News",
-        "published": "2026-10-01T09:48:18+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Secrets of the US Spyware King",
-        "translated_title": "The Secrets of the US Spyware King",
-        "url": "https://www.wired.com/story/the-secrets-of-the-us-spyware-king/",
-        "source": "Wired",
-        "published": "2026-10-01T09:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Noise from Universal’s latest ride made rich locals furious, fast",
-        "translated_title": "Noise from Universal’s latest ride made rich locals furious, fast",
-        "url": "https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise",
-        "source": "The Verge",
-        "published": "2026-10-01T09:00:04+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Casio’s Crystal G-Shock Is the Most Expensive Ever Made",
-        "translated_title": "Casio’s Crystal G-Shock Is the Most Expensive Ever Made",
-        "url": "https://www.wired.com/story/casio-crystal-g-shock-is-the-most-expensive-ever-made/",
-        "source": "Wired",
-        "published": "2026-10-01T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "California's new law bans companies from relying on AI to fire workers",
-        "translated_title": "California's new law bans companies from relying on AI to fire workers",
-        "url": "https://www.engadget.com/2274224/california-law-bans-companies-from-relying-on-ai-to-fire-workers/",
-        "source": "Engadget",
-        "published": "2026-10-01T07:36:44+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple TV is down",
-        "translated_title": "Apple TV is down",
-        "url": "https://www.engadget.com/2274184/apple-tv-is-down/",
-        "source": "Engadget",
-        "published": "2026-10-01T04:22:21+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Black Edition, noua colecție Caviar cu iPhone de lux de până la 14.000 de dolari. Două modele nu mai au camere – VIDEO",
-        "translated_title": "Black Edition, noua colecție Caviar cu iPhone de lux de până la 14.000 de dolari. Două modele nu mai au camere – VIDEO",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/caviar-black-edition-iphone-uri-de-lux-doua-modele-nu-mai-au-camere-19286648/",
-        "source": "Go4IT",
-        "published": "2026-10-01T10:44:15.116673+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Pentagonul creează „Autonomous Warfare Command”, un comandament special pentru drone și inteligență artificială",
-        "translated_title": "Pentagonul creează „Autonomous Warfare Command”, un comandament special pentru drone și inteligență artificială",
-        "url": "https://www.go4it.ro/tehnologie-militara/pentagonul-creeaza-autonomous-warfare-command-un-comandament-special-pentru-drone-si-inteligenta-artificiala-19286660/",
-        "source": "Go4IT",
-        "published": "2026-10-01T10:44:15.116472+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "O mamă este îngrozită după ce IA de la Meta a scotocit pe Instagram și Facebook în căutarea unor informații invazive despre fiicele sale minore și a creat profiluri detaliate ale copiilor",
-        "translated_title": "O mamă este îngrozită după ce IA de la Meta a scotocit pe Instagram și Facebook în căutarea unor informații invazive despre fiicele sale minore și a creat profiluri detaliate ale copiilor",
-        "url": "https://www.go4it.ro/content/aplicatii/o-mama-este-ingrozita-dupa-ce-ia-de-la-meta-a-scotocit-pe-instagram-si-facebook-in-cautarea-unor-informatii-invazive-despre-fiicele-sale-minore-si-a-creat-profiluri-detaliate-ale-copiilor-19286664/",
-        "source": "Go4IT",
-        "published": "2026-10-01T10:44:15.116332+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Review Huawei Watch D3: ceas smart elegant, cu tensiometru certificat medical",
-        "translated_title": "Review Huawei Watch D3: ceas smart elegant, cu tensiometru certificat medical",
-        "url": "https://www.go4it.ro/content/smartwatch/review-huawei-watch-d3-ceas-smart-elegant-cu-tensiometru-certificat-medical-19286571/",
-        "source": "Go4IT",
-        "published": "2026-10-01T10:44:15.116201+00:00",
         "summary": null,
         "category": "romanian"
       }
