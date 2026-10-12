@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-12",
+    "date_formatted": "12 Octombrie 2026",
+    "news": [
+      {
+        "title": "QGIS bans AI assisted contributions",
+        "translated_title": "QGIS bans AI assisted contributions",
+        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "source": "Hacker News",
+        "published": "2026-10-12T11:22:24+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How Apple Puts Indigenous Languages on the iPhone Keyboard",
+        "translated_title": "How Apple Puts Indigenous Languages on the iPhone Keyboard",
+        "url": "https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/",
+        "source": "Wired",
+        "published": "2026-10-12T11:15:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Inside the mini factory where GM builds its EV future",
+        "translated_title": "Inside the mini factory where GM builds its EV future",
+        "url": "https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla",
+        "source": "The Verge",
+        "published": "2026-10-12T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer",
+        "translated_title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer",
+        "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+        "source": "Wired",
+        "published": "2026-10-12T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "WhatsApp users may soon be able to schedule messages",
+        "translated_title": "WhatsApp users may soon be able to schedule messages",
+        "url": "https://www.engadget.com/2283518/whatsapp-users-may-soon-be-able-to-schedule-messages/",
+        "source": "Engadget",
+        "published": "2026-10-12T10:44:33+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "AlterMe Review: Fitness Built Around My DNA",
+        "translated_title": "AlterMe Review: Fitness Built Around My DNA",
+        "url": "https://www.wired.com/review/alterme-fitness-and-wellness-program/",
+        "source": "Wired",
+        "published": "2026-10-12T10:34:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age",
+        "translated_title": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age",
+        "url": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin/",
+        "source": "Wired",
+        "published": "2026-10-12T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+        "translated_title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+        "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+        "source": "Hacker News",
+        "published": "2026-10-12T10:21:27+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ledger confirms hidden chip in crypto wallet amid $92M theft claims",
+        "translated_title": "Ledger confirms hidden chip in crypto wallet amid $92M theft claims",
+        "url": "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/",
+        "source": "Hacker News",
+        "published": "2026-10-12T10:09:37+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Mars may be a hellhole, but the moon is not far behind",
+        "translated_title": "Mars may be a hellhole, but the moon is not far behind",
+        "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-12T09:37:02+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Microsoft's president says AI is less regulated than a carton of milk",
+        "translated_title": "Microsoft's president says AI is less regulated than a carton of milk",
+        "url": "https://www.engadget.com/2283487/microsoft-president-ai-less-regulated-than-a-carton-of-milk/",
+        "source": "Engadget",
+        "published": "2026-10-12T09:28:37+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Memoriile se scumpesc, iar producătorii caută soluții în software. Cum pot rămâne accesibile laptopurile cu 8 GB RAM",
+        "translated_title": "Memoriile se scumpesc, iar producătorii caută soluții în software. Cum pot rămâne accesibile laptopurile cu 8 GB RAM",
+        "url": "https://www.go4it.ro/content/software/memoriile-se-scumpesc-iar-producatorii-cauta-solutii-in-software-cum-pot-ramane-accesibile-laptopurile-cu-8-gb-ram-19287569/",
+        "source": "Go4IT",
+        "published": "2026-10-12T11:40:31.383618+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Xiaomi pregătește un telefon REDMI cu ecran de 7 inci și rată mare de refresh. Ce se știe despre seria K200",
+        "translated_title": "Xiaomi pregătește un telefon REDMI cu ecran de 7 inci și rată mare de refresh. Ce se știe despre seria K200",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/xiaomi-pregateste-un-telefon-redmi-cu-ecran-de-7-inci-si-rata-mare-de-refresh-ce-se-stie-despre-seria-k200-19287575/",
+        "source": "Go4IT",
+        "published": "2026-10-12T11:40:31.383413+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Mac-urile cu M5 Max și M5 Ultra ajung în aceeași categorie cu unele PC-uri de gaming cu placă video dedicată",
+        "translated_title": "Mac-urile cu M5 Max și M5 Ultra ajung în aceeași categorie cu unele PC-uri de gaming cu placă video dedicată",
+        "url": "https://www.go4it.ro/content/pc/cipurile-apple-m5-max-si-m5-ultra-ajung-in-aceeasi-categorie-cu-unele-pc-uri-de-gaming-cu-placa-video-dedicata-19287579/",
+        "source": "Go4IT",
+        "published": "2026-10-12T11:40:31.383301+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Scumpirile din industria AI ajung și la ASML. Producătorul olandez ar majora cu 10% prețul pieselor pentru fabricile de cipuri",
+        "translated_title": "Scumpirile din industria AI ajung și la ASML. Producătorul olandez ar majora cu 10% prețul pieselor pentru fabricile de cipuri",
+        "url": "https://www.go4it.ro/content/componente-pc/scumpirile-din-industria-ai-ajung-si-la-asml-producatorul-olandez-ar-majora-cu-10-pretul-pieselor-pentru-fabricile-de-cipuri-19287583/",
+        "source": "Go4IT",
+        "published": "2026-10-12T11:40:31.383196+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-11",
     "date_formatted": "11 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/accesorii/lansare-discreta-de-la-seiko-doua-noi-ceasuri-5-sports-field-gmt-cu-tenta-militara-sub-500-de-euro-19287132/",
         "source": "Go4IT",
         "published": "2026-10-06T11:01:49.725439+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-05",
-    "date_formatted": "5 Octombrie 2026",
-    "news": [
-      {
-        "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-        "translated_title": "Best Power Banks (2026): My Picks After Testing Over 100",
-        "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-        "source": "Wired",
-        "published": "2026-10-05T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Google admits not every Android app runs great on Intel Googlebooks",
-        "translated_title": "Google admits not every Android app runs great on Intel Googlebooks",
-        "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
-        "source": "The Verge",
-        "published": "2026-10-05T10:58:22+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Withings BodyScan 2 Review: Worth Its Weight",
-        "translated_title": "Withings BodyScan 2 Review: Worth Its Weight",
-        "url": "https://www.wired.com/review/withings-bodyscan-2/",
-        "source": "Wired",
-        "published": "2026-10-05T10:36:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple and a Hacker's Future",
-        "translated_title": "Apple and a Hacker's Future",
-        "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-        "source": "Hacker News",
-        "published": "2026-10-05T10:05:02+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Our minds aren’t equipped to handle AI",
-        "translated_title": "Our minds aren’t equipped to handle AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-        "source": "The Verge",
-        "published": "2026-10-05T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Omega Has New Bond Watches Even If There Isn’t a New James Bond",
-        "translated_title": "Omega Has New Bond Watches Even If There Isn’t a New James Bond",
-        "url": "https://www.wired.com/story/omega-has-new-bond-watches-even-if-we-dont-have-a-new-bond/",
-        "source": "Wired",
-        "published": "2026-10-05T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A Prediction Market About the Past? Sure, Why Not!",
-        "translated_title": "A Prediction Market About the Past? Sure, Why Not!",
-        "url": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
-        "source": "Wired",
-        "published": "2026-10-05T09:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-        "translated_title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-        "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-        "source": "Hacker News",
-        "published": "2026-10-05T08:09:36+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "People really hate AI, so why can’t they get enough?",
-        "translated_title": "People really hate AI, so why can’t they get enough?",
-        "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-05T08:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-        "translated_title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-        "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-        "source": "Hacker News",
-        "published": "2026-10-05T07:46:10+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Replacement of petroleum based products with plant-based materials (2025)",
-        "translated_title": "Replacement of petroleum based products with plant-based materials (2025)",
-        "url": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
-        "source": "Hacker News",
-        "published": "2026-10-05T05:09:43+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Ofertă Lidl: Cărucior SilverCrest multifuncțional de cumpărături cu compartiment termoizolant",
-        "translated_title": "Ofertă Lidl: Cărucior SilverCrest multifuncțional de cumpărături cu compartiment termoizolant",
-        "url": "https://www.go4it.ro/oferte-din-magazine/oferta-lidl-carucior-silvercrest-multifunctional-de-cumparaturi-cu-compartiment-termoizolant-19287021/",
-        "source": "Go4IT",
-        "published": "2026-10-05T11:11:49.310459+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Analiză pe 9 milioane de tineri: Cum afectează timpul petrecut pe telefon sănătatea mintală și somnul",
-        "translated_title": "Analiză pe 9 milioane de tineri: Cum afectează timpul petrecut pe telefon sănătatea mintală și somnul",
-        "url": "https://www.go4it.ro/content/stiinta/analiza-pe-9-milioane-de-tineri-cum-afecteaza-timpul-petrecut-pe-telefon-sanatatea-mintala-si-somnul-19287025/",
-        "source": "Go4IT",
-        "published": "2026-10-05T11:11:49.310371+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Sam Altman, CEO-ul OpenAI: Societatea trebuie să accepte unele efecte negative ale dezvoltării inteligenței artificiale",
-        "translated_title": "Sam Altman, CEO-ul OpenAI: Societatea trebuie să accepte unele efecte negative ale dezvoltării inteligenței artificiale",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/sam-altman-ceo-ul-openai-societatea-trebuie-sa-accepte-unele-efecte-negative-ale-dezvoltarii-inteligentei-artificiale-19287010/",
-        "source": "Go4IT",
-        "published": "2026-10-05T11:11:49.310282+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Isabelle Moeller (Biometrics Institute), despre rolul pozitiv al biometriei: Dincolo de supraveghere, tehnologia a ajutat la identificarea a 3.600 de victime după tsunamiul din Thailanda",
-        "translated_title": "Isabelle Moeller (Biometrics Institute), despre rolul pozitiv al biometriei: Dincolo de supraveghere, tehnologia a ajutat la identificarea a 3.600 de victime după tsunamiul din Thailanda",
-        "url": "https://www.go4it.ro/securitate-informatica/isabelle-moeller-biometrics-institute-despre-rolul-pozitiv-al-biometriei-dincolo-de-supraveghere-tehnologia-a-ajutat-la-identificarea-a-3-600-de-victime-dupa-tsunamiul-din-thailanda-19287028/",
-        "source": "Go4IT",
-        "published": "2026-10-05T11:11:49.310193+00:00",
         "summary": null,
         "category": "romanian"
       }
