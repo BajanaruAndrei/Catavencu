@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-13",
+    "date_formatted": "13 Octombrie 2026",
+    "news": [
+      {
+        "title": "30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés",
+        "translated_title": "30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés",
+        "url": "https://www.wired.com/gallery/best-tech-books-to-gift/",
+        "source": "Wired",
+        "published": "2026-10-13T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+        "translated_title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+        "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+        "source": "Wired",
+        "published": "2026-10-13T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Character.AI files for bankruptcy",
+        "translated_title": "Character.AI files for bankruptcy",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+        "source": "The Verge",
+        "published": "2026-10-13T10:32:23+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues",
+        "translated_title": "Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/",
+        "source": "Wired",
+        "published": "2026-10-13T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "11 year old unsoundness bugs found in Rust borrow checker",
+        "translated_title": "11 year old unsoundness bugs found in Rust borrow checker",
+        "url": "https://github.com/rust-lang/rust/issues/164250",
+        "source": "Hacker News",
+        "published": "2026-10-13T10:27:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+        "translated_title": "Show HN: Use your OpenAI subscription to create audiobooks",
+        "url": "https://pdftomp3.com/connect-ai/",
+        "source": "Hacker News",
+        "published": "2026-10-13T10:08:34+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "AI models may soon self-replicate without access to data centers",
+        "translated_title": "AI models may soon self-replicate without access to data centers",
+        "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
+        "source": "Hacker News",
+        "published": "2026-10-13T10:08:18+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+        "translated_title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+        "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+        "source": "Hacker News",
+        "published": "2026-10-13T10:08:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Open models have real benefits. Do they outweigh the risks?",
+        "translated_title": "Open models have real benefits. Do they outweigh the risks?",
+        "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-13T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+        "translated_title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+        "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+        "source": "Wired",
+        "published": "2026-10-13T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Abu Dhabi will use Ultrahuman's smart ring know-how to boost its public health app",
+        "translated_title": "Abu Dhabi will use Ultrahuman's smart ring know-how to boost its public health app",
+        "url": "https://www.engadget.com/2284956/ultrahuman-abu-dhabi-partnership/",
+        "source": "Engadget",
+        "published": "2026-10-13T09:21:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Un avion american de spionaj plecat din România patrulează în Marea Neagră: rază de acțiune de 600 de kilometri",
+        "translated_title": "Un avion american de spionaj plecat din România patrulează în Marea Neagră: rază de acțiune de 600 de kilometri",
+        "url": "https://www.go4it.ro/tehnologie-militara/un-avion-american-de-spionaj-plecat-din-romania-patruleaza-in-marea-neagra-raza-de-actiune-de-600-de-kilometri-19287665/",
+        "source": "Go4IT",
+        "published": "2026-10-13T11:26:10.319398+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "UE accelerează inovația militară: Programul AGILE, de 115 milioane de euro, adoptat în timp record. Va sprijini 20-30 de proiecte, cu finanțare de până la 100%",
+        "translated_title": "UE accelerează inovația militară: Programul AGILE, de 115 milioane de euro, adoptat în timp record. Va sprijini 20-30 de proiecte, cu finanțare de până la 100%",
+        "url": "https://www.go4it.ro/tehnologie-militara/ue-accelereaza-inovatia-militara-programul-agile-de-115-milioane-de-euro-a-fost-adoptat-in-timp-record-19287671/",
+        "source": "Go4IT",
+        "published": "2026-10-13T11:26:10.319216+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "O aplicație de dating a fost achiziționată cu un miliard de dolari. Acțiunile Bumble, creștere de aproape 50% într-o zi",
+        "translated_title": "O aplicație de dating a fost achiziționată cu un miliard de dolari. Acțiunile Bumble, creștere de aproape 50% într-o zi",
+        "url": "https://www.go4it.ro/content/business/o-aplicatie-de-dating-a-fost-achizitionata-cu-un-miliard-de-dolari-actiunile-bumble-crestere-de-aproape-50-intr-o-zi-19287669/",
+        "source": "Go4IT",
+        "published": "2026-10-13T11:26:10.319034+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "iPhone Duo ar putea avea un succes peste așteptări. Apple ar fi crescut comenzile cu 30%, înainte de lansarea din magazine",
+        "translated_title": "iPhone Duo ar putea avea un succes peste așteptări. Apple ar fi crescut comenzile cu 30%, înainte de lansarea din magazine",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/iphone-duo-ar-putea-avea-un-succes-peste-asteptari-apple-ar-fi-crescut-comenzile-cu-30-inainte-de-lansarea-din-magazine-19287678/",
+        "source": "Go4IT",
+        "published": "2026-10-13T11:26:10.318826+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-12",
     "date_formatted": "12 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/anunturi/cnair-tollro-ar-trebui-sa-functioneze-corect-acum-nu-este-exclusa-aparitia-unor-noi-erori-19287216/",
         "source": "Go4IT",
         "published": "2026-10-07T10:51:33.453309+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-06",
-    "date_formatted": "6 Octombrie 2026",
-    "news": [
-      {
-        "title": "The best October Prime Day tech deals we found",
-        "translated_title": "The best October Prime Day tech deals we found",
-        "url": "https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech",
-        "source": "The Verge",
-        "published": "2026-10-06T10:55:05+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-        "translated_title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-        "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
-        "source": "The Verge",
-        "published": "2026-10-06T10:53:11+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Our Go-To Over-Ear Headphones Are at Their Lowest Price for Prime Day",
-        "translated_title": "Our Go-To Over-Ear Headphones Are at Their Lowest Price for Prime Day",
-        "url": "https://www.wired.com/story/nothing-headphone-1-deal-prime-day-10-6-2026/",
-        "source": "Wired",
-        "published": "2026-10-06T10:43:57+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Best Power Station Is 30 Percent Off for Prime Day",
-        "translated_title": "The Best Power Station Is 30 Percent Off for Prime Day",
-        "url": "https://www.wired.com/story/bluetti-elite-300-prime-day-deal-10-06-2026/",
-        "source": "Wired",
-        "published": "2026-10-06T10:41:31+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-        "translated_title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-        "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-        "source": "Wired",
-        "published": "2026-10-06T10:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Internet Runs on Cats and Porn. It’s About to Get Cattier and Pornier",
-        "translated_title": "The Internet Runs on Cats and Porn. It’s About to Get Cattier and Pornier",
-        "url": "https://www.wired.com/story/icann-top-level-domains-meow/",
-        "source": "Wired",
-        "published": "2026-10-06T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Nobel Prize in Physics goes to Francis Halzen",
-        "translated_title": "Nobel Prize in Physics goes to Francis Halzen",
-        "url": "https://www.nobelprize.org/prizes/physics/2026/",
-        "source": "Hacker News",
-        "published": "2026-10-06T09:48:46+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Xbox Elite Controller 3 specs leak via Xbox's own Design Lab",
-        "translated_title": "Xbox Elite Controller 3 specs leak via Xbox's own Design Lab",
-        "url": "https://www.engadget.com/2278466/xbox-elite-controller-3-spec-leak/",
-        "source": "Engadget",
-        "published": "2026-10-06T09:38:03+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Gleam doesn't compile to Erlang source anymore",
-        "translated_title": "Gleam doesn't compile to Erlang source anymore",
-        "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-        "source": "Hacker News",
-        "published": "2026-10-06T08:08:20+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "This remote-controlled wagon is silly but so very useful",
-        "translated_title": "This remote-controlled wagon is silly but so very useful",
-        "url": "https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful",
-        "source": "The Verge",
-        "published": "2026-10-06T08:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Resurrecting iChat Audio and Video Conferencing",
-        "translated_title": "Resurrecting iChat Audio and Video Conferencing",
-        "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-        "source": "Hacker News",
-        "published": "2026-10-06T03:39:01+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Trend pe TikTok ce pretinde că ameliorează migrenele. Doctorii explică fenomenul",
-        "translated_title": "Trend pe TikTok ce pretinde că ameliorează migrenele. Doctorii explică fenomenul",
-        "url": "https://www.go4it.ro/content/social-media/trend-pe-tiktok-ce-pretinde-ca-amelioreaza-migrenele-doctorii-explica-fenomenul-19287120/",
-        "source": "Go4IT",
-        "published": "2026-10-06T11:01:49.726049+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Istoria vieții pe Pământ ar putea fi rescrisă. Când ar fi apărut, de fapt, animalele pe planeta noastră",
-        "translated_title": "Istoria vieții pe Pământ ar putea fi rescrisă. Când ar fi apărut, de fapt, animalele pe planeta noastră",
-        "url": "https://www.go4it.ro/content/stiinta/istoria-vietii-pe-pamant-ar-putea-fi-rescrisa-cand-ar-fi-aparut-de-fapt-animalele-pe-planeta-noastra-19287122/",
-        "source": "Go4IT",
-        "published": "2026-10-06T11:01:49.725858+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "MacBook-ul cu touch screen, tot mai aproape de lansare?",
-        "translated_title": "MacBook-ul cu touch screen, tot mai aproape de lansare?",
-        "url": "https://www.go4it.ro/content/laptopuri/macbook-ul-cu-touch-screen-tot-mai-aproape-de-lansare-19287124/",
-        "source": "Go4IT",
-        "published": "2026-10-06T11:01:49.725626+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Lansare discretă de la Seiko: Două noi ceasuri 5 Sports Field GMT cu tentă militară, sub 500 de euro",
-        "translated_title": "Lansare discretă de la Seiko: Două noi ceasuri 5 Sports Field GMT cu tentă militară, sub 500 de euro",
-        "url": "https://www.go4it.ro/content/accesorii/lansare-discreta-de-la-seiko-doua-noi-ceasuri-5-sports-field-gmt-cu-tenta-militara-sub-500-de-euro-19287132/",
-        "source": "Go4IT",
-        "published": "2026-10-06T11:01:49.725439+00:00",
         "summary": null,
         "category": "romanian"
       }
