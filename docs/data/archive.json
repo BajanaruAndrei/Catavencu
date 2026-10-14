@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-14",
+    "date_formatted": "14 Octombrie 2026",
+    "news": [
+      {
+        "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+        "translated_title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+        "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+        "source": "Wired",
+        "published": "2026-10-14T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+        "translated_title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+        "url": "https://github.com/android/ndk/issues/2260",
+        "source": "Hacker News",
+        "published": "2026-10-14T06:18:01+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "HBO Max Promo Code: 50% Off | October 2026",
+        "translated_title": "HBO Max Promo Code: 50% Off | October 2026",
+        "url": "https://www.wired.com/story/max-promo-code/",
+        "source": "Wired",
+        "published": "2026-10-14T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Expedia Coupons: 40% Off",
+        "translated_title": "Expedia Coupons: 40% Off",
+        "url": "https://www.wired.com/story/expedia-coupon/",
+        "source": "Wired",
+        "published": "2026-10-14T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Walgreens Photo Coupons: Up to 70% Off This October",
+        "translated_title": "Walgreens Photo Coupons: Up to 70% Off This October",
+        "url": "https://www.wired.com/story/walgreens-photo-coupon/",
+        "source": "Wired",
+        "published": "2026-10-14T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Felix Rieseberg Homepage",
+        "translated_title": "Felix Rieseberg Homepage",
+        "url": "https://felixrieseberg.com/",
+        "source": "Hacker News",
+        "published": "2026-10-14T04:42:33+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+        "translated_title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+        "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+        "source": "TechCrunch",
+        "published": "2026-10-14T01:30:42+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Do Frameworks Matter Anymore?",
+        "translated_title": "Do Frameworks Matter Anymore?",
+        "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+        "source": "Hacker News",
+        "published": "2026-10-14T01:01:08+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Which smart TV brands offer the longest software support?",
+        "translated_title": "Which smart TV brands offer the longest software support?",
+        "url": "https://www.engadget.com/2282502/smart-tv-brands-offer-longest-software-support/",
+        "source": "Engadget",
+        "published": "2026-10-14T00:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Is Mini DisplayPort becoming obsolete?",
+        "translated_title": "Is Mini DisplayPort becoming obsolete?",
+        "url": "https://www.engadget.com/2282398/mini-displayport-becoming-obsolete/",
+        "source": "Engadget",
+        "published": "2026-10-13T23:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+        "translated_title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+        "source": "TechCrunch",
+        "published": "2026-10-13T23:13:31+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Vești bune pentru fanii GTA 6 și PC. Când ar putea apărea versiunea pentru calculatoare",
+        "translated_title": "Vești bune pentru fanii GTA 6 și PC. Când ar putea apărea versiunea pentru calculatoare",
+        "url": "https://www.go4it.ro/content/jocuri/vesti-bune-pentru-fanii-gta-6-si-pc-cand-ar-putea-aparea-versiunea-pentru-calculatoare-19287738/",
+        "source": "Go4IT",
+        "published": "2026-10-14T09:18:29.334113+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Noul Apple TV 4K vine cu cip A19 și Siri fără telecomandă. Ce aduce în plus și cât costă",
+        "translated_title": "Noul Apple TV 4K vine cu cip A19 și Siri fără telecomandă. Ce aduce în plus și cât costă",
+        "url": "https://www.go4it.ro/content/smart-home/noul-apple-tv-4k-vine-cu-cip-a19-si-siri-fara-telecomanda-ce-aduce-in-plus-si-cat-costa-19287745/",
+        "source": "Go4IT",
+        "published": "2026-10-14T09:18:29.333768+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Honor pregătește un telefon de gaming cu o baterie imensă și un sistem de răcire neobișnuit",
+        "translated_title": "Honor pregătește un telefon de gaming cu o baterie imensă și un sistem de răcire neobișnuit",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/honor-pregateste-un-telefon-de-gaming-win-2-cu-o-baterie-imensa-19287749/",
+        "source": "Go4IT",
+        "published": "2026-10-14T09:18:29.333602+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Inteligența artificială ar putea da peste cap sistemul bancar. Economiștii se tem de retrageri masive din conturi",
+        "translated_title": "Inteligența artificială ar putea da peste cap sistemul bancar. Economiștii se tem de retrageri masive din conturi",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/inteligenta-artificiala-ar-putea-da-peste-cap-sistemul-bancar-economistii-se-tem-de-retrageri-masive-din-conturi-19287755/",
+        "source": "Go4IT",
+        "published": "2026-10-14T09:18:29.333440+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-13",
     "date_formatted": "13 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/inteligenta-artificiala/finlanda-cere-suspendarea-dezvoltarii-unor-centre-de-date-pentru-ai-de-la-google-19287317/",
         "source": "Go4IT",
         "published": "2026-10-08T11:09:21.789255+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-07",
-    "date_formatted": "7 Octombrie 2026",
-    "news": [
-      {
-        "title": "A Mysterious Nonprofit Run by SpaceXAI’s Top Lawyer Is Paying the Salaries of Government Workers",
-        "translated_title": "A Mysterious Nonprofit Run by SpaceXAI’s Top Lawyer Is Paying the Salaries of Government Workers",
-        "url": "https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge/",
-        "source": "Wired",
-        "published": "2026-10-07T10:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Jaguar’s first EV looks just like its divisive concept car",
-        "translated_title": "Jaguar’s first EV looks just like its divisive concept car",
-        "url": "https://www.theverge.com/transportation/1006536/jaguar-type-01-design-specs-price-reveal",
-        "source": "The Verge",
-        "published": "2026-10-07T10:03:46+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat",
-        "translated_title": "A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat",
-        "url": "https://www.wired.com/story/startup-atoco-makes-water-from-air-using-data-centers/",
-        "source": "Wired",
-        "published": "2026-10-07T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-        "translated_title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-        "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-        "source": "Hacker News",
-        "published": "2026-10-07T09:51:43+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-        "translated_title": "A font recreated from photographs of classic Commodore 64 keycaps",
-        "url": "https://github.com/szabadkai/c64-keyboard-font/",
-        "source": "Hacker News",
-        "published": "2026-10-07T09:17:55+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-        "translated_title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-        "source": "The Verge",
-        "published": "2026-10-07T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Elon Musk’s America PAC Is Spending Big on the Midterms. We’re Tracking It Daily",
-        "translated_title": "Elon Musk’s America PAC Is Spending Big on the Midterms. We’re Tracking It Daily",
-        "url": "https://www.wired.com/story/elon-musks-america-pac-is-spending-big-on-the-midterms-were-tracking-it-daily/",
-        "source": "Wired",
-        "published": "2026-10-07T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple TV's F1 coverage will now support Dolby Atmos",
-        "translated_title": "Apple TV's F1 coverage will now support Dolby Atmos",
-        "url": "https://www.engadget.com/2279712/apple-tv-dolby-atmos-support-formula-1/",
-        "source": "Engadget",
-        "published": "2026-10-07T08:58:55+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Your Next Great Read Might Be Certified ‘Organic’",
-        "translated_title": "Your Next Great Read Might Be Certified ‘Organic’",
-        "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
-        "source": "Wired",
-        "published": "2026-10-07T08:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Spotify expands audiobooks to over 180 markets",
-        "translated_title": "Spotify expands audiobooks to over 180 markets",
-        "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
-        "source": "TechCrunch",
-        "published": "2026-10-07T07:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
-        "translated_title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
-        "url": "https://github.com/shader-effects-inc/shaders",
-        "source": "Hacker News",
-        "published": "2026-10-07T05:38:35+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Edge computing nu mai este doar un experiment. 78% dintre proiectele IoT au trecut deja de etapa pilot",
-        "translated_title": "Edge computing nu mai este doar un experiment. 78% dintre proiectele IoT au trecut deja de etapa pilot",
-        "url": "https://www.go4it.ro/content/stiinta/edge-computing-nu-mai-este-doar-un-experiment-78-dintre-proiectele-iot-au-trecut-deja-de-etapa-pilot-19287158/",
-        "source": "Go4IT",
-        "published": "2026-10-07T10:51:33.453867+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "OnePlus 16 ar putea duce ecranul la 165 Hz în toate aplicațiile. Funcția ar putea fi activată din setări",
-        "translated_title": "OnePlus 16 ar putea duce ecranul la 165 Hz în toate aplicațiile. Funcția ar putea fi activată din setări",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/oneplus-16-ar-putea-duce-ecranul-la-165-hz-in-toate-aplicatiile-functia-ar-putea-fi-activata-din-setari-19287202/",
-        "source": "Go4IT",
-        "published": "2026-10-07T10:51:33.453686+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Microsoft pregătește un eveniment important azi. Surface Laptop Ultra, RTX Spark și Windows sunt în centrul atenției",
-        "translated_title": "Microsoft pregătește un eveniment important azi. Surface Laptop Ultra, RTX Spark și Windows sunt în centrul atenției",
-        "url": "https://www.go4it.ro/content/laptopuri/microsoft-pregateste-compania-surface-laptop-ultra-19287205/",
-        "source": "Go4IT",
-        "published": "2026-10-07T10:51:33.453502+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "CNAIR: TollRo ar trebui să funcționeze corect acum. Nu este exclusă apariția unor noi erori",
-        "translated_title": "CNAIR: TollRo ar trebui să funcționeze corect acum. Nu este exclusă apariția unor noi erori",
-        "url": "https://www.go4it.ro/content/anunturi/cnair-tollro-ar-trebui-sa-functioneze-corect-acum-nu-este-exclusa-aparitia-unor-noi-erori-19287216/",
-        "source": "Go4IT",
-        "published": "2026-10-07T10:51:33.453309+00:00",
         "summary": null,
         "category": "romanian"
       }
