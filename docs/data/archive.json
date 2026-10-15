@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-15",
+    "date_formatted": "15 Octombrie 2026",
+    "news": [
+      {
+        "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+        "translated_title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+        "url": "https://github.com/awslabs/aidlc-workflows",
+        "source": "Hacker News",
+        "published": "2026-10-15T07:20:39+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Walmart Promo Codes: 20% Off for October 2026",
+        "translated_title": "Walmart Promo Codes: 20% Off for October 2026",
+        "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+        "source": "Wired",
+        "published": "2026-10-15T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Figma announces new features to define how agents work on its platform",
+        "translated_title": "Figma announces new features to define how agents work on its platform",
+        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+        "source": "TechCrunch",
+        "published": "2026-10-15T04:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+        "translated_title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+        "url": "https://github.com/andunieee/flipflop",
+        "source": "Hacker News",
+        "published": "2026-10-15T04:25:28+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Double Headed Stack Allocator",
+        "translated_title": "The Double Headed Stack Allocator",
+        "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+        "source": "Hacker News",
+        "published": "2026-10-15T02:06:36+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "translated_title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+        "source": "TechCrunch",
+        "published": "2026-10-15T01:01:32+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+        "translated_title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+        "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+        "source": "TechCrunch",
+        "published": "2026-10-15T00:49:31+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+        "translated_title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+        "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+        "source": "TechCrunch",
+        "published": "2026-10-15T00:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+        "translated_title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+        "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+        "source": "Hacker News",
+        "published": "2026-10-14T23:59:37+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "McKinsey is making job applicants spar with a fake AI client",
+        "translated_title": "McKinsey is making job applicants spar with a fake AI client",
+        "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+        "source": "The Verge",
+        "published": "2026-10-14T22:53:31+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The best feature of Apple’s HomeView might be its simplicity",
+        "translated_title": "The best feature of Apple’s HomeView might be its simplicity",
+        "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+        "source": "The Verge",
+        "published": "2026-10-14T22:00:02+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Acer Sospiro A70 urmează să fie lansat. Care sunt noutățile aduse",
+        "translated_title": "Acer Sospiro A70 urmează să fie lansat. Care sunt noutățile aduse",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/acer-sospiro-a70-urmeaza-sa-fie-lansat-care-sunt-noutatile-aduse-19287869/",
+        "source": "Go4IT",
+        "published": "2026-10-15T08:53:25.036762+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Elon Musk plasează responsabilitatea restricțiilor Starshield din Ucraina în curtea Casei Albe",
+        "translated_title": "Elon Musk plasează responsabilitatea restricțiilor Starshield din Ucraina în curtea Casei Albe",
+        "url": "https://www.go4it.ro/tehnologie-militara/elon-musk-plaseaza-responsabilitatea-restrictiilor-starshield-din-ucraina-in-curtea-casei-albe-19287892/",
+        "source": "Go4IT",
+        "published": "2026-10-15T08:53:25.036567+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Platforma X suspendă mii de conturi folosite pentru manipularea alegerilor din SUA",
+        "translated_title": "Platforma X suspendă mii de conturi folosite pentru manipularea alegerilor din SUA",
+        "url": "https://www.go4it.ro/content/social-media/platforma-x-suspenda-mii-de-conturi-folosite-pentru-manipularea-alegerilor-din-sua-19287894/",
+        "source": "Go4IT",
+        "published": "2026-10-15T08:53:25.036440+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Livrările globale de smartphone-uri, scădere record în trimestrul al treilea din 2026, pe fondul unei crize severe a memoriilor – IDC",
+        "translated_title": "Livrările globale de smartphone-uri, scădere record în trimestrul al treilea din 2026, pe fondul unei crize severe a memoriilor – IDC",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/livrarile-globale-de-smartphone-uri-scadere-record-in-trimestrul-al-treilea-din-2026-pe-fondul-unei-crize-severe-a-memoriilor-idc-19287900/",
+        "source": "Go4IT",
+        "published": "2026-10-15T08:53:25.036329+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-14",
     "date_formatted": "14 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/laptopuri/review-gigabyte-gaming-a16-pro-dxh-19287448/",
         "source": "Go4IT",
         "published": "2026-10-09T11:08:15.151162+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-08",
-    "date_formatted": "8 Octombrie 2026",
-    "news": [
-      {
-        "title": "Spend Elon Musk’s Money",
-        "translated_title": "Spend Elon Musk’s Money",
-        "url": "https://www.wired.com/story/spend-elon-musk-money/",
-        "source": "Wired",
-        "published": "2026-10-08T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel Prize in Chemistry",
-        "translated_title": "Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel Prize in Chemistry",
-        "url": "https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/",
-        "source": "Wired",
-        "published": "2026-10-08T10:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Best Reusable Water Bottles of 2026, Tested by WIRED",
-        "translated_title": "Best Reusable Water Bottles of 2026, Tested by WIRED",
-        "url": "https://www.wired.com/story/best-reusable-water-bottles/",
-        "source": "Wired",
-        "published": "2026-10-08T10:05:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Why we’re watching these climate tech companies",
-        "translated_title": "Why we’re watching these climate tech companies",
-        "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-08T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "WIRED’s Midterms Races to Watch",
-        "translated_title": "WIRED’s Midterms Races to Watch",
-        "url": "https://www.wired.com/story/wireds-midterms-races-to-watch/",
-        "source": "Wired",
-        "published": "2026-10-08T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "AI breakthroughs in robotics won’t change your life any time soon",
-        "translated_title": "AI breakthroughs in robotics won’t change your life any time soon",
-        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-08T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The new BMW iX4 is the X4 reborn as an EV",
-        "translated_title": "The new BMW iX4 is the X4 reborn as an EV",
-        "url": "https://www.engadget.com/2280880/bmw-ix4-is-the-x4-reborn-as-an-ev/",
-        "source": "Engadget",
-        "published": "2026-10-08T08:45:55+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "GPT-6 is coming to all tiers of ChatGPT",
-        "translated_title": "GPT-6 is coming to all tiers of ChatGPT",
-        "url": "https://www.engadget.com/2280879/gpt-6-coming-all-tiers-chatgpt/",
-        "source": "Engadget",
-        "published": "2026-10-08T08:45:16+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Building a safer path to autonomous industrial AI",
-        "translated_title": "Building a safer path to autonomous industrial AI",
-        "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-08T08:17:32+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
-        "translated_title": "Dat-ecosystem: high level applications built on top of P2P protocols",
-        "url": "https://dat-ecosystem.org/",
-        "source": "Hacker News",
-        "published": "2026-10-08T06:43:13+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Classic PC demoscene productions running natively in the browser",
-        "translated_title": "Classic PC demoscene productions running natively in the browser",
-        "url": "https://treylorswift.github.io/demoscene-recomp/web/",
-        "source": "Hacker News",
-        "published": "2026-10-08T06:29:25+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Ofertă Auchan: Compania vinde propriul aparat de făcut sifon, mai ieftin decât cele de la Sodastream",
-        "translated_title": "Ofertă Auchan: Compania vinde propriul aparat de făcut sifon, mai ieftin decât cele de la Sodastream",
-        "url": "https://www.go4it.ro/oferte-din-magazine/oferta-auchan-compania-vinde-propriul-aparat-de-facut-sifon-mai-ieftin-decat-cele-de-la-sodastream-19287309/",
-        "source": "Go4IT",
-        "published": "2026-10-08T11:09:21.789579+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Bucureștiul primește bani europeni pentru modernizarea transportului public cu vehicule electrice",
-        "translated_title": "Bucureștiul primește bani europeni pentru modernizarea transportului public cu vehicule electrice",
-        "url": "https://www.go4it.ro/content/anunturi/bucurestiul-primeste-bani-europeni-pentru-modernizarea-transportului-public-cu-vehicule-electrice-19287314/",
-        "source": "Go4IT",
-        "published": "2026-10-08T11:09:21.789479+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Revin casierii? Retailerii renunță la casele de marcat automate „self-checkout” după ani de furturi, erori și economii de timp iluzorii",
-        "translated_title": "Revin casierii? Retailerii renunță la casele de marcat automate „self-checkout” după ani de furturi, erori și economii de timp iluzorii",
-        "url": "https://www.go4it.ro/content/business/revin-casierii-retailerii-renunta-la-casele-de-marcat-automate-self-checkout-dupa-ani-de-furturi-erori-si-economii-de-timp-iluzorii-19287322/",
-        "source": "Go4IT",
-        "published": "2026-10-08T11:09:21.789353+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Finlanda cere suspendarea dezvoltării unor centre de date pentru AI de la Google",
-        "translated_title": "Finlanda cere suspendarea dezvoltării unor centre de date pentru AI de la Google",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/finlanda-cere-suspendarea-dezvoltarii-unor-centre-de-date-pentru-ai-de-la-google-19287317/",
-        "source": "Go4IT",
-        "published": "2026-10-08T11:09:21.789255+00:00",
         "summary": null,
         "category": "romanian"
       }
