@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-17",
+    "date_formatted": "17 Octombrie 2026",
+    "news": [
+      {
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "translated_title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/",
+        "source": "Hacker News",
+        "published": "2026-10-17T04:36:53+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+        "translated_title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+        "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+        "source": "TechCrunch",
+        "published": "2026-10-17T02:36:18+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Butlerian Jihad",
+        "translated_title": "Butlerian Jihad",
+        "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+        "source": "Hacker News",
+        "published": "2026-10-17T02:21:08+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
+        "translated_title": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
+        "url": "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/",
+        "source": "Engadget",
+        "published": "2026-10-17T01:50:50+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+        "translated_title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+        "url": "https://www.flexport.com/company/careers/",
+        "source": "Hacker News",
+        "published": "2026-10-17T01:01:51+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "All the news about the iPhone Duo",
+        "translated_title": "All the news about the iPhone Duo",
+        "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+        "source": "The Verge",
+        "published": "2026-10-16T23:36:26+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+        "translated_title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+        "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+        "source": "The Verge",
+        "published": "2026-10-16T22:51:22+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Nine-Inch Snails",
+        "translated_title": "Nine-Inch Snails",
+        "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+        "source": "Hacker News",
+        "published": "2026-10-16T22:21:05+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Leap Second Is No More",
+        "translated_title": "The Leap Second Is No More",
+        "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+        "source": "Wired",
+        "published": "2026-10-16T21:31:35+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "translated_title": "Replit is no longer working with Anthropic, CEO says",
+        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "source": "TechCrunch",
+        "published": "2026-10-16T21:22:28+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "translated_title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "source": "Ars Technica",
+        "published": "2026-10-16T20:59:01+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ofertă Altex: Dispozitiv care îmbunătățește substanțial viteza internetului wireless, disponibil cu reducere de 20%",
+        "translated_title": "Ofertă Altex: Dispozitiv care îmbunătățește substanțial viteza internetului wireless, disponibil cu reducere de 20%",
+        "url": "https://www.go4it.ro/content/internet/oferta-altex-dispozitiv-care-imbunatateste-substantial-viteza-internetului-wireless-disponibil-cu-reducere-de-20-19288048/",
+        "source": "Go4IT",
+        "published": "2026-10-17T08:16:46.314840+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Acțiunile giganților din inteligența artificială scad dramatic, pe fondul temerilor legate de costuri. NVIDIA, printre companiile afectate",
+        "translated_title": "Acțiunile giganților din inteligența artificială scad dramatic, pe fondul temerilor legate de costuri. NVIDIA, printre companiile afectate",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/actiunile-gigantilor-din-inteligenta-artificiala-scad-dramatic-pe-fondul-temerilor-legate-de-costuri-nvidia-printre-companiile-afectate-19288025/",
+        "source": "Go4IT",
+        "published": "2026-10-17T08:16:46.314729+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Amendă de 6.000 de euro pentru o companie din București după un atac cibernetic asupra serverului de testare: Au încărcat date reale, în loc de unele fictive",
+        "translated_title": "Amendă de 6.000 de euro pentru o companie din București după un atac cibernetic asupra serverului de testare: Au încărcat date reale, în loc de unele fictive",
+        "url": "https://www.go4it.ro/securitate-informatica/amenda-de-6-000-de-euro-pentru-o-companie-din-bucuresti-dupa-un-atac-cibernetic-asupra-serverului-de-testare-au-incarcat-date-reale-in-loc-de-unele-fictive-19288052/",
+        "source": "Go4IT",
+        "published": "2026-10-17T08:16:46.314620+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "În ce stadiu este proiectul de la Ișalnița, care aproape ar dubla capacitatea de stocare a energiei electrice din România?",
+        "translated_title": "În ce stadiu este proiectul de la Ișalnița, care aproape ar dubla capacitatea de stocare a energiei electrice din România?",
+        "url": "https://www.go4it.ro/content/anunturi/in-ce-stadiu-este-proiectul-de-la-isalnita-care-aproape-ar-dubla-capacitatea-de-stocare-a-energiei-electrice-din-romania-19288027/",
+        "source": "Go4IT",
+        "published": "2026-10-17T08:16:46.314508+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-16",
     "date_formatted": "16 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/tehnologie-militara/fortele-aeriene-americane-au-donat-un-avion-stealth-f-117-nighthawk-cu-istoric-impresionant-de-lupta-catre-smithsonian-19287510/",
         "source": "Go4IT",
         "published": "2026-10-11T10:37:15.601093+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-10",
-    "date_formatted": "10 Octombrie 2026",
-    "news": [
-      {
-        "title": "`123456' password used in Danish CPR data breach",
-        "translated_title": "`123456' password used in Danish CPR data breach",
-        "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-        "source": "Hacker News",
-        "published": "2026-10-10T09:51:49+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition",
-        "translated_title": "Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition",
-        "url": "https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/",
-        "source": "Wired",
-        "published": "2026-10-10T09:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How This Tiny Startup Built the World’s Safest Bike Helmet",
-        "translated_title": "How This Tiny Startup Built the World’s Safest Bike Helmet",
-        "url": "https://www.wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet/",
-        "source": "Wired",
-        "published": "2026-10-10T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "My brief romance with an AI bird feeder",
-        "translated_title": "My brief romance with an AI bird feeder",
-        "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
-        "source": "The Verge",
-        "published": "2026-10-10T07:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Computers Cannot Make Decisions",
-        "translated_title": "Computers Cannot Make Decisions",
-        "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-        "source": "Hacker News",
-        "published": "2026-10-10T05:47:46+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Food processing influences metabolism and brain activity",
-        "translated_title": "Food processing influences metabolism and brain activity",
-        "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-        "source": "Hacker News",
-        "published": "2026-10-10T05:22:30+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "LG Promo Codes and Coupons for October 2026",
-        "translated_title": "LG Promo Codes and Coupons for October 2026",
-        "url": "https://www.wired.com/story/lg-promo-code/",
-        "source": "Wired",
-        "published": "2026-10-10T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-        "translated_title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-        "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-        "source": "TechCrunch",
-        "published": "2026-10-10T03:10:06+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-        "translated_title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-        "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-        "source": "Hacker News",
-        "published": "2026-10-10T03:02:47+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-        "translated_title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-        "source": "TechCrunch",
-        "published": "2026-10-10T00:18:32+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Long live the mechanical keyboard",
-        "translated_title": "Long live the mechanical keyboard",
-        "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-        "source": "TechCrunch",
-        "published": "2026-10-09T22:08:24+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Administrația Trump suspendă accesul Microsoft la permise de ședere permanentă pentru angajații săi",
-        "translated_title": "Administrația Trump suspendă accesul Microsoft la permise de ședere permanentă pentru angajații săi",
-        "url": "https://www.go4it.ro/content/anunturi/administratia-trump-suspenda-accesul-microsoft-la-permise-de-sedere-permanenta-pentru-angajatii-sai-19287437/",
-        "source": "Go4IT",
-        "published": "2026-10-10T10:26:00.648464+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Fals privind încorporarea tinerilor: Documentele apărute pe rețelele sociale sunt fabricate, avertizează MApN",
-        "translated_title": "Fals privind încorporarea tinerilor: Documentele apărute pe rețelele sociale sunt fabricate, avertizează MApN",
-        "url": "https://www.go4it.ro/securitate-informatica/fals-privind-incorporarea-tinerilor-documentele-aparute-pe-retelele-sociale-sunt-fabricate-avertizeaza-mapn-19287485/",
-        "source": "Go4IT",
-        "published": "2026-10-10T10:26:00.648246+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Livrările de PC-uri scad cu 21% în trimestrul al treilea din 2026, pe măsură ce cererea anticipată se diminuează",
-        "translated_title": "Livrările de PC-uri scad cu 21% în trimestrul al treilea din 2026, pe măsură ce cererea anticipată se diminuează",
-        "url": "https://www.go4it.ro/content/business/livrarile-de-pc-uri-scad-cu-21-in-trimestrul-al-treilea-din-2026-pe-masura-ce-cererea-anticipata-se-diminueaza-19287478/",
-        "source": "Go4IT",
-        "published": "2026-10-10T10:26:00.648053+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Mark Zuckerberg este tot mai contestat, dar Meta înregistrează venituri în creștere. Care este secretul acestui succes?",
-        "translated_title": "Mark Zuckerberg este tot mai contestat, dar Meta înregistrează venituri în creștere. Care este secretul acestui succes?",
-        "url": "https://www.go4it.ro/content/business/mark-zuckerberg-este-tot-mai-contestat-dar-meta-inregistreaza-venituri-in-crestere-care-este-secretul-acestui-succes-19287439/",
-        "source": "Go4IT",
-        "published": "2026-10-10T10:26:00.647869+00:00",
         "summary": null,
         "category": "romanian"
       }
