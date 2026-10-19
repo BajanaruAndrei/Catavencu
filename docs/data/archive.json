@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-19",
+    "date_formatted": "19 Octombrie 2026",
+    "news": [
+      {
+        "title": "Google Gemini 4 agents just beat Minecraft with no human intervention",
+        "translated_title": "Google Gemini 4 agents just beat Minecraft with no human intervention",
+        "url": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/",
+        "source": "Engadget",
+        "published": "2026-10-19T09:19:19+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How far can we push computing?",
+        "translated_title": "How far can we push computing?",
+        "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-19T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Insta360 Luna Ultra and Luna Pro Review (2026): Steady Does It",
+        "translated_title": "Insta360 Luna Ultra and Luna Pro Review (2026): Steady Does It",
+        "url": "https://www.wired.com/review/insta360-luna-ultra-luna-pro/",
+        "source": "Wired",
+        "published": "2026-10-19T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+        "translated_title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+        "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+        "source": "Wired",
+        "published": "2026-10-19T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+        "translated_title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+        "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+        "source": "TechCrunch",
+        "published": "2026-10-19T07:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Linux 7.3 Released",
+        "translated_title": "Linux 7.3 Released",
+        "url": "https://lwn.net/Articles/1101143/",
+        "source": "Hacker News",
+        "published": "2026-10-19T07:23:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+        "translated_title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+        "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+        "source": "Hacker News",
+        "published": "2026-10-19T05:55:31+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Flatpak – An Insecurity Nightmare",
+        "translated_title": "Flatpak – An Insecurity Nightmare",
+        "url": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
+        "source": "Hacker News",
+        "published": "2026-10-19T05:11:24+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "DeepSeek V4.1 Flash 1017 (Max)",
+        "translated_title": "DeepSeek V4.1 Flash 1017 (Max)",
+        "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+        "source": "Hacker News",
+        "published": "2026-10-19T04:41:46+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "What do all the lights on your Netgear router mean, and which ones actually matter?",
+        "translated_title": "What do all the lights on your Netgear router mean, and which ones actually matter?",
+        "url": "https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/",
+        "source": "Engadget",
+        "published": "2026-10-19T00:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "What does the orange dot on your Samsung Galaxy Watch mean?",
+        "translated_title": "What does the orange dot on your Samsung Galaxy Watch mean?",
+        "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+        "source": "Engadget",
+        "published": "2026-10-19T00:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Costurile cu memoriile și stocarea pentru PlayStation 6 ar putea depăși 680 de dolari per unitate – ZVON",
+        "translated_title": "Costurile cu memoriile și stocarea pentru PlayStation 6 ar putea depăși 680 de dolari per unitate – ZVON",
+        "url": "https://www.go4it.ro/content/componente-pc/memoriile-si-stocare-pentru-playstation-6-peste-680-de-dolari-per-unitate-zvon-19288123/",
+        "source": "Go4IT",
+        "published": "2026-10-19T09:36:56.958588+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Xiaomi a lansat o baterie externă magnetică de doar 6,75 mm",
+        "translated_title": "Xiaomi a lansat o baterie externă magnetică de doar 6,75 mm",
+        "url": "https://www.go4it.ro/content/accesorii/xiaomi-a-lansat-o-bateriei-externa-magnetica-de-doar-675-mm-19288128/",
+        "source": "Go4IT",
+        "published": "2026-10-19T09:36:56.958450+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Mark Gurman: Apple, „greșeală majoră” cu precomenzile iPhone Duo. Ce baterie are acesta?",
+        "translated_title": "Mark Gurman: Apple, „greșeală majoră” cu precomenzile iPhone Duo. Ce baterie are acesta?",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/mark-gurman-apple-greseala-majora-cu-precomenzile-iphone-duo-ce-baterie-are-acesta-19288134/",
+        "source": "Go4IT",
+        "published": "2026-10-19T09:36:56.958307+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Un agent AI ar fi șters un întreg sezon dintr-un reality show",
+        "translated_title": "Un agent AI ar fi șters un întreg sezon dintr-un reality show",
+        "url": "https://www.go4it.ro/diverse-2/un-agent-ai-ar-fi-sters-un-intreg-sezon-dintr-un-reality-show-19288138/",
+        "source": "Go4IT",
+        "published": "2026-10-19T09:36:56.958152+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-18",
     "date_formatted": "18 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/telefoane-mobile/iphone-duo-ar-putea-avea-un-succes-peste-asteptari-apple-ar-fi-crescut-comenzile-cu-30-inainte-de-lansarea-din-magazine-19287678/",
         "source": "Go4IT",
         "published": "2026-10-13T11:26:10.318826+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-12",
-    "date_formatted": "12 Octombrie 2026",
-    "news": [
-      {
-        "title": "QGIS bans AI assisted contributions",
-        "translated_title": "QGIS bans AI assisted contributions",
-        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-        "source": "Hacker News",
-        "published": "2026-10-12T11:22:24+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How Apple Puts Indigenous Languages on the iPhone Keyboard",
-        "translated_title": "How Apple Puts Indigenous Languages on the iPhone Keyboard",
-        "url": "https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/",
-        "source": "Wired",
-        "published": "2026-10-12T11:15:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Inside the mini factory where GM builds its EV future",
-        "translated_title": "Inside the mini factory where GM builds its EV future",
-        "url": "https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla",
-        "source": "The Verge",
-        "published": "2026-10-12T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer",
-        "translated_title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer",
-        "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
-        "source": "Wired",
-        "published": "2026-10-12T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "WhatsApp users may soon be able to schedule messages",
-        "translated_title": "WhatsApp users may soon be able to schedule messages",
-        "url": "https://www.engadget.com/2283518/whatsapp-users-may-soon-be-able-to-schedule-messages/",
-        "source": "Engadget",
-        "published": "2026-10-12T10:44:33+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "AlterMe Review: Fitness Built Around My DNA",
-        "translated_title": "AlterMe Review: Fitness Built Around My DNA",
-        "url": "https://www.wired.com/review/alterme-fitness-and-wellness-program/",
-        "source": "Wired",
-        "published": "2026-10-12T10:34:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age",
-        "translated_title": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age",
-        "url": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin/",
-        "source": "Wired",
-        "published": "2026-10-12T10:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-        "translated_title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-        "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
-        "source": "Hacker News",
-        "published": "2026-10-12T10:21:27+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Ledger confirms hidden chip in crypto wallet amid $92M theft claims",
-        "translated_title": "Ledger confirms hidden chip in crypto wallet amid $92M theft claims",
-        "url": "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/",
-        "source": "Hacker News",
-        "published": "2026-10-12T10:09:37+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Mars may be a hellhole, but the moon is not far behind",
-        "translated_title": "Mars may be a hellhole, but the moon is not far behind",
-        "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-12T09:37:02+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Microsoft's president says AI is less regulated than a carton of milk",
-        "translated_title": "Microsoft's president says AI is less regulated than a carton of milk",
-        "url": "https://www.engadget.com/2283487/microsoft-president-ai-less-regulated-than-a-carton-of-milk/",
-        "source": "Engadget",
-        "published": "2026-10-12T09:28:37+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Memoriile se scumpesc, iar producătorii caută soluții în software. Cum pot rămâne accesibile laptopurile cu 8 GB RAM",
-        "translated_title": "Memoriile se scumpesc, iar producătorii caută soluții în software. Cum pot rămâne accesibile laptopurile cu 8 GB RAM",
-        "url": "https://www.go4it.ro/content/software/memoriile-se-scumpesc-iar-producatorii-cauta-solutii-in-software-cum-pot-ramane-accesibile-laptopurile-cu-8-gb-ram-19287569/",
-        "source": "Go4IT",
-        "published": "2026-10-12T11:40:31.383618+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Xiaomi pregătește un telefon REDMI cu ecran de 7 inci și rată mare de refresh. Ce se știe despre seria K200",
-        "translated_title": "Xiaomi pregătește un telefon REDMI cu ecran de 7 inci și rată mare de refresh. Ce se știe despre seria K200",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/xiaomi-pregateste-un-telefon-redmi-cu-ecran-de-7-inci-si-rata-mare-de-refresh-ce-se-stie-despre-seria-k200-19287575/",
-        "source": "Go4IT",
-        "published": "2026-10-12T11:40:31.383413+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Mac-urile cu M5 Max și M5 Ultra ajung în aceeași categorie cu unele PC-uri de gaming cu placă video dedicată",
-        "translated_title": "Mac-urile cu M5 Max și M5 Ultra ajung în aceeași categorie cu unele PC-uri de gaming cu placă video dedicată",
-        "url": "https://www.go4it.ro/content/pc/cipurile-apple-m5-max-si-m5-ultra-ajung-in-aceeasi-categorie-cu-unele-pc-uri-de-gaming-cu-placa-video-dedicata-19287579/",
-        "source": "Go4IT",
-        "published": "2026-10-12T11:40:31.383301+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Scumpirile din industria AI ajung și la ASML. Producătorul olandez ar majora cu 10% prețul pieselor pentru fabricile de cipuri",
-        "translated_title": "Scumpirile din industria AI ajung și la ASML. Producătorul olandez ar majora cu 10% prețul pieselor pentru fabricile de cipuri",
-        "url": "https://www.go4it.ro/content/componente-pc/scumpirile-din-industria-ai-ajung-si-la-asml-producatorul-olandez-ar-majora-cu-10-pretul-pieselor-pentru-fabricile-de-cipuri-19287583/",
-        "source": "Go4IT",
-        "published": "2026-10-12T11:40:31.383196+00:00",
         "summary": null,
         "category": "romanian"
       }
