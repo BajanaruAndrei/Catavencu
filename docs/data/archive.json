@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-21",
+    "date_formatted": "21 Octombrie 2026",
+    "news": [
+      {
+        "title": "Can Europe Build Data Centers Without Giving Up Its Climate Goals?",
+        "translated_title": "Can Europe Build Data Centers Without Giving Up Its Climate Goals?",
+        "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
+        "source": "Wired",
+        "published": "2026-10-21T08:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Pillowfort Is Closing",
+        "translated_title": "Pillowfort Is Closing",
+        "url": "https://www.pillowfort.social/posts/8413273",
+        "source": "Hacker News",
+        "published": "2026-10-21T05:05:37+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Battlezone Online: BZFlag in the Browser",
+        "translated_title": "Battlezone Online: BZFlag in the Browser",
+        "url": "https://github.com/timriker/bzo",
+        "source": "Hacker News",
+        "published": "2026-10-21T05:05:19+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "LG Promo Codes and Coupons for October 2026",
+        "translated_title": "LG Promo Codes and Coupons for October 2026",
+        "url": "https://www.wired.com/story/lg-promo-code/",
+        "source": "Wired",
+        "published": "2026-10-21T05:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Setting Up SSH Keys on macOS with Touch ID",
+        "translated_title": "Setting Up SSH Keys on macOS with Touch ID",
+        "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+        "source": "Hacker News",
+        "published": "2026-10-21T03:51:25+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Using Claude to reduce the attack surface of code",
+        "translated_title": "Using Claude to reduce the attack surface of code",
+        "url": "https://www.anthropic.com/research/attack-surface-reduction",
+        "source": "Hacker News",
+        "published": "2026-10-21T03:36:43+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "PHP warns it plans to release 2 emergency patches imminently",
+        "translated_title": "PHP warns it plans to release 2 emergency patches imminently",
+        "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+        "source": "Ars Technica",
+        "published": "2026-10-21T02:12:18+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "YouTube might be testing hiding the dislike button",
+        "translated_title": "YouTube might be testing hiding the dislike button",
+        "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+        "source": "The Verge",
+        "published": "2026-10-21T00:00:56+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How much power can a 1kW wind turbine produce for your home?",
+        "translated_title": "How much power can a 1kW wind turbine produce for your home?",
+        "url": "https://www.engadget.com/2289290/wind-turbine-for-home-1kw-power/",
+        "source": "Engadget",
+        "published": "2026-10-21T00:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "What can you use your Apple Watch Ultra 4 action button for?",
+        "translated_title": "What can you use your Apple Watch Ultra 4 action button for?",
+        "url": "https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained/",
+        "source": "Engadget",
+        "published": "2026-10-20T23:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+        "translated_title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+        "source": "The Verge",
+        "published": "2026-10-20T23:04:19+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Memoriile RAM se scumpesc din nou: cererea pentru AI și oferta limitată țin prețurile la niveluri ridicate",
+        "translated_title": "Memoriile RAM se scumpesc din nou: cererea pentru AI și oferta limitată țin prețurile la niveluri ridicate",
+        "url": "https://www.go4it.ro/content/componente-pc/memoriile-ram-se-scumpesc-din-nou-cererea-pentru-ai-si-oferta-limitata-tin-preturile-la-niveluri-ridicate-19288288/",
+        "source": "Go4IT",
+        "published": "2026-10-21T09:08:10.333541+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Motorola pregătește un telefon pliabil cu ecran mare și Snapdragon 8 Gen 5. Lansarea ar putea avea loc în acest an",
+        "translated_title": "Motorola pregătește un telefon pliabil cu ecran mare și Snapdragon 8 Gen 5. Lansarea ar putea avea loc în acest an",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/motorola-pregateste-un-telefon-pliabil-cu-ecran-mare-razr-flex-27-19288294/",
+        "source": "Go4IT",
+        "published": "2026-10-21T09:08:10.333278+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Galaxy Buds On, noile căști Samsung, folosesc 119 milioane de puncte de date pentru o fixare mai bună",
+        "translated_title": "Galaxy Buds On, noile căști Samsung, folosesc 119 milioane de puncte de date pentru o fixare mai bună",
+        "url": "https://www.go4it.ro/content/accesorii/galaxy-buds-on-noile-casti-samsung-folosesc-119-milioane-de-puncte-de-date-pentru-o-fixare-mai-buna-19288301/",
+        "source": "Go4IT",
+        "published": "2026-10-21T09:08:10.333139+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "NVIDIA RTX 6060 ar putea ajunge pe piață abia peste trei ani și ar fi mai lentă decât PlayStation 6",
+        "translated_title": "NVIDIA RTX 6060 ar putea ajunge pe piață abia peste trei ani și ar fi mai lentă decât PlayStation 6",
+        "url": "https://www.go4it.ro/content/componente-pc/nvidia-rtx-6060-ar-putea-ajunge-pe-piata-abia-peste-trei-ani-si-ar-fi-mai-lenta-decat-playstation-6-19288304/",
+        "source": "Go4IT",
+        "published": "2026-10-21T09:08:10.332998+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-20",
     "date_formatted": "20 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/telefoane-mobile/livrarile-globale-de-smartphone-uri-scadere-record-in-trimestrul-al-treilea-din-2026-pe-fondul-unei-crize-severe-a-memoriilor-idc-19287900/",
         "source": "Go4IT",
         "published": "2026-10-15T08:53:25.036329+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "date_formatted": "14 Octombrie 2026",
-    "news": [
-      {
-        "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-        "translated_title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-        "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-        "source": "Wired",
-        "published": "2026-10-14T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-        "translated_title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-        "url": "https://github.com/android/ndk/issues/2260",
-        "source": "Hacker News",
-        "published": "2026-10-14T06:18:01+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "HBO Max Promo Code: 50% Off | October 2026",
-        "translated_title": "HBO Max Promo Code: 50% Off | October 2026",
-        "url": "https://www.wired.com/story/max-promo-code/",
-        "source": "Wired",
-        "published": "2026-10-14T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Expedia Coupons: 40% Off",
-        "translated_title": "Expedia Coupons: 40% Off",
-        "url": "https://www.wired.com/story/expedia-coupon/",
-        "source": "Wired",
-        "published": "2026-10-14T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Walgreens Photo Coupons: Up to 70% Off This October",
-        "translated_title": "Walgreens Photo Coupons: Up to 70% Off This October",
-        "url": "https://www.wired.com/story/walgreens-photo-coupon/",
-        "source": "Wired",
-        "published": "2026-10-14T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Felix Rieseberg Homepage",
-        "translated_title": "Felix Rieseberg Homepage",
-        "url": "https://felixrieseberg.com/",
-        "source": "Hacker News",
-        "published": "2026-10-14T04:42:33+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-        "translated_title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-        "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-        "source": "TechCrunch",
-        "published": "2026-10-14T01:30:42+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Do Frameworks Matter Anymore?",
-        "translated_title": "Do Frameworks Matter Anymore?",
-        "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
-        "source": "Hacker News",
-        "published": "2026-10-14T01:01:08+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Which smart TV brands offer the longest software support?",
-        "translated_title": "Which smart TV brands offer the longest software support?",
-        "url": "https://www.engadget.com/2282502/smart-tv-brands-offer-longest-software-support/",
-        "source": "Engadget",
-        "published": "2026-10-14T00:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Is Mini DisplayPort becoming obsolete?",
-        "translated_title": "Is Mini DisplayPort becoming obsolete?",
-        "url": "https://www.engadget.com/2282398/mini-displayport-becoming-obsolete/",
-        "source": "Engadget",
-        "published": "2026-10-13T23:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-        "translated_title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-        "source": "TechCrunch",
-        "published": "2026-10-13T23:13:31+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Vești bune pentru fanii GTA 6 și PC. Când ar putea apărea versiunea pentru calculatoare",
-        "translated_title": "Vești bune pentru fanii GTA 6 și PC. Când ar putea apărea versiunea pentru calculatoare",
-        "url": "https://www.go4it.ro/content/jocuri/vesti-bune-pentru-fanii-gta-6-si-pc-cand-ar-putea-aparea-versiunea-pentru-calculatoare-19287738/",
-        "source": "Go4IT",
-        "published": "2026-10-14T09:18:29.334113+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Noul Apple TV 4K vine cu cip A19 și Siri fără telecomandă. Ce aduce în plus și cât costă",
-        "translated_title": "Noul Apple TV 4K vine cu cip A19 și Siri fără telecomandă. Ce aduce în plus și cât costă",
-        "url": "https://www.go4it.ro/content/smart-home/noul-apple-tv-4k-vine-cu-cip-a19-si-siri-fara-telecomanda-ce-aduce-in-plus-si-cat-costa-19287745/",
-        "source": "Go4IT",
-        "published": "2026-10-14T09:18:29.333768+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Honor pregătește un telefon de gaming cu o baterie imensă și un sistem de răcire neobișnuit",
-        "translated_title": "Honor pregătește un telefon de gaming cu o baterie imensă și un sistem de răcire neobișnuit",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/honor-pregateste-un-telefon-de-gaming-win-2-cu-o-baterie-imensa-19287749/",
-        "source": "Go4IT",
-        "published": "2026-10-14T09:18:29.333602+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Inteligența artificială ar putea da peste cap sistemul bancar. Economiștii se tem de retrageri masive din conturi",
-        "translated_title": "Inteligența artificială ar putea da peste cap sistemul bancar. Economiștii se tem de retrageri masive din conturi",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/inteligenta-artificiala-ar-putea-da-peste-cap-sistemul-bancar-economistii-se-tem-de-retrageri-masive-din-conturi-19287755/",
-        "source": "Go4IT",
-        "published": "2026-10-14T09:18:29.333440+00:00",
         "summary": null,
         "category": "romanian"
       }
