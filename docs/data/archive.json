@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-22",
+    "date_formatted": "22 Octombrie 2026",
+    "news": [
+      {
+        "title": "Tesla plans to start selling Cybercabs by the end of the year",
+        "translated_title": "Tesla plans to start selling Cybercabs by the end of the year",
+        "url": "https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026/",
+        "source": "Engadget",
+        "published": "2026-10-22T08:52:48+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "AI’s hidden storage bill: What inference leaves behind",
+        "translated_title": "AI’s hidden storage bill: What inference leaves behind",
+        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-22T08:41:18+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Fortnite is back on Apple's Australian App Store following court ruling",
+        "translated_title": "Fortnite is back on Apple's Australian App Store following court ruling",
+        "url": "https://www.engadget.com/2293801/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/",
+        "source": "Engadget",
+        "published": "2026-10-22T08:18:58+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Show HN: The fastest browser for AI agents to run browser automation",
+        "translated_title": "Show HN: The fastest browser for AI agents to run browser automation",
+        "url": "https://ego-lite.apposters.com",
+        "source": "Hacker News",
+        "published": "2026-10-22T08:09:22+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "OpenAI CLI",
+        "translated_title": "OpenAI CLI",
+        "url": "https://github.com/openai/openai-cli",
+        "source": "Hacker News",
+        "published": "2026-10-22T05:23:11+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+        "translated_title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+        "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+        "source": "Hacker News",
+        "published": "2026-10-22T02:30:52+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+        "translated_title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+        "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+        "source": "Wired",
+        "published": "2026-10-22T02:24:17+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+        "translated_title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+        "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+        "source": "Hacker News",
+        "published": "2026-10-22T02:18:41+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "YouTube says it isn’t testing hiding the dislike button",
+        "translated_title": "YouTube says it isn’t testing hiding the dislike button",
+        "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+        "source": "The Verge",
+        "published": "2026-10-21T23:46:45+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+        "translated_title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+        "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+        "source": "The Verge",
+        "published": "2026-10-21T23:36:31+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+        "translated_title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+        "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+        "source": "TechCrunch",
+        "published": "2026-10-21T22:51:22+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Hackerii folosesc AI și browsere speciale pentru a crea mii de conturi false și a păcăli sistemele de securitate",
+        "translated_title": "Hackerii folosesc AI și browsere speciale pentru a crea mii de conturi false și a păcăli sistemele de securitate",
+        "url": "https://www.go4it.ro/securitate-informatica/hackerii-folosesc-ai-si-browsere-speciale-pentru-a-crea-mii-de-conturi-false-si-a-pacali-sistemele-de-securitate-19288388/",
+        "source": "Go4IT",
+        "published": "2026-10-22T09:10:32.185226+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Honor Win2 are două ventilatoare și un ecran de 185 Hz. Bateria de 10.100 mAh promite ore întregi de gaming",
+        "translated_title": "Honor Win2 are două ventilatoare și un ecran de 185 Hz. Bateria de 10.100 mAh promite ore întregi de gaming",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/honor-win2-are-doua-ventilatoare-si-un-ecran-de-185-hz-bateria-de-10-100-mah-promite-ore-intregi-de-gaming-19288390/",
+        "source": "Go4IT",
+        "published": "2026-10-22T09:10:32.185045+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Șeful Apple explică de ce un produs bun nu trebuie doar să funcționeze, ci și să-ți facă plăcere să-l folosești",
+        "translated_title": "Șeful Apple explică de ce un produs bun nu trebuie doar să funcționeze, ci și să-ți facă plăcere să-l folosești",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/john-ternus-explica-de-ce-un-produs-bun-nu-trebuie-doar-sa-functioneze-ci-si-sa-ti-faca-placere-sa-l-folosesti-19288399/",
+        "source": "Go4IT",
+        "published": "2026-10-22T09:10:32.184863+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Progres tehnologic sau iluzie? Semnele de întrebare din spatele „mașinii zburătoare” prezentate de Tesla",
+        "translated_title": "Progres tehnologic sau iluzie? Semnele de întrebare din spatele „mașinii zburătoare” prezentate de Tesla",
+        "url": "https://www.go4it.ro/content/auto/progres-tehnologic-sau-iluzie-semnele-de-intrebare-din-spatele-masinii-zburatoare-prezentate-de-tesla-19288408/",
+        "source": "Go4IT",
+        "published": "2026-10-22T09:10:32.184480+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-21",
     "date_formatted": "21 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/anunturi/programul-de-guvernare-semnat-de-luca-niculescu-mizeaza-pe-inteligenta-artificiala-digitalizare-si-o-noua-harta-judiciara-19288011/",
         "source": "Go4IT",
         "published": "2026-10-16T08:46:10.111341+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-15",
-    "date_formatted": "15 Octombrie 2026",
-    "news": [
-      {
-        "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-        "translated_title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-        "url": "https://github.com/awslabs/aidlc-workflows",
-        "source": "Hacker News",
-        "published": "2026-10-15T07:20:39+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Walmart Promo Codes: 20% Off for October 2026",
-        "translated_title": "Walmart Promo Codes: 20% Off for October 2026",
-        "url": "https://www.wired.com/story/top-walmart-promo-codes/",
-        "source": "Wired",
-        "published": "2026-10-15T05:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Figma announces new features to define how agents work on its platform",
-        "translated_title": "Figma announces new features to define how agents work on its platform",
-        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-        "source": "TechCrunch",
-        "published": "2026-10-15T04:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
-        "translated_title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
-        "url": "https://github.com/andunieee/flipflop",
-        "source": "Hacker News",
-        "published": "2026-10-15T04:25:28+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Double Headed Stack Allocator",
-        "translated_title": "The Double Headed Stack Allocator",
-        "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-        "source": "Hacker News",
-        "published": "2026-10-15T02:06:36+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "translated_title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-        "source": "TechCrunch",
-        "published": "2026-10-15T01:01:32+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-        "translated_title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-        "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-        "source": "TechCrunch",
-        "published": "2026-10-15T00:49:31+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-        "translated_title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-        "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-        "source": "TechCrunch",
-        "published": "2026-10-15T00:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-        "translated_title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-        "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-        "source": "Hacker News",
-        "published": "2026-10-14T23:59:37+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "McKinsey is making job applicants spar with a fake AI client",
-        "translated_title": "McKinsey is making job applicants spar with a fake AI client",
-        "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-        "source": "The Verge",
-        "published": "2026-10-14T22:53:31+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The best feature of Apple’s HomeView might be its simplicity",
-        "translated_title": "The best feature of Apple’s HomeView might be its simplicity",
-        "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
-        "source": "The Verge",
-        "published": "2026-10-14T22:00:02+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Acer Sospiro A70 urmează să fie lansat. Care sunt noutățile aduse",
-        "translated_title": "Acer Sospiro A70 urmează să fie lansat. Care sunt noutățile aduse",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/acer-sospiro-a70-urmeaza-sa-fie-lansat-care-sunt-noutatile-aduse-19287869/",
-        "source": "Go4IT",
-        "published": "2026-10-15T08:53:25.036762+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Elon Musk plasează responsabilitatea restricțiilor Starshield din Ucraina în curtea Casei Albe",
-        "translated_title": "Elon Musk plasează responsabilitatea restricțiilor Starshield din Ucraina în curtea Casei Albe",
-        "url": "https://www.go4it.ro/tehnologie-militara/elon-musk-plaseaza-responsabilitatea-restrictiilor-starshield-din-ucraina-in-curtea-casei-albe-19287892/",
-        "source": "Go4IT",
-        "published": "2026-10-15T08:53:25.036567+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Platforma X suspendă mii de conturi folosite pentru manipularea alegerilor din SUA",
-        "translated_title": "Platforma X suspendă mii de conturi folosite pentru manipularea alegerilor din SUA",
-        "url": "https://www.go4it.ro/content/social-media/platforma-x-suspenda-mii-de-conturi-folosite-pentru-manipularea-alegerilor-din-sua-19287894/",
-        "source": "Go4IT",
-        "published": "2026-10-15T08:53:25.036440+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Livrările globale de smartphone-uri, scădere record în trimestrul al treilea din 2026, pe fondul unei crize severe a memoriilor – IDC",
-        "translated_title": "Livrările globale de smartphone-uri, scădere record în trimestrul al treilea din 2026, pe fondul unei crize severe a memoriilor – IDC",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/livrarile-globale-de-smartphone-uri-scadere-record-in-trimestrul-al-treilea-din-2026-pe-fondul-unei-crize-severe-a-memoriilor-idc-19287900/",
-        "source": "Go4IT",
-        "published": "2026-10-15T08:53:25.036329+00:00",
         "summary": null,
         "category": "romanian"
       }
