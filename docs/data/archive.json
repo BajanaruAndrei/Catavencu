@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-24",
+    "date_formatted": "24 Octombrie 2026",
+    "news": [
+      {
+        "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+        "translated_title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+        "source": "Hacker News",
+        "published": "2026-10-24T05:49:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "OBS Studio 33",
+        "translated_title": "OBS Studio 33",
+        "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+        "source": "Hacker News",
+        "published": "2026-10-24T04:49:58+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How close can pure functional programming get to C?",
+        "translated_title": "How close can pure functional programming get to C?",
+        "url": "https://rtfeldman.com/fp-vs-c",
+        "source": "Hacker News",
+        "published": "2026-10-24T03:43:54+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How Block Blast harvests its players for ad money",
+        "translated_title": "How Block Blast harvests its players for ad money",
+        "url": "https://ayoships.com/breakdowns/block-blast",
+        "source": "Hacker News",
+        "published": "2026-10-24T02:43:43+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Startups don’t need to go viral to win customers",
+        "translated_title": "Startups don’t need to go viral to win customers",
+        "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+        "source": "TechCrunch",
+        "published": "2026-10-23T23:07:45+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "translated_title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+        "source": "TechCrunch",
+        "published": "2026-10-23T21:59:19+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Xbox’s first chief operating officer is out after just a few months",
+        "translated_title": "Xbox’s first chief operating officer is out after just a few months",
+        "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+        "source": "The Verge",
+        "published": "2026-10-23T21:39:26+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "OpenAI now trains its frontier AI models with no internet access",
+        "translated_title": "OpenAI now trains its frontier AI models with no internet access",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+        "source": "The Verge",
+        "published": "2026-10-23T21:11:07+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+        "translated_title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+        "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+        "source": "TechCrunch",
+        "published": "2026-10-23T20:57:13+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+        "translated_title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+        "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+        "source": "TechCrunch",
+        "published": "2026-10-23T20:03:14+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+        "translated_title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+        "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+        "source": "The Verge",
+        "published": "2026-10-23T19:35:15+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Grecia interzice rețelele de socializare pentru copiii sub 15 ani. Legea a fost adoptată de Parlamentul de la Atena",
+        "translated_title": "Grecia interzice rețelele de socializare pentru copiii sub 15 ani. Legea a fost adoptată de Parlamentul de la Atena",
+        "url": "https://www.go4it.ro/content/social-media/grecia-interzice-retelele-de-socializare-pentru-copiii-sub-15-ani-legea-a-fost-adoptata-de-parlamentul-de-la-atena-19288539/",
+        "source": "Go4IT",
+        "published": "2026-10-24T08:40:32.705254+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Work Sharp RMX MisFit: Cuțitul pliabil care ignoră trendul lamelor mari în favoarea controlului absolut",
+        "translated_title": "Work Sharp RMX MisFit: Cuțitul pliabil care ignoră trendul lamelor mari în favoarea controlului absolut",
+        "url": "https://www.go4it.ro/content/accesorii/work-sharp-rmx-misfit-cutitul-pliabil-care-ignora-trendul-lamelor-mari-in-favoarea-controlului-absolut-19288541/",
+        "source": "Go4IT",
+        "published": "2026-10-24T08:40:32.705076+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Proiectul Warhound: Cum vor fondatorii Colossal și Anduril să creeze „super-câini” militari prin clonare și editare genetică",
+        "translated_title": "Proiectul Warhound: Cum vor fondatorii Colossal și Anduril să creeze „super-câini” militari prin clonare și editare genetică",
+        "url": "https://www.go4it.ro/tehnologie-militara/proiectul-warhound-cum-vor-fondatorii-colossal-si-anduril-sa-creeze-super-caini-militari-prin-clonare-si-editare-genetica-19288560/",
+        "source": "Go4IT",
+        "published": "2026-10-24T08:40:32.704893+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "PC-urile se scumpesc din cauza memoriilor, iar cumpărătorii amână achizițiile. Apple și ASUS rezistă mai bine decât rivalii",
+        "translated_title": "PC-urile se scumpesc din cauza memoriilor, iar cumpărătorii amână achizițiile. Apple și ASUS rezistă mai bine decât rivalii",
+        "url": "https://www.go4it.ro/content/laptopuri/pc-urile-se-scumpesc-din-cauza-memoriilor-iar-cumparatorii-amana-achizitiile-apple-si-asus-rezista-mai-bine-decat-rivalii-19288573/",
+        "source": "Go4IT",
+        "published": "2026-10-24T08:40:32.704689+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-23",
     "date_formatted": "23 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/telefoane-mobile/iphone-duo-se-vinde-foarte-bine-dar-testeaza-limitele-financiare-ale-consumatorilor-pe-piata-telefoanelor-pliabile-de-lux-19288066/",
         "source": "Go4IT",
         "published": "2026-10-18T08:33:59.336795+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-17",
-    "date_formatted": "17 Octombrie 2026",
-    "news": [
-      {
-        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-        "translated_title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-        "url": "https://llmspeed.dev/",
-        "source": "Hacker News",
-        "published": "2026-10-17T04:36:53+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-        "translated_title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-        "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-        "source": "TechCrunch",
-        "published": "2026-10-17T02:36:18+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Butlerian Jihad",
-        "translated_title": "Butlerian Jihad",
-        "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-        "source": "Hacker News",
-        "published": "2026-10-17T02:21:08+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
-        "translated_title": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
-        "url": "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/",
-        "source": "Engadget",
-        "published": "2026-10-17T01:50:50+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-        "translated_title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-        "url": "https://www.flexport.com/company/careers/",
-        "source": "Hacker News",
-        "published": "2026-10-17T01:01:51+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "All the news about the iPhone Duo",
-        "translated_title": "All the news about the iPhone Duo",
-        "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-        "source": "The Verge",
-        "published": "2026-10-16T23:36:26+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
-        "translated_title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
-        "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-        "source": "The Verge",
-        "published": "2026-10-16T22:51:22+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Nine-Inch Snails",
-        "translated_title": "Nine-Inch Snails",
-        "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-        "source": "Hacker News",
-        "published": "2026-10-16T22:21:05+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Leap Second Is No More",
-        "translated_title": "The Leap Second Is No More",
-        "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
-        "source": "Wired",
-        "published": "2026-10-16T21:31:35+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Replit is no longer working with Anthropic, CEO says",
-        "translated_title": "Replit is no longer working with Anthropic, CEO says",
-        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-        "source": "TechCrunch",
-        "published": "2026-10-16T21:22:28+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "OpenAI models hacked a crypto wallet and breached more websites",
-        "translated_title": "OpenAI models hacked a crypto wallet and breached more websites",
-        "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-        "source": "Ars Technica",
-        "published": "2026-10-16T20:59:01+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Ofertă Altex: Dispozitiv care îmbunătățește substanțial viteza internetului wireless, disponibil cu reducere de 20%",
-        "translated_title": "Ofertă Altex: Dispozitiv care îmbunătățește substanțial viteza internetului wireless, disponibil cu reducere de 20%",
-        "url": "https://www.go4it.ro/content/internet/oferta-altex-dispozitiv-care-imbunatateste-substantial-viteza-internetului-wireless-disponibil-cu-reducere-de-20-19288048/",
-        "source": "Go4IT",
-        "published": "2026-10-17T08:16:46.314840+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Acțiunile giganților din inteligența artificială scad dramatic, pe fondul temerilor legate de costuri. NVIDIA, printre companiile afectate",
-        "translated_title": "Acțiunile giganților din inteligența artificială scad dramatic, pe fondul temerilor legate de costuri. NVIDIA, printre companiile afectate",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/actiunile-gigantilor-din-inteligenta-artificiala-scad-dramatic-pe-fondul-temerilor-legate-de-costuri-nvidia-printre-companiile-afectate-19288025/",
-        "source": "Go4IT",
-        "published": "2026-10-17T08:16:46.314729+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Amendă de 6.000 de euro pentru o companie din București după un atac cibernetic asupra serverului de testare: Au încărcat date reale, în loc de unele fictive",
-        "translated_title": "Amendă de 6.000 de euro pentru o companie din București după un atac cibernetic asupra serverului de testare: Au încărcat date reale, în loc de unele fictive",
-        "url": "https://www.go4it.ro/securitate-informatica/amenda-de-6-000-de-euro-pentru-o-companie-din-bucuresti-dupa-un-atac-cibernetic-asupra-serverului-de-testare-au-incarcat-date-reale-in-loc-de-unele-fictive-19288052/",
-        "source": "Go4IT",
-        "published": "2026-10-17T08:16:46.314620+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "În ce stadiu este proiectul de la Ișalnița, care aproape ar dubla capacitatea de stocare a energiei electrice din România?",
-        "translated_title": "În ce stadiu este proiectul de la Ișalnița, care aproape ar dubla capacitatea de stocare a energiei electrice din România?",
-        "url": "https://www.go4it.ro/content/anunturi/in-ce-stadiu-este-proiectul-de-la-isalnita-care-aproape-ar-dubla-capacitatea-de-stocare-a-energiei-electrice-din-romania-19288027/",
-        "source": "Go4IT",
-        "published": "2026-10-17T08:16:46.314508+00:00",
         "summary": null,
         "category": "romanian"
       }
