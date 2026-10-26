@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-26",
+    "date_formatted": "26 Octombrie 2026",
+    "news": [
+      {
+        "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+        "translated_title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+        "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+        "source": "Wired",
+        "published": "2026-10-26T09:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Valve Steam Frame Review: Costly and Inconsistent",
+        "translated_title": "Valve Steam Frame Review: Costly and Inconsistent",
+        "url": "https://www.wired.com/review/valve-steam-frame/",
+        "source": "Wired",
+        "published": "2026-10-26T09:15:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+        "translated_title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+        "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+        "source": "Wired",
+        "published": "2026-10-26T09:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Switzerland. Block by block. At 1:1 scale",
+        "translated_title": "Switzerland. Block by block. At 1:1 scale",
+        "url": "https://blocks.manifold3d.ch/",
+        "source": "Hacker News",
+        "published": "2026-10-26T08:46:09+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The result of the C++26 DIS ballot",
+        "translated_title": "The result of the C++26 DIS ballot",
+        "url": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+        "source": "Hacker News",
+        "published": "2026-10-26T06:11:52+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Behind the scenes at the NeXT Computer office",
+        "translated_title": "Behind the scenes at the NeXT Computer office",
+        "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+        "source": "Hacker News",
+        "published": "2026-10-26T03:31:11+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+        "translated_title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+        "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+        "source": "Hacker News",
+        "published": "2026-10-26T03:29:05+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The best apps for tracking your reading and discovering new books",
+        "translated_title": "The best apps for tracking your reading and discovering new books",
+        "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+        "source": "TechCrunch",
+        "published": "2026-10-26T01:10:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
+        "translated_title": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
+        "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
+        "source": "Engadget",
+        "published": "2026-10-26T00:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Can you run regular Ethernet cables outside?",
+        "translated_title": "Can you run regular Ethernet cables outside?",
+        "url": "https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/",
+        "source": "Engadget",
+        "published": "2026-10-26T00:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Which Android phone is the closest equivalent to the iPhone Duo?",
+        "translated_title": "Which Android phone is the closest equivalent to the iPhone Duo?",
+        "url": "https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/",
+        "source": "Engadget",
+        "published": "2026-10-25T23:45:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Schimbare neașteptată la Xbox: Helen Chiang pleacă de la Microsoft după 21 de ani",
+        "translated_title": "Schimbare neașteptată la Xbox: Helen Chiang pleacă de la Microsoft după 21 de ani",
+        "url": "https://www.go4it.ro/content/business/schimbare-neasteptata-la-xbox-helen-chiang-pleaca-de-la-microsoft-dupa-21-de-ani-19288629/",
+        "source": "Go4IT",
+        "published": "2026-10-26T09:44:48.080399+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Samsung pregătește o surpriză pentru Galaxy S27. Exynos 2700 a depășit procesoarele Snapdragon în teste",
+        "translated_title": "Samsung pregătește o surpriză pentru Galaxy S27. Exynos 2700 a depășit procesoarele Snapdragon în teste",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/samsung-pregateste-o-surpriza-pentru-galaxy-s27-exynos-2700-ar-depasi-procesoarele-snapdragon-in-teste-19288657/",
+        "source": "Go4IT",
+        "published": "2026-10-26T09:44:48.080284+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "AI ar putea cauza o catastrofă, iar băncile se pregătesc pentru urmările acesteia",
+        "translated_title": "AI ar putea cauza o catastrofă, iar băncile se pregătesc pentru urmările acesteia",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/ai-va-cauza-eventual-o-catastrofa-iar-bancile-se-pregatesc-pentru-urmarile-acesteia-19288654/",
+        "source": "Go4IT",
+        "published": "2026-10-26T09:44:48.080038+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Pura 90 Plus, dezvăluit înainte de lansare. Ce procesor și ce cameră va avea noul telefon",
+        "translated_title": "Pura 90 Plus, dezvăluit înainte de lansare. Ce procesor și ce cameră va avea noul telefon",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/pura-90-plus-dezvaluit-inainte-de-lansare-ce-procesor-si-ce-camera-va-avea-noul-telefon-19288660/",
+        "source": "Go4IT",
+        "published": "2026-10-26T09:44:48.079919+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-25",
     "date_formatted": "25 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/business/cxmt-isi-va-majora-productia-de-wafere-dram-19288230/",
         "source": "Go4IT",
         "published": "2026-10-20T09:09:27.040456+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-19",
-    "date_formatted": "19 Octombrie 2026",
-    "news": [
-      {
-        "title": "Google Gemini 4 agents just beat Minecraft with no human intervention",
-        "translated_title": "Google Gemini 4 agents just beat Minecraft with no human intervention",
-        "url": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/",
-        "source": "Engadget",
-        "published": "2026-10-19T09:19:19+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How far can we push computing?",
-        "translated_title": "How far can we push computing?",
-        "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-19T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Insta360 Luna Ultra and Luna Pro Review (2026): Steady Does It",
-        "translated_title": "Insta360 Luna Ultra and Luna Pro Review (2026): Steady Does It",
-        "url": "https://www.wired.com/review/insta360-luna-ultra-luna-pro/",
-        "source": "Wired",
-        "published": "2026-10-19T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-        "translated_title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-        "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-        "source": "Wired",
-        "published": "2026-10-19T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-        "translated_title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-        "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-        "source": "TechCrunch",
-        "published": "2026-10-19T07:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Linux 7.3 Released",
-        "translated_title": "Linux 7.3 Released",
-        "url": "https://lwn.net/Articles/1101143/",
-        "source": "Hacker News",
-        "published": "2026-10-19T07:23:57+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-        "translated_title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-        "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-        "source": "Hacker News",
-        "published": "2026-10-19T05:55:31+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Flatpak – An Insecurity Nightmare",
-        "translated_title": "Flatpak – An Insecurity Nightmare",
-        "url": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
-        "source": "Hacker News",
-        "published": "2026-10-19T05:11:24+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "DeepSeek V4.1 Flash 1017 (Max)",
-        "translated_title": "DeepSeek V4.1 Flash 1017 (Max)",
-        "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-        "source": "Hacker News",
-        "published": "2026-10-19T04:41:46+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "What do all the lights on your Netgear router mean, and which ones actually matter?",
-        "translated_title": "What do all the lights on your Netgear router mean, and which ones actually matter?",
-        "url": "https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/",
-        "source": "Engadget",
-        "published": "2026-10-19T00:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "What does the orange dot on your Samsung Galaxy Watch mean?",
-        "translated_title": "What does the orange dot on your Samsung Galaxy Watch mean?",
-        "url": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
-        "source": "Engadget",
-        "published": "2026-10-19T00:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Costurile cu memoriile și stocarea pentru PlayStation 6 ar putea depăși 680 de dolari per unitate – ZVON",
-        "translated_title": "Costurile cu memoriile și stocarea pentru PlayStation 6 ar putea depăși 680 de dolari per unitate – ZVON",
-        "url": "https://www.go4it.ro/content/componente-pc/memoriile-si-stocare-pentru-playstation-6-peste-680-de-dolari-per-unitate-zvon-19288123/",
-        "source": "Go4IT",
-        "published": "2026-10-19T09:36:56.958588+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Xiaomi a lansat o baterie externă magnetică de doar 6,75 mm",
-        "translated_title": "Xiaomi a lansat o baterie externă magnetică de doar 6,75 mm",
-        "url": "https://www.go4it.ro/content/accesorii/xiaomi-a-lansat-o-bateriei-externa-magnetica-de-doar-675-mm-19288128/",
-        "source": "Go4IT",
-        "published": "2026-10-19T09:36:56.958450+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Mark Gurman: Apple, „greșeală majoră” cu precomenzile iPhone Duo. Ce baterie are acesta?",
-        "translated_title": "Mark Gurman: Apple, „greșeală majoră” cu precomenzile iPhone Duo. Ce baterie are acesta?",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/mark-gurman-apple-greseala-majora-cu-precomenzile-iphone-duo-ce-baterie-are-acesta-19288134/",
-        "source": "Go4IT",
-        "published": "2026-10-19T09:36:56.958307+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Un agent AI ar fi șters un întreg sezon dintr-un reality show",
-        "translated_title": "Un agent AI ar fi șters un întreg sezon dintr-un reality show",
-        "url": "https://www.go4it.ro/diverse-2/un-agent-ai-ar-fi-sters-un-intreg-sezon-dintr-un-reality-show-19288138/",
-        "source": "Go4IT",
-        "published": "2026-10-19T09:36:56.958152+00:00",
         "summary": null,
         "category": "romanian"
       }
