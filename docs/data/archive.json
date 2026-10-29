@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-29",
+    "date_formatted": "29 Octombrie 2026",
+    "news": [
+      {
+        "title": "Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy",
+        "translated_title": "Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy",
+        "url": "https://www.wired.com/review/review-hisense-ur8/",
+        "source": "Wired",
+        "published": "2026-10-29T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
+        "translated_title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
+        "url": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
+        "source": "Wired",
+        "published": "2026-10-29T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
+        "translated_title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
+        "url": "https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/",
+        "source": "Wired",
+        "published": "2026-10-29T10:15:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "We urgently need to monitor AI agents’ actions in real time",
+        "translated_title": "We urgently need to monitor AI agents’ actions in real time",
+        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-29T10:11:12+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "AI has come for Arizona’s water",
+        "translated_title": "AI has come for Arizona’s water",
+        "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+        "source": "The Verge",
+        "published": "2026-10-29T10:00:04+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Our climate models have a big, dangerous blind spot",
+        "translated_title": "Our climate models have a big, dangerous blind spot",
+        "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-29T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "I Gave My Blood to the AI Death Clock",
+        "translated_title": "I Gave My Blood to the AI Death Clock",
+        "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+        "source": "Wired",
+        "published": "2026-10-29T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Spain train crash: What we know after two trains crashed with dozens feared dead",
+        "translated_title": "Spain train crash: What we know after two trains crashed with dozens feared dead",
+        "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+        "source": "Hacker News",
+        "published": "2026-10-29T08:55:08+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
+        "translated_title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
+        "url": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
+        "source": "Hacker News",
+        "published": "2026-10-29T07:52:32+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Zero click, silent, remote Android DoS",
+        "translated_title": "Zero click, silent, remote Android DoS",
+        "url": "https://smsofdeath.com/",
+        "source": "Hacker News",
+        "published": "2026-10-29T07:08:50+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+        "translated_title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+        "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+        "source": "Hacker News",
+        "published": "2026-10-29T06:47:28+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Japonia testează roboți autonomi echipați cu drujbe pentru lucrări feroviare",
+        "translated_title": "Japonia testează roboți autonomi echipați cu drujbe pentru lucrări feroviare",
+        "url": "https://www.go4it.ro/stiati-ca/japonia-testeaza-roboti-autonomi-echipati-cu-drujbe-pentru-lucrari-feroviare-19288799/",
+        "source": "Go4IT",
+        "published": "2026-10-29T10:43:09.000646+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Discord va face conținutul de pe serverele publice disponibil pe Google și alte motoare de căutare, dar poți renunța la această opțiune",
+        "translated_title": "Discord va face conținutul de pe serverele publice disponibil pe Google și alte motoare de căutare, dar poți renunța la această opțiune",
+        "url": "https://www.go4it.ro/content/internet/tech-news/discord-va-face-continutul-de-pe-serverele-publice-disponibil-pe-google-si-alte-motoare-de-cautare-dar-poti-renunta-la-aceasta-optiune-19288802/",
+        "source": "Go4IT",
+        "published": "2026-10-29T10:43:09.000541+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Sony dezvăluie că a fost victima unui atac cibernetic care a expus 2,6 milioane de înregistrări ale clienților",
+        "translated_title": "Sony dezvăluie că a fost victima unui atac cibernetic care a expus 2,6 milioane de înregistrări ale clienților",
+        "url": "https://www.go4it.ro/content/internet/sony-dezvaluie-ca-a-fost-victima-unui-atac-cibernetic-care-a-expus-26-milioane-de-inregistrari-ale-clientilor-19288805/",
+        "source": "Go4IT",
+        "published": "2026-10-29T10:43:09.000434+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Mișcări de forțe pe piața audio: Bose achiziționează rivalul Skullcandy",
+        "translated_title": "Mișcări de forțe pe piața audio: Bose achiziționează rivalul Skullcandy",
+        "url": "https://www.go4it.ro/content/business/miscari-de-forte-pe-piata-audio-bose-achizitioneaza-rivalul-skullcandy-19288795/",
+        "source": "Go4IT",
+        "published": "2026-10-29T10:43:09.000309+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-28",
     "date_formatted": "28 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/muzica-si-filme/doliu-la-hollywood-actorul-tom-skerritt-cunoscut-din-alien-si-top-gun-a-incetat-din-viata-la-93-de-ani-19288504/",
         "source": "Go4IT",
         "published": "2026-10-23T09:07:21.509771+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-22",
-    "date_formatted": "22 Octombrie 2026",
-    "news": [
-      {
-        "title": "Tesla plans to start selling Cybercabs by the end of the year",
-        "translated_title": "Tesla plans to start selling Cybercabs by the end of the year",
-        "url": "https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026/",
-        "source": "Engadget",
-        "published": "2026-10-22T08:52:48+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "AI’s hidden storage bill: What inference leaves behind",
-        "translated_title": "AI’s hidden storage bill: What inference leaves behind",
-        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-22T08:41:18+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Fortnite is back on Apple's Australian App Store following court ruling",
-        "translated_title": "Fortnite is back on Apple's Australian App Store following court ruling",
-        "url": "https://www.engadget.com/2293801/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/",
-        "source": "Engadget",
-        "published": "2026-10-22T08:18:58+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Show HN: The fastest browser for AI agents to run browser automation",
-        "translated_title": "Show HN: The fastest browser for AI agents to run browser automation",
-        "url": "https://ego-lite.apposters.com",
-        "source": "Hacker News",
-        "published": "2026-10-22T08:09:22+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "OpenAI CLI",
-        "translated_title": "OpenAI CLI",
-        "url": "https://github.com/openai/openai-cli",
-        "source": "Hacker News",
-        "published": "2026-10-22T05:23:11+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-        "translated_title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-        "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-        "source": "Hacker News",
-        "published": "2026-10-22T02:30:52+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-        "translated_title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-        "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-        "source": "Wired",
-        "published": "2026-10-22T02:24:17+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-        "translated_title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-        "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-        "source": "Hacker News",
-        "published": "2026-10-22T02:18:41+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "YouTube says it isn’t testing hiding the dislike button",
-        "translated_title": "YouTube says it isn’t testing hiding the dislike button",
-        "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
-        "source": "The Verge",
-        "published": "2026-10-21T23:46:45+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
-        "translated_title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
-        "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
-        "source": "The Verge",
-        "published": "2026-10-21T23:36:31+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-        "translated_title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-        "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-        "source": "TechCrunch",
-        "published": "2026-10-21T22:51:22+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Hackerii folosesc AI și browsere speciale pentru a crea mii de conturi false și a păcăli sistemele de securitate",
-        "translated_title": "Hackerii folosesc AI și browsere speciale pentru a crea mii de conturi false și a păcăli sistemele de securitate",
-        "url": "https://www.go4it.ro/securitate-informatica/hackerii-folosesc-ai-si-browsere-speciale-pentru-a-crea-mii-de-conturi-false-si-a-pacali-sistemele-de-securitate-19288388/",
-        "source": "Go4IT",
-        "published": "2026-10-22T09:10:32.185226+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Honor Win2 are două ventilatoare și un ecran de 185 Hz. Bateria de 10.100 mAh promite ore întregi de gaming",
-        "translated_title": "Honor Win2 are două ventilatoare și un ecran de 185 Hz. Bateria de 10.100 mAh promite ore întregi de gaming",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/honor-win2-are-doua-ventilatoare-si-un-ecran-de-185-hz-bateria-de-10-100-mah-promite-ore-intregi-de-gaming-19288390/",
-        "source": "Go4IT",
-        "published": "2026-10-22T09:10:32.185045+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Șeful Apple explică de ce un produs bun nu trebuie doar să funcționeze, ci și să-ți facă plăcere să-l folosești",
-        "translated_title": "Șeful Apple explică de ce un produs bun nu trebuie doar să funcționeze, ci și să-ți facă plăcere să-l folosești",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/john-ternus-explica-de-ce-un-produs-bun-nu-trebuie-doar-sa-functioneze-ci-si-sa-ti-faca-placere-sa-l-folosesti-19288399/",
-        "source": "Go4IT",
-        "published": "2026-10-22T09:10:32.184863+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Progres tehnologic sau iluzie? Semnele de întrebare din spatele „mașinii zburătoare” prezentate de Tesla",
-        "translated_title": "Progres tehnologic sau iluzie? Semnele de întrebare din spatele „mașinii zburătoare” prezentate de Tesla",
-        "url": "https://www.go4it.ro/content/auto/progres-tehnologic-sau-iluzie-semnele-de-intrebare-din-spatele-masinii-zburatoare-prezentate-de-tesla-19288408/",
-        "source": "Go4IT",
-        "published": "2026-10-22T09:10:32.184480+00:00",
         "summary": null,
         "category": "romanian"
       }
