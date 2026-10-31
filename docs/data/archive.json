@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-10-31",
+    "date_formatted": "31 Octombrie 2026",
+    "news": [
+      {
+        "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+        "translated_title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+        "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+        "source": "Wired",
+        "published": "2026-10-31T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday",
+        "translated_title": "Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday",
+        "url": "https://www.wired.com/story/bose-deals-october-2026/",
+        "source": "Wired",
+        "published": "2026-10-31T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
+        "translated_title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
+        "url": "https://www.wired.com/review/keurig-alta-brewer/",
+        "source": "Wired",
+        "published": "2026-10-31T09:35:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
+        "translated_title": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
+        "url": "https://www.wired.com/story/are-memories-transferable-meet-the-scientists-replicating-an-infamous-study-to-find-out/",
+        "source": "Wired",
+        "published": "2026-10-31T09:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Switch Lowering in GCC",
+        "translated_title": "Switch Lowering in GCC",
+        "url": "https://xoranth.net/gcc-switch/",
+        "source": "Hacker News",
+        "published": "2026-10-31T08:02:26+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Digital Minimalism",
+        "translated_title": "Digital Minimalism",
+        "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+        "source": "Hacker News",
+        "published": "2026-10-31T06:16:36+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+        "translated_title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+        "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+        "source": "TechCrunch",
+        "published": "2026-10-31T04:16:50+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Tell HN: Scribd Breached",
+        "translated_title": "Tell HN: Scribd Breached",
+        "url": "https://news.ycombinator.com/item?id=50312756",
+        "source": "Hacker News",
+        "published": "2026-10-31T02:46:36+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "translated_title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "source": "TechCrunch",
+        "published": "2026-10-31T01:20:05+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+        "translated_title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+        "url": "https://tng.episodle.com/",
+        "source": "Hacker News",
+        "published": "2026-10-30T23:51:24+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+        "translated_title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+        "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+        "source": "TechCrunch",
+        "published": "2026-10-30T23:21:23+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Nu doar GTA VI: jocurile din noiembrie 2026 pe care nu trebuie să le ratezi (P)",
+        "translated_title": "Nu doar GTA VI: jocurile din noiembrie 2026 pe care nu trebuie să le ratezi (P)",
+        "url": "https://www.go4it.ro/content/advertorial/nu-doar-gta-vi-jocurile-din-noiembrie-2026-pe-care-nu-trebuie-sa-le-ratezi-p-19288869/",
+        "source": "Go4IT",
+        "published": "2026-10-31T10:11:43.714061+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Mistral pune la dispoziție pentru descărcare cel mai recent model de IA open source cu un trilion de parametri, destinat securității cibernetice",
+        "translated_title": "Mistral pune la dispoziție pentru descărcare cel mai recent model de IA open source cu un trilion de parametri, destinat securității cibernetice",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/mistral-pune-la-dispozitie-pentru-descarcare-cel-mai-recent-model-de-ia-open-source-cu-un-trilion-de-parametri-destinat-securitatii-cibernetice-19288873/",
+        "source": "Go4IT",
+        "published": "2026-10-31T10:11:43.713944+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Infineon investește 1,1 miliarde de euro în Austria pentru prima fabrică din lume de cipuri din nitrură de galiu cu producție de mare volum",
+        "translated_title": "Infineon investește 1,1 miliarde de euro în Austria pentru prima fabrică din lume de cipuri din nitrură de galiu cu producție de mare volum",
+        "url": "https://www.go4it.ro/content/business/infineon-investeste-11-miliarde-de-euro-in-austria-pentru-prima-fabrica-din-lume-de-cipuri-din-nitrura-de-galiu-cu-productie-de-mare-volum-19288876/",
+        "source": "Go4IT",
+        "published": "2026-10-31T10:11:43.713817+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Vulnerabilitatea „SMS of Death” de tip zero-click le permite hackerilor să perturbe funcționarea telefoanelor Android cu un singur mesaj text",
+        "translated_title": "Vulnerabilitatea „SMS of Death” de tip zero-click le permite hackerilor să perturbe funcționarea telefoanelor Android cu un singur mesaj text",
+        "url": "https://www.go4it.ro/securitate-informatica/vulnerabilitatea-sms-of-death-de-tip-zero-click-le-permite-hackerilor-sa-perturbe-functionarea-telefoanelor-android-cu-un-singur-mesaj-text-19288885/",
+        "source": "Go4IT",
+        "published": "2026-10-31T10:11:43.713702+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-30",
     "date_formatted": "30 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/cartonasele-pokemon-revin-cum-a-evoluat-nostalgia-anilor-2000-intr-o-comunitate-offline-dedicata-tuturor-generatiilor-19288635/",
         "source": "Go4IT",
         "published": "2026-10-25T08:57:36.766647+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-24",
-    "date_formatted": "24 Octombrie 2026",
-    "news": [
-      {
-        "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-        "translated_title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-        "source": "Hacker News",
-        "published": "2026-10-24T05:49:57+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "OBS Studio 33",
-        "translated_title": "OBS Studio 33",
-        "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-        "source": "Hacker News",
-        "published": "2026-10-24T04:49:58+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How close can pure functional programming get to C?",
-        "translated_title": "How close can pure functional programming get to C?",
-        "url": "https://rtfeldman.com/fp-vs-c",
-        "source": "Hacker News",
-        "published": "2026-10-24T03:43:54+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How Block Blast harvests its players for ad money",
-        "translated_title": "How Block Blast harvests its players for ad money",
-        "url": "https://ayoships.com/breakdowns/block-blast",
-        "source": "Hacker News",
-        "published": "2026-10-24T02:43:43+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Startups don’t need to go viral to win customers",
-        "translated_title": "Startups don’t need to go viral to win customers",
-        "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-        "source": "TechCrunch",
-        "published": "2026-10-23T23:07:45+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-        "translated_title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-        "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-        "source": "TechCrunch",
-        "published": "2026-10-23T21:59:19+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Xbox’s first chief operating officer is out after just a few months",
-        "translated_title": "Xbox’s first chief operating officer is out after just a few months",
-        "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-        "source": "The Verge",
-        "published": "2026-10-23T21:39:26+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "OpenAI now trains its frontier AI models with no internet access",
-        "translated_title": "OpenAI now trains its frontier AI models with no internet access",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-        "source": "The Verge",
-        "published": "2026-10-23T21:11:07+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-        "translated_title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-        "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-        "source": "TechCrunch",
-        "published": "2026-10-23T20:57:13+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-        "translated_title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-        "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-        "source": "TechCrunch",
-        "published": "2026-10-23T20:03:14+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-        "translated_title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-        "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-        "source": "The Verge",
-        "published": "2026-10-23T19:35:15+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Grecia interzice rețelele de socializare pentru copiii sub 15 ani. Legea a fost adoptată de Parlamentul de la Atena",
-        "translated_title": "Grecia interzice rețelele de socializare pentru copiii sub 15 ani. Legea a fost adoptată de Parlamentul de la Atena",
-        "url": "https://www.go4it.ro/content/social-media/grecia-interzice-retelele-de-socializare-pentru-copiii-sub-15-ani-legea-a-fost-adoptata-de-parlamentul-de-la-atena-19288539/",
-        "source": "Go4IT",
-        "published": "2026-10-24T08:40:32.705254+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Work Sharp RMX MisFit: Cuțitul pliabil care ignoră trendul lamelor mari în favoarea controlului absolut",
-        "translated_title": "Work Sharp RMX MisFit: Cuțitul pliabil care ignoră trendul lamelor mari în favoarea controlului absolut",
-        "url": "https://www.go4it.ro/content/accesorii/work-sharp-rmx-misfit-cutitul-pliabil-care-ignora-trendul-lamelor-mari-in-favoarea-controlului-absolut-19288541/",
-        "source": "Go4IT",
-        "published": "2026-10-24T08:40:32.705076+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Proiectul Warhound: Cum vor fondatorii Colossal și Anduril să creeze „super-câini” militari prin clonare și editare genetică",
-        "translated_title": "Proiectul Warhound: Cum vor fondatorii Colossal și Anduril să creeze „super-câini” militari prin clonare și editare genetică",
-        "url": "https://www.go4it.ro/tehnologie-militara/proiectul-warhound-cum-vor-fondatorii-colossal-si-anduril-sa-creeze-super-caini-militari-prin-clonare-si-editare-genetica-19288560/",
-        "source": "Go4IT",
-        "published": "2026-10-24T08:40:32.704893+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "PC-urile se scumpesc din cauza memoriilor, iar cumpărătorii amână achizițiile. Apple și ASUS rezistă mai bine decât rivalii",
-        "translated_title": "PC-urile se scumpesc din cauza memoriilor, iar cumpărătorii amână achizițiile. Apple și ASUS rezistă mai bine decât rivalii",
-        "url": "https://www.go4it.ro/content/laptopuri/pc-urile-se-scumpesc-din-cauza-memoriilor-iar-cumparatorii-amana-achizitiile-apple-si-asus-rezista-mai-bine-decat-rivalii-19288573/",
-        "source": "Go4IT",
-        "published": "2026-10-24T08:40:32.704689+00:00",
         "summary": null,
         "category": "romanian"
       }
