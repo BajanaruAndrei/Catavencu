@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-01",
+    "date_formatted": "1 Noiembrie 2026",
+    "news": [
+      {
+        "title": "7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating",
+        "translated_title": "7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating",
+        "url": "https://www.wired.com/story/the-best-travel-mugs/",
+        "source": "Wired",
+        "published": "2026-11-01T10:31:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+        "translated_title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+        "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+        "source": "Wired",
+        "published": "2026-11-01T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "A tiny Pacific country rolls out universal basic income",
+        "translated_title": "A tiny Pacific country rolls out universal basic income",
+        "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+        "source": "Hacker News",
+        "published": "2026-11-01T10:05:09+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch",
+        "translated_title": "Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch",
+        "url": "https://www.wired.com/story/best-chromebooks/",
+        "source": "Wired",
+        "published": "2026-11-01T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look",
+        "translated_title": "A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look",
+        "url": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/",
+        "source": "Wired",
+        "published": "2026-11-01T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "OpenIDEA: The IDE you know, rebuilt in Rust",
+        "translated_title": "OpenIDEA: The IDE you know, rebuilt in Rust",
+        "url": "https://github.com/l0ng-ai/openidea",
+        "source": "Hacker News",
+        "published": "2026-11-01T09:15:26+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Pac-Man's Siren Call",
+        "translated_title": "Pac-Man's Siren Call",
+        "url": "https://unsung.aresluna.org/pac-mans-siren-call/",
+        "source": "Hacker News",
+        "published": "2026-11-01T06:29:49+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The AI cost of JavaScript frameworks",
+        "translated_title": "The AI cost of JavaScript frameworks",
+        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+        "source": "Hacker News",
+        "published": "2026-11-01T06:06:19+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Data centers are now a midterm issue, even in Brooklyn",
+        "translated_title": "Data centers are now a midterm issue, even in Brooklyn",
+        "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+        "source": "TechCrunch",
+        "published": "2026-11-01T02:22:10+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "5 expensive hobbies where owning a 3D printer actually saves you money",
+        "translated_title": "5 expensive hobbies where owning a 3D printer actually saves you money",
+        "url": "https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/",
+        "source": "Engadget",
+        "published": "2026-11-01T00:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Amazon made the AUX input on older Alexa devices less useful",
+        "translated_title": "Amazon made the AUX input on older Alexa devices less useful",
+        "url": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
+        "source": "Engadget",
+        "published": "2026-11-01T00:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "VIDEO: Doi astronauți au petrecut peste șapte ore în afara Stației Spațiale Internaționale. Care a fost motivul",
+        "translated_title": "VIDEO: Doi astronauți au petrecut peste șapte ore în afara Stației Spațiale Internaționale. Care a fost motivul",
+        "url": "https://www.go4it.ro/content/internet/tech-news/video-doi-astronauti-au-petrecut-peste-sapte-ore-in-afara-statiei-spatiale-internationale-care-a-fost-motivul-19288902/",
+        "source": "Go4IT",
+        "published": "2026-11-01T11:02:29.124183+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "BYD anunță investiții masive în infrastructura de încărcare ultrarapidă din România și caută furnizori locali",
+        "translated_title": "BYD anunță investiții masive în infrastructura de încărcare ultrarapidă din România și caută furnizori locali",
+        "url": "https://www.go4it.ro/content/auto/byd-anunta-investitii-masive-in-infrastructura-de-incarcare-ultrarapida-din-romania-si-cauta-furnizori-locali-19288905/",
+        "source": "Go4IT",
+        "published": "2026-11-01T11:02:29.124079+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Papa Leon al XIV-lea avertizează că deciziile capitale nu ar trebui delegate niciodată inteligenței artificiale",
+        "translated_title": "Papa Leon al XIV-lea avertizează că deciziile capitale nu ar trebui delegate niciodată inteligenței artificiale",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/papa-leon-al-xiv-lea-avertizeaza-ca-deciziile-capitale-nu-ar-trebui-delegate-niciodata-inteligentei-artificiale-19288907/",
+        "source": "Go4IT",
+        "published": "2026-11-01T11:02:29.123968+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "OpenAI introduce restricții severe pe ChatGPT privind armele și monitorizarea conversațiilor violente",
+        "translated_title": "OpenAI introduce restricții severe pe ChatGPT privind armele și monitorizarea conversațiilor violente",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/openai-introduce-restrictii-severe-pe-chatgpt-privind-armele-si-monitorizarea-conversatiilor-violente-19288909/",
+        "source": "Go4IT",
+        "published": "2026-11-01T11:02:29.123844+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-10-31",
     "date_formatted": "31 Octombrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/telefoane-mobile/pura-90-plus-dezvaluit-inainte-de-lansare-ce-procesor-si-ce-camera-va-avea-noul-telefon-19288660/",
         "source": "Go4IT",
         "published": "2026-10-26T09:44:48.079919+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-25",
-    "date_formatted": "25 Octombrie 2026",
-    "news": [
-      {
-        "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-        "translated_title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-        "url": "https://github.com/slee-persis/GVS5H",
-        "source": "Hacker News",
-        "published": "2026-10-25T03:56:01+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Cerebras Deploys Trillion-Parameter AI Models",
-        "translated_title": "Cerebras Deploys Trillion-Parameter AI Models",
-        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "source": "Hacker News",
-        "published": "2026-10-25T01:33:49+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Here's what you need to know before buying a wireless CarPlay adapter",
-        "translated_title": "Here's what you need to know before buying a wireless CarPlay adapter",
-        "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
-        "source": "Engadget",
-        "published": "2026-10-25T00:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "What is the cheapest new gaming console you can buy in 2026?",
-        "translated_title": "What is the cheapest new gaming console you can buy in 2026?",
-        "url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
-        "source": "Engadget",
-        "published": "2026-10-25T00:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How to extend the battery life of your Apple AirTags",
-        "translated_title": "How to extend the battery life of your Apple AirTags",
-        "url": "https://www.engadget.com/2292921/how-to-extend-battery-life-apple-airtags/",
-        "source": "Engadget",
-        "published": "2026-10-24T23:45:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Why Gopher in 2026?",
-        "translated_title": "Why Gopher in 2026?",
-        "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-        "source": "Hacker News",
-        "published": "2026-10-24T23:33:19+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Common mistakes you should avoid when setting up your home network",
-        "translated_title": "Common mistakes you should avoid when setting up your home network",
-        "url": "https://www.engadget.com/2292817/common-mistakes-avoid-setting-up-home-network/",
-        "source": "Engadget",
-        "published": "2026-10-24T23:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-        "translated_title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-        "source": "Hacker News",
-        "published": "2026-10-24T23:11:54+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Blue Planet III is keeping the rough edges in the age of AI",
-        "translated_title": "Blue Planet III is keeping the rough edges in the age of AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-        "source": "The Verge",
-        "published": "2026-10-24T21:29:12+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Starlink seems to be working normally again in Ukraine",
-        "translated_title": "Starlink seems to be working normally again in Ukraine",
-        "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-        "source": "TechCrunch",
-        "published": "2026-10-24T20:46:34+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Will AI expose the rickety infrastructure of the internet?",
-        "translated_title": "Will AI expose the rickety infrastructure of the internet?",
-        "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-        "source": "TechCrunch",
-        "published": "2026-10-24T20:15:33+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "WhatsApp va permite distribuirea clipurilor Instagram Reels mai simplu. Unde apare noul buton și cine îl poate folosi",
-        "translated_title": "WhatsApp va permite distribuirea clipurilor Instagram Reels mai simplu. Unde apare noul buton și cine îl poate folosi",
-        "url": "https://www.go4it.ro/content/aplicatii/whatsapp-va-permite-distribuirea-clipurilor-instagram-reels-mai-simplu-unde-apare-noul-buton-si-cine-il-poate-folosi-19288605/",
-        "source": "Go4IT",
-        "published": "2026-10-25T08:57:36.767231+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Rusia ar fi dezvoltat o rachetă de croazieră mai ieftină, cu rază de 1.200 km. Ce se știe despre Filin",
-        "translated_title": "Rusia ar fi dezvoltat o rachetă de croazieră mai ieftină, cu rază de 1.200 km. Ce se știe despre Filin",
-        "url": "https://www.go4it.ro/tehnologie-militara/rusia-ar-fi-dezvoltat-o-racheta-de-croaziera-mai-ieftina-cu-raza-de-1-200-km-ce-se-stie-despre-filin-19288608/",
-        "source": "Go4IT",
-        "published": "2026-10-25T08:57:36.767047+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Xiaomi 18T și 18T Pro pregătesc o schimbare importantă. Ce se știe despre noile telefoane",
-        "translated_title": "Xiaomi 18T și 18T Pro pregătesc o schimbare importantă. Ce se știe despre noile telefoane",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/xiaomi-18t-si-18t-pro-pregatesc-o-schimbare-importanta-ce-se-stie-despre-noile-telefoane-19288611/",
-        "source": "Go4IT",
-        "published": "2026-10-25T08:57:36.766831+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Cartonașele Pokémon revin: Cum a evoluat nostalgia anilor 2000 într-o comunitate offline dedicată tuturor generațiilor",
-        "translated_title": "Cartonașele Pokémon revin: Cum a evoluat nostalgia anilor 2000 într-o comunitate offline dedicată tuturor generațiilor",
-        "url": "https://www.go4it.ro/content/cartonasele-pokemon-revin-cum-a-evoluat-nostalgia-anilor-2000-intr-o-comunitate-offline-dedicata-tuturor-generatiilor-19288635/",
-        "source": "Go4IT",
-        "published": "2026-10-25T08:57:36.766647+00:00",
         "summary": null,
         "category": "romanian"
       }
