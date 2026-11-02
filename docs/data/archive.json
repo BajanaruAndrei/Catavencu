@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-02",
+    "date_formatted": "2 Noiembrie 2026",
+    "news": [
+      {
+        "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
+        "translated_title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
+        "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+        "source": "Wired",
+        "published": "2026-11-02T11:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple is reportedly launching three new iPads early next year",
+        "translated_title": "Apple is reportedly launching three new iPads early next year",
+        "url": "https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year/",
+        "source": "Engadget",
+        "published": "2026-11-02T11:12:11+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+        "translated_title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+        "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+        "source": "TechCrunch",
+        "published": "2026-11-02T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "My Journey to the Center of America’s Political Spam Text Hell",
+        "translated_title": "My Journey to the Center of America’s Political Spam Text Hell",
+        "url": "https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/",
+        "source": "Wired",
+        "published": "2026-11-02T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "4 Best Alexa Speakers I’ve Tested (2026)",
+        "translated_title": "4 Best Alexa Speakers I’ve Tested (2026)",
+        "url": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/",
+        "source": "Wired",
+        "published": "2026-11-02T10:07:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+        "translated_title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+        "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+        "source": "Wired",
+        "published": "2026-11-02T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The agentic web is here",
+        "translated_title": "The agentic web is here",
+        "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+        "source": "MIT Technology Review",
+        "published": "2026-11-02T09:35:19+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Show HN: I've updated my Linux System Call website and API",
+        "translated_title": "Show HN: I've updated my Linux System Call website and API",
+        "url": "https://syscall.sh/",
+        "source": "Hacker News",
+        "published": "2026-11-02T09:29:16+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+        "translated_title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+        "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+        "source": "Hacker News",
+        "published": "2026-11-02T07:27:28+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+        "translated_title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+        "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
+        "source": "Hacker News",
+        "published": "2026-11-02T06:39:42+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+        "translated_title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+        "url": "https://wikihack.netlify.app",
+        "source": "Hacker News",
+        "published": "2026-11-02T05:06:30+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Noua colaborare Seiko x Mazda redefinește ceasurile inspirate din lumea auto",
+        "translated_title": "Noua colaborare Seiko x Mazda redefinește ceasurile inspirate din lumea auto",
+        "url": "https://www.go4it.ro/content/accesorii/noua-colaborare-seiko-x-mazda-redefineste-ceasurile-inspirate-din-lumea-auto-19288931/",
+        "source": "Go4IT",
+        "published": "2026-11-02T12:00:24.710223+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "„Manosfera” în vizorul medicilor: aceste comunități online afectează grav sănătatea băieților și a bărbaților",
+        "translated_title": "„Manosfera” în vizorul medicilor: aceste comunități online afectează grav sănătatea băieților și a bărbaților",
+        "url": "https://www.go4it.ro/content/internet/manosfera-in-vizorul-medicilor-aceste-comunitati-online-afecteaza-grav-sanatatea-baietilor-si-a-barbatilor-19288929/",
+        "source": "Go4IT",
+        "published": "2026-11-02T12:00:24.709998+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Stomatologia, într-o nouă eră de tehnologizare. Cum schimbă inteligența artificială modul în care mergem la dentist",
+        "translated_title": "Stomatologia, într-o nouă eră de tehnologizare. Cum schimbă inteligența artificială modul în care mergem la dentist",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/stomatologia-intr-o-noua-era-de-tehnologizare-cum-schimba-inteligenta-artificiala-modul-in-care-mergem-la-dentist-19288938/",
+        "source": "Go4IT",
+        "published": "2026-11-02T12:00:24.709816+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "MSI prezintă Prestige N16 Flip AI+: un laptop 2-în-1 cu NVIDIA RTX Spark",
+        "translated_title": "MSI prezintă Prestige N16 Flip AI+: un laptop 2-în-1 cu NVIDIA RTX Spark",
+        "url": "https://www.go4it.ro/content/laptopuri/msi-prezinta-prestige-n16-flip-ai-un-laptop-2-in-1-cu-nvidia-rtx-spark-19288941/",
+        "source": "Go4IT",
+        "published": "2026-11-02T12:00:24.709636+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-01",
     "date_formatted": "1 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/anunturi/raluca-turcan-insista-cu-restrictionarea-telefoanelor-in-scoli-si-interzicerea-pentru-minori-a-retelelor-de-socializare-19288697/",
         "source": "Go4IT",
         "published": "2026-10-27T09:37:32.231612+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-26",
-    "date_formatted": "26 Octombrie 2026",
-    "news": [
-      {
-        "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
-        "translated_title": "Meet the AI Agents Trying to Be Real-Life Journalists",
-        "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-        "source": "Wired",
-        "published": "2026-10-26T09:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Valve Steam Frame Review: Costly and Inconsistent",
-        "translated_title": "Valve Steam Frame Review: Costly and Inconsistent",
-        "url": "https://www.wired.com/review/valve-steam-frame/",
-        "source": "Wired",
-        "published": "2026-10-26T09:15:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
-        "translated_title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
-        "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
-        "source": "Wired",
-        "published": "2026-10-26T09:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Switzerland. Block by block. At 1:1 scale",
-        "translated_title": "Switzerland. Block by block. At 1:1 scale",
-        "url": "https://blocks.manifold3d.ch/",
-        "source": "Hacker News",
-        "published": "2026-10-26T08:46:09+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The result of the C++26 DIS ballot",
-        "translated_title": "The result of the C++26 DIS ballot",
-        "url": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
-        "source": "Hacker News",
-        "published": "2026-10-26T06:11:52+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Behind the scenes at the NeXT Computer office",
-        "translated_title": "Behind the scenes at the NeXT Computer office",
-        "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-        "source": "Hacker News",
-        "published": "2026-10-26T03:31:11+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-        "translated_title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-        "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-        "source": "Hacker News",
-        "published": "2026-10-26T03:29:05+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The best apps for tracking your reading and discovering new books",
-        "translated_title": "The best apps for tracking your reading and discovering new books",
-        "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
-        "source": "TechCrunch",
-        "published": "2026-10-26T01:10:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
-        "translated_title": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
-        "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
-        "source": "Engadget",
-        "published": "2026-10-26T00:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Can you run regular Ethernet cables outside?",
-        "translated_title": "Can you run regular Ethernet cables outside?",
-        "url": "https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/",
-        "source": "Engadget",
-        "published": "2026-10-26T00:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Which Android phone is the closest equivalent to the iPhone Duo?",
-        "translated_title": "Which Android phone is the closest equivalent to the iPhone Duo?",
-        "url": "https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/",
-        "source": "Engadget",
-        "published": "2026-10-25T23:45:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Schimbare neașteptată la Xbox: Helen Chiang pleacă de la Microsoft după 21 de ani",
-        "translated_title": "Schimbare neașteptată la Xbox: Helen Chiang pleacă de la Microsoft după 21 de ani",
-        "url": "https://www.go4it.ro/content/business/schimbare-neasteptata-la-xbox-helen-chiang-pleaca-de-la-microsoft-dupa-21-de-ani-19288629/",
-        "source": "Go4IT",
-        "published": "2026-10-26T09:44:48.080399+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Samsung pregătește o surpriză pentru Galaxy S27. Exynos 2700 a depășit procesoarele Snapdragon în teste",
-        "translated_title": "Samsung pregătește o surpriză pentru Galaxy S27. Exynos 2700 a depășit procesoarele Snapdragon în teste",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/samsung-pregateste-o-surpriza-pentru-galaxy-s27-exynos-2700-ar-depasi-procesoarele-snapdragon-in-teste-19288657/",
-        "source": "Go4IT",
-        "published": "2026-10-26T09:44:48.080284+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "AI ar putea cauza o catastrofă, iar băncile se pregătesc pentru urmările acesteia",
-        "translated_title": "AI ar putea cauza o catastrofă, iar băncile se pregătesc pentru urmările acesteia",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/ai-va-cauza-eventual-o-catastrofa-iar-bancile-se-pregatesc-pentru-urmarile-acesteia-19288654/",
-        "source": "Go4IT",
-        "published": "2026-10-26T09:44:48.080038+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Pura 90 Plus, dezvăluit înainte de lansare. Ce procesor și ce cameră va avea noul telefon",
-        "translated_title": "Pura 90 Plus, dezvăluit înainte de lansare. Ce procesor și ce cameră va avea noul telefon",
-        "url": "https://www.go4it.ro/content/telefoane-mobile/pura-90-plus-dezvaluit-inainte-de-lansare-ce-procesor-si-ce-camera-va-avea-noul-telefon-19288660/",
-        "source": "Go4IT",
-        "published": "2026-10-26T09:44:48.079919+00:00",
         "summary": null,
         "category": "romanian"
       }
