@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-04",
+    "date_formatted": "4 Noiembrie 2026",
+    "news": [
+      {
+        "title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
+        "translated_title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
+        "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+        "source": "Wired",
+        "published": "2026-11-04T11:36:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
+        "translated_title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
+        "url": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
+        "source": "Hacker News",
+        "published": "2026-11-04T11:02:23+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple Music's upcoming feature will let you record yourself doing karaoke",
+        "translated_title": "Apple Music's upcoming feature will let you record yourself doing karaoke",
+        "url": "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/",
+        "source": "Engadget",
+        "published": "2026-11-04T11:02:04+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Legend of Zelda: Ocarina of Time never gets old",
+        "translated_title": "The Legend of Zelda: Ocarina of Time never gets old",
+        "url": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2",
+        "source": "The Verge",
+        "published": "2026-11-04T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More",
+        "translated_title": "Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More",
+        "url": "https://www.wired.com/story/best-wireless-earbuds/",
+        "source": "Wired",
+        "published": "2026-11-04T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "New Jersey’s New Ebike Law Is Causing Chaos",
+        "translated_title": "New Jersey’s New Ebike Law Is Causing Chaos",
+        "url": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/",
+        "source": "Wired",
+        "published": "2026-11-04T10:45:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "What’s the Difference Between an Ebike and an E-Moto?",
+        "translated_title": "What’s the Difference Between an Ebike and an E-Moto?",
+        "url": "https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/",
+        "source": "Wired",
+        "published": "2026-11-04T10:45:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
+        "translated_title": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
+        "url": "https://github.com/openai/codex/issues/59060",
+        "source": "Hacker News",
+        "published": "2026-11-04T10:43:51+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+        "translated_title": "Geoffrey Hinton: it might turn out we were better off without AI",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+        "source": "Hacker News",
+        "published": "2026-11-04T10:23:34+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+        "translated_title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+        "url": "https://news.ycombinator.com/item?id=50363461",
+        "source": "Hacker News",
+        "published": "2026-11-04T10:10:27+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Valve just changed its Steam release rules amid a flood of AI games",
+        "translated_title": "Valve just changed its Steam release rules amid a flood of AI games",
+        "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+        "source": "Engadget",
+        "published": "2026-11-04T08:28:09+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Un „microfon” pentru fiecare neuron: sonda microscopică din siliciu testată acum în timpul operațiilor pe creier",
+        "translated_title": "Un „microfon” pentru fiecare neuron: sonda microscopică din siliciu testată acum în timpul operațiilor pe creier",
+        "url": "https://www.go4it.ro/content/stiinta/un-microfon-pentru-fiecare-neuron-sonda-microscopica-din-siliciu-testata-acum-in-timpul-operatiilor-pe-creier-19289038/",
+        "source": "Go4IT",
+        "published": "2026-11-04T11:52:05.464006+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Produse mai ușor de reparat în UE: Comisia Europeană consultă publicul pentru noile reguli de proiectare ecologică",
+        "translated_title": "Produse mai ușor de reparat în UE: Comisia Europeană consultă publicul pentru noile reguli de proiectare ecologică",
+        "url": "https://www.go4it.ro/content/business/produse-mai-usor-de-reparat-in-ue-comisia-europeana-consulta-publicul-pentru-noile-reguli-de-proiectare-ecologica-19289030/",
+        "source": "Go4IT",
+        "published": "2026-11-04T11:52:05.463844+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Europol: peste 9.000 de link-uri către conținut extremist, semnalate pe platforme de socializare și de gaming",
+        "translated_title": "Europol: peste 9.000 de link-uri către conținut extremist, semnalate pe platforme de socializare și de gaming",
+        "url": "https://www.go4it.ro/content/internet/europol-peste-9-000-de-link-uri-catre-continut-extremist-semnalate-pe-platforme-de-socializare-si-de-gaming-19289033/",
+        "source": "Go4IT",
+        "published": "2026-11-04T11:52:05.463688+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Binance explică cum s-a produs atacul cibernetic de 6,3 miliarde de dolari. Compania promite să acopere pierderile",
+        "translated_title": "Binance explică cum s-a produs atacul cibernetic de 6,3 miliarde de dolari. Compania promite să acopere pierderile",
+        "url": "https://www.go4it.ro/content/fintech/binance-explica-cum-s-a-produs-atacul-cibernetic-de-63-miliarde-de-dolari-compania-promite-sa-acopere-pierderile-19289041/",
+        "source": "Go4IT",
+        "published": "2026-11-04T11:52:05.463517+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-03",
     "date_formatted": "3 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/business/miscari-de-forte-pe-piata-audio-bose-achizitioneaza-rivalul-skullcandy-19288795/",
         "source": "Go4IT",
         "published": "2026-10-29T10:43:09.000309+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-28",
-    "date_formatted": "28 Octombrie 2026",
-    "news": [
-      {
-        "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-        "translated_title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-        "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-        "source": "Wired",
-        "published": "2026-10-28T10:15:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Please Let the Internet Die",
-        "translated_title": "Please Let the Internet Die",
-        "url": "https://www.wired.com/story/let-the-internet-die/",
-        "source": "Wired",
-        "published": "2026-10-28T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Men Spending $50,000 Just to Reserve a Tesla Roadster",
-        "translated_title": "The Men Spending $50,000 Just to Reserve a Tesla Roadster",
-        "url": "https://www.wired.com/story/the-men-dropping-50000-and-up-on-teslas-new-roadster/",
-        "source": "Wired",
-        "published": "2026-10-28T09:45:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Spain train crash: 'At least 10 dead' in high-speed collision",
-        "translated_title": "Spain train crash: 'At least 10 dead' in high-speed collision",
-        "url": "https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l",
-        "source": "Hacker News",
-        "published": "2026-10-28T09:35:21+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
-        "translated_title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
-        "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
-        "source": "Wired",
-        "published": "2026-10-28T09:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
-        "translated_title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
-        "url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
-        "source": "Engadget",
-        "published": "2026-10-28T08:40:19+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-        "translated_title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-        "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-        "source": "TechCrunch",
-        "published": "2026-10-28T05:20:32+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "iOS 27.2 brings two new features to Apple's CarPlay",
-        "translated_title": "iOS 27.2 brings two new features to Apple's CarPlay",
-        "url": "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/",
-        "source": "Engadget",
-        "published": "2026-10-28T03:51:54+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Git for the US Code",
-        "translated_title": "Git for the US Code",
-        "url": "https://lexifina.com/blog/git-for-the-us-code",
-        "source": "Hacker News",
-        "published": "2026-10-28T01:47:50+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-        "translated_title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-        "source": "TechCrunch",
-        "published": "2026-10-28T01:15:28+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Don't throw away your old Kindle — repurpose it instead",
-        "translated_title": "Don't throw away your old Kindle — repurpose it instead",
-        "url": "https://www.engadget.com/2296053/dont-throw-away-your-old-kindle-repurpose-it/",
-        "source": "Engadget",
-        "published": "2026-10-28T00:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Neil Young îl dă din nou în judecată pe Donald Trump. Artistul cere despăgubiri de 10 milioane de dolari pentru folosirea unei melodii",
-        "translated_title": "Neil Young îl dă din nou în judecată pe Donald Trump. Artistul cere despăgubiri de 10 milioane de dolari pentru folosirea unei melodii",
-        "url": "https://www.go4it.ro/content/curiozitati/neil-young-il-da-din-nou-in-judecata-pe-donald-trump-artistul-cere-despagubiri-de-10-milioane-de-dolari-pentru-folosirea-unei-melodii-19288744/",
-        "source": "Go4IT",
-        "published": "2026-10-28T10:21:50.190696+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Primul dans nu cere perfecțiune (P)",
-        "translated_title": "Primul dans nu cere perfecțiune (P)",
-        "url": "https://www.go4it.ro/content/advertorial/primul-dans-nu-cere-perfectiune-p-19288748/",
-        "source": "Go4IT",
-        "published": "2026-10-28T10:21:50.190604+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Temu intră sub monitorizarea severă a Comisiei Europene, după ce a primit o amendă usturătoare",
-        "translated_title": "Temu intră sub monitorizarea severă a Comisiei Europene, după ce a primit o amendă usturătoare",
-        "url": "https://www.go4it.ro/content/internet/tech-news/temu-intra-sub-monitorizarea-severa-a-comisiei-europene-dupa-ce-a-primit-o-amenda-usturatoare-19288741/",
-        "source": "Go4IT",
-        "published": "2026-10-28T10:21:50.190508+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Cuprul, mai valoros decât aurul? Cererea uriașă pentru AI și energie schimbă piața materiilor prime",
-        "translated_title": "Cuprul, mai valoros decât aurul? Cererea uriașă pentru AI și energie schimbă piața materiilor prime",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/cuprul-mai-valoros-decat-aurul-cererea-uriasa-pentru-ai-si-energie-schimba-piata-materiilor-prime-19288751/",
-        "source": "Go4IT",
-        "published": "2026-10-28T10:21:50.190393+00:00",
         "summary": null,
         "category": "romanian"
       }
