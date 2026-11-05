@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-05",
+    "date_formatted": "5 Noiembrie 2026",
+    "news": [
+      {
+        "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+        "translated_title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+        "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+        "source": "Wired",
+        "published": "2026-11-05T11:45:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Discord is ditching Electron and its new app uses less RAM",
+        "translated_title": "Discord is ditching Electron and its new app uses less RAM",
+        "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+        "source": "The Verge",
+        "published": "2026-11-05T11:39:42+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
+        "translated_title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
+        "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
+        "source": "Wired",
+        "published": "2026-11-05T11:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Awesome repositories are no longer awesome",
+        "translated_title": "Awesome repositories are no longer awesome",
+        "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+        "source": "Hacker News",
+        "published": "2026-11-05T11:16:51+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Playstation and Spider-Man performance see Sony profits surge",
+        "translated_title": "Playstation and Spider-Man performance see Sony profits surge",
+        "url": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation",
+        "source": "The Verge",
+        "published": "2026-11-05T11:00:15+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Amazon is getting back into restaurant delivery with Uber Eats team-up",
+        "translated_title": "Amazon is getting back into restaurant delivery with Uber Eats team-up",
+        "url": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership",
+        "source": "The Verge",
+        "published": "2026-11-05T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Big Tech’s big AI buildout will not end until someone stops it",
+        "translated_title": "Big Tech’s big AI buildout will not end until someone stops it",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+        "source": "The Verge",
+        "published": "2026-11-05T10:45:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Switch 2 sales fell by almost 40 percent after Nintendo increased prices",
+        "translated_title": "Switch 2 sales fell by almost 40 percent after Nintendo increased prices",
+        "url": "https://www.engadget.com/2307555/switch-2-sales-fell-by-almost-40-percent-nintendo-increased-prices/",
+        "source": "Engadget",
+        "published": "2026-11-05T10:44:43+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
+        "translated_title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
+        "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
+        "source": "Wired",
+        "published": "2026-11-05T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Best Smart Ring for Discreet Fitness Tracking in 2026",
+        "translated_title": "The Best Smart Ring for Discreet Fitness Tracking in 2026",
+        "url": "https://www.wired.com/story/best-smart-ring/",
+        "source": "Wired",
+        "published": "2026-11-05T10:09:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "A new bill could change how the US builds energy infrastructure",
+        "translated_title": "A new bill could change how the US builds energy infrastructure",
+        "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+        "source": "MIT Technology Review",
+        "published": "2026-11-05T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Comisia Europeană cere reguli clare pentru transparența reclamelor pe marile platforme online",
+        "translated_title": "Comisia Europeană cere reguli clare pentru transparența reclamelor pe marile platforme online",
+        "url": "https://www.go4it.ro/content/business/comisia-europeana-cere-reguli-clare-pentru-transparenta-reclamelor-pe-marile-platforme-online-19289088/",
+        "source": "Go4IT",
+        "published": "2026-11-05T11:53:21.225273+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Shein investește 500 de milioane de euro în centrul logistic din Polonia, pe fondul noilor taxe europene",
+        "translated_title": "Shein investește 500 de milioane de euro în centrul logistic din Polonia, pe fondul noilor taxe europene",
+        "url": "https://www.go4it.ro/content/business/shein-investeste-500-de-milioane-de-euro-in-centrul-logistic-din-polonia-pe-fondul-noilor-taxe-europene-19289093/",
+        "source": "Go4IT",
+        "published": "2026-11-05T11:53:21.225170+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Revolut lansează un card Audi F1 în ediție limitată. Cât costă în România și ce beneficii oferă",
+        "translated_title": "Revolut lansează un card Audi F1 în ediție limitată. Cât costă în România și ce beneficii oferă",
+        "url": "https://www.go4it.ro/content/componente-pc/revolut-lanseaza-un-card-audi-f1-in-editie-limitata-cat-costa-in-romania-si-ce-beneficii-ofera-19289109/",
+        "source": "Go4IT",
+        "published": "2026-11-05T11:53:21.225062+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Peste 1,3 milioane de dispozitive Android TV, infectate înainte de vânzare. Google acuză producătorul dispozitivelor",
+        "translated_title": "Peste 1,3 milioane de dispozitive Android TV, infectate înainte de vânzare. Google acuză producătorul dispozitivelor",
+        "url": "https://www.go4it.ro/securitate-informatica/peste-13-milioane-de-dispozitive-android-tv-infectate-inainte-de-vanzare-google-acuza-producatorul-dispozitivelor-19289097/",
+        "source": "Go4IT",
+        "published": "2026-11-05T11:53:21.224955+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-04",
     "date_formatted": "4 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/inteligenta-artificiala/microsoft-inceteaza-suportul-pentru-copilot-pe-televizoarele-inteligente-lg-pana-la-sfarsitul-anului-19288840/",
         "source": "Go4IT",
         "published": "2026-10-30T10:43:22.595266+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-29",
-    "date_formatted": "29 Octombrie 2026",
-    "news": [
-      {
-        "title": "Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy",
-        "translated_title": "Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy",
-        "url": "https://www.wired.com/review/review-hisense-ur8/",
-        "source": "Wired",
-        "published": "2026-10-29T10:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
-        "translated_title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
-        "url": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
-        "source": "Wired",
-        "published": "2026-10-29T10:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
-        "translated_title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
-        "url": "https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/",
-        "source": "Wired",
-        "published": "2026-10-29T10:15:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "We urgently need to monitor AI agents’ actions in real time",
-        "translated_title": "We urgently need to monitor AI agents’ actions in real time",
-        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-29T10:11:12+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "AI has come for Arizona’s water",
-        "translated_title": "AI has come for Arizona’s water",
-        "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-        "source": "The Verge",
-        "published": "2026-10-29T10:00:04+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Our climate models have a big, dangerous blind spot",
-        "translated_title": "Our climate models have a big, dangerous blind spot",
-        "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-29T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "I Gave My Blood to the AI Death Clock",
-        "translated_title": "I Gave My Blood to the AI Death Clock",
-        "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-        "source": "Wired",
-        "published": "2026-10-29T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Spain train crash: What we know after two trains crashed with dozens feared dead",
-        "translated_title": "Spain train crash: What we know after two trains crashed with dozens feared dead",
-        "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-        "source": "Hacker News",
-        "published": "2026-10-29T08:55:08+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
-        "translated_title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
-        "url": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
-        "source": "Hacker News",
-        "published": "2026-10-29T07:52:32+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Zero click, silent, remote Android DoS",
-        "translated_title": "Zero click, silent, remote Android DoS",
-        "url": "https://smsofdeath.com/",
-        "source": "Hacker News",
-        "published": "2026-10-29T07:08:50+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-        "translated_title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-        "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-        "source": "Hacker News",
-        "published": "2026-10-29T06:47:28+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Japonia testează roboți autonomi echipați cu drujbe pentru lucrări feroviare",
-        "translated_title": "Japonia testează roboți autonomi echipați cu drujbe pentru lucrări feroviare",
-        "url": "https://www.go4it.ro/stiati-ca/japonia-testeaza-roboti-autonomi-echipati-cu-drujbe-pentru-lucrari-feroviare-19288799/",
-        "source": "Go4IT",
-        "published": "2026-10-29T10:43:09.000646+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Discord va face conținutul de pe serverele publice disponibil pe Google și alte motoare de căutare, dar poți renunța la această opțiune",
-        "translated_title": "Discord va face conținutul de pe serverele publice disponibil pe Google și alte motoare de căutare, dar poți renunța la această opțiune",
-        "url": "https://www.go4it.ro/content/internet/tech-news/discord-va-face-continutul-de-pe-serverele-publice-disponibil-pe-google-si-alte-motoare-de-cautare-dar-poti-renunta-la-aceasta-optiune-19288802/",
-        "source": "Go4IT",
-        "published": "2026-10-29T10:43:09.000541+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Sony dezvăluie că a fost victima unui atac cibernetic care a expus 2,6 milioane de înregistrări ale clienților",
-        "translated_title": "Sony dezvăluie că a fost victima unui atac cibernetic care a expus 2,6 milioane de înregistrări ale clienților",
-        "url": "https://www.go4it.ro/content/internet/sony-dezvaluie-ca-a-fost-victima-unui-atac-cibernetic-care-a-expus-26-milioane-de-inregistrari-ale-clientilor-19288805/",
-        "source": "Go4IT",
-        "published": "2026-10-29T10:43:09.000434+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Mișcări de forțe pe piața audio: Bose achiziționează rivalul Skullcandy",
-        "translated_title": "Mișcări de forțe pe piața audio: Bose achiziționează rivalul Skullcandy",
-        "url": "https://www.go4it.ro/content/business/miscari-de-forte-pe-piata-audio-bose-achizitioneaza-rivalul-skullcandy-19288795/",
-        "source": "Go4IT",
-        "published": "2026-10-29T10:43:09.000309+00:00",
         "summary": null,
         "category": "romanian"
       }
