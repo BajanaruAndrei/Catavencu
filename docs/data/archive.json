@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-08",
+    "date_formatted": "8 Noiembrie 2026",
+    "news": [
+      {
+        "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+        "translated_title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+        "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+        "source": "Wired",
+        "published": "2026-11-08T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+        "translated_title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+        "url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
+        "source": "Wired",
+        "published": "2026-11-08T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+        "translated_title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+        "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+        "source": "Wired",
+        "published": "2026-11-08T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+        "translated_title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+        "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+        "source": "Wired",
+        "published": "2026-11-08T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "GitHub Down Again?",
+        "translated_title": "GitHub Down Again?",
+        "url": "https://github.com/torvalds/linux",
+        "source": "Hacker News",
+        "published": "2026-11-08T09:56:07+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone",
+        "translated_title": "I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone",
+        "url": "https://github.com/kobaltgit/StatCraft",
+        "source": "Hacker News",
+        "published": "2026-11-08T08:53:43+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Agent memory needs its OpenTelemetry moment",
+        "translated_title": "Agent memory needs its OpenTelemetry moment",
+        "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+        "source": "Hacker News",
+        "published": "2026-11-08T08:40:23+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "WaveDudeNext 2D Wave Simulator",
+        "translated_title": "WaveDudeNext 2D Wave Simulator",
+        "url": "https://github.com/graealex/WaveDudeNext",
+        "source": "Hacker News",
+        "published": "2026-11-08T07:09:02+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Syncing Apple Music across your devices is easier than you think",
+        "translated_title": "Syncing Apple Music across your devices is easier than you think",
+        "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+        "source": "Engadget",
+        "published": "2026-11-08T01:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program",
+        "translated_title": "Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program",
+        "url": "https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/",
+        "source": "Engadget",
+        "published": "2026-11-08T01:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How do spam callers get your number in the first place?",
+        "translated_title": "How do spam callers get your number in the first place?",
+        "url": "https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/",
+        "source": "Engadget",
+        "published": "2026-11-08T00:45:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Arme noi pentru militarii români: România accelerează deschiderea unei fabrici de armament Sig Sauer (surse)",
+        "translated_title": "Arme noi pentru militarii români: România accelerează deschiderea unei fabrici de armament Sig Sauer (surse)",
+        "url": "https://www.go4it.ro/tehnologie-militara/arme-noi-pentru-militarii-romani-romania-accelereaza-deschiderea-unei-fabrici-de-armament-sig-sauer-surse-19289190/",
+        "source": "Go4IT",
+        "published": "2026-11-08T11:03:23.314315+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Serica lansează 8315-3 „Golden Green”: GMT-ul francez inspirat de chitarele vintage Fender s-a epuizat instant",
+        "translated_title": "Serica lansează 8315-3 „Golden Green”: GMT-ul francez inspirat de chitarele vintage Fender s-a epuizat instant",
+        "url": "https://www.go4it.ro/content/accesorii/serica-lanseaza-8315-3-golden-green-gmt-ul-francez-inspirat-de-chitarele-vintage-fender-s-a-epuizat-instant-19289193/",
+        "source": "Go4IT",
+        "published": "2026-11-08T11:03:23.314226+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Cristina Cristina, DNSC: „Ne uităm la tranziția către criptografia post-cuantică nu ca la o prioritate, ci ca la o urgență”",
+        "translated_title": "Cristina Cristina, DNSC: „Ne uităm la tranziția către criptografia post-cuantică nu ca la o prioritate, ci ca la o urgență”",
+        "url": "https://www.go4it.ro/securitate-informatica/cristina-cristina-dnsc-ne-uitam-la-tranzitia-catre-criptografia-post-cuantica-nu-ca-la-o-prioritate-ci-ca-la-o-urgenta-19289160/",
+        "source": "Go4IT",
+        "published": "2026-11-08T11:03:23.314132+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Alternativa „sigură” la plasticul toxic, asociată cu riscuri pentru nou-născuți: Ce arată un studiu amplu despre substanța DINCH din ambalaje",
+        "translated_title": "Alternativa „sigură” la plasticul toxic, asociată cu riscuri pentru nou-născuți: Ce arată un studiu amplu despre substanța DINCH din ambalaje",
+        "url": "https://www.go4it.ro/content/stiinta/alternativa-sigura-la-plasticul-toxic-asociata-cu-riscuri-pentru-nou-nascuti-ce-arata-un-studiu-amplu-despre-substanta-dinch-din-ambalaje-19289200/",
+        "source": "Go4IT",
+        "published": "2026-11-08T11:03:23.314040+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-07",
     "date_formatted": "7 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/laptopuri/msi-prezinta-prestige-n16-flip-ai-un-laptop-2-in-1-cu-nvidia-rtx-spark-19288941/",
         "source": "Go4IT",
         "published": "2026-11-02T12:00:24.709636+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-01",
-    "date_formatted": "1 Noiembrie 2026",
-    "news": [
-      {
-        "title": "7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating",
-        "translated_title": "7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating",
-        "url": "https://www.wired.com/story/the-best-travel-mugs/",
-        "source": "Wired",
-        "published": "2026-11-01T10:31:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-        "translated_title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-        "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-        "source": "Wired",
-        "published": "2026-11-01T10:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A tiny Pacific country rolls out universal basic income",
-        "translated_title": "A tiny Pacific country rolls out universal basic income",
-        "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
-        "source": "Hacker News",
-        "published": "2026-11-01T10:05:09+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch",
-        "translated_title": "Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch",
-        "url": "https://www.wired.com/story/best-chromebooks/",
-        "source": "Wired",
-        "published": "2026-11-01T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look",
-        "translated_title": "A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look",
-        "url": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/",
-        "source": "Wired",
-        "published": "2026-11-01T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "OpenIDEA: The IDE you know, rebuilt in Rust",
-        "translated_title": "OpenIDEA: The IDE you know, rebuilt in Rust",
-        "url": "https://github.com/l0ng-ai/openidea",
-        "source": "Hacker News",
-        "published": "2026-11-01T09:15:26+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Pac-Man's Siren Call",
-        "translated_title": "Pac-Man's Siren Call",
-        "url": "https://unsung.aresluna.org/pac-mans-siren-call/",
-        "source": "Hacker News",
-        "published": "2026-11-01T06:29:49+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The AI cost of JavaScript frameworks",
-        "translated_title": "The AI cost of JavaScript frameworks",
-        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-        "source": "Hacker News",
-        "published": "2026-11-01T06:06:19+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Data centers are now a midterm issue, even in Brooklyn",
-        "translated_title": "Data centers are now a midterm issue, even in Brooklyn",
-        "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-        "source": "TechCrunch",
-        "published": "2026-11-01T02:22:10+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "5 expensive hobbies where owning a 3D printer actually saves you money",
-        "translated_title": "5 expensive hobbies where owning a 3D printer actually saves you money",
-        "url": "https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/",
-        "source": "Engadget",
-        "published": "2026-11-01T00:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Amazon made the AUX input on older Alexa devices less useful",
-        "translated_title": "Amazon made the AUX input on older Alexa devices less useful",
-        "url": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
-        "source": "Engadget",
-        "published": "2026-11-01T00:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "VIDEO: Doi astronauți au petrecut peste șapte ore în afara Stației Spațiale Internaționale. Care a fost motivul",
-        "translated_title": "VIDEO: Doi astronauți au petrecut peste șapte ore în afara Stației Spațiale Internaționale. Care a fost motivul",
-        "url": "https://www.go4it.ro/content/internet/tech-news/video-doi-astronauti-au-petrecut-peste-sapte-ore-in-afara-statiei-spatiale-internationale-care-a-fost-motivul-19288902/",
-        "source": "Go4IT",
-        "published": "2026-11-01T11:02:29.124183+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "BYD anunță investiții masive în infrastructura de încărcare ultrarapidă din România și caută furnizori locali",
-        "translated_title": "BYD anunță investiții masive în infrastructura de încărcare ultrarapidă din România și caută furnizori locali",
-        "url": "https://www.go4it.ro/content/auto/byd-anunta-investitii-masive-in-infrastructura-de-incarcare-ultrarapida-din-romania-si-cauta-furnizori-locali-19288905/",
-        "source": "Go4IT",
-        "published": "2026-11-01T11:02:29.124079+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Papa Leon al XIV-lea avertizează că deciziile capitale nu ar trebui delegate niciodată inteligenței artificiale",
-        "translated_title": "Papa Leon al XIV-lea avertizează că deciziile capitale nu ar trebui delegate niciodată inteligenței artificiale",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/papa-leon-al-xiv-lea-avertizeaza-ca-deciziile-capitale-nu-ar-trebui-delegate-niciodata-inteligentei-artificiale-19288907/",
-        "source": "Go4IT",
-        "published": "2026-11-01T11:02:29.123968+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "OpenAI introduce restricții severe pe ChatGPT privind armele și monitorizarea conversațiilor violente",
-        "translated_title": "OpenAI introduce restricții severe pe ChatGPT privind armele și monitorizarea conversațiilor violente",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/openai-introduce-restrictii-severe-pe-chatgpt-privind-armele-si-monitorizarea-conversatiilor-violente-19288909/",
-        "source": "Go4IT",
-        "published": "2026-11-01T11:02:29.123844+00:00",
         "summary": null,
         "category": "romanian"
       }
