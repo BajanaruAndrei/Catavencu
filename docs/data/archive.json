@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-09",
+    "date_formatted": "9 Noiembrie 2026",
+    "news": [
+      {
+        "title": "Instagram’s AI age detection is expanding globally",
+        "translated_title": "Instagram’s AI age detection is expanding globally",
+        "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+        "source": "The Verge",
+        "published": "2026-11-09T12:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
+        "translated_title": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
+        "url": "https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/",
+        "source": "Wired",
+        "published": "2026-11-09T12:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing",
+        "translated_title": "New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing",
+        "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
+        "source": "Wired",
+        "published": "2026-11-09T12:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Tesla expands robotaxi service to San Antonio",
+        "translated_title": "Tesla expands robotaxi service to San Antonio",
+        "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+        "source": "TechCrunch",
+        "published": "2026-11-09T11:30:24+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
+        "translated_title": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
+        "url": "https://www.wired.com/story/the-midterms-were-a-pretty-good-sign-for-right-to-repair/",
+        "source": "Wired",
+        "published": "2026-11-09T11:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Scientists May Have Discovered a Massive Starless Galaxy",
+        "translated_title": "Scientists May Have Discovered a Massive Starless Galaxy",
+        "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+        "source": "Wired",
+        "published": "2026-11-09T11:15:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Torrent underground",
+        "translated_title": "Torrent underground",
+        "url": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
+        "source": "The Verge",
+        "published": "2026-11-09T11:00:05+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+        "translated_title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+        "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+        "source": "Hacker News",
+        "published": "2026-11-09T10:11:47+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The climate case for AI has not been made",
+        "translated_title": "The climate case for AI has not been made",
+        "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+        "source": "MIT Technology Review",
+        "published": "2026-11-09T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ask HN: Do you still enjoy coding in C++?",
+        "translated_title": "Ask HN: Do you still enjoy coding in C++?",
+        "url": "https://news.ycombinator.com/item?id=50423371",
+        "source": "Hacker News",
+        "published": "2026-11-09T09:50:03+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+        "translated_title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+        "url": "https://news.ycombinator.com/item?id=50422628",
+        "source": "Hacker News",
+        "published": "2026-11-09T08:17:49+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Avionul european de generație 4.5 care se vinde „ca pâinea caldă” în era F-35",
+        "translated_title": "Avionul european de generație 4.5 care se vinde „ca pâinea caldă” în era F-35",
+        "url": "https://www.go4it.ro/tehnologie-militara/avionul-european-de-generatie-4-5-care-se-vinde-ca-painea-calda-in-era-f-35-19289207/",
+        "source": "Go4IT",
+        "published": "2026-11-09T12:33:12.220234+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Cameră ascunsă sub televizor, descoperită de doi turiști într-un hotel din Tokyo: Cum a reacționat poliția",
+        "translated_title": "Cameră ascunsă sub televizor, descoperită de doi turiști într-un hotel din Tokyo: Cum a reacționat poliția",
+        "url": "https://www.go4it.ro/securitate-informatica/camera-ascunsa-sub-televizor-descoperita-de-doi-turisti-intr-un-hotel-din-tokyo-cum-a-reactionat-politia-19289229/",
+        "source": "Go4IT",
+        "published": "2026-11-09T12:33:12.220035+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Salvare după 500 de zile de captivitate: Cum a cerut ajutor o adolescentă prin jocul Among Us",
+        "translated_title": "Salvare după 500 de zile de captivitate: Cum a cerut ajutor o adolescentă prin jocul Among Us",
+        "url": "https://www.go4it.ro/securitate-informatica/salvare-dupa-500-de-zile-de-captivitate-cum-a-cerut-ajutor-o-adolescenta-prin-jocul-among-us-19289217/",
+        "source": "Go4IT",
+        "published": "2026-11-09T12:33:12.219849+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Cât va ocupa GTA VI pe console? Când începe descărcarea în România",
+        "translated_title": "Cât va ocupa GTA VI pe console? Când începe descărcarea în România",
+        "url": "https://www.go4it.ro/content/jocuri/cat-va-ocupa-gta-vi-pe-console-cand-incepe-descarcarea-in-romania-19289233/",
+        "source": "Go4IT",
+        "published": "2026-11-09T12:33:12.219606+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-08",
     "date_formatted": "8 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/securitate-informatica/dnsc-demareaza-o-serie-nationala-de-workshopuri-dedicate-directivei-nis2-calendarul-evenimentelor-19288981/",
         "source": "Go4IT",
         "published": "2026-11-03T11:38:39.771911+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-02",
-    "date_formatted": "2 Noiembrie 2026",
-    "news": [
-      {
-        "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
-        "translated_title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
-        "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
-        "source": "Wired",
-        "published": "2026-11-02T11:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple is reportedly launching three new iPads early next year",
-        "translated_title": "Apple is reportedly launching three new iPads early next year",
-        "url": "https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year/",
-        "source": "Engadget",
-        "published": "2026-11-02T11:12:11+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
-        "translated_title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
-        "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
-        "source": "TechCrunch",
-        "published": "2026-11-02T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "My Journey to the Center of America’s Political Spam Text Hell",
-        "translated_title": "My Journey to the Center of America’s Political Spam Text Hell",
-        "url": "https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/",
-        "source": "Wired",
-        "published": "2026-11-02T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "4 Best Alexa Speakers I’ve Tested (2026)",
-        "translated_title": "4 Best Alexa Speakers I’ve Tested (2026)",
-        "url": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/",
-        "source": "Wired",
-        "published": "2026-11-02T10:07:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-        "translated_title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-        "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-        "source": "Wired",
-        "published": "2026-11-02T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The agentic web is here",
-        "translated_title": "The agentic web is here",
-        "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-        "source": "MIT Technology Review",
-        "published": "2026-11-02T09:35:19+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Show HN: I've updated my Linux System Call website and API",
-        "translated_title": "Show HN: I've updated my Linux System Call website and API",
-        "url": "https://syscall.sh/",
-        "source": "Hacker News",
-        "published": "2026-11-02T09:29:16+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-        "translated_title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-        "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
-        "source": "Hacker News",
-        "published": "2026-11-02T07:27:28+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
-        "translated_title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
-        "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
-        "source": "Hacker News",
-        "published": "2026-11-02T06:39:42+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-        "translated_title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-        "url": "https://wikihack.netlify.app",
-        "source": "Hacker News",
-        "published": "2026-11-02T05:06:30+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Noua colaborare Seiko x Mazda redefinește ceasurile inspirate din lumea auto",
-        "translated_title": "Noua colaborare Seiko x Mazda redefinește ceasurile inspirate din lumea auto",
-        "url": "https://www.go4it.ro/content/accesorii/noua-colaborare-seiko-x-mazda-redefineste-ceasurile-inspirate-din-lumea-auto-19288931/",
-        "source": "Go4IT",
-        "published": "2026-11-02T12:00:24.710223+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "„Manosfera” în vizorul medicilor: aceste comunități online afectează grav sănătatea băieților și a bărbaților",
-        "translated_title": "„Manosfera” în vizorul medicilor: aceste comunități online afectează grav sănătatea băieților și a bărbaților",
-        "url": "https://www.go4it.ro/content/internet/manosfera-in-vizorul-medicilor-aceste-comunitati-online-afecteaza-grav-sanatatea-baietilor-si-a-barbatilor-19288929/",
-        "source": "Go4IT",
-        "published": "2026-11-02T12:00:24.709998+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Stomatologia, într-o nouă eră de tehnologizare. Cum schimbă inteligența artificială modul în care mergem la dentist",
-        "translated_title": "Stomatologia, într-o nouă eră de tehnologizare. Cum schimbă inteligența artificială modul în care mergem la dentist",
-        "url": "https://www.go4it.ro/content/inteligenta-artificiala/stomatologia-intr-o-noua-era-de-tehnologizare-cum-schimba-inteligenta-artificiala-modul-in-care-mergem-la-dentist-19288938/",
-        "source": "Go4IT",
-        "published": "2026-11-02T12:00:24.709816+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "MSI prezintă Prestige N16 Flip AI+: un laptop 2-în-1 cu NVIDIA RTX Spark",
-        "translated_title": "MSI prezintă Prestige N16 Flip AI+: un laptop 2-în-1 cu NVIDIA RTX Spark",
-        "url": "https://www.go4it.ro/content/laptopuri/msi-prezinta-prestige-n16-flip-ai-un-laptop-2-in-1-cu-nvidia-rtx-spark-19288941/",
-        "source": "Go4IT",
-        "published": "2026-11-02T12:00:24.709636+00:00",
         "summary": null,
         "category": "romanian"
       }
