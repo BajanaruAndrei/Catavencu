@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-11",
+    "date_formatted": "11 Noiembrie 2026",
+    "news": [
+      {
+        "title": "Best OLED TVs of 2026: LG, Samsung, Sony, and More",
+        "translated_title": "Best OLED TVs of 2026: LG, Samsung, Sony, and More",
+        "url": "https://www.wired.com/story/best-oled-tv/",
+        "source": "Wired",
+        "published": "2026-11-11T11:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
+        "translated_title": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
+        "url": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
+        "source": "Wired",
+        "published": "2026-11-11T11:15:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Best Air Purifiers (2026): Tested Picks for Every Room",
+        "translated_title": "Best Air Purifiers (2026): Tested Picks for Every Room",
+        "url": "https://www.wired.com/gallery/best-air-purifiers/",
+        "source": "Wired",
+        "published": "2026-11-11T11:02:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+        "translated_title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+        "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+        "source": "Wired",
+        "published": "2026-11-11T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Apple is shutting down its online Support Community on November 20",
+        "translated_title": "Apple is shutting down its online Support Community on November 20",
+        "url": "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/",
+        "source": "Engadget",
+        "published": "2026-11-11T10:52:59+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Lucid CEO says the company didn't know where its own cars were",
+        "translated_title": "Lucid CEO says the company didn't know where its own cars were",
+        "url": "https://www.engadget.com/2313113/lucid-q3-2026-losing-cars/",
+        "source": "Engadget",
+        "published": "2026-11-11T09:56:03+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+        "translated_title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+        "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+        "source": "TechCrunch",
+        "published": "2026-11-11T07:30:51+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Samsung Gallery now syncs with Google to back up your photos",
+        "translated_title": "Samsung Gallery now syncs with Google to back up your photos",
+        "url": "https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/",
+        "source": "Engadget",
+        "published": "2026-11-11T06:47:17+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+        "translated_title": "Greg Kurtzer's Ginux is now a userspace kernel",
+        "url": "https://github.com/gmkurtzer/ginux",
+        "source": "Hacker News",
+        "published": "2026-11-11T05:25:54+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+        "translated_title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+        "url": "https://github.com/adrbn/bo2-mac",
+        "source": "Hacker News",
+        "published": "2026-11-11T04:56:47+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Protecting SSH Keys with macOS Secure Enclave",
+        "translated_title": "Protecting SSH Keys with macOS Secure Enclave",
+        "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+        "source": "Hacker News",
+        "published": "2026-11-11T04:28:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Parlamentul European vizează restructurarea Fondului European pentru Competitivitate, de peste 230 mld. euro: accent pe tehnologie, apărare și securitate energetică",
+        "translated_title": "Parlamentul European vizează restructurarea Fondului European pentru Competitivitate, de peste 230 mld. euro: accent pe tehnologie, apărare și securitate energetică",
+        "url": "https://www.go4it.ro/content/business/parlamentul-european-vizeaza-restructurarea-fondului-european-pentru-competitivitate-de-peste-230-mld-euro-pentru-ciclul-2028-2034-accent-strategic-pe-tehnologie-aparare-si-securitate-energetica-19289342/",
+        "source": "Go4IT",
+        "published": "2026-11-11T11:41:25.892229+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Pajiștile din Cluj și Bistrița-Năsăud, monitorizate cu sateliți într-un proiect european de 8 milioane de euro",
+        "translated_title": "Pajiștile din Cluj și Bistrița-Năsăud, monitorizate cu sateliți într-un proiect european de 8 milioane de euro",
+        "url": "https://www.go4it.ro/content/anunturi/pajistile-din-cluj-si-bistrita-nasaud-monitorizate-cu-sateliti-intr-un-proiect-european-de-8-milioane-de-euro-19289338/",
+        "source": "Go4IT",
+        "published": "2026-11-11T11:41:25.892048+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Un senator republican cere plecarea lui Jensen Huang de la conducerea NVIDIA, invocând riscuri de securitate",
+        "translated_title": "Un senator republican cere plecarea lui Jensen Huang de la conducerea NVIDIA, invocând riscuri de securitate",
+        "url": "https://www.go4it.ro/securitate-informatica/un-senator-republican-cere-plecarea-lui-jensen-huang-de-la-conducerea-nvidia-invocand-riscuri-de-securitate-19289341/",
+        "source": "Go4IT",
+        "published": "2026-11-11T11:41:25.891860+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Român acuzat în Islanda de implicare într-o operațiune de extragere a 106 kilograme de cocaină din mare. El este „cărăușul” tehnologiei necesare",
+        "translated_title": "Român acuzat în Islanda de implicare într-o operațiune de extragere a 106 kilograme de cocaină din mare. El este „cărăușul” tehnologiei necesare",
+        "url": "https://www.go4it.ro/content/curiozitati/roman-acuzat-in-islanda-de-implicare-intr-o-operatiune-de-extragere-a-106-kilograme-de-cocaina-din-mare-el-este-carausul-tehnologiei-necesare-19289371/",
+        "source": "Go4IT",
+        "published": "2026-11-11T11:41:25.891630+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-10",
     "date_formatted": "10 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/securitate-informatica/peste-13-milioane-de-dispozitive-android-tv-infectate-inainte-de-vanzare-google-acuza-producatorul-dispozitivelor-19289097/",
         "source": "Go4IT",
         "published": "2026-11-05T11:53:21.224955+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-04",
-    "date_formatted": "4 Noiembrie 2026",
-    "news": [
-      {
-        "title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
-        "translated_title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
-        "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
-        "source": "Wired",
-        "published": "2026-11-04T11:36:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
-        "translated_title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
-        "url": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
-        "source": "Hacker News",
-        "published": "2026-11-04T11:02:23+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple Music's upcoming feature will let you record yourself doing karaoke",
-        "translated_title": "Apple Music's upcoming feature will let you record yourself doing karaoke",
-        "url": "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/",
-        "source": "Engadget",
-        "published": "2026-11-04T11:02:04+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Legend of Zelda: Ocarina of Time never gets old",
-        "translated_title": "The Legend of Zelda: Ocarina of Time never gets old",
-        "url": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2",
-        "source": "The Verge",
-        "published": "2026-11-04T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More",
-        "translated_title": "Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More",
-        "url": "https://www.wired.com/story/best-wireless-earbuds/",
-        "source": "Wired",
-        "published": "2026-11-04T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "New Jersey’s New Ebike Law Is Causing Chaos",
-        "translated_title": "New Jersey’s New Ebike Law Is Causing Chaos",
-        "url": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/",
-        "source": "Wired",
-        "published": "2026-11-04T10:45:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "What’s the Difference Between an Ebike and an E-Moto?",
-        "translated_title": "What’s the Difference Between an Ebike and an E-Moto?",
-        "url": "https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/",
-        "source": "Wired",
-        "published": "2026-11-04T10:45:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
-        "translated_title": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
-        "url": "https://github.com/openai/codex/issues/59060",
-        "source": "Hacker News",
-        "published": "2026-11-04T10:43:51+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-        "translated_title": "Geoffrey Hinton: it might turn out we were better off without AI",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-        "source": "Hacker News",
-        "published": "2026-11-04T10:23:34+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-        "translated_title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-        "url": "https://news.ycombinator.com/item?id=50363461",
-        "source": "Hacker News",
-        "published": "2026-11-04T10:10:27+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Valve just changed its Steam release rules amid a flood of AI games",
-        "translated_title": "Valve just changed its Steam release rules amid a flood of AI games",
-        "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
-        "source": "Engadget",
-        "published": "2026-11-04T08:28:09+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Un „microfon” pentru fiecare neuron: sonda microscopică din siliciu testată acum în timpul operațiilor pe creier",
-        "translated_title": "Un „microfon” pentru fiecare neuron: sonda microscopică din siliciu testată acum în timpul operațiilor pe creier",
-        "url": "https://www.go4it.ro/content/stiinta/un-microfon-pentru-fiecare-neuron-sonda-microscopica-din-siliciu-testata-acum-in-timpul-operatiilor-pe-creier-19289038/",
-        "source": "Go4IT",
-        "published": "2026-11-04T11:52:05.464006+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Produse mai ușor de reparat în UE: Comisia Europeană consultă publicul pentru noile reguli de proiectare ecologică",
-        "translated_title": "Produse mai ușor de reparat în UE: Comisia Europeană consultă publicul pentru noile reguli de proiectare ecologică",
-        "url": "https://www.go4it.ro/content/business/produse-mai-usor-de-reparat-in-ue-comisia-europeana-consulta-publicul-pentru-noile-reguli-de-proiectare-ecologica-19289030/",
-        "source": "Go4IT",
-        "published": "2026-11-04T11:52:05.463844+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Europol: peste 9.000 de link-uri către conținut extremist, semnalate pe platforme de socializare și de gaming",
-        "translated_title": "Europol: peste 9.000 de link-uri către conținut extremist, semnalate pe platforme de socializare și de gaming",
-        "url": "https://www.go4it.ro/content/internet/europol-peste-9-000-de-link-uri-catre-continut-extremist-semnalate-pe-platforme-de-socializare-si-de-gaming-19289033/",
-        "source": "Go4IT",
-        "published": "2026-11-04T11:52:05.463688+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Binance explică cum s-a produs atacul cibernetic de 6,3 miliarde de dolari. Compania promite să acopere pierderile",
-        "translated_title": "Binance explică cum s-a produs atacul cibernetic de 6,3 miliarde de dolari. Compania promite să acopere pierderile",
-        "url": "https://www.go4it.ro/content/fintech/binance-explica-cum-s-a-produs-atacul-cibernetic-de-63-miliarde-de-dolari-compania-promite-sa-acopere-pierderile-19289041/",
-        "source": "Go4IT",
-        "published": "2026-11-04T11:52:05.463517+00:00",
         "summary": null,
         "category": "romanian"
       }
