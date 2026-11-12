@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-12",
+    "date_formatted": "12 Noiembrie 2026",
+    "news": [
+      {
+        "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
+        "translated_title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
+        "url": "https://www.wired.com/story/best-open-earbuds/",
+        "source": "Wired",
+        "published": "2026-11-12T12:02:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Anthropic IPO",
+        "translated_title": "Anthropic IPO",
+        "url": "https://ipo.anthropic.com/us/",
+        "source": "Hacker News",
+        "published": "2026-11-12T11:46:41+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online",
+        "translated_title": "You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online",
+        "url": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online/",
+        "source": "Wired",
+        "published": "2026-11-12T11:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Nintendo is ending Google and Apple sign-ins early next year",
+        "translated_title": "Nintendo is ending Google and Apple sign-ins early next year",
+        "url": "https://www.engadget.com/2314515/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/",
+        "source": "Engadget",
+        "published": "2026-11-12T11:19:46+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+        "translated_title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+        "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+        "source": "The Verge",
+        "published": "2026-11-12T11:12:32+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Code Smells of Desperation (2023)",
+        "translated_title": "Code Smells of Desperation (2023)",
+        "url": "https://www.os2museum.com/wp/this-code-smells-of-desperation/",
+        "source": "Hacker News",
+        "published": "2026-11-12T10:37:47+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+        "translated_title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+        "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+        "source": "Wired",
+        "published": "2026-11-12T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Why Writing Correct Software Is Hard",
+        "translated_title": "Why Writing Correct Software Is Hard",
+        "url": "https://pron.github.io/posts/correctness-and-complexity",
+        "source": "Hacker News",
+        "published": "2026-11-12T10:28:26+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+        "translated_title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+        "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+        "source": "Wired",
+        "published": "2026-11-12T10:15:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+        "translated_title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+        "url": "https://www.getlazarus.org/forums/topic/17/",
+        "source": "Hacker News",
+        "published": "2026-11-12T05:49:34+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "translated_title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+        "source": "TechCrunch",
+        "published": "2026-11-12T03:13:10+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "ANCOM lansează un ghid pentru protejarea rețelelor de fibră optică, după ce 220 de cabluri secționate au afectat servicii critice în 2025",
+        "translated_title": "ANCOM lansează un ghid pentru protejarea rețelelor de fibră optică, după ce 220 de cabluri secționate au afectat servicii critice în 2025",
+        "url": "https://www.go4it.ro/content/telecomunicatii/ancom-lanseaza-un-ghid-pentru-protejarea-retelelor-de-fibra-optica-dupa-ce-220-de-cabluri-sectionate-au-afectat-servicii-critice-in-2025-19289395/",
+        "source": "Go4IT",
+        "published": "2026-11-12T12:13:04.270421+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "SRI anunță că un grup de hackeri legat de FSB a lansat un atac cibernetic asupra unei instituții guvernamentale din România",
+        "translated_title": "SRI anunță că un grup de hackeri legat de FSB a lansat un atac cibernetic asupra unei instituții guvernamentale din România",
+        "url": "https://www.go4it.ro/securitate-informatica/sri-anunta-ca-un-grup-de-hackeri-legat-de-fsb-a-lansat-un-atac-cibernetic-asupra-unei-institutii-guvernamentale-din-romania-19289405/",
+        "source": "Go4IT",
+        "published": "2026-11-12T12:13:04.270218+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Comisia Europeană înăsprește regulile pentru marile platforme online în alegeri: etichetare obligatorie pentru deepfake-uri și verificarea algoritmilor",
+        "translated_title": "Comisia Europeană înăsprește regulile pentru marile platforme online în alegeri: etichetare obligatorie pentru deepfake-uri și verificarea algoritmilor",
+        "url": "https://www.go4it.ro/content/internet/comisia-europeana-inaspreste-regulile-pentru-marile-platforme-online-in-alegeri-etichetare-obligatorie-pentru-deepfake-uri-si-verificarea-algoritmilor-19289398/",
+        "source": "Go4IT",
+        "published": "2026-11-12T12:13:04.270012+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Kaufland oferă trei scule PARKSIDE la prețuri de sub 100 lei",
+        "translated_title": "Kaufland oferă trei scule PARKSIDE la prețuri de sub 100 lei",
+        "url": "https://www.go4it.ro/oferte-din-magazine/kaufland-ofera-trei-scule-parkside-la-preturi-de-sub-100-lei-19289408/",
+        "source": "Go4IT",
+        "published": "2026-11-12T12:13:04.269829+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-11",
     "date_formatted": "11 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/anunturi/elon-musk-prima-tinta-a-unei-grupari-clandestine-care-a-pornit-o-campanie-impotriva-miliardarilor-implicati-politic-19289102/",
         "source": "Go4IT",
         "published": "2026-11-06T11:50:02.656959+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-05",
-    "date_formatted": "5 Noiembrie 2026",
-    "news": [
-      {
-        "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-        "translated_title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-        "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-        "source": "Wired",
-        "published": "2026-11-05T11:45:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Discord is ditching Electron and its new app uses less RAM",
-        "translated_title": "Discord is ditching Electron and its new app uses less RAM",
-        "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-        "source": "The Verge",
-        "published": "2026-11-05T11:39:42+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
-        "translated_title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
-        "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
-        "source": "Wired",
-        "published": "2026-11-05T11:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Awesome repositories are no longer awesome",
-        "translated_title": "Awesome repositories are no longer awesome",
-        "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
-        "source": "Hacker News",
-        "published": "2026-11-05T11:16:51+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Playstation and Spider-Man performance see Sony profits surge",
-        "translated_title": "Playstation and Spider-Man performance see Sony profits surge",
-        "url": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation",
-        "source": "The Verge",
-        "published": "2026-11-05T11:00:15+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Amazon is getting back into restaurant delivery with Uber Eats team-up",
-        "translated_title": "Amazon is getting back into restaurant delivery with Uber Eats team-up",
-        "url": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership",
-        "source": "The Verge",
-        "published": "2026-11-05T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Big Tech’s big AI buildout will not end until someone stops it",
-        "translated_title": "Big Tech’s big AI buildout will not end until someone stops it",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-        "source": "The Verge",
-        "published": "2026-11-05T10:45:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Switch 2 sales fell by almost 40 percent after Nintendo increased prices",
-        "translated_title": "Switch 2 sales fell by almost 40 percent after Nintendo increased prices",
-        "url": "https://www.engadget.com/2307555/switch-2-sales-fell-by-almost-40-percent-nintendo-increased-prices/",
-        "source": "Engadget",
-        "published": "2026-11-05T10:44:43+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
-        "translated_title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
-        "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
-        "source": "Wired",
-        "published": "2026-11-05T10:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Best Smart Ring for Discreet Fitness Tracking in 2026",
-        "translated_title": "The Best Smart Ring for Discreet Fitness Tracking in 2026",
-        "url": "https://www.wired.com/story/best-smart-ring/",
-        "source": "Wired",
-        "published": "2026-11-05T10:09:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A new bill could change how the US builds energy infrastructure",
-        "translated_title": "A new bill could change how the US builds energy infrastructure",
-        "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-        "source": "MIT Technology Review",
-        "published": "2026-11-05T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Comisia Europeană cere reguli clare pentru transparența reclamelor pe marile platforme online",
-        "translated_title": "Comisia Europeană cere reguli clare pentru transparența reclamelor pe marile platforme online",
-        "url": "https://www.go4it.ro/content/business/comisia-europeana-cere-reguli-clare-pentru-transparenta-reclamelor-pe-marile-platforme-online-19289088/",
-        "source": "Go4IT",
-        "published": "2026-11-05T11:53:21.225273+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Shein investește 500 de milioane de euro în centrul logistic din Polonia, pe fondul noilor taxe europene",
-        "translated_title": "Shein investește 500 de milioane de euro în centrul logistic din Polonia, pe fondul noilor taxe europene",
-        "url": "https://www.go4it.ro/content/business/shein-investeste-500-de-milioane-de-euro-in-centrul-logistic-din-polonia-pe-fondul-noilor-taxe-europene-19289093/",
-        "source": "Go4IT",
-        "published": "2026-11-05T11:53:21.225170+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Revolut lansează un card Audi F1 în ediție limitată. Cât costă în România și ce beneficii oferă",
-        "translated_title": "Revolut lansează un card Audi F1 în ediție limitată. Cât costă în România și ce beneficii oferă",
-        "url": "https://www.go4it.ro/content/componente-pc/revolut-lanseaza-un-card-audi-f1-in-editie-limitata-cat-costa-in-romania-si-ce-beneficii-ofera-19289109/",
-        "source": "Go4IT",
-        "published": "2026-11-05T11:53:21.225062+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Peste 1,3 milioane de dispozitive Android TV, infectate înainte de vânzare. Google acuză producătorul dispozitivelor",
-        "translated_title": "Peste 1,3 milioane de dispozitive Android TV, infectate înainte de vânzare. Google acuză producătorul dispozitivelor",
-        "url": "https://www.go4it.ro/securitate-informatica/peste-13-milioane-de-dispozitive-android-tv-infectate-inainte-de-vanzare-google-acuza-producatorul-dispozitivelor-19289097/",
-        "source": "Go4IT",
-        "published": "2026-11-05T11:53:21.224955+00:00",
         "summary": null,
         "category": "romanian"
       }
