@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-13",
+    "date_formatted": "13 Noiembrie 2026",
+    "news": [
+      {
+        "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+        "translated_title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+        "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+        "source": "Wired",
+        "published": "2026-11-13T11:45:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Europe's electric car sales jump 49% as global EV sales grow",
+        "translated_title": "Europe's electric car sales jump 49% as global EV sales grow",
+        "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+        "source": "Hacker News",
+        "published": "2026-11-13T11:34:25+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Even Black Friday Will Be More Expensive Than Usual",
+        "translated_title": "Even Black Friday Will Be More Expensive Than Usual",
+        "url": "https://www.wired.com/story/even-black-friday-2026-will-be-more-expensive-than-usual/",
+        "source": "Wired",
+        "published": "2026-11-13T11:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next",
+        "translated_title": "‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next",
+        "url": "https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/",
+        "source": "Wired",
+        "published": "2026-11-13T11:15:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Inside the 42-Year Journey to Bring ‘Neuromancer’ to the Screen",
+        "translated_title": "Inside the 42-Year Journey to Bring ‘Neuromancer’ to the Screen",
+        "url": "https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/",
+        "source": "Wired",
+        "published": "2026-11-13T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Claude Is Down",
+        "translated_title": "Claude Is Down",
+        "url": "https://status.claude.com/history",
+        "source": "Hacker News",
+        "published": "2026-11-13T10:20:09+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+        "translated_title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+        "url": "https://status.claude.com/incidents/nn11wk485zfn",
+        "source": "Hacker News",
+        "published": "2026-11-13T10:18:13+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+        "translated_title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+        "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+        "source": "MIT Technology Review",
+        "published": "2026-11-13T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+        "translated_title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+        "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+        "source": "MIT Technology Review",
+        "published": "2026-11-13T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Dawn of the Data Intelligence Engineer",
+        "translated_title": "The Dawn of the Data Intelligence Engineer",
+        "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+        "source": "Hacker News",
+        "published": "2026-11-13T09:08:18+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "BYD admits wheel assembly error on its flagship electric SUV",
+        "translated_title": "BYD admits wheel assembly error on its flagship electric SUV",
+        "url": "https://www.engadget.com/2315638/byd-wheel-assembly-error-great-tang-electric-suv/",
+        "source": "Engadget",
+        "published": "2026-11-13T08:12:48+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Cum poate un simplu frigider inteligent, exploatat cu ajutorul AI, să blocheze complet activitatea unui magazin. Reprezentant Thales: „Este ca și cum ai lăsa fereastra casei deschisă”",
+        "translated_title": "Cum poate un simplu frigider inteligent, exploatat cu ajutorul AI, să blocheze complet activitatea unui magazin. Reprezentant Thales: „Este ca și cum ai lăsa fereastra casei deschisă”",
+        "url": "https://www.go4it.ro/securitate-informatica/cum-poate-un-simplu-frigider-inteligent-exploatat-cu-ajutorul-ai-sa-blocheze-complet-activitatea-unui-magazin-reprezentant-thales-este-ca-si-cum-ai-lasa-fereastra-casei-deschisa-19289454/",
+        "source": "Go4IT",
+        "published": "2026-11-13T11:52:31.400583+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Ofertă de Black Friday la Auchan: Televizorul Smart TCL Mini LED de 164 cm, disponibil cu o reducere de 21%. Preț mult sub eMAG și Flanco",
+        "translated_title": "Ofertă de Black Friday la Auchan: Televizorul Smart TCL Mini LED de 164 cm, disponibil cu o reducere de 21%. Preț mult sub eMAG și Flanco",
+        "url": "https://www.go4it.ro/oferte-din-magazine/oferta-de-black-friday-la-auchan-televizorul-smart-tcl-mini-led-de-164-cm-disponibil-cu-o-reducere-de-21-pret-mult-sub-emag-si-flanco-19289464/",
+        "source": "Go4IT",
+        "published": "2026-11-13T11:52:31.400473+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Cetățenii europeni susțin în proporție covârșitoare crearea unei armate a UE, arată un sondaj. Sprijinul a fost cel mai ridicat în România",
+        "translated_title": "Cetățenii europeni susțin în proporție covârșitoare crearea unei armate a UE, arată un sondaj. Sprijinul a fost cel mai ridicat în România",
+        "url": "https://www.go4it.ro/tehnologie-militara/cetatenii-europeni-sustin-in-proportie-covarsitoare-crearea-unei-armate-a-ue-arata-un-sondaj-sprijinul-a-fost-cel-mai-ridicat-in-romania-19289468/",
+        "source": "Go4IT",
+        "published": "2026-11-13T11:52:31.400340+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Gadget-uri pentru copii: cinci posibile cadouri de la Lidl",
+        "translated_title": "Gadget-uri pentru copii: cinci posibile cadouri de la Lidl",
+        "url": "https://www.go4it.ro/oferte-din-magazine/gadget-uri-pentru-copii-cinci-posibile-cadouri-de-la-lidl-19289476/",
+        "source": "Go4IT",
+        "published": "2026-11-13T11:52:31.400233+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-12",
     "date_formatted": "12 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/securitate-informatica/alerta-de-securitate-cibernetica-dispozitivele-nas-synology-atacate-de-hackeri-cum-va-puteti-proteja-datele-19289170/",
         "source": "Go4IT",
         "published": "2026-11-07T10:53:18.707675+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-06",
-    "date_formatted": "6 Noiembrie 2026",
-    "news": [
-      {
-        "title": "Kitchen Composters I Recommend After 2 Years of Testing (2026)",
-        "translated_title": "Kitchen Composters I Recommend After 2 Years of Testing (2026)",
-        "url": "https://www.wired.com/story/home-composters-buying-guide/",
-        "source": "Wired",
-        "published": "2026-11-06T11:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "10 Best Subscription Boxes for Kids (2026): STEM, Books, Clothes, Snacks, and More",
-        "translated_title": "10 Best Subscription Boxes for Kids (2026): STEM, Books, Clothes, Snacks, and More",
-        "url": "https://www.wired.com/gallery/best-subscription-boxes-for-kids/",
-        "source": "Wired",
-        "published": "2026-11-06T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Can a Radar-Equipped AC Actually Cut Your Power Bill?",
-        "translated_title": "Can a Radar-Equipped AC Actually Cut Your Power Bill?",
-        "url": "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/",
-        "source": "Wired",
-        "published": "2026-11-06T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Tesla is ‘winding down’ production of the Cybertruck next year",
-        "translated_title": "Tesla is ‘winding down’ production of the Cybertruck next year",
-        "url": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027",
-        "source": "The Verge",
-        "published": "2026-11-06T10:42:52+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Greenlight Family Hub Digital Wall Calendar Black Friday Sale (2026)",
-        "translated_title": "Greenlight Family Hub Digital Wall Calendar Black Friday Sale (2026)",
-        "url": "https://www.wired.com/story/greenlight-hub-black-friday-deal-2026/",
-        "source": "Wired",
-        "published": "2026-11-06T10:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-        "translated_title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-        "url": "https://jhr.pensoft.net/articles.php?id=9096",
-        "source": "Hacker News",
-        "published": "2026-11-06T10:21:15+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-        "translated_title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-        "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-        "source": "MIT Technology Review",
-        "published": "2026-11-06T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-        "translated_title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-        "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-        "source": "Hacker News",
-        "published": "2026-11-06T09:27:12+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Flashcards are \"dead fish\": rethinking spaced repetition around highlights",
-        "translated_title": "Flashcards are \"dead fish\": rethinking spaced repetition around highlights",
-        "url": "https://andymatuschak.org/situated-idea-memory-system/",
-        "source": "Hacker News",
-        "published": "2026-11-06T08:57:58+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-        "translated_title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-        "url": "https://obelisk.club/research/app-store-2026",
-        "source": "Hacker News",
-        "published": "2026-11-06T07:59:19+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-        "translated_title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-        "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
-        "source": "TechCrunch",
-        "published": "2026-11-06T07:18:44+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Cadouri pentru întreaga familie: gadget-uri de sub 100 lei de la Lidl",
-        "translated_title": "Cadouri pentru întreaga familie: gadget-uri de sub 100 lei de la Lidl",
-        "url": "https://www.go4it.ro/oferte-din-magazine/cadouri-pentru-intreaga-familie-gadget-uri-de-sub-100-lei-de-la-lidl-19289118/",
-        "source": "Go4IT",
-        "published": "2026-11-06T11:50:02.657537+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Coreea de Nord anunță testarea unui nou sistem de rachete antiaeriene",
-        "translated_title": "Coreea de Nord anunță testarea unui nou sistem de rachete antiaeriene",
-        "url": "https://www.go4it.ro/tehnologie-militara/coreea-de-nord-anunta-testarea-unui-nou-sistem-de-rachete-antiaeriene-19289099/",
-        "source": "Go4IT",
-        "published": "2026-11-06T11:50:02.657326+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Desktop 95: ceasul care aduce nostalgia Windows 95 la încheietura mâinii",
-        "translated_title": "Desktop 95: ceasul care aduce nostalgia Windows 95 la încheietura mâinii",
-        "url": "https://www.go4it.ro/content/accesorii/desktop-95-ceasul-care-aduce-nostalgia-windows-95-la-incheietura-mainii-19289126/",
-        "source": "Go4IT",
-        "published": "2026-11-06T11:50:02.657141+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Elon Musk, prima țintă a unei grupări clandestine care a pornit o campanie împotriva miliardarilor implicați politic",
-        "translated_title": "Elon Musk, prima țintă a unei grupări clandestine care a pornit o campanie împotriva miliardarilor implicați politic",
-        "url": "https://www.go4it.ro/content/anunturi/elon-musk-prima-tinta-a-unei-grupari-clandestine-care-a-pornit-o-campanie-impotriva-miliardarilor-implicati-politic-19289102/",
-        "source": "Go4IT",
-        "published": "2026-11-06T11:50:02.656959+00:00",
         "summary": null,
         "category": "romanian"
       }
