@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-14",
+    "date_formatted": "14 Noiembrie 2026",
+    "news": [
+      {
+        "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
+        "translated_title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
+        "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
+        "source": "Wired",
+        "published": "2026-11-14T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+        "translated_title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+        "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+        "source": "Wired",
+        "published": "2026-11-14T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)",
+        "translated_title": "My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)",
+        "url": "https://www.wired.com/story/best-pickleball-paddles/",
+        "source": "Wired",
+        "published": "2026-11-14T10:37:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage",
+        "translated_title": "Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage",
+        "url": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/",
+        "source": "Wired",
+        "published": "2026-11-14T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Outage at HR platform Workday locks millions of employees out of their account",
+        "translated_title": "Outage at HR platform Workday locks millions of employees out of their account",
+        "url": "https://www.engadget.com/2316804/workday-outage-locks-millions-employees-out-of-account/",
+        "source": "Engadget",
+        "published": "2026-11-14T08:54:55+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+        "translated_title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+        "url": "https://news.ycombinator.com/item?id=50494696",
+        "source": "Hacker News",
+        "published": "2026-11-14T06:56:42+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Monkey Island: all 13 versions side by side",
+        "translated_title": "Monkey Island: all 13 versions side by side",
+        "url": "https://monkeyisland.pages.dev/",
+        "source": "Hacker News",
+        "published": "2026-11-14T04:23:30+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "translated_title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "source": "Hacker News",
+        "published": "2026-11-14T02:52:59+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Ggml v1.0.0",
+        "translated_title": "Ggml v1.0.0",
+        "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+        "source": "Hacker News",
+        "published": "2026-11-14T02:28:29+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+        "translated_title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+        "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+        "source": "The Verge",
+        "published": "2026-11-14T01:53:04+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Amazon has a plan to index the world’s online shopping data",
+        "translated_title": "Amazon has a plan to index the world’s online shopping data",
+        "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+        "source": "The Verge",
+        "published": "2026-11-13T23:49:11+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Xiaomi 18 Pro ajunge pe piețele globale cu un ecran secundar pe spate. Lansarea oficială are loc pe 17 noiembrie",
+        "translated_title": "Xiaomi 18 Pro ajunge pe piețele globale cu un ecran secundar pe spate. Lansarea oficială are loc pe 17 noiembrie",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/xiaomi-18-pro-ajunge-pe-pietele-globale-cu-un-ecran-secundar-pe-spate-lansarea-oficiala-are-loc-pe-17-noiembrie-19289523/",
+        "source": "Go4IT",
+        "published": "2026-11-14T11:13:41.811545+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Lidl aduce în ofertă două gadgeturi pentru curățenia casei. Aspirator vertical și robot de aspirare Silvercrest, la prețuri reduse",
+        "translated_title": "Lidl aduce în ofertă două gadgeturi pentru curățenia casei. Aspirator vertical și robot de aspirare Silvercrest, la prețuri reduse",
+        "url": "https://www.go4it.ro/diverse/lidl-aduce-in-oferta-doua-gadgeturi-pentru-curatenia-casei-aspirator-vertical-si-robot-de-aspirare-silvercrest-la-preturi-reduse-19289526/",
+        "source": "Go4IT",
+        "published": "2026-11-14T11:13:41.811456+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Cum sunt păcăliți utilizatorii de Mac să își infecteze singuri dispozitivele prin browser. Raport Bitdefender privind amenințările macOS",
+        "translated_title": "Cum sunt păcăliți utilizatorii de Mac să își infecteze singuri dispozitivele prin browser. Raport Bitdefender privind amenințările macOS",
+        "url": "https://www.go4it.ro/securitate-informatica/cum-sunt-pacaliti-utilizatorii-de-mac-sa-isi-infecteze-singuri-dispozitivele-prin-browser-raport-bitdefender-privind-amenintarile-macos-19289511/",
+        "source": "Go4IT",
+        "published": "2026-11-14T11:13:41.811366+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Conferința mondială „e-Parliament” revine la Parlamentul European din Bruxelles după 18 ani",
+        "translated_title": "Conferința mondială „e-Parliament” revine la Parlamentul European din Bruxelles după 18 ani",
+        "url": "https://www.go4it.ro/content/business/conferinta-mondiala-e-parliament-revine-la-parlamentul-european-din-bruxelles-dupa-18-ani-19289514/",
+        "source": "Go4IT",
+        "published": "2026-11-14T11:13:41.811279+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-13",
     "date_formatted": "13 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/stiinta/alternativa-sigura-la-plasticul-toxic-asociata-cu-riscuri-pentru-nou-nascuti-ce-arata-un-studiu-amplu-despre-substanta-dinch-din-ambalaje-19289200/",
         "source": "Go4IT",
         "published": "2026-11-08T11:03:23.314040+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-07",
-    "date_formatted": "7 Noiembrie 2026",
-    "news": [
-      {
-        "title": "The 19 Best Early Black Friday Deals 2026",
-        "translated_title": "The 19 Best Early Black Friday Deals 2026",
-        "url": "https://www.wired.com/story/best-black-friday-deals-11-7-2026/",
-        "source": "Wired",
-        "published": "2026-11-07T10:16:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Upload Your RAM",
-        "translated_title": "Upload Your RAM",
-        "url": "https://uploadyourram.org",
-        "source": "Hacker News",
-        "published": "2026-11-07T10:15:26+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The American Dream Wasn’t Built for Climate Change",
-        "translated_title": "The American Dream Wasn’t Built for Climate Change",
-        "url": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
-        "source": "Wired",
-        "published": "2026-11-07T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Every Mac comes with an (undocumented) family member classifier",
-        "translated_title": "Every Mac comes with an (undocumented) family member classifier",
-        "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-        "source": "Hacker News",
-        "published": "2026-11-07T09:46:03+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Port 0: The Port That Does Not Exist",
-        "translated_title": "Port 0: The Port That Does Not Exist",
-        "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-        "source": "Hacker News",
-        "published": "2026-11-07T09:38:26+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Components of Agent Memory",
-        "translated_title": "The Components of Agent Memory",
-        "url": "https://www.anthropic.com/research/components-of-agent-memory",
-        "source": "Hacker News",
-        "published": "2026-11-07T06:39:04+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Sequoia shutting down its Scouts program marks the end of an era",
-        "translated_title": "Sequoia shutting down its Scouts program marks the end of an era",
-        "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-        "source": "TechCrunch",
-        "published": "2026-11-07T05:01:54+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-        "translated_title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-        "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-        "source": "TechCrunch",
-        "published": "2026-11-07T04:16:43+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Crusoe sells troubled Wyoming data center project to Google",
-        "translated_title": "Crusoe sells troubled Wyoming data center project to Google",
-        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-        "source": "TechCrunch",
-        "published": "2026-11-07T01:40:28+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-        "translated_title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-        "source": "The Verge",
-        "published": "2026-11-06T23:46:18+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-        "translated_title": "China reportedly recruited AI exec to spy on Jensen Huang",
-        "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-        "source": "The Verge",
-        "published": "2026-11-06T23:00:44+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "UE investește 525 de milioane de euro în designul de cipuri: A fost lansată platforma europeană EuroCDP",
-        "translated_title": "UE investește 525 de milioane de euro în designul de cipuri: A fost lansată platforma europeană EuroCDP",
-        "url": "https://www.go4it.ro/content/business/ue-investeste-525-de-milioane-de-euro-in-designul-de-cipuri-a-fost-lansata-platforma-europeana-eurocdp-19289155/",
-        "source": "Go4IT",
-        "published": "2026-11-07T10:53:18.708093+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Un sistem antidronă american adus în România nu este eficient: „Cu sistemul MEROPS nu am reușit să doborâm dronele”",
-        "translated_title": "Un sistem antidronă american adus în România nu este eficient: „Cu sistemul MEROPS nu am reușit să doborâm dronele”",
-        "url": "https://www.go4it.ro/tehnologie-militara/un-sistem-antidrona-american-adus-in-romania-nu-este-eficient-cu-sistemul-merops-nu-am-reusit-sa-doboram-dronele-19289176/",
-        "source": "Go4IT",
-        "published": "2026-11-07T10:53:18.707991+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "UE acuză oficial TikTok de efectele nocive ale „găurii de iepure” algoritmice. Compania riscă amenzi de până la 6% din cifra de afaceri anuală globală",
-        "translated_title": "UE acuză oficial TikTok de efectele nocive ale „găurii de iepure” algoritmice. Compania riscă amenzi de până la 6% din cifra de afaceri anuală globală",
-        "url": "https://www.go4it.ro/content/social-media/ue-acuza-oficial-tiktok-de-efectele-nocive-ale-gaurii-de-iepure-algoritmice-compania-risca-amenzi-de-pana-la-6-din-cifra-de-afaceri-anuala-globala-19289178/",
-        "source": "Go4IT",
-        "published": "2026-11-07T10:53:18.707887+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Alertă de securitate cibernetică: Dispozitivele NAS Synology, atacate de hackeri. Cum vă puteți proteja datele",
-        "translated_title": "Alertă de securitate cibernetică: Dispozitivele NAS Synology, atacate de hackeri. Cum vă puteți proteja datele",
-        "url": "https://www.go4it.ro/securitate-informatica/alerta-de-securitate-cibernetica-dispozitivele-nas-synology-atacate-de-hackeri-cum-va-puteti-proteja-datele-19289170/",
-        "source": "Go4IT",
-        "published": "2026-11-07T10:53:18.707675+00:00",
         "summary": null,
         "category": "romanian"
       }
