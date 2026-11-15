@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-15",
+    "date_formatted": "15 Noiembrie 2026",
+    "news": [
+      {
+        "title": "Evercade Nexus Review: The Best Retro Handheld Yet",
+        "translated_title": "Evercade Nexus Review: The Best Retro Handheld Yet",
+        "url": "https://www.wired.com/review/evercade-nexus/",
+        "source": "Wired",
+        "published": "2026-11-15T11:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
+        "translated_title": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
+        "url": "https://www.wired.com/review/logitech-yeti-2/",
+        "source": "Wired",
+        "published": "2026-11-15T11:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+        "translated_title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+        "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+        "source": "Wired",
+        "published": "2026-11-15T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "It’s Getting Too Dry for Even Cactuses to Survive",
+        "translated_title": "It’s Getting Too Dry for Even Cactuses to Survive",
+        "url": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
+        "source": "Wired",
+        "published": "2026-11-15T10:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Why did some Apollo missions carry a grenade launcher?",
+        "translated_title": "Why did some Apollo missions carry a grenade launcher?",
+        "url": "https://space.stackexchange.com/questions/37775",
+        "source": "Hacker News",
+        "published": "2026-11-15T09:06:43+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Book list for streetfighting computer scientists",
+        "translated_title": "Book list for streetfighting computer scientists",
+        "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+        "source": "Hacker News",
+        "published": "2026-11-15T07:08:50+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Disk encryption on NetBSD – achieving secrecy",
+        "translated_title": "Disk encryption on NetBSD – achieving secrecy",
+        "url": "https://netbsd.org/~nia/disk-encrypt/",
+        "source": "Hacker News",
+        "published": "2026-11-15T05:29:54+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Kiri – The Modern Container Runtime",
+        "translated_title": "Kiri – The Modern Container Runtime",
+        "url": "https://runkiri.com/",
+        "source": "Hacker News",
+        "published": "2026-11-15T04:40:41+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
+        "translated_title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
+        "url": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
+        "source": "Engadget",
+        "published": "2026-11-15T01:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "This Sony patent would add a credit card reader to your PlayStation controller",
+        "translated_title": "This Sony patent would add a credit card reader to your PlayStation controller",
+        "url": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
+        "source": "Engadget",
+        "published": "2026-11-15T00:45:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+        "translated_title": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+        "url": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
+        "source": "Engadget",
+        "published": "2026-11-15T00:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Conferința mondială „e-Parliament” revine la Parlamentul European din Bruxelles după 18 ani",
+        "translated_title": "Conferința mondială „e-Parliament” revine la Parlamentul European din Bruxelles după 18 ani",
+        "url": "https://www.go4it.ro/content/business/conferinta-mondiala-e-parliament-revine-la-parlamentul-european-din-bruxelles-dupa-18-ani-19289514/",
+        "source": "Go4IT",
+        "published": "2026-11-15T11:45:52.952280+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "VIDEO: iPhone Duo a supraviețuit unui număr de 450.000 de plieri într-un experiment transmis online",
+        "translated_title": "VIDEO: iPhone Duo a supraviețuit unui număr de 450.000 de plieri într-un experiment transmis online",
+        "url": "https://www.go4it.ro/content/telefoane-mobile/video-iphone-duo-a-supravietuit-unui-numar-de-450-000-de-plieri-intr-un-experiment-transmis-online-19289552/",
+        "source": "Go4IT",
+        "published": "2026-11-15T11:45:52.952157+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Kaufland oferă un televizor Samsung UHD cu diagonala de 50 de inci la preț de Black Friday",
+        "translated_title": "Kaufland oferă un televizor Samsung UHD cu diagonala de 50 de inci la preț de Black Friday",
+        "url": "https://www.go4it.ro/content/televizoare/kaufland-ofera-un-televizor-samsung-uhd-cu-diagonala-de-50-de-inci-la-pret-de-black-friday-19289532/",
+        "source": "Go4IT",
+        "published": "2026-11-15T11:45:52.952046+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Nostalgia analogică revine la încheietură: un nou ceas automatic inspirat de casetele audio",
+        "translated_title": "Nostalgia analogică revine la încheietură: un nou ceas automatic inspirat de casetele audio",
+        "url": "https://www.go4it.ro/content/accesorii/nostalgia-analogica-revine-la-incheietura-un-nou-ceas-automatic-inspirat-de-casetele-audio-19289536/",
+        "source": "Go4IT",
+        "published": "2026-11-15T11:45:52.951937+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-14",
     "date_formatted": "14 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/jocuri/cat-va-ocupa-gta-vi-pe-console-cand-incepe-descarcarea-in-romania-19289233/",
         "source": "Go4IT",
         "published": "2026-11-09T12:33:12.219606+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-08",
-    "date_formatted": "8 Noiembrie 2026",
-    "news": [
-      {
-        "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
-        "translated_title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
-        "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
-        "source": "Wired",
-        "published": "2026-11-08T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
-        "translated_title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
-        "url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
-        "source": "Wired",
-        "published": "2026-11-08T10:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
-        "translated_title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
-        "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
-        "source": "Wired",
-        "published": "2026-11-08T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
-        "translated_title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
-        "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-        "source": "Wired",
-        "published": "2026-11-08T10:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "GitHub Down Again?",
-        "translated_title": "GitHub Down Again?",
-        "url": "https://github.com/torvalds/linux",
-        "source": "Hacker News",
-        "published": "2026-11-08T09:56:07+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone",
-        "translated_title": "I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone",
-        "url": "https://github.com/kobaltgit/StatCraft",
-        "source": "Hacker News",
-        "published": "2026-11-08T08:53:43+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Agent memory needs its OpenTelemetry moment",
-        "translated_title": "Agent memory needs its OpenTelemetry moment",
-        "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-        "source": "Hacker News",
-        "published": "2026-11-08T08:40:23+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "WaveDudeNext 2D Wave Simulator",
-        "translated_title": "WaveDudeNext 2D Wave Simulator",
-        "url": "https://github.com/graealex/WaveDudeNext",
-        "source": "Hacker News",
-        "published": "2026-11-08T07:09:02+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Syncing Apple Music across your devices is easier than you think",
-        "translated_title": "Syncing Apple Music across your devices is easier than you think",
-        "url": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
-        "source": "Engadget",
-        "published": "2026-11-08T01:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program",
-        "translated_title": "Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program",
-        "url": "https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/",
-        "source": "Engadget",
-        "published": "2026-11-08T01:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "How do spam callers get your number in the first place?",
-        "translated_title": "How do spam callers get your number in the first place?",
-        "url": "https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/",
-        "source": "Engadget",
-        "published": "2026-11-08T00:45:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Arme noi pentru militarii români: România accelerează deschiderea unei fabrici de armament Sig Sauer (surse)",
-        "translated_title": "Arme noi pentru militarii români: România accelerează deschiderea unei fabrici de armament Sig Sauer (surse)",
-        "url": "https://www.go4it.ro/tehnologie-militara/arme-noi-pentru-militarii-romani-romania-accelereaza-deschiderea-unei-fabrici-de-armament-sig-sauer-surse-19289190/",
-        "source": "Go4IT",
-        "published": "2026-11-08T11:03:23.314315+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Serica lansează 8315-3 „Golden Green”: GMT-ul francez inspirat de chitarele vintage Fender s-a epuizat instant",
-        "translated_title": "Serica lansează 8315-3 „Golden Green”: GMT-ul francez inspirat de chitarele vintage Fender s-a epuizat instant",
-        "url": "https://www.go4it.ro/content/accesorii/serica-lanseaza-8315-3-golden-green-gmt-ul-francez-inspirat-de-chitarele-vintage-fender-s-a-epuizat-instant-19289193/",
-        "source": "Go4IT",
-        "published": "2026-11-08T11:03:23.314226+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Cristina Cristina, DNSC: „Ne uităm la tranziția către criptografia post-cuantică nu ca la o prioritate, ci ca la o urgență”",
-        "translated_title": "Cristina Cristina, DNSC: „Ne uităm la tranziția către criptografia post-cuantică nu ca la o prioritate, ci ca la o urgență”",
-        "url": "https://www.go4it.ro/securitate-informatica/cristina-cristina-dnsc-ne-uitam-la-tranzitia-catre-criptografia-post-cuantica-nu-ca-la-o-prioritate-ci-ca-la-o-urgenta-19289160/",
-        "source": "Go4IT",
-        "published": "2026-11-08T11:03:23.314132+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Alternativa „sigură” la plasticul toxic, asociată cu riscuri pentru nou-născuți: Ce arată un studiu amplu despre substanța DINCH din ambalaje",
-        "translated_title": "Alternativa „sigură” la plasticul toxic, asociată cu riscuri pentru nou-născuți: Ce arată un studiu amplu despre substanța DINCH din ambalaje",
-        "url": "https://www.go4it.ro/content/stiinta/alternativa-sigura-la-plasticul-toxic-asociata-cu-riscuri-pentru-nou-nascuti-ce-arata-un-studiu-amplu-despre-substanta-dinch-din-ambalaje-19289200/",
-        "source": "Go4IT",
-        "published": "2026-11-08T11:03:23.314040+00:00",
         "summary": null,
         "category": "romanian"
       }
