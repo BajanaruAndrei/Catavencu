@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-17",
+    "date_formatted": "17 Noiembrie 2026",
+    "news": [
+      {
+        "title": "Neurable One review: The brain-scanning headphones that helped me stay focused",
+        "translated_title": "Neurable One review: The brain-scanning headphones that helped me stay focused",
+        "url": "https://www.engadget.com/2317916/neurable-one-review-brain-scanning-headphones-eeg/",
+        "source": "Engadget",
+        "published": "2026-11-17T12:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Capillus HairBand Review: Good Looks, Awkward Fit",
+        "translated_title": "Capillus HairBand Review: Good Looks, Awkward Fit",
+        "url": "https://www.wired.com/review/capillus-hairband/",
+        "source": "Wired",
+        "published": "2026-11-17T12:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+        "translated_title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+        "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+        "source": "Hacker News",
+        "published": "2026-11-17T11:45:51+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+        "translated_title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+        "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+        "source": "Wired",
+        "published": "2026-11-17T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+        "translated_title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+        "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+        "source": "Wired",
+        "published": "2026-11-17T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Dark Side of the Moon Was the Brightest Part of 2026",
+        "translated_title": "The Dark Side of the Moon Was the Brightest Part of 2026",
+        "url": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/",
+        "source": "Wired",
+        "published": "2026-11-17T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How the Claude Code team thinks about verification",
+        "translated_title": "How the Claude Code team thinks about verification",
+        "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+        "source": "Hacker News",
+        "published": "2026-11-17T10:20:40+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Adam Mosseri thinks it will be 'pretty challenging' to design Instagram for the iPhone Duo",
+        "translated_title": "Adam Mosseri thinks it will be 'pretty challenging' to design Instagram for the iPhone Duo",
+        "url": "https://www.engadget.com/2318832/adam-mosseri-pretty-challenging-design-instagram-iphone-duo/",
+        "source": "Engadget",
+        "published": "2026-11-17T09:09:40+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+        "translated_title": "If an App Asks for Full Disk Access or System and App Protection Override",
+        "url": "https://support.apple.com/en-us/149699",
+        "source": "Hacker News",
+        "published": "2026-11-17T02:17:04+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Buying a used phone? Make sure to check the IMEI first",
+        "translated_title": "Buying a used phone? Make sure to check the IMEI first",
+        "url": "https://www.engadget.com/2315183/buying-used-phone-check-imei-first/",
+        "source": "Engadget",
+        "published": "2026-11-17T01:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Meta is testing Direct, a standalone messaging app for Instagram",
+        "translated_title": "Meta is testing Direct, a standalone messaging app for Instagram",
+        "url": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/",
+        "source": "Engadget",
+        "published": "2026-11-17T01:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "După mai multe amânări, primele sisteme de drone Watchkeeper XR asamblate în România de israelienii de la Elbit intră în dotarea Armatei",
+        "translated_title": "După mai multe amânări, primele sisteme de drone Watchkeeper XR asamblate în România de israelienii de la Elbit intră în dotarea Armatei",
+        "url": "https://www.go4it.ro/tehnologie-militara/dupa-mai-multe-amanari-primele-sisteme-de-drone-watchkeeper-xr-asamblate-in-romania-de-israelienii-de-la-elbit-intra-in-dotarea-armatei-19289629/",
+        "source": "Go4IT",
+        "published": "2026-11-17T12:47:30.219053+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Un bărbat din Rusia a făcut vodcă cu ajutorul inteligenței artificiale. Modelul ales a fost Claude de la Anthropic",
+        "translated_title": "Un bărbat din Rusia a făcut vodcă cu ajutorul inteligenței artificiale. Modelul ales a fost Claude de la Anthropic",
+        "url": "https://www.go4it.ro/content/inteligenta-artificiala/un-barbat-din-rusia-a-facut-vodca-cu-ajutorul-inteligentei-artificiale-modelul-ales-a-fost-claude-de-la-anthropic-19289626/",
+        "source": "Go4IT",
+        "published": "2026-11-17T12:47:30.218953+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Ofertă Dedeman: aspirator Karcher WD 1 Classic, mai ieftin ca la Altex sau Emag",
+        "translated_title": "Ofertă Dedeman: aspirator Karcher WD 1 Classic, mai ieftin ca la Altex sau Emag",
+        "url": "https://www.go4it.ro/oferte-din-magazine/oferta-dedeman-aspirator-karcher-wd-1-classic-mai-ieftin-ca-la-altex-sau-emag-19289638/",
+        "source": "Go4IT",
+        "published": "2026-11-17T12:47:30.218845+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "România obține al nouălea mandat în Consiliul Uniunii Internaționale a Telecomunicațiilor, la Doha",
+        "translated_title": "România obține al nouălea mandat în Consiliul Uniunii Internaționale a Telecomunicațiilor, la Doha",
+        "url": "https://www.go4it.ro/content/telecomunicatii/romania-obtine-al-noualea-mandat-in-consiliul-uniunii-internationale-a-telecomunicatiilor-la-doha-19289632/",
+        "source": "Go4IT",
+        "published": "2026-11-17T12:47:30.218728+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-16",
     "date_formatted": "16 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/curiozitati/roman-acuzat-in-islanda-de-implicare-intr-o-operatiune-de-extragere-a-106-kilograme-de-cocaina-din-mare-el-este-carausul-tehnologiei-necesare-19289371/",
         "source": "Go4IT",
         "published": "2026-11-11T11:41:25.891630+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-10",
-    "date_formatted": "10 Noiembrie 2026",
-    "news": [
-      {
-        "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
-        "translated_title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
-        "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
-        "source": "Wired",
-        "published": "2026-11-10T12:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Garmin users can now share their cycling location through Waze for extra safety",
-        "translated_title": "Garmin users can now share their cycling location through Waze for extra safety",
-        "url": "https://www.engadget.com/2311124/garmin-users-can-now-share-their-cycling-location-through-waze-for-extra-safety/",
-        "source": "Engadget",
-        "published": "2026-11-10T12:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Louis Rossmann Wants More People to Care About the Right to Repair",
-        "translated_title": "Louis Rossmann Wants More People to Care About the Right to Repair",
-        "url": "https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/",
-        "source": "Wired",
-        "published": "2026-11-10T11:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
-        "translated_title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
-        "url": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
-        "source": "Wired",
-        "published": "2026-11-10T11:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
-        "translated_title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
-        "url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
-        "source": "The Verge",
-        "published": "2026-11-10T11:01:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
-        "translated_title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
-        "url": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
-        "source": "The Verge",
-        "published": "2026-11-10T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-        "translated_title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-        "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
-        "source": "Wired",
-        "published": "2026-11-10T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "What Constant Surveillance Is Doing to Children",
-        "translated_title": "What Constant Surveillance Is Doing to Children",
-        "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
-        "source": "Hacker News",
-        "published": "2026-11-10T10:47:18+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "'C:\\> FORMAT C:' – relax, it's just a screen saver",
-        "translated_title": "'C:\\> FORMAT C:' – relax, it's just a screen saver",
-        "url": "https://fakedos.com/",
-        "source": "Hacker News",
-        "published": "2026-11-10T10:32:36+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "AI usage generates a fragile codebase",
-        "translated_title": "AI usage generates a fragile codebase",
-        "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-        "source": "Hacker News",
-        "published": "2026-11-10T10:25:58+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "GTA 6 is now available for preload if you have a spare 212GB",
-        "translated_title": "GTA 6 is now available for preload if you have a spare 212GB",
-        "url": "https://www.engadget.com/2311841/gta-6-now-available-for-preload/",
-        "source": "Engadget",
-        "published": "2026-11-10T10:01:45+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Armata cumpără un sistem modern de stocare a datelor: licitație de până la 215 milioane de lei lansată de MApN",
-        "translated_title": "Armata cumpără un sistem modern de stocare a datelor: licitație de până la 215 milioane de lei lansată de MApN",
-        "url": "https://www.go4it.ro/tehnologie-militara/armata-cumpara-un-sistem-modern-de-stocare-a-datelor-licitatie-de-pana-la-215-milioane-de-lei-lansata-de-mapn-19289268/",
-        "source": "Go4IT",
-        "published": "2026-11-10T12:08:18.160471+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Black Friday la Auchan.ro: reducere de 44% la un espressor automat Philips cu 12 trepte de măcinare",
-        "translated_title": "Black Friday la Auchan.ro: reducere de 44% la un espressor automat Philips cu 12 trepte de măcinare",
-        "url": "https://www.go4it.ro/oferte-din-magazine/black-friday-la-auchan-ro-reducere-de-44-la-un-espressor-automat-philips-cu-12-trepte-de-macinare-19289270/",
-        "source": "Go4IT",
-        "published": "2026-11-10T12:08:18.160335+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Victorii pentru Protecția Datelor în instanță: 19 din 22 de sancțiuni GDPR au rămas definitive. Nume grele printre cei amendați",
-        "translated_title": "Victorii pentru Protecția Datelor în instanță: 19 din 22 de sancțiuni GDPR au rămas definitive. Nume grele printre cei amendați",
-        "url": "https://www.go4it.ro/securitate-informatica/victorii-pentru-protectia-datelor-in-instanta-19-din-22-de-sanctiuni-gdpr-au-ramas-definitive-nume-grele-printre-cei-amendati-19289285/",
-        "source": "Go4IT",
-        "published": "2026-11-10T12:08:18.160207+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "UE pregătește interzicerea a zece practici online, printre care reducerile false, abonamentele forțate sau notificările nedorite",
-        "translated_title": "UE pregătește interzicerea a zece practici online, printre care reducerile false, abonamentele forțate sau notificările nedorite",
-        "url": "https://www.go4it.ro/content/internet/ue-pregateste-interzicerea-a-zece-practici-online-printre-care-reducerile-false-abonamentele-fortate-sau-notificarile-nedorite-19289278/",
-        "source": "Go4IT",
-        "published": "2026-11-10T12:08:18.160096+00:00",
         "summary": null,
         "category": "romanian"
       }
