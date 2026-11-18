@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-18",
+    "date_formatted": "18 Noiembrie 2026",
+    "news": [
+      {
+        "title": "NASA’s Voyager 1 probe is now one light-day away",
+        "translated_title": "NASA’s Voyager 1 probe is now one light-day away",
+        "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
+        "source": "The Verge",
+        "published": "2026-11-18T12:03:36+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+        "translated_title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+        "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+        "source": "TechCrunch",
+        "published": "2026-11-18T12:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
+        "translated_title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
+        "url": "https://www.wired.com/story/best-gifts-under-25-2026/",
+        "source": "Wired",
+        "published": "2026-11-18T12:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "I had AI read my entire field, Theoretical Astrophysics",
+        "translated_title": "I had AI read my entire field, Theoretical Astrophysics",
+        "url": "https://science.caseyhandmer.com/physics/",
+        "source": "Hacker News",
+        "published": "2026-11-18T11:45:02+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed",
+        "translated_title": "Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed",
+        "url": "https://www.wired.com/review/nubia-redmagic-12-pro/",
+        "source": "Wired",
+        "published": "2026-11-18T11:45:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+        "translated_title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+        "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+        "source": "TechCrunch",
+        "published": "2026-11-18T11:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "I Will Never Stop Playing ‘Grand Theft Auto’",
+        "translated_title": "I Will Never Stop Playing ‘Grand Theft Auto’",
+        "url": "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/",
+        "source": "Wired",
+        "published": "2026-11-18T11:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Early Black Friday Deals Under $100 (2026)",
+        "translated_title": "Early Black Friday Deals Under $100 (2026)",
+        "url": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-18-2026/",
+        "source": "Wired",
+        "published": "2026-11-18T11:19:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Suno now lets you make AI videos for your AI music",
+        "translated_title": "Suno now lets you make AI videos for your AI music",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+        "source": "The Verge",
+        "published": "2026-11-18T11:16:53+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Grand Theft Auto VI has arrived",
+        "translated_title": "Grand Theft Auto VI has arrived",
+        "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+        "source": "The Verge",
+        "published": "2026-11-18T11:06:16+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
+        "translated_title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
+        "url": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview",
+        "source": "The Verge",
+        "published": "2026-11-18T11:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "O companie românească de software investește peste 5 milioane de euro într-o fabrică de baterii inteligente din Maramureș",
+        "translated_title": "O companie românească de software investește peste 5 milioane de euro într-o fabrică de baterii inteligente din Maramureș",
+        "url": "https://www.go4it.ro/energie-regenerabila/o-companie-romaneasca-de-software-investeste-peste-5-milioane-de-euro-intr-o-fabrica-de-baterii-inteligente-din-maramures-19289690/",
+        "source": "Go4IT",
+        "published": "2026-11-18T12:40:53.764698+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Licitație de 1,68 milioane de lei la Poșta Română pentru servicii cloud necesare pentru modernizarea aplicațiilor informatice",
+        "translated_title": "Licitație de 1,68 milioane de lei la Poșta Română pentru servicii cloud necesare pentru modernizarea aplicațiilor informatice",
+        "url": "https://www.go4it.ro/content/business/licitatie-de-168-milioane-de-lei-la-posta-romana-pentru-servicii-cloud-necesare-pentru-modernizarea-aplicatiilor-informatice-19289685/",
+        "source": "Go4IT",
+        "published": "2026-11-18T12:40:53.764612+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Ceasuri mecanice sau cuarț: 8 mituri false din industrie",
+        "translated_title": "Ceasuri mecanice sau cuarț: 8 mituri false din industrie",
+        "url": "https://www.go4it.ro/content/accesorii/ceasuri-mecanice-sau-cuart-8-mituri-false-din-industrie-19289687/",
+        "source": "Go4IT",
+        "published": "2026-11-18T12:40:53.764526+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Dedeman: Cameră de supraveghere inteligentă, cu alimentare solară, la sub 200 de lei",
+        "translated_title": "Dedeman: Cameră de supraveghere inteligentă, cu alimentare solară, la sub 200 de lei",
+        "url": "https://www.go4it.ro/oferte-din-magazine/dedeman-camera-de-supraveghere-inteligenta-cu-alimentare-solara-la-sub-200-de-lei-19289733/",
+        "source": "Go4IT",
+        "published": "2026-11-18T12:40:53.764430+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-17",
     "date_formatted": "17 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/oferte-din-magazine/kaufland-ofera-trei-scule-parkside-la-preturi-de-sub-100-lei-19289408/",
         "source": "Go4IT",
         "published": "2026-11-12T12:13:04.269829+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-11",
-    "date_formatted": "11 Noiembrie 2026",
-    "news": [
-      {
-        "title": "Best OLED TVs of 2026: LG, Samsung, Sony, and More",
-        "translated_title": "Best OLED TVs of 2026: LG, Samsung, Sony, and More",
-        "url": "https://www.wired.com/story/best-oled-tv/",
-        "source": "Wired",
-        "published": "2026-11-11T11:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
-        "translated_title": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
-        "url": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
-        "source": "Wired",
-        "published": "2026-11-11T11:15:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Best Air Purifiers (2026): Tested Picks for Every Room",
-        "translated_title": "Best Air Purifiers (2026): Tested Picks for Every Room",
-        "url": "https://www.wired.com/gallery/best-air-purifiers/",
-        "source": "Wired",
-        "published": "2026-11-11T11:02:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
-        "translated_title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
-        "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
-        "source": "Wired",
-        "published": "2026-11-11T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Apple is shutting down its online Support Community on November 20",
-        "translated_title": "Apple is shutting down its online Support Community on November 20",
-        "url": "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/",
-        "source": "Engadget",
-        "published": "2026-11-11T10:52:59+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Lucid CEO says the company didn't know where its own cars were",
-        "translated_title": "Lucid CEO says the company didn't know where its own cars were",
-        "url": "https://www.engadget.com/2313113/lucid-q3-2026-losing-cars/",
-        "source": "Engadget",
-        "published": "2026-11-11T09:56:03+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-        "translated_title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-        "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-        "source": "TechCrunch",
-        "published": "2026-11-11T07:30:51+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Samsung Gallery now syncs with Google to back up your photos",
-        "translated_title": "Samsung Gallery now syncs with Google to back up your photos",
-        "url": "https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/",
-        "source": "Engadget",
-        "published": "2026-11-11T06:47:17+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-        "translated_title": "Greg Kurtzer's Ginux is now a userspace kernel",
-        "url": "https://github.com/gmkurtzer/ginux",
-        "source": "Hacker News",
-        "published": "2026-11-11T05:25:54+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-        "translated_title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-        "url": "https://github.com/adrbn/bo2-mac",
-        "source": "Hacker News",
-        "published": "2026-11-11T04:56:47+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Protecting SSH Keys with macOS Secure Enclave",
-        "translated_title": "Protecting SSH Keys with macOS Secure Enclave",
-        "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-        "source": "Hacker News",
-        "published": "2026-11-11T04:28:57+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Parlamentul European vizează restructurarea Fondului European pentru Competitivitate, de peste 230 mld. euro: accent pe tehnologie, apărare și securitate energetică",
-        "translated_title": "Parlamentul European vizează restructurarea Fondului European pentru Competitivitate, de peste 230 mld. euro: accent pe tehnologie, apărare și securitate energetică",
-        "url": "https://www.go4it.ro/content/business/parlamentul-european-vizeaza-restructurarea-fondului-european-pentru-competitivitate-de-peste-230-mld-euro-pentru-ciclul-2028-2034-accent-strategic-pe-tehnologie-aparare-si-securitate-energetica-19289342/",
-        "source": "Go4IT",
-        "published": "2026-11-11T11:41:25.892229+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Pajiștile din Cluj și Bistrița-Năsăud, monitorizate cu sateliți într-un proiect european de 8 milioane de euro",
-        "translated_title": "Pajiștile din Cluj și Bistrița-Năsăud, monitorizate cu sateliți într-un proiect european de 8 milioane de euro",
-        "url": "https://www.go4it.ro/content/anunturi/pajistile-din-cluj-si-bistrita-nasaud-monitorizate-cu-sateliti-intr-un-proiect-european-de-8-milioane-de-euro-19289338/",
-        "source": "Go4IT",
-        "published": "2026-11-11T11:41:25.892048+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Un senator republican cere plecarea lui Jensen Huang de la conducerea NVIDIA, invocând riscuri de securitate",
-        "translated_title": "Un senator republican cere plecarea lui Jensen Huang de la conducerea NVIDIA, invocând riscuri de securitate",
-        "url": "https://www.go4it.ro/securitate-informatica/un-senator-republican-cere-plecarea-lui-jensen-huang-de-la-conducerea-nvidia-invocand-riscuri-de-securitate-19289341/",
-        "source": "Go4IT",
-        "published": "2026-11-11T11:41:25.891860+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Român acuzat în Islanda de implicare într-o operațiune de extragere a 106 kilograme de cocaină din mare. El este „cărăușul” tehnologiei necesare",
-        "translated_title": "Român acuzat în Islanda de implicare într-o operațiune de extragere a 106 kilograme de cocaină din mare. El este „cărăușul” tehnologiei necesare",
-        "url": "https://www.go4it.ro/content/curiozitati/roman-acuzat-in-islanda-de-implicare-intr-o-operatiune-de-extragere-a-106-kilograme-de-cocaina-din-mare-el-este-carausul-tehnologiei-necesare-19289371/",
-        "source": "Go4IT",
-        "published": "2026-11-11T11:41:25.891630+00:00",
         "summary": null,
         "category": "romanian"
       }
