@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-25",
+    "date_formatted": "25 Noiembrie 2026",
+    "news": [
+      {
+        "title": "Tapo’s new indoor security camera includes a touchscreen for video calls",
+        "translated_title": "Tapo’s new indoor security camera includes a touchscreen for video calls",
+        "url": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
+        "source": "The Verge",
+        "published": "2026-11-25T13:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The Download: AI swamping open records, and firefighting for permafrost",
+        "translated_title": "The Download: AI swamping open records, and firefighting for permafrost",
+        "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+        "source": "MIT Technology Review",
+        "published": "2026-11-25T13:10:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+        "translated_title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+        "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+        "source": "TechCrunch",
+        "published": "2026-11-25T13:08:19+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Has vibe coding made open source the new normal for synths?",
+        "translated_title": "Has vibe coding made open source the new normal for synths?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+        "source": "The Verge",
+        "published": "2026-11-25T13:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "translated_title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+        "source": "TechCrunch",
+        "published": "2026-11-25T13:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Acer Predator Atlas 8 review: Potent performance at a slightly better price",
+        "translated_title": "Acer Predator Atlas 8 review: Potent performance at a slightly better price",
+        "url": "https://www.engadget.com/2326961/acer-predator-atlas-8-review/",
+        "source": "Engadget",
+        "published": "2026-11-25T13:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "WhatsApp is testing stickers with sound",
+        "translated_title": "WhatsApp is testing stickers with sound",
+        "url": "https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound/",
+        "source": "Engadget",
+        "published": "2026-11-25T12:24:57+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Hazel (YC W24) Is Hiring a Product Designer",
+        "translated_title": "Hazel (YC W24) Is Hiring a Product Designer",
+        "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+        "source": "Hacker News",
+        "published": "2026-11-25T12:00:34+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
+        "translated_title": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
+        "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/",
+        "source": "Wired",
+        "published": "2026-11-25T12:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The 36 Best Gifts for Dads (2026)",
+        "translated_title": "The 36 Best Gifts for Dads (2026)",
+        "url": "https://www.wired.com/story/best-gifts-for-dads-2026/",
+        "source": "Wired",
+        "published": "2026-11-25T11:49:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+        "translated_title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+        "url": "https://github.com/xoxorwr/pw-loudness-eq",
+        "source": "Hacker News",
+        "published": "2026-11-25T11:34:25+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Blindatele KF41 Lynx, comandate de România pentru Armată și producție la Mediaș, au intrat în luptă în Ucraina și doboară drone rusești Shahed",
+        "translated_title": "Blindatele KF41 Lynx, comandate de România pentru Armată și producție la Mediaș, au intrat în luptă în Ucraina și doboară drone rusești Shahed",
+        "url": "https://www.go4it.ro/tehnologie-militara/blindatele-kf41-lynx-comandate-de-romania-pentru-armata-si-productie-la-medias-au-intrat-in-lupta-in-ucraina-si-doboara-drone-rusesti-shahed-19290199/",
+        "source": "Go4IT",
+        "published": "2026-11-25T13:54:14.936095+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Gadget-uri audio sub 100 lei de la Auchan",
+        "translated_title": "Gadget-uri audio sub 100 lei de la Auchan",
+        "url": "https://www.go4it.ro/oferte-din-magazine/gadget-uri-audio-sub-100-lei-de-la-auchan-19290203/",
+        "source": "Go4IT",
+        "published": "2026-11-25T13:54:14.935925+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "RO Wallet va reuni documentele oficiale pe telefon și va integra plăți și asigurări în 2027",
+        "translated_title": "RO Wallet va reuni documentele oficiale pe telefon și va integra plăți și asigurări în 2027",
+        "url": "https://www.go4it.ro/content/aplicatii/ro-wallet-va-reuni-documentele-oficiale-pe-telefon-si-va-integra-plati-si-asigurari-in-2027-19290217/",
+        "source": "Go4IT",
+        "published": "2026-11-25T13:54:14.935750+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Citizen Promaster Land GMT își consolidează profilul de aventură cu o nouă ediție",
+        "translated_title": "Citizen Promaster Land GMT își consolidează profilul de aventură cu o nouă ediție",
+        "url": "https://www.go4it.ro/content/accesorii/citizen-promaster-land-gmt-isi-consolideaza-profilul-de-aventura-cu-o-noua-editie-19290211/",
+        "source": "Go4IT",
+        "published": "2026-11-25T13:54:14.935573+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-24",
     "date_formatted": "24 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/accesorii/seiko-extinde-gama-5kx-gmt-cu-o-editie-limitata-dr-pepper-19289843/",
         "source": "Go4IT",
         "published": "2026-11-19T12:30:46.336075+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-18",
-    "date_formatted": "18 Noiembrie 2026",
-    "news": [
-      {
-        "title": "NASA’s Voyager 1 probe is now one light-day away",
-        "translated_title": "NASA’s Voyager 1 probe is now one light-day away",
-        "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
-        "source": "The Verge",
-        "published": "2026-11-18T12:03:36+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-        "translated_title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-        "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-        "source": "TechCrunch",
-        "published": "2026-11-18T12:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
-        "translated_title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
-        "url": "https://www.wired.com/story/best-gifts-under-25-2026/",
-        "source": "Wired",
-        "published": "2026-11-18T12:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "I had AI read my entire field, Theoretical Astrophysics",
-        "translated_title": "I had AI read my entire field, Theoretical Astrophysics",
-        "url": "https://science.caseyhandmer.com/physics/",
-        "source": "Hacker News",
-        "published": "2026-11-18T11:45:02+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed",
-        "translated_title": "Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed",
-        "url": "https://www.wired.com/review/nubia-redmagic-12-pro/",
-        "source": "Wired",
-        "published": "2026-11-18T11:45:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-        "translated_title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-        "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-        "source": "TechCrunch",
-        "published": "2026-11-18T11:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "I Will Never Stop Playing ‘Grand Theft Auto’",
-        "translated_title": "I Will Never Stop Playing ‘Grand Theft Auto’",
-        "url": "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/",
-        "source": "Wired",
-        "published": "2026-11-18T11:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Early Black Friday Deals Under $100 (2026)",
-        "translated_title": "Early Black Friday Deals Under $100 (2026)",
-        "url": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-18-2026/",
-        "source": "Wired",
-        "published": "2026-11-18T11:19:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Suno now lets you make AI videos for your AI music",
-        "translated_title": "Suno now lets you make AI videos for your AI music",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-        "source": "The Verge",
-        "published": "2026-11-18T11:16:53+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Grand Theft Auto VI has arrived",
-        "translated_title": "Grand Theft Auto VI has arrived",
-        "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
-        "source": "The Verge",
-        "published": "2026-11-18T11:06:16+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
-        "translated_title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
-        "url": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview",
-        "source": "The Verge",
-        "published": "2026-11-18T11:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "O companie românească de software investește peste 5 milioane de euro într-o fabrică de baterii inteligente din Maramureș",
-        "translated_title": "O companie românească de software investește peste 5 milioane de euro într-o fabrică de baterii inteligente din Maramureș",
-        "url": "https://www.go4it.ro/energie-regenerabila/o-companie-romaneasca-de-software-investeste-peste-5-milioane-de-euro-intr-o-fabrica-de-baterii-inteligente-din-maramures-19289690/",
-        "source": "Go4IT",
-        "published": "2026-11-18T12:40:53.764698+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Licitație de 1,68 milioane de lei la Poșta Română pentru servicii cloud necesare pentru modernizarea aplicațiilor informatice",
-        "translated_title": "Licitație de 1,68 milioane de lei la Poșta Română pentru servicii cloud necesare pentru modernizarea aplicațiilor informatice",
-        "url": "https://www.go4it.ro/content/business/licitatie-de-168-milioane-de-lei-la-posta-romana-pentru-servicii-cloud-necesare-pentru-modernizarea-aplicatiilor-informatice-19289685/",
-        "source": "Go4IT",
-        "published": "2026-11-18T12:40:53.764612+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Ceasuri mecanice sau cuarț: 8 mituri false din industrie",
-        "translated_title": "Ceasuri mecanice sau cuarț: 8 mituri false din industrie",
-        "url": "https://www.go4it.ro/content/accesorii/ceasuri-mecanice-sau-cuart-8-mituri-false-din-industrie-19289687/",
-        "source": "Go4IT",
-        "published": "2026-11-18T12:40:53.764526+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Dedeman: Cameră de supraveghere inteligentă, cu alimentare solară, la sub 200 de lei",
-        "translated_title": "Dedeman: Cameră de supraveghere inteligentă, cu alimentare solară, la sub 200 de lei",
-        "url": "https://www.go4it.ro/oferte-din-magazine/dedeman-camera-de-supraveghere-inteligenta-cu-alimentare-solara-la-sub-200-de-lei-19289733/",
-        "source": "Go4IT",
-        "published": "2026-11-18T12:40:53.764430+00:00",
         "summary": null,
         "category": "romanian"
       }
