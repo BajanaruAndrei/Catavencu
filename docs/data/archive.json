@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-28",
+    "date_formatted": "28 Noiembrie 2026",
+    "news": [
+      {
+        "title": "7 Pro Tips to Get More Out of the Google Health App",
+        "translated_title": "7 Pro Tips to Get More Out of the Google Health App",
+        "url": "https://www.wired.com/story/7-pro-tips-to-get-more-out-of-the-google-health-app/",
+        "source": "Wired",
+        "published": "2026-11-28T12:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "translated_title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+        "source": "Hacker News",
+        "published": "2026-11-28T11:57:04+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Farewell",
+        "translated_title": "Farewell",
+        "url": "https://github.com/p-e-w/heretic/issues/601",
+        "source": "Hacker News",
+        "published": "2026-11-28T11:42:26+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Swift Saw the Secrets of Space Before Falling to Earth",
+        "translated_title": "Swift Saw the Secrets of Space Before Falling to Earth",
+        "url": "https://www.wired.com/story/swift-saw-the-secrets-of-space-before-falling-to-earth/",
+        "source": "Wired",
+        "published": "2026-11-28T11:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Dark Matter Might Have Its Own Periodic Table of Invisible Particles",
+        "translated_title": "Dark Matter Might Have Its Own Periodic Table of Invisible Particles",
+        "url": "https://www.wired.com/story/dark-matter-might-have-its-own-periodic-table-of-invisible-particles/",
+        "source": "Wired",
+        "published": "2026-11-28T10:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Diablo II",
+        "translated_title": "Diablo II",
+        "url": "https://www.filfre.net/2026/11/diablo-ii/",
+        "source": "Hacker News",
+        "published": "2026-11-28T09:54:19+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+        "translated_title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+        "url": "https://fleetlayer.ai/",
+        "source": "Hacker News",
+        "published": "2026-11-28T08:37:09+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Walmart Promo Codes: 20% Off for November 2026",
+        "translated_title": "Walmart Promo Codes: 20% Off for November 2026",
+        "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+        "source": "Wired",
+        "published": "2026-11-28T06:00:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+        "translated_title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+        "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+        "source": "The Verge",
+        "published": "2026-11-28T03:30:00+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "The absolute best Black Friday deals you can still get",
+        "translated_title": "The absolute best Black Friday deals you can still get",
+        "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+        "source": "The Verge",
+        "published": "2026-11-28T03:28:32+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+        "translated_title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+        "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+        "source": "The Verge",
+        "published": "2026-11-28T00:02:49+00:00",
+        "summary": null,
+        "category": "international"
+      },
+      {
+        "title": "Detaliile mici fac petrecerea mare (P)",
+        "translated_title": "Detaliile mici fac petrecerea mare (P)",
+        "url": "https://www.go4it.ro/content/advertorial/detaliile-mici-fac-petrecerea-mare-p-19290391/",
+        "source": "Go4IT",
+        "published": "2026-11-28T12:43:17.969419+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Incident cibernetic în Marea Britanie: Sistemele de pensii și beneficii sociale, scoase din funcțiune",
+        "translated_title": "Incident cibernetic în Marea Britanie: Sistemele de pensii și beneficii sociale, scoase din funcțiune",
+        "url": "https://www.go4it.ro/securitate-informatica/incident-cibernetic-in-marea-britanie-sistemele-de-pensii-si-beneficii-sociale-scoase-din-functiune-19290394/",
+        "source": "Go4IT",
+        "published": "2026-11-28T12:43:17.969236+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Un ceas de scufundare Longines din al Doilea Război Mondial, folosit de „călăreții” de torpile din Marina Regală Britanică, va fi scos la licitație la Londra. Valoarea estimată",
+        "translated_title": "Un ceas de scufundare Longines din al Doilea Război Mondial, folosit de „călăreții” de torpile din Marina Regală Britanică, va fi scos la licitație la Londra. Valoarea estimată",
+        "url": "https://www.go4it.ro/content/accesorii/un-ceas-de-scufundare-longines-din-al-doilea-razboi-mondial-folosit-de-calaretii-de-torpile-din-marina-regala-britanica-va-fi-scos-la-licitatie-la-londra-valoarea-estimata-19290378/",
+        "source": "Go4IT",
+        "published": "2026-11-28T12:43:17.969039+00:00",
+        "summary": null,
+        "category": "romanian"
+      },
+      {
+        "title": "Coreea de Nord își suspendă livrările de tehnică militară către Rusia. Ce l-a nemulțumit pe dictatorul din Phenian",
+        "translated_title": "Coreea de Nord își suspendă livrările de tehnică militară către Rusia. Ce l-a nemulțumit pe dictatorul din Phenian",
+        "url": "https://www.go4it.ro/tehnologie-militara/coreea-de-nord-isi-suspenda-livrarile-de-tehnica-militara-catre-rusia-ce-l-a-nemultumit-pe-dictatorul-din-phenian-19290373/",
+        "source": "Go4IT",
+        "published": "2026-11-28T12:43:17.968836+00:00",
+        "summary": null,
+        "category": "romanian"
+      }
+    ]
+  },
+  {
     "date": "2026-11-27",
     "date_formatted": "27 Noiembrie 2026",
     "news": [
@@ -840,147 +981,6 @@
         "url": "https://www.go4it.ro/content/accesorii/google-va-inchide-aplicatia-nest-in-ianuarie-si-va-retrage-asistentul-google-de-pe-difuzoare-in-august-2027-19290011/",
         "source": "Go4IT",
         "published": "2026-11-22T12:17:23.653251+00:00",
-        "summary": null,
-        "category": "romanian"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-21",
-    "date_formatted": "21 Noiembrie 2026",
-    "news": [
-      {
-        "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-        "translated_title": "Best Power Banks (2026): My Picks After Testing Over 100",
-        "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-        "source": "Wired",
-        "published": "2026-11-21T12:01:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Harbinger is building the unsexy EVs that keep the economy moving",
-        "translated_title": "Harbinger is building the unsexy EVs that keep the economy moving",
-        "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
-        "source": "The Verge",
-        "published": "2026-11-21T12:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
-        "translated_title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
-        "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
-        "source": "Wired",
-        "published": "2026-11-21T12:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
-        "translated_title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
-        "url": "https://www.wired.com/review/sony-bravia-9-ii/",
-        "source": "Wired",
-        "published": "2026-11-21T11:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
-        "translated_title": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
-        "url": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
-        "source": "Wired",
-        "published": "2026-11-21T11:30:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "FBI reportedly investigating apparent hack of its criminal database",
-        "translated_title": "FBI reportedly investigating apparent hack of its criminal database",
-        "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
-        "source": "Hacker News",
-        "published": "2026-11-21T10:33:57+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "RCE in Gnupg",
-        "translated_title": "RCE in Gnupg",
-        "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-        "source": "Hacker News",
-        "published": "2026-11-21T08:32:58+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize",
-        "translated_title": "Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize",
-        "url": "https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize",
-        "source": "Hacker News",
-        "published": "2026-11-21T08:32:34+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Surprisingly Adorable Insect Portraits",
-        "translated_title": "Surprisingly Adorable Insect Portraits",
-        "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-        "source": "Hacker News",
-        "published": "2026-11-21T06:44:14+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Startup sues Apple in India over tap-to-share contacts feature",
-        "translated_title": "Startup sues Apple in India over tap-to-share contacts feature",
-        "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-        "source": "TechCrunch",
-        "published": "2026-11-21T04:00:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "Why you shouldn't depend on GTA 6 to auto-save",
-        "translated_title": "Why you shouldn't depend on GTA 6 to auto-save",
-        "url": "https://www.engadget.com/2323929/why-you-shouldnt-rely-on-gta-6-auto-save/",
-        "source": "Engadget",
-        "published": "2026-11-20T23:48:00+00:00",
-        "summary": null,
-        "category": "international"
-      },
-      {
-        "title": "UE interzice exportul deșeurilor de plastic în afara țărilor OCDE din 21 noiembrie 2026",
-        "translated_title": "UE interzice exportul deșeurilor de plastic în afara țărilor OCDE din 21 noiembrie 2026",
-        "url": "https://www.go4it.ro/content/business/ue-interzice-exportul-deseurilor-de-plastic-in-afara-tarilor-ocde-din-21-noiembrie-2026-19289989/",
-        "source": "Go4IT",
-        "published": "2026-11-21T12:07:58.849501+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Premieră istorică pentru NASA: Sonda Voyager 1 a ajuns la o zi-lumină distanță de Pământ",
-        "translated_title": "Premieră istorică pentru NASA: Sonda Voyager 1 a ajuns la o zi-lumină distanță de Pământ",
-        "url": "https://www.go4it.ro/content/stiinta/premiera-istorica-pentru-nasa-sonda-voyager-1-a-ajuns-la-o-zi-lumina-distanta-de-pamant-19290005/",
-        "source": "Go4IT",
-        "published": "2026-11-21T12:07:58.849133+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Negocierile ONU privind „roboții ucigași” se încheie fără un acord concret; experții vor analiza noi reguli până în 2028",
-        "translated_title": "Negocierile ONU privind „roboții ucigași” se încheie fără un acord concret; experții vor analiza noi reguli până în 2028",
-        "url": "https://www.go4it.ro/content/business/negocierile-onu-privind-robotii-ucigasi-se-incheie-fara-un-acord-concret-expertii-vor-analiza-noi-reguli-pana-in-2028-19290008/",
-        "source": "Go4IT",
-        "published": "2026-11-21T12:07:58.848954+00:00",
-        "summary": null,
-        "category": "romanian"
-      },
-      {
-        "title": "Două vulnerabilități critice descoperite în serverul web NGINX pun în pericol milioane de site-uri și aplicații online",
-        "translated_title": "Două vulnerabilități critice descoperite în serverul web NGINX pun în pericol milioane de site-uri și aplicații online",
-        "url": "https://www.go4it.ro/securitate-informatica/doua-vulnerabilitati-critice-descoperite-in-serverul-web-nginx-pun-in-pericol-milioane-de-site-uri-si-aplicatii-online-19290024/",
-        "source": "Go4IT",
-        "published": "2026-11-21T12:07:58.848775+00:00",
         "summary": null,
         "category": "romanian"
       }
